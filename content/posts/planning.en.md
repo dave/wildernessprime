@@ -10,7 +10,7 @@ template = "simple-header"
 block = "two-column-1"
 template = "2-column-text"
 [page_sections.col_1]
-content = "This is some text"
+content = "This is some text..."
 headline = "Heading"
 [page_sections.col_2]
 content = "Here's some more text on the second column"
