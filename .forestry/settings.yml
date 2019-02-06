@@ -15,7 +15,7 @@ sections:
   create: all
   match: "*"
 upload_dir: ''
-public_path: https://res.cloudinary.com/wildernessprime/image/upload/c_scale,w_auto:100,dpr_auto
+public_path: https://res.cloudinary.com/wildernessprime/image/upload/c_scale,w_max:800,dpr_auto
 front_matter_path: https://res.cloudinary.com/wildernessprime/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
