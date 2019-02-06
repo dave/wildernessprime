@@ -1,0 +1,10 @@
+DefaultContentLanguage: en
+baseURL: https://www.wildernessprime.com/
+languageCode: en-us
+title: Wilderness Prime
+theme: ananke
+languages:
+  en:
+    weight: 1
+  fr:
+    weight: 2
