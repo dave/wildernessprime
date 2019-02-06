@@ -37,4 +37,3 @@ build:
   preview_output_directory: public
   output_directory: public
 version: '0.53'
-metaDataFormat: "yaml"
