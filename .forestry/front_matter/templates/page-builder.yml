@@ -33,3 +33,5 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+pages:
+- content/posts/hello.en.md
