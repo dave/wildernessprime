@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.wildernessprime.com/posts/hello/</loc>
+    <lastmod>2019-02-06T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -14,6 +19,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.wildernessprime.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/posts/</loc>
+    <lastmod>2019-02-06T23:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/posts/"
                 />
   </url>
   
@@ -34,6 +55,7 @@
   
   <url>
     <loc>https://www.wildernessprime.com/</loc>
+    <lastmod>2019-02-06T23:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
