@@ -4,20 +4,22 @@ auto_deploy: true
 admin_path: admin
 webhook_url: 
 sections:
-  - type: heading
-    label: English
-  - type: directory
-    path: "content/posts"
-    match: "**/*.en.md"
-    label: Posts
-    new_doc_ext: ".en.md"
-  - type: heading
-    label: Français
-  - type: directory
-    path: "content/posts"
-    match: "**/*.fr.md"
-    label: Posts
-    new_doc_ext: ".fr.md"
+- type: heading
+  label: English
+- type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*.en.md"
+  new_doc_ext: en.md
+- type: heading
+  label: Français
+- type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*.fr.md"
+  new_doc_ext: fr.md
 upload_dir: ''
 public_path: https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto
 front_matter_path: https://res.cloudinary.com/wildernessprime/image/upload
@@ -35,4 +37,3 @@ build:
   preview_output_directory: public
   output_directory: public
 version: '0.53'
-
