@@ -5,5 +5,3 @@ draft: true
 
 ---
 Miles from anywhere... The noise of civilisation fades. Welcome to the wilderness.
-
-![](/media/v1549486862/media/nepal.jpg)
