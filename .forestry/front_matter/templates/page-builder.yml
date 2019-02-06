@@ -35,4 +35,4 @@ fields:
   - 4-column-footer
 pages:
 - content/posts/hello.en.md
-- content/posts/bonjour.fr.md
+- content/posts/hello.fr.md
