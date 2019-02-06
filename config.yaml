@@ -3,6 +3,7 @@ baseURL: https://www.wildernessprime.com/
 languageCode: en-us
 title: Wilderness Prime
 theme: ubuild-hugo
+metaDataFormat: yaml
 languages:
   en:
     weight: 1
