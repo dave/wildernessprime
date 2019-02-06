@@ -34,4 +34,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- content/posts/foo.en.md
 - content/posts/planning.en.md
