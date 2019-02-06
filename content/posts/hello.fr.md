@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Bonjour
-date: ''
+date: 2019-02-06 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
