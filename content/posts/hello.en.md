@@ -7,6 +7,5 @@ page_sections:
   block: one-column-1
   content: Miles from anywhere... The noise of civilisation fades. Welcome to the
     wilderness.
-draft: true
 
 ---

@@ -7,6 +7,5 @@ page_sections:
   block: one-column-1
   content: Des kilomètres de n'importe où ... Le bruit de la civilisation s'estompe.
     Bienvenue dans le désert.
-draft: true
 
 ---
