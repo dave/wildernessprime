@@ -9,5 +9,8 @@ template = "simple-header"
 [[page_sections]]
 block = "two-column-1"
 template = "2-column-text"
+[page_sections.col_1]
+content = "This is some text"
+headline = "Heading"
 
 +++
