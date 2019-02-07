@@ -7,7 +7,7 @@ page_sections:
   block: header-1
 - template: 1-column-text
   block: one-column-1
-  content: Miles from anywhere... The noise of civilisation fades. Welcome to the
-    wilderness.
+  content: 'Miles from anywhere... The noise of civilisation fades. Welcome to the
+    wilderness. '
 
 ---
