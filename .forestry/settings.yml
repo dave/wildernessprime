@@ -13,7 +13,7 @@ sections:
   match: "**/*.en.md"
   new_doc_ext: en.md
   templates:
-    - page
+  - page
 - type: directory
   path: content/reviews
   label: Reviews
@@ -21,7 +21,7 @@ sections:
   match: "**/*.en.md"
   new_doc_ext: en.md
   templates:
-    - page
+  - page
 - type: directory
   path: content/expeditions
   label: Expeditions
@@ -39,7 +39,7 @@ sections:
   match: "**/*.fr.md"
   new_doc_ext: fr.md
   templates:
-    - page
+  - page
 - type: directory
   path: content/reviews
   label: Reviews
@@ -47,7 +47,7 @@ sections:
   match: "**/*.fr.md"
   new_doc_ext: fr.md
   templates:
-    - page
+  - page
 - type: directory
   path: content/expeditions
   label: Expeditions
