@@ -4,6 +4,13 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  name: slug
+  label: Slug
+  hidden: true
+  config:
+    required: true
+  default: post
+- type: text
   name: title
   label: Title
   config:
