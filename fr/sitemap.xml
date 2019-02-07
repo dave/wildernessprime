@@ -91,6 +91,22 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/fr/page/</loc>
     <priority>0</priority>
     <xhtml:link
