@@ -38,4 +38,4 @@ fields:
     display_utc: true
     required: true
 pages:
-- content/post/bonjour.fr.md
+- content/post/hello.fr.md
