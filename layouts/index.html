@@ -1,11 +1,11 @@
 {{ partial "htmlhead" . }}
 	<body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
 
-		{{ $postsFoldername := .Site.Params.Posts.foldername | default "post" }}
+		{{ $postsFolders := .Site.Params.folders }}
 		{{ $postsPageSize := .Site.Params.Posts.pagesize | default 6 }}
 		{{ $postsFeaturedPost := .Site.Params.Posts.featuredpost | default "true" }}
 
-		{{ $posts := where .Data.Pages "Type" $postsFoldername }}
+		{{ $posts := where .Data.Pages "Type" "in" $postsFolders }}
 		{{ $firstPost := first 1 $posts }}
 
 		{{ if and (eq $postsFeaturedPost "true") (gt (len $posts) 1) }}
@@ -18,7 +18,7 @@
 		{{ $postsPaging := .Paginate $postsForPaging $postsPageSize }}
 
 		<!-- Wrapper -->
-			<div id="wrapper" data-pfn="{{ $postsFoldername }}" data-ps="{{ $postsPageSize }}" data-pfp="{{ $postsFeaturedPost }}">
+			<div id="wrapper" data-ps="{{ $postsPageSize }}" data-pfp="{{ $postsFeaturedPost }}">
 
 				{{ if eq $postsPaging.PageNumber 1 }}
 				{{ partial "intro.html" . }}

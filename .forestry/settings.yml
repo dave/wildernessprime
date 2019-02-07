@@ -7,13 +7,13 @@ sections:
 - type: heading
   label: English
 - type: directory
-  path: content/post/report
+  path: content/reports
   label: Reports
   create: all
   match: "**/*.en.md"
   new_doc_ext: en.md
 - type: directory
-  path: content/post/review
+  path: content/reviews
   label: Reviews
   create: all
   match: "**/*.en.md"
@@ -21,13 +21,13 @@ sections:
 - type: heading
   label: Français
 - type: directory
-  path: content/post/report
+  path: content/reports
   label: Reports
   create: all
   match: "**/*.fr.md"
   new_doc_ext: fr.md
 - type: directory
-  path: content/post/review
+  path: content/reviews
   label: Reviews
   create: all
   match: "**/*.fr.md"

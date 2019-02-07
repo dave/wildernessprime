@@ -15,4 +15,7 @@ taxonomies:
   tag: tags 
   category: categories
   expedition: expeditions
-   
+params:
+  folders: 
+    - "reviews"
+    - "reports"
