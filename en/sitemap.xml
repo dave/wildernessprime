@@ -93,6 +93,21 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/categories/review/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/categories/review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/categories/review/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/tags/</loc>
     <priority>0</priority>
     <xhtml:link
