@@ -24,7 +24,7 @@ fields:
     time_format: hh:mm
     display_utc: true
     required: true
-- type: image
+- type: boolean
   name: image
   label: Image
   description: Image (for site preview / social sharing)
