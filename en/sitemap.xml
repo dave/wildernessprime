@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/summer-haute-route-2018._index/</loc>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/</loc>
     <lastmod>2019-02-07T18:54:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/summer-haute-route-2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/summer-haute-route-2018/"
+                />
   </url>
   
   <url>
@@ -60,21 +70,6 @@
   <url>
     <loc>https://www.wildernessprime.com/expeditions/</loc>
     <lastmod>2019-02-07T18:54:18+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/expeditions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/expeditions/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/expeditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -134,12 +129,6 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/</loc>
-    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/tags/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -156,7 +145,7 @@
   
   <url>
     <loc>https://www.wildernessprime.com/</loc>
-    <lastmod>2019-02-07T18:54:18+00:00</lastmod>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

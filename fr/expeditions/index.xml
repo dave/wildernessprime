@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Expeditions on Wilderness Prime</title>
+    <title>Expéditions on Wilderness Prime</title>
     <link>https://www.wildernessprime.com/fr/expeditions/</link>
-    <description>Recent content in Expeditions on Wilderness Prime</description>
+    <description>Recent content in Expéditions on Wilderness Prime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Feb 2019 18:55:46 +0000</lastBuildDate>
@@ -13,10 +13,19 @@
     
     <item>
       <title>TODO (Summer Haute Route 2018)</title>
-      <link>https://www.wildernessprime.com/fr/expeditions/summer-haute-route-2018/todo-summer-haute-route-2018._index/</link>
+      <link>https://www.wildernessprime.com/fr/expeditions/summer-haute-route-2018/</link>
       <pubDate>Thu, 07 Feb 2019 18:55:46 +0000</pubDate>
       
-      <guid>https://www.wildernessprime.com/fr/expeditions/summer-haute-route-2018/todo-summer-haute-route-2018._index/</guid>
+      <guid>https://www.wildernessprime.com/fr/expeditions/summer-haute-route-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grand sentier de l&#39;Himalaya 2019</title>
+      <link>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/</guid>
       <description></description>
     </item>
     
