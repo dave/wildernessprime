@@ -12,12 +12,16 @@ sections:
   create: all
   match: "**/*.en.md"
   new_doc_ext: en.md
+  templates:
+    - page
 - type: directory
   path: content/reviews
   label: Reviews
   create: all
   match: "**/*.en.md"
   new_doc_ext: en.md
+  templates:
+    - page
 - type: directory
   path: content/expeditions
   label: Expeditions
@@ -34,12 +38,16 @@ sections:
   create: all
   match: "**/*.fr.md"
   new_doc_ext: fr.md
+  templates:
+    - page
 - type: directory
   path: content/reviews
   label: Reviews
   create: all
   match: "**/*.fr.md"
   new_doc_ext: fr.md
+  templates:
+    - page
 - type: directory
   path: content/expeditions
   label: Expeditions
