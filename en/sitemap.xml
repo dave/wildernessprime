@@ -76,6 +76,21 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/expeditions/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/page/</loc>
     <priority>0</priority>
     <xhtml:link
