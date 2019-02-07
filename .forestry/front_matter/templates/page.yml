@@ -36,3 +36,5 @@ fields:
     time_format: hh:mm
     display_utc: true
     required: true
+pages:
+- content/posts/hello.en.md
