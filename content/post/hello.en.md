@@ -1,5 +1,5 @@
 ---
-slug: post
+slug: hello
 title: Hello
 description: Miles from anywhere... The noise of civilisation fades. Welcome to the
   wilderness.
