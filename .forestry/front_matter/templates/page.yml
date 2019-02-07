@@ -28,6 +28,14 @@ fields:
   name: images
   label: Images
   description: Images (for site previews and social sharing)
+- type: tag_list
+  name: expeditions
+  label: Expeditions
+  description: Which expeditions should this post be associated with?
+- type: tag_list
+  name: keywords
+  label: Keywords
+  description: Meta keywords for search engines
 pages:
 - content/post/report/ght-map-prep.fr.md
 - content/post/report/ght-map-prep.en.md
