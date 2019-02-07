@@ -12,12 +12,39 @@
     
     
     <item>
-      <title>Bonjour</title>
-      <link>https://www.wildernessprime.com/fr/post/hello/</link>
+      <title>Hyperlite Mountain Gear Ultamid 4</title>
+      <link>https://www.wildernessprime.com/fr/post/review/hgm-ultamid-4/</link>
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.wildernessprime.com/fr/post/hello/</guid>
+      <guid>https://www.wildernessprime.com/fr/post/review/hgm-ultamid-4/</guid>
       <description>Des kilomètres de n&amp;rsquo;importe où &amp;hellip; Le bruit de la civilisation s&amp;rsquo;estompe. Bienvenue dans le désert.</description>
+    </item>
+    
+    <item>
+      <title>Préparation de la carte</title>
+      <link>https://www.wildernessprime.com/fr/post/report/ght-map-prep/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/fr/post/report/ght-map-prep/</guid>
+      <description>Des kilomètres de n&amp;rsquo;importe où &amp;hellip; Le bruit de la civilisation s&amp;rsquo;estompe. Bienvenue dans le désert.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.wildernessprime.com/fr/page/expeditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/fr/page/expeditions/</guid>
+      <description>Expeditions page FR</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.wildernessprime.com/fr/page/reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/fr/page/reviews/</guid>
+      <description>Reviews page FR</description>
     </item>
     
   </channel>

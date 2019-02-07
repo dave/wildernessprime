@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Wilderness Prime</title>
+    <link>https://www.wildernessprime.com/fr/page/</link>
+    <description>Recent content in Pages on Wilderness Prime</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.wildernessprime.com/fr/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.wildernessprime.com/fr/page/expeditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/fr/page/expeditions/</guid>
+      <description>Expeditions page FR</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.wildernessprime.com/fr/page/reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/fr/page/reviews/</guid>
+      <description>Reviews page FR</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,17 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wildernessprime.com/post/hello/</loc>
+    <loc>https://www.wildernessprime.com/post/review/hgm-ultamid-4/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.wildernessprime.com/fr/post/hello/"
+                href="https://www.wildernessprime.com/fr/post/review/hgm-ultamid-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wildernessprime.com/post/hello/"
+                href="https://www.wildernessprime.com/post/review/hgm-ultamid-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/post/report/ght-map-prep/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/post/report/ght-map-prep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/post/report/ght-map-prep/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/page/expeditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/page/expeditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/page/expeditions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/page/reviews/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/page/reviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/page/reviews/"
                 />
   </url>
   
@@ -29,6 +72,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.wildernessprime.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/page/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/page/"
                 />
   </url>
   
