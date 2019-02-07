@@ -37,4 +37,5 @@ fields:
     display_utc: true
     required: true
 pages:
+- content/posts/hello.md
 - content/posts/hello.en.md
