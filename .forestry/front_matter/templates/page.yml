@@ -15,11 +15,6 @@ fields:
     150 characters.
   config:
     required: true
-- type: file
-  name: image
-  label: Image
-  description: Default image for the page (for site previews / social sharing). Will
-    be cropped square.
 - type: datetime
   name: date
   label: Date
@@ -29,3 +24,7 @@ fields:
     time_format: hh:mm
     display_utc: true
     required: true
+- type: image_gallery
+  name: images
+  label: Images
+  description: Images (for site previews and social sharing)
