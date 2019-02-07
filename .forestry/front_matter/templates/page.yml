@@ -24,10 +24,6 @@ fields:
     time_format: hh:mm
     display_utc: true
     required: true
-- type: boolean
-  name: image
-  label: Image
-  description: Image (for site preview / social sharing)
 - type: tag_list
   name: expeditions
   label: Expeditions
@@ -36,6 +32,13 @@ fields:
   name: keywords
   label: Keywords
   description: Meta keywords for search engines
+- type: file
+  name: image
+  label: Image
+- type: file
+  name: image
+  label: Image
+  description: Image (for site preview / social sharing)
 pages:
 - content/post/report/ght-map-prep.fr.md
 - content/post/report/ght-map-prep.en.md
