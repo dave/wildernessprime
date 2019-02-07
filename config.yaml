@@ -1,3 +1,4 @@
+---
 baseURL: https://www.wildernessprime.com/
 languageCode: en-us
 title: Wilderness Prime
@@ -10,8 +11,3 @@ languages:
   fr:
     languageName: Français
     weight: 2
-
-#googleanalytics = ""
-#disqusShortname = ""
-#params:
-#  favicon: "favicon.ico"
