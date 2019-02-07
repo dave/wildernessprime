@@ -2,5 +2,5 @@
 menu: 
   main:
     weight: 20
-title: Critiques
+title: TODO (Gear Reviews)
 ---

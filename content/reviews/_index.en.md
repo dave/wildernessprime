@@ -2,5 +2,5 @@
 menu: 
   main:
     weight: 20
-title: Reviews
+title: Gear Reviews
 ---
