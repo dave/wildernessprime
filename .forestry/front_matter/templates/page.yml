@@ -37,5 +37,3 @@ fields:
     time_format: hh:mm
     display_utc: true
     required: true
-pages:
-- content/post/hello.fr.md
