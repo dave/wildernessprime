@@ -29,5 +29,7 @@ fields:
   label: Images
   description: Images (for site previews and social sharing)
 pages:
-- content/post/report/foo.en.md
-- content/post/report/map-preperation.en.md
+- content/post/report/ght-map-prep.fr.md
+- content/post/report/ght-map-prep.en.md
+- content/post/review/hgm-ultamid-4.en.md
+- content/post/review/hgm-ultamid-4.fr.md
