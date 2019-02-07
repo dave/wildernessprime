@@ -22,7 +22,7 @@ sections:
   path: content/expeditions
   label: Expeditions
   create: all
-  match: "**/*.en.md"
+  match: "**/_index.en.md"
   new_doc_ext: _index.en.md
   templates:
   - expedition
@@ -44,7 +44,7 @@ sections:
   path: content/expeditions
   label: Expeditions
   create: all
-  match: "**/*.fr.md"
+  match: "**/_index.fr.md"
   new_doc_ext: _index.fr.md
   templates:
   - expedition
