@@ -27,5 +27,5 @@ fields:
   label: Image
   description: Image (for site preview / social sharing)
 pages:
-- content/expeditions/great-himalaya-trail-2019/_index.en.md
 - content/expeditions/great-himalaya-trail-2019/_index.fr.md
+- content/expeditions/great-himalaya-trail-2019/_index.en.md
