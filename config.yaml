@@ -2,7 +2,7 @@ DefaultContentLanguage: en
 baseURL: https://www.wildernessprime.com/
 languageCode: en-us
 title: Wilderness Prime
-theme: ubuild-hugo
+theme: massively
 metaDataFormat: yaml
 languages:
   en:
