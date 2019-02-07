@@ -24,10 +24,10 @@ fields:
     time_format: hh:mm
     display_utc: true
     required: true
-- type: image_gallery
-  name: images
-  label: Images
-  description: Images (for site previews and social sharing)
+- type: image
+  name: image
+  label: Image
+  description: Image (for site preview / social sharing)
 - type: tag_list
   name: expeditions
   label: Expeditions
