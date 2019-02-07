@@ -6,6 +6,5 @@ image: https://res.cloudinary.com/wildernessprime/image/upload/v1549566156/haute
 expeditions:
 - summer-haute-route-2018
 keywords: []
-draft: true
 
 ---
