@@ -30,3 +30,4 @@ fields:
   description: Images (for site previews and social sharing)
 pages:
 - content/post/report/foo.en.md
+- content/post/report/map-preperation.en.md
