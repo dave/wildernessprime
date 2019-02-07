@@ -4,14 +4,6 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: slug
-  label: URL name
-  hidden: false
-  config:
-    required: true
-  default: ''
-  description: Name of the page in the URL
-- type: text
   name: title
   label: Title
   config:

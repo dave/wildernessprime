@@ -1,5 +1,4 @@
 ---
-slug: ght-map-prep
 title: Préparation de la carte
 description: Comment nous avons préparé les cartes pour le Great Himalaya Trail.
 image: https://res.cloudinary.com/wildernessprime/image/upload/v1549486862/media/nepal.jpg

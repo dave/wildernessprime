@@ -1,5 +1,4 @@
 ---
-slug: hgm-ultamid-4
 title: Hyperlite Mountain Gear Ultamid 4
 description: A quick review of the HMG Ultamid 4 pyramid tent.
 image: https://res.cloudinary.com/wildernessprime/image/upload/v1549539837/tent.jpg
