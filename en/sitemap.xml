@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/reports/summer-haute-route-tour-du-mont-blanc/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -126,6 +131,12 @@
                 hreflang="en"
                 href="https://www.wildernessprime.com/reviews/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
