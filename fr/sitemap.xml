@@ -33,20 +33,6 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/fr/page/reviews/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/page/reviews/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/page/reviews/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -63,7 +49,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/fr/expeditions/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -88,21 +73,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/fr/page/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/page/"
                 />
   </url>
   
