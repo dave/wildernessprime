@@ -7,6 +7,7 @@
         {{ with $data.contactinfo }}
             <li><a href='{{ "#footer" | relLangURL }}'>{{ i18n "NAV_CONTACT" . }}</a></li>
         {{ end }}
+        
         {{ if .IsTranslated }}
             {{ range .AllTranslations }}
                 <li {{if eq ($.Site.Language) (.Language)}}class="active"{{end}}><a href='{{ .Permalink }}'>{{ .Language.LanguageName }}</a></li>

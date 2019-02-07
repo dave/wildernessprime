@@ -6,10 +6,10 @@ theme: massively
 metaDataFormat: yaml
 languages:
   en:
-    languageName: English
+    languageName: EN
     weight: 1
   fr:
-    languageName: Français
+    languageName: FR
     weight: 2
 taxonomies:
   tag: tags 
