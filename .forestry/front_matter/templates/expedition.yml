@@ -1,0 +1,13 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+pages:
+  - content/expeditions/great-himalaya-trail-2019/_index.en.md
+  - content/expeditions/great-himalaya-trail-2019/_index.fr.md
