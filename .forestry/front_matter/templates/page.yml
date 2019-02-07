@@ -28,3 +28,5 @@ fields:
   name: images
   label: Images
   description: Images (for site previews and social sharing)
+pages:
+- content/post/report/foo.en.md
