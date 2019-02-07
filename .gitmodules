@@ -1,9 +1,0 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "themes/ubuild-hugo"]
-	path = themes/ubuild-hugo
-	url = git@github.com:forestryio/ubuild-hugo.git
-[submodule "themes/massively"]
-	path = themes/massively
-	url = git@github.com:curtistimson/hugo-theme-massively.git
