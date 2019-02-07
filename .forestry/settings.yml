@@ -22,9 +22,10 @@ sections:
   path: expeditions
   label: Expeditions
   create: all
-  templates: ["expedition"]
   match: "**/*.en.md"
   new_doc_ext: _index.en.md
+  templates:
+  - expedition
 - type: heading
   label: Français
 - type: directory
@@ -43,9 +44,10 @@ sections:
   path: expeditions
   label: Expeditions
   create: all
-  templates: ["expedition"]
   match: "**/*.fr.md"
   new_doc_ext: _index.fr.md
+  templates:
+  - expedition
 upload_dir: ''
 public_path: https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto
 front_matter_path: https://res.cloudinary.com/wildernessprime/image/upload
