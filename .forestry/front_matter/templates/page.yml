@@ -30,4 +30,3 @@ fields:
   description: Images (for site previews and social sharing)
 pages:
 - content/post/report/foo.en.md
-- content/post/report/foo-copy.md
