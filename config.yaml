@@ -1,4 +1,3 @@
-DefaultContentLanguage: en
 baseURL: https://www.wildernessprime.com/
 languageCode: en-us
 title: Wilderness Prime
@@ -6,6 +5,13 @@ theme: massively
 metaDataFormat: yaml
 languages:
   en:
+    languageName: English
     weight: 1
   fr:
+    languageName: Français
     weight: 2
+
+#googleanalytics = ""
+#disqusShortname = ""
+#params:
+#  favicon: "favicon.ico"
