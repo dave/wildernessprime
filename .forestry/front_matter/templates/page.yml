@@ -1,0 +1,31 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: summary
+  label: Summary
+  description: Summary of the page (for site previews / social sharing). No more than
+    150 characters.
+  config:
+    required: true
+- type: file
+  name: icon
+  label: Icon
+  description: Default icon for the page (for site previews / social sharing). Will
+    be cropped square.
+- type: datetime
+  name: date
+  label: Date
+  description: Publish date
+  config:
+    date_format: YYYY-MM-DD
+    time_format: hh:mm
+    display_utc: true
+    required: true
