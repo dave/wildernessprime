@@ -9,11 +9,22 @@
 
 	<!-- Main -->
 	<div id="main">
-
+		
 		<!-- Terms -->
 		<section id="main">
 			<div>
 				<h1 id="title">{{ .Title }}</h1>
+				
+				{{ if .Params.description }}
+					<p>{{ .Params.description }}</p>
+				{{ end }}
+				
+				{{ if .Params.image }}
+					<img src="{{ .Params.image | relURL }}" alt="" />
+				{{ end }}
+
+				{{ .Content }}
+				
 				<ul>
 					{{ range $key, $value := .Pages }}
 						<li><a href="{{ .Permalink }}">{{ .Params.title }}</a></li>
