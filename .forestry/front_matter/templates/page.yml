@@ -16,16 +16,16 @@ fields:
   config:
     required: true
 - type: textarea
-  name: summary
-  label: Summary
+  name: description
+  label: Description
   description: Summary of the page (for site previews / social sharing). No more than
     150 characters.
   config:
     required: true
 - type: file
-  name: icon
-  label: Icon
-  description: Default icon for the page (for site previews / social sharing). Will
+  name: image
+  label: Image
+  description: Default image for the page (for site previews / social sharing). Will
     be cropped square.
 - type: datetime
   name: date
