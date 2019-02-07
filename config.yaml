@@ -11,3 +11,8 @@ languages:
   fr:
     languageName: Français
     weight: 2
+taxonomies:
+  tag: tags 
+  category: categories
+  expedition: expeditions
+   
