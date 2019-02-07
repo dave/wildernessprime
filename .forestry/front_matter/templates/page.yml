@@ -36,8 +36,3 @@ fields:
   name: keywords
   label: Keywords
   description: Meta keywords for search engines
-pages:
-- content/post/report/ght-map-prep.fr.md
-- content/post/report/ght-map-prep.en.md
-- content/post/review/hgm-ultamid-4.en.md
-- content/post/review/hgm-ultamid-4.fr.md
