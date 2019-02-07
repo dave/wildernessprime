@@ -19,7 +19,7 @@ sections:
   match: "**/*.en.md"
   new_doc_ext: en.md
 - type: directory
-  path: expeditions
+  path: content/expeditions
   label: Expeditions
   create: all
   match: "**/*.en.md"
@@ -41,7 +41,7 @@ sections:
   match: "**/*.fr.md"
   new_doc_ext: fr.md
 - type: directory
-  path: expeditions
+  path: content/expeditions
   label: Expeditions
   create: all
   match: "**/*.fr.md"
