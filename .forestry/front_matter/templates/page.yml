@@ -38,3 +38,4 @@ fields:
     required: true
 pages:
 - content/posts/hello.md
+- content/posts/foo.en.md
