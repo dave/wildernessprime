@@ -56,6 +56,16 @@
     <loc>https://www.wildernessprime.com/expeditions/</loc>
     <lastmod>2019-02-07T18:54:18+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/"
+                />
   </url>
   
   <url>
