@@ -43,5 +43,3 @@ fields:
   name: keywords
   label: Keywords
   description: Meta keywords for search engines
-pages:
-- content/expeditions/foo/baaaa.en.md
