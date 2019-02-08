@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/short-expedition/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/reviews/hgm-ultamid-4/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/reviews/hgm-ultamid-4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/ght-map-prep/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/ght-map-prep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/ght-map-prep/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/summer-haute-route-tour-du-mont-blanc/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/summer-haute-route-2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/summer-haute-route-2018/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/reviews/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/reviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/reviews/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/"
+                />
+  </url>
+  
+</urlset>
