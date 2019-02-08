@@ -1,0 +1,42 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  name: date
+  label: Date
+  description: Publish date
+  config:
+    date_format: YYYY-MM-DD
+    time_format: hh:mm
+    display_utc: true
+    required: true
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  description: Summary of the page (for site previews / social sharing). No more than
+    150 characters.
+  config:
+    required: true
+- type: file
+  name: image
+  label: Image
+  description: Image (for site preview / social sharing)
+- type: tag_list
+  name: expeditions
+  label: Expeditions
+  description: Which expeditions should this post be associated with?
+- type: tag_list
+  name: keywords
+  label: Keywords
+  description: Meta keywords for search engines
+pages:
+- content/reports/ght-map-prep.fr.md
+- content/reports/ght-map-prep.en.md
+- content/reports/summer-haute-route-tour-du-mont-blanc.en.md

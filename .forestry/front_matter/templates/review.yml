@@ -29,16 +29,9 @@ fields:
   label: Image
   description: Image (for site preview / social sharing)
 - type: tag_list
-  name: expeditions
-  label: Expeditions
-  description: Which expeditions should this post be associated with?
-- type: tag_list
   name: keywords
   label: Keywords
   description: Meta keywords for search engines
 pages:
-- content/reviews/hgm-ultamid-4.fr.md
-- content/reports/ght-map-prep.fr.md
-- content/reports/ght-map-prep.en.md
 - content/reviews/hgm-ultamid-4.en.md
-- content/reports/summer-haute-route-tour-du-mont-blanc.en.md
+- content/reviews/hgm-ultamid-4.fr.md
