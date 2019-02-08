@@ -3,7 +3,7 @@ type: report
 date: 2018-09-12 16:47:36 +0000
 title: 'Part 3: Dix, Prafleuri'
 description: Over the Pas de Chèvres, Mont Blanc de Cheilon, La Cabane des Dix
-image: ''
+image: "/v1549648710/IMG_4504.jpg"
 keywords: []
 draft: true
 
