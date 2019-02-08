@@ -8,6 +8,6 @@ expeditions:
 keywords: []
 
 ---
-I hiked the Haute Route in the opposite to most people, starting in Zermatt under the majestic Matterhorn and heading down the valley towards Gruben.
+I hiked the Haute Route in the opposite to most people, starting in Zermatt under the majestic Matterhorn and heading down the valley towards Grächen.
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549618647/IMG_4254.jpg)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549619435/IMG_4283.jpg)The Charles Kuonen Suspension Bridge is the longest in the world, spanning almost 500m (1620ft).
