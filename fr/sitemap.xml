@@ -18,17 +18,17 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/fr/reports/ght-map-prep/</loc>
+    <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/ght-map-prep/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wildernessprime.com/reports/ght-map-prep/"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/ght-map-prep/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.wildernessprime.com/fr/reports/ght-map-prep/"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/ght-map-prep/"
                 />
   </url>
   
@@ -79,7 +79,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/fr/expeditions/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -89,22 +88,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/expeditions/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/fr/reports/</loc>
-    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/reports/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/reports/"
                 />
   </url>
   

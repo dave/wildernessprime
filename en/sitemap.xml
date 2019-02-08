@@ -18,17 +18,17 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/reports/ght-map-prep/</loc>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/ght-map-prep/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.wildernessprime.com/fr/reports/ght-map-prep/"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/ght-map-prep/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wildernessprime.com/reports/ght-map-prep/"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/ght-map-prep/"
                 />
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/reports/summer-haute-route-tour-du-mont-blanc/</loc>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/summer-haute-route-tour-du-mont-blanc/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,7 +84,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/expeditions/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -109,22 +108,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.wildernessprime.com/reviews/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/reports/</loc>
-    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/reports/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/reports/"
                 />
   </url>
   
