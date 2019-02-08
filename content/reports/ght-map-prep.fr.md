@@ -3,7 +3,7 @@ title: Préparation de la carte
 description: Comment nous avons préparé les cartes pour la grande traversée de l'Himalaya
 date: 2019-02-07 00:00:00 +0000
 expeditions:
-- Great Himalaya Trail 2019
+- great-himalaya-trail-2019
 keywords: []
 image: /v1549486862/media/nepal.jpg
 
