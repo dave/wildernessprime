@@ -33,5 +33,5 @@ fields:
   label: Keywords
   description: Meta keywords for search engines
 pages:
-- content/reviews/hgm-ultamid-4.en.md
 - content/reviews/hgm-ultamid-4.fr.md
+- content/reviews/hgm-ultamid-4.en.md
