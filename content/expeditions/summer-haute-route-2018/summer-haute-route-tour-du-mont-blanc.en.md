@@ -7,6 +7,8 @@ image: "/v1549618595/IMG_4255.jpg"
 keywords: []
 
 ---
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549618595/IMG_4255.jpg)
+
 I hiked the Haute Route in the opposite direction to most people, starting in Zermatt under the majestic Matterhorn and heading down the valley towards Grächen along the Europaweg trail.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549619435/IMG_4283.jpg)
