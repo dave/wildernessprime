@@ -43,3 +43,5 @@ fields:
   name: keywords
   label: Keywords
   description: Meta keywords for search engines
+pages:
+- content/expeditions/short-expedition/foo.en-1.md
