@@ -14,11 +14,13 @@
 	<!-- Main -->
 	<div id="main">
 
-		<h1 id="title">{{ .Title }} bar</h1>
+		<h1 id="title">{{ .Title }}</h1>
 
-		<div class="content">
-			{{ .Content }}
-		</div>
+		{{ if .Content }}
+			<div class="content">
+				{{ .Content }}
+			</div>
+		{{ end }}
 
 		{{ partial "posts/list.html" (dict "posts" $postsPaging "siteData" (index .Site.Data .Site.Language.Lang)) }}
 
