@@ -1,5 +1,5 @@
 ---
-label: Expedition Summary (rename to _index.en or _index.fr)
+label: Expedition Index (rename to _index.en or _index.fr)
 hide_body: true
 is_partial: false
 fields:
