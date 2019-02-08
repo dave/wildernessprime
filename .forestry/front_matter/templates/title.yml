@@ -1,0 +1,15 @@
+---
+label: Title
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+pages:
+- content/expeditions/_index.fr.md
+- content/expeditions/_index.en.md
+- content/reviews/_index.fr.md
+- content/reviews/_index.en.md
