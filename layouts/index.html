@@ -1,11 +1,10 @@
 {{ partial "htmlhead" . }}
 	<body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
 
-		{{ $postsFolders := .Site.Params.folders }}
 		{{ $postsPageSize := .Site.Params.Posts.pagesize | default 6 }}
 		{{ $postsFeaturedPost := .Site.Params.Posts.featuredpost | default "true" }}
 
-		{{ $posts := where .Data.Pages "Type" "in" $postsFolders }}
+		{{ $posts := .Data.Pages }}
 		{{ $firstPost := first 1 $posts }}
 
 		{{ if and (eq $postsFeaturedPost "true") (gt (len $posts) 1) }}
