@@ -5,5 +5,7 @@ title: 'Part 2: TBC'
 description: Part two of the adventure
 image: "/v1549630383/IMG_4301.jpg"
 keywords: []
+draft: true
+
 ---
 Summer Haute Route Part 2
