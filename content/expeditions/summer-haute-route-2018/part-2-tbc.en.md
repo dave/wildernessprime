@@ -9,3 +9,5 @@ draft: true
 
 ---
 Summer Haute Route Part 2
+
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549633470/IMG_4374.jpg)
