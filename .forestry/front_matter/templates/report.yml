@@ -43,3 +43,5 @@ fields:
   name: keywords
   label: Keywords
   description: Meta keywords for search engines
+pages:
+- content/expeditions/summer-haute-route-2018/part-2-tbc.en.md
