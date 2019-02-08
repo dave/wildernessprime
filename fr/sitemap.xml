@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wildernessprime.com/fr/reviews/</loc>
-    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/reviews/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/reviews/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -151,6 +136,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/reviews/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/reviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/reviews/"
                 />
   </url>
   
