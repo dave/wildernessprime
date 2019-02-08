@@ -16,7 +16,9 @@
 
 		<h1 id="title">{{ .Title }}</h1>
 
-		{{ .Content }}
+		<div class="content">
+			{{ .Content }}
+		</div>
 
 		{{ partial "posts/list.html" (dict "posts" $postsPaging "siteData" (index .Site.Data .Site.Language.Lang)) }}
 
