@@ -36,10 +36,6 @@ fields:
   label: Image
   description: Image (for site preview / social sharing)
 - type: tag_list
-  name: expeditions
-  label: Expeditions
-  description: Which expeditions should this post be associated with?
-- type: tag_list
   name: keywords
   label: Keywords
   description: Meta keywords for search engines

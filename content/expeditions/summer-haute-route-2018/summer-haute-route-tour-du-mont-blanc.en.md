@@ -4,6 +4,7 @@ date: 2018-09-05 00:00:00 +0000
 title: 'Part 1: Zermatt'
 description: The first part of my journey from Zermatt along the Europaweg trail.
 image: "/v1549618595/IMG_4255.jpg"
+keywords: []
 ---
 I hiked the Haute Route in the opposite to most people, starting in Zermatt under the majestic Matterhorn and heading down the valley towards Grächen along the Europaweg trail.
 
