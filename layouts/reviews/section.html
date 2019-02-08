@@ -1,8 +1,12 @@
 {{ partial "htmlhead" . }}
 <body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
 
+{{ $posts := .Pages }}
+{{ $postsPageSize := .Site.Params.Posts.pagesize | default 6 }}
+{{ $postsPaging := .Paginate $posts $postsPageSize }}
+
 <!-- Wrapper -->
-<div id="wrapper">
+<div id="wrapper" data-ps="{{ $postsPageSize }}">
 
 	{{ partial "header" . }}
 	{{ partial "nav" . }}
@@ -10,17 +14,9 @@
 	<!-- Main -->
 	<div id="main">
 
-		<!-- Terms -->
-		<section id="main">
-			<div>
-				<h1 id="title">{{ .Title }}</h1>
-				<ul>
-					{{ range $key, $value := .Pages }}
-						<li><a href="{{ .Permalink }}">{{ .Params.title }}</a></li>
-					{{ end }}
-				</ul>
-			</div>
-		</section>
+		<h1 id="title">{{ .Title }}</h1>
+
+		{{ partial "posts/list.html" (dict "posts" $postsPaging "siteData" (index .Site.Data .Site.Language.Lang)) }}
 
 	</div>
 
