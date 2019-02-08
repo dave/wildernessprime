@@ -16,7 +16,7 @@ taxonomies:
   category: categories
   expedition: expeditions
 params:
-  cloudinary_base_url: https://res.cloudinary.com/wildernessprime/image/upload/
+  cloudinary_base_url: https://res.cloudinary.com/wildernessprime/image/upload
   folders: 
     - "reviews"
     - "reports"
