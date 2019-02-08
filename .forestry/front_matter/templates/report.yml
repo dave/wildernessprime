@@ -1,8 +1,15 @@
 ---
-label: Report
+label: Expedition Report
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: type
+  label: Type
+  hidden: true
+  config:
+    required: true
+  default: report
 - type: datetime
   name: date
   label: Date
@@ -37,6 +44,4 @@ fields:
   label: Keywords
   description: Meta keywords for search engines
 pages:
-- content/reports/ght-map-prep.en.md
-- content/reports/ght-map-prep.fr.md
-- content/reports/summer-haute-route-tour-du-mont-blanc.en.md
+- content/expeditions/foo/baaaa.en.md

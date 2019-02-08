@@ -7,12 +7,13 @@ sections:
 - type: heading
   label: English
 - type: directory
-  path: content/reports
-  label: Reports
+  path: content/expeditions
+  label: Expeditions
   create: all
   match: "**/*.en.md"
   new_doc_ext: en.md
   templates:
+  - expedition
   - report
 - type: directory
   path: content/reviews
@@ -22,23 +23,16 @@ sections:
   new_doc_ext: en.md
   templates:
   - review
-- type: directory
-  path: content/expeditions
-  label: Expeditions
-  create: all
-  match: "**/_index.en.md"
-  new_doc_ext: _index.en.md
-  templates:
-  - expedition
 - type: heading
   label: Français
 - type: directory
-  path: content/reports
-  label: Reports
+  path: content/expeditions
+  label: Expeditions
   create: all
   match: "**/*.fr.md"
   new_doc_ext: fr.md
   templates:
+  - expedition
   - report
 - type: directory
   path: content/reviews
@@ -48,14 +42,6 @@ sections:
   new_doc_ext: fr.md
   templates:
   - review
-- type: directory
-  path: content/expeditions
-  label: Expeditions
-  create: all
-  match: "**/_index.fr.md"
-  new_doc_ext: _index.fr.md
-  templates:
-  - expedition
 upload_dir: ''
 public_path: https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto
 front_matter_path: ''

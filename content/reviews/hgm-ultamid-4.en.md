@@ -1,4 +1,5 @@
 ---
+type: review
 title: Hyperlite Mountain Gear Ultamid 4
 description: A quick review of the HMG Ultamid 4 pyramid tent.
 image: /v1549539837/tent.jpg

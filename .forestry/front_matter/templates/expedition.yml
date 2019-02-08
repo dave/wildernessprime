@@ -1,8 +1,22 @@
 ---
-label: Expedition
+label: Expedition Summary (rename to _index.en or _index.fr)
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: type
+  label: Type
+  hidden: true
+  config:
+    required: true
+  default: expedition
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  config:
+    required: true
+  default: reports
 - type: text
   name: title
   label: Title
@@ -27,5 +41,8 @@ fields:
   label: Image
   description: Image (for site preview / social sharing)
 pages:
-- content/expeditions/great-himalaya-trail-2019/_index.fr.md
+- content/expeditions/foo/_index.en.md
 - content/expeditions/great-himalaya-trail-2019/_index.en.md
+- content/expeditions/summer-haute-route-2018/_index.fr.md
+- content/expeditions/summer-haute-route-2018/_index.en.md
+- content/expeditions/great-himalaya-trail-2019/_index.fr.md

@@ -11,12 +11,8 @@ languages:
   fr:
     languageName: FR
     weight: 2
-taxonomies:
-  tag: tags 
-  category: categories
-  expedition: expeditions
 params:
   cloudinary_base_url: https://res.cloudinary.com/wildernessprime/image/upload
-  folders: 
+  folders:
+    - "expeditions"
     - "reviews"
-    - "reports"

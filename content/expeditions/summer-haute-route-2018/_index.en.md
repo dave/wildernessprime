@@ -1,4 +1,6 @@
 ---
+type: expedition
+layout: reports
 title: Summer Haute Route 2018
 date: 2018-09-01 00:00:00 +0000
 image: "/v1549566156/haute-route.jpg"

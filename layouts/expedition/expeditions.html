@@ -1,7 +1,7 @@
 {{ partial "htmlhead" . }}
 <body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
 
-{{ $posts := .Pages }}
+{{ $posts := where (where .Site.Pages ".Params.type" "expedition") ".Params.layout" "reports" }}
 {{ $postsPageSize := .Site.Params.Posts.pagesize | default 6 }}
 {{ $postsPaging := .Paginate $posts $postsPageSize }}
 

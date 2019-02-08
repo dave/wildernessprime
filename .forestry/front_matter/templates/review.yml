@@ -1,8 +1,15 @@
 ---
-label: Review
+label: Equipment Review
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: type
+  label: Type
+  hidden: true
+  config:
+    required: true
+  default: review
 - type: datetime
   name: date
   label: Date
@@ -33,5 +40,5 @@ fields:
   label: Keywords
   description: Meta keywords for search engines
 pages:
-- content/reviews/hgm-ultamid-4.fr.md
 - content/reviews/hgm-ultamid-4.en.md
+- content/reviews/hgm-ultamid-4.fr.md
