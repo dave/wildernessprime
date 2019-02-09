@@ -7,4 +7,4 @@ image: "/v1549649849/Screenshot%202019-02-08%20at%2019.16.18.png"
 keywords: []
 
 ---
-Miles from anywhere... The noise of civilisation fades. Welcome to the wilderness.
+Coming soon.
