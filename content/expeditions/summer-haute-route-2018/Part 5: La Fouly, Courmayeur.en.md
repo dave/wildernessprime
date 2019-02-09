@@ -11,9 +11,7 @@ Onwards and upwards into the foothills of Mont Blanc from Lac Champex towards It
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549729130/IMG_4609%20%281%29.jpg)
 
-As we climbed further into the hills, the buildings became less frequent and the landscape more barren.
-
-The view down the valley towards Courmayeur from the Swiss Itallian border was one of the best of the trip.
+As we climbed further into the hills, the buildings became less frequent and the landscape more barren. The view down the valley towards Courmayeur from the Swiss Itallian border was one of the best of the trip.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549729285/IMG_4681%20%281%29.jpg)
 
