@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/</loc>
-    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/reviews/hgm-ultamid-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/navigation/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -59,6 +44,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/expeditions/summer-haute-route-2018/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/reviews/hgm-ultamid-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/"
                 />
   </url>
   
@@ -124,7 +124,7 @@
   
   <url>
     <loc>https://www.wildernessprime.com/fr/reviews/</loc>
-    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
