@@ -19,11 +19,19 @@
                                 <h1>{{ .Title }}</h1>
                                 <p>{{ .Description }}</p>
                             </header>
-                            {{ if .Content }}
+							
+							{{ if .Content }}
 								<div class="content">
 									{{ .Content }}
 								</div>
 							{{ end }}
+
+							{{if .PrevInSection}}
+								Previous: {{.PrevInSection.Permalink}}
+							{{end}}
+							{{if .NextInSection}}
+								Next: {{.NextInSection.Permalink}}
+							{{end}}
 
                             {{ partial "postcustom" . }}
                             
