@@ -7,13 +7,9 @@ image: "/v1549649849/Screenshot%202019-02-08%20at%2019.16.18.png"
 keywords: []
 
 ---
-Navigation is critical for any expedition, and especially those venturing into remote areas where the trail network is more tenuous.
+Navigation is critical for any expedition, and especially those venturing into remote areas where the trail network is more tenuous. You'll realise I'm a great believer in technology - however I'd like to point out from the outset that a paper map backup is always required.
 
-You'll realise I'm a great believer in technology - however I'd like to point out from the outset that a paper map backup is always required.
-
-In this article I'm going to go through some of the preparation I'm doing for navigating the 1700km GHT.
-
-This trail posed my biggest challenge to date. The distances are vast and the trails are often not even marked on the most detailed maps available.
+In this article I'm going to go through some of the preparation I'm doing for navigating the 1700km GHT. This trail posed my biggest challenge to date. The distances are vast and the trails are often not even marked on the most detailed maps available.
 
 ## Sources
 
