@@ -16,3 +16,4 @@ params:
   folders:
     - "expeditions"
     - "reviews"
+  pagesize: 2

@@ -1,25 +1,19 @@
 {{ partial "htmlhead" . }}
 	<body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
 
-		{{ $postsPageSize := .Site.Params.Posts.pagesize | default 6 }}
-		{{ $postsFeaturedPost := .Site.Params.Posts.featuredpost | default "true" }}
-
 		{{ $posts := .Data.Pages }}
-		{{ $firstPost := first 1 $posts }}
-
-		{{ if and (eq $postsFeaturedPost "true") (gt (len $posts) 1) }}
-			{{ .Scratch.Set "postsForPaging" (after 1 $posts) }}
-		{{ else }}
-			{{ .Scratch.Set "postsForPaging" $posts }}
+		{{ $first := first 1 .Data.Pages }}
+		{{ $highlight := gt (len .Data.Pages) 1 }}
+		{{ if $highlight }}
+			{{ $posts = after 1 $posts }}
 		{{ end }}
-		{{ $postsForPaging := .Scratch.Get "postsForPaging" }}
-
-		{{ $postsPaging := .Paginate $postsForPaging $postsPageSize }}
-
+		
+		{{ $paginator := .Paginate $posts .Site.Params.pagesize }}
+		
 		<!-- Wrapper -->
-			<div id="wrapper" data-ps="{{ $postsPageSize }}" data-pfp="{{ $postsFeaturedPost }}">
+			<div id="wrapper" data-ps="{{ $paginator.PageSize }}" data-pfp="{{ $highlight }}">
 
-				{{ if eq $postsPaging.PageNumber 1 }}
+				{{ if eq $paginator.PageNumber 1 }}
 				{{ partial "intro.html" . }}
 				{{ end }}
 
@@ -29,30 +23,14 @@
 				<!-- Main -->
 					<div id="main">
 
-						{{ if eq $postsFeaturedPost "true" }}
-						{{ partial "posts/featured.html" (dict "firstpost" $firstPost "siteData" (index .Site.Data .Site.Language.Lang)) }}
+						{{ if and $highlight (eq $paginator.PageNumber 1) }}
+							{{ partial "posts/featured.html" (dict "firstpost" $first "siteData" (index .Site.Data .Site.Language.Lang)) }}
 						{{ end }}
-						{{ partial "posts/list.html" (dict "posts" $postsPaging "siteData" (index .Site.Data .Site.Language.Lang)) }}
+						
+						{{ partial "posts/list.html" (dict "posts" $paginator "siteData" (index .Site.Data .Site.Language.Lang)) }}
 
-						<!-- Footer -->
-						{{ if gt $postsPaging.TotalPages 1 }}
-						<footer>
-							<div class="pagination">
-								{{ if $postsPaging.HasPrev }}
-								<a href="{{ $postsPaging.Prev.URL }}" class="previous"></a>
-								{{ end }}
-								{{ range $postsPaging.Pagers }}
-								{{ if lt .PageNumber 10 }}
-								<a href="{{ .URL }}" class="page{{ if eq .PageNumber $postsPaging.PageNumber }} active{{ end }}">{{ .PageNumber }}</a>
-								{{ end }}
-								{{ end }}
-								{{ if $postsPaging.HasNext }}
-								<a href="{{ $postsPaging.Next.URL }}" class="next">{{ i18n "NEXT" . }}</a>
-								{{ end }}
-							</div>
-						</footer>
-						{{ end }}
-
+						{{ partial "posts/pagination.html" (dict "paginator" $paginator "siteData" (index .Site.Data .Site.Language.Lang)) }}
+						
 					</div>
 
 					{{ partial "footer/index" . }}

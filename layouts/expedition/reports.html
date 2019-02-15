@@ -2,11 +2,10 @@
 <body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
 
 {{ $posts := .Pages }}
-{{ $postsPageSize := .Site.Params.Posts.pagesize | default 6 }}
-{{ $postsPaging := .Paginate $posts $postsPageSize }}
+{{ $paginator := .Paginate $posts .Site.Params.pagesize }}
 
 <!-- Wrapper -->
-<div id="wrapper" data-ps="{{ $postsPageSize }}">
+<div id="wrapper" data-ps="{{ $paginator.PageSize }}">
 
 	{{ partial "header" . }}
 	{{ partial "nav" . }}
@@ -22,9 +21,12 @@
 			</div>
 		{{ end }}
 
-		{{ partial "posts/list.html" (dict "posts" $postsPaging "siteData" (index .Site.Data .Site.Language.Lang)) }}
+		{{ partial "posts/list.html" (dict "posts" $paginator "siteData" (index .Site.Data .Site.Language.Lang)) }}
+
+		{{ partial "posts/pagination.html" (dict "paginator" $paginator "siteData" (index .Site.Data .Site.Language.Lang)) }}
 
 	</div>
+
 
 	{{ partial "footer/index" . }}
 	{{ partial "copyright" . }}
