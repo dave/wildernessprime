@@ -1,3 +1,4 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
 {{ partial "htmlhead" . }}
 	<body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
 
@@ -26,19 +27,54 @@
 								</div>
 							{{ end }}
 
-							{{if .PrevInSection}}
-								<!--Previous: {{.PrevInSection.Permalink}}-->
-							{{end}}
-							{{if .NextInSection}}
-								<!--Next: {{.NextInSection.Permalink}}-->
-							{{end}}
-
                             {{ partial "postcustom" . }}
                             
                             {{ if not (eq .Params.disableComments true) }}
                             {{ template "_internal/disqus.html" . }}
                             {{ end }}
                         </section>
+
+						<section class="posts">
+
+							{{if .PrevInSection}}
+								<article>
+									<header>
+										{{ if not .PrevInSection.Date.IsZero }}
+											<span class="date">{{ .PrevInSection.Date.Format "January 2, 2006" }}</span>
+										{{ end }}
+										<h2>{{ $data.post.prevtext }}: <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h2>
+									</header>
+									{{ if .PrevInSection.Params.image }}
+										<a href="{{ .PrevInSection.Permalink }}" class="image fit"><img src="{{ .PrevInSection.Site.Params.cloudinary_base_url }}/w_800,h_800,c_fill,g_auto{{ .PrevInSection.Params.image }}" alt="" /></a>
+									{{ end }}
+									<p>{{ .PrevInSection.Description }}</p>
+									<ul class="actions">
+										<li><a href="{{ .PrevInSection.Permalink }}" class="button">{{ $data.post.linktext }}</a></li>
+									</ul>
+								</article>
+							{{else}}
+							{{end}}
+							{{if .NextInSection}}
+								<article>
+									<header>
+										{{ if not .NextInSection.Date.IsZero }}
+											<span class="date">{{ .NextInSection.Date.Format "January 2, 2006" }}</span>
+										{{ end }}
+										<h2>{{ $data.post.nexttext }}: <a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a></h2>
+									</header>
+									{{ if .NextInSection.Params.image }}
+										<a href="{{ .NextInSection.Permalink }}" class="image fit"><img src="{{ .NextInSection.Site.Params.cloudinary_base_url }}/w_800,h_800,c_fill,g_auto{{ .NextInSection.Params.image }}" alt="" /></a>
+									{{ end }}
+									<p>{{ .NextInSection.Description }}</p>
+									<ul class="actions">
+										<li><a href="{{ .NextInSection.Permalink }}" class="button">{{ $data.post.linktext }}</a></li>
+									</ul>
+								</article>
+							{{else}}
+							{{end}}
+
+
+						</section>
 
 					</div>
 

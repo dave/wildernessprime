@@ -24,7 +24,7 @@
 					<div id="main">
 
 						{{ if and $highlight (eq $paginator.PageNumber 1) }}
-							{{ partial "posts/featured.html" (dict "firstpost" $first "siteData" (index .Site.Data .Site.Language.Lang)) }}
+							 {{ partial "posts/featured.html" (dict "firstpost" $first "siteData" (index .Site.Data .Site.Language.Lang)) }}
 						{{ end }}
 						
 						{{ partial "posts/list.html" (dict "posts" $paginator "siteData" (index .Site.Data .Site.Language.Lang)) }}
