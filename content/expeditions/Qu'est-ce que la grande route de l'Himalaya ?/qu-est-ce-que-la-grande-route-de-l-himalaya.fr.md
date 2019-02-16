@@ -26,6 +26,5 @@ description: "Qu’est ce que la grande route de l’Himalaya ?\n\nLa grande rou
   et d’assistance basée à Katmandou, qui organisera la livraison du matériel de réapprovisionnement
   nécessaire, principalement de nourriture et de combustible.\n"
 image: "/v1549565772/IMG_6460.jpg"
-draft: true
 
 ---
