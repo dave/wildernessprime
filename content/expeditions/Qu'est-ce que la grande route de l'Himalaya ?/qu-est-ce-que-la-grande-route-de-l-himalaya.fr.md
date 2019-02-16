@@ -1,7 +1,7 @@
 ---
 type: expedition
 layout: reports
-title: Qu'est-ce que la grande route de l'Himalaya ?
+title: Qu'est-ce que la grande traversée de l'Himalaya
 date: 2019-02-15 19:00:00 +0000
 description: "Qu’est ce que la grande route de l’Himalaya ?\n\nLa grande route de
   l’Himalaya (en anglais, The Great Himalaya Trail) est un enchaînement de plusieurs
