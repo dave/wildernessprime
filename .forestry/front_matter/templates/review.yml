@@ -22,13 +22,15 @@ fields:
 - type: text
   name: slug
   label: Url
-  description: Last part of the url of this page. Should be short, lower-case and hyphenated.
+  description: Last part of the url of this page. Should be short, lower-case and
+    hyphenated.
   config:
     required: true
 - type: text
   name: translationKey
   label: Key
-  description: This should always be set to the Url of the English version of this page.
+  description: This should always be set to the Url of the English version of this
+    page.
   config:
     required: true
 - type: text
