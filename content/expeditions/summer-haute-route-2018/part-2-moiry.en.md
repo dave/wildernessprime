@@ -1,5 +1,7 @@
 ---
 type: report
+slug: part-2-moiry
+translationKey: part-2-moiry
 date: 2018-09-09 00:00:00 +0000
 title: 'Part 2: Moiry'
 description: Lac de Moiry and the Cabane du Moiry

@@ -1,5 +1,7 @@
 ---
 type: report
+slug: what-is-the-great-himalaya-trail
+translationKey: what-is-the-great-himalaya-trail
 date: 2019-02-01 00:00:00 +0000
 title: What is the Great Himalaya Trail?
 description: A description of our trek

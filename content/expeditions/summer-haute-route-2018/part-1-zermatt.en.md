@@ -1,5 +1,7 @@
 ---
 type: report
+slug: part-1-zermatt
+translationKey: part-1-zermatt
 date: 2018-09-05 00:00:00 +0000
 title: 'Part 1: Zermatt'
 description: The first part of my journey from Zermatt along the Europaweg trail.

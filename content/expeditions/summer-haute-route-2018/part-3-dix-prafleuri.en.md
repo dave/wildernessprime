@@ -1,5 +1,7 @@
 ---
 type: report
+slug: part-3-dix-prafleuri
+translationKey: part-3-dix-prafleuri
 date: 2018-09-12 16:47:36 +0000
 title: 'Part 3: Dix, Prafleuri'
 description: Over the Pas de Chèvres, Mont Blanc de Cheilon, La Cabane des Dix

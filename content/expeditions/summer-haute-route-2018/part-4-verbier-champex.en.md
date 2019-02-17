@@ -1,5 +1,7 @@
 ---
 type: report
+slug: part-4-verbier-champex
+translationKey: part-4-verbier-champex
 date: 2018-09-15 00:00:00 +0000
 title: 'Part 4: Verbier, Champex'
 description: Onwards down to La Chable and Champex.

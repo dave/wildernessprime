@@ -1,5 +1,7 @@
 ---
 type: report
+slug: navigation
+translationKey: navigation
 title: Navigation
 description: How we prepared the maps for the Great Himalaya Trail.
 date: 2019-02-07 00:00:00 +0000

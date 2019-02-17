@@ -1,5 +1,7 @@
 ---
 type: report
+slug: navigation
+translationKey: navigation
 title: Préparation de la carte
 description: Comment nous avons préparé les cartes pour la grande traversée de l'Himalaya
 date: 2019-02-07 00:00:00 +0000

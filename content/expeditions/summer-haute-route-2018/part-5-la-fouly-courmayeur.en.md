@@ -1,5 +1,7 @@
 ---
 type: report
+slug: part-5-la-fouly-courmayeur
+translationKey: part-5-la-fouly-courmayeur
 date: 2018-09-18 00:00:00 +0000
 title: 'Part 5: La Fouly, Courmayeur'
 description: Over the pass to Italy and down the valley to Courmayeur.
