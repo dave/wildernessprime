@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilderness Prime</title>
+    <link>https://www.wildernessprime.com/fr/</link>
+    <description>Recent content on Wilderness Prime</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.wildernessprime.com/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Préparation de la carte</title>
+      <link>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/navigation/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/navigation/</guid>
+      <description>Des kilomètres de n&amp;rsquo;importe où &amp;hellip; Le bruit de la civilisation s&amp;rsquo;estompe : bienvenue dans le désert.</description>
+    </item>
+    
+    <item>
+      <title>Qu’est ce que la grande route de l’Himalaya?</title>
+      <link>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/quest-ce-que-la-grande-route-de-l-himalaya/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/quest-ce-que-la-grande-route-de-l-himalaya/</guid>
+      <description>La grande route de l’Himalaya (en anglais, The Great Himalaya Trail) est un enchaînement de plusieurs réseaux de sentiers d’alpinismes s’étendant sur la longueur totale du Népal, mais également sur le territoire Indien (dans plus de 10 états), Bhoutanais et Tibétain. Notre randonnée suivra la haute route de la section népalaises, de Kanchenjunga, à la frontière indienne, jusqu’à Hilsa, sur la frontière chinoise.
+La raison pour laquelle cette traverse se nomme &amp;ldquo;haute route&amp;rdquo;, est parce qu’elle emprunte les plus hauts sentiers praticables (jusqu’à maintenant) du pays, oscillants à une moyenne de 3750 mètres.</description>
+    </item>
+    
+    <item>
+      <title>Hyperlite Mountain Gear Ultamid 4</title>
+      <link>https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/</guid>
+      <description>Arrive bientôt.</description>
+    </item>
+    
+  </channel>
+</rss>

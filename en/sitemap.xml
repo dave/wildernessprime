@@ -35,6 +35,16 @@
   <url>
     <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/quest-ce-que-la-grande-route-de-l-himalaya/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail/"
+                />
   </url>
   
   <url>
@@ -53,28 +63,18 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-2-tbc/</loc>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-2-moiry/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/summer-haute-route-tour-du-mont-blanc/</loc>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-1-zermatt/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/expeditions/summer-haute-route-2018/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/expeditions/summer-haute-route-2018/"
-                />
   </url>
   
   <url>
