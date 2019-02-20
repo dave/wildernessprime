@@ -16,4 +16,4 @@ There are several companies that trek the Great Himalaya Trail fully supported..
 
 This route was easily cross referenced with Robin's guide book - obviously a large group always moves at the speed of the slowest member, so the fully supported itineraries moved quite a bit slower than we are hoping to. The guidebook gave us more realistic hiking times, along with various other sources I found online.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTy-LOOpyGNxg4KBZkGijPP1ChBIKZJq1yb5FtncV4zb_FdfMUbSbR5IGjDx1vIwZKjPECKwYgjBlUh/pubhtml?gid=1760925745&single=true&widget=true&headers=false" width="100%" height="400"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTy-LOOpyGNxg4KBZkGijPP1ChBIKZJq1yb5FtncV4zb_FdfMUbSbR5IGjDx1vIwZKjPECKwYgjBlUh/pubhtml?gid=1760925745&single=true&widget=true&headers=false&rm=minimal" width="100%" height="400"></iframe>
