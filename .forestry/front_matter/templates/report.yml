@@ -54,6 +54,7 @@ fields:
   label: Keywords
   description: Meta keywords for search engines
 pages:
+- content/expeditions/great-himalaya-trail-2019/itinerary.en.md
 - content/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail.en.md
 - content/expeditions/great-himalaya-trail-2019/navigation.en.md
 - content/expeditions/great-himalaya-trail-2019/navigation.fr.md
