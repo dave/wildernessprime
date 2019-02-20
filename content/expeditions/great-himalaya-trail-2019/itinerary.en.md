@@ -17,7 +17,7 @@ There are several companies that trek the Great Himalaya Trail fully supported..
 This route was easily cross referenced with Robin's guide book - obviously a large group always moves at the speed of the slowest member, so the fully supported itineraries moved quite a bit slower than we are hoping to. The guidebook gave us more realistic hiking times, along with various other sources I found online.
 
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>Day</th><th>Date</th><th>From</th><th>To</th><th>Hours</th><th>Start</th><th>Mid</th><th>End</th><th>Climb (m)</th><th>Descent (m)</th><th>Length (km)</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>Day</th><th>Date</th><th>From</th><th>To</th><th>Hours</th><th>Start</th><th>Mid</th><th>End</th><th>Climb</th><th>Descent</th><th>Length</th></tr></thead><tbody>
  <tr><td>1</td><td>15/04</td><td>Taplejung</td><td>Phurumbu</td><td>4.0</td><td>2,413</td><td>&nbsp;</td><td>1,677</td><td>63</td><td>797</td><td>9</td></tr>
  <tr><td>2</td><td>16/04</td><td>Phurumbu</td><td>Chiruwa</td><td>6.0</td><td>1,677</td><td>&nbsp;</td><td>1,270</td><td>616</td><td>1035</td><td>16</td></tr>
  <tr><td>3</td><td>17/04</td><td>Chiruwa</td><td>Sukethum</td><td>5.5</td><td>1,270</td><td>&nbsp;</td><td>1,575</td><td>539</td><td>215</td><td>10</td></tr>
