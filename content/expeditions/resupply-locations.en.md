@@ -14,7 +14,7 @@ Our general food strategy is to eat freshly cooked local food wherever possible,
 Our resupply points were picked by juggling a few variables:
 
 * How easy is it for our logistical assistance to get to the resupply point.  
-* How far from the last resupply point
+* How far from the last resupply point.  
 * How much we want to resupply with at the previous resupply point.  
 * How many days of food we want as a safety margin for this section.  
 
