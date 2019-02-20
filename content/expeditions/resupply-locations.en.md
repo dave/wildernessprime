@@ -13,16 +13,16 @@ Our general food strategy is to eat freshly cooked local food wherever possible,
 
 Our resupply points were picked by juggling a few variables:
 
-* How easy is it for our logistical assistance to get to the resupply point
+* How easy is it for our logistical assistance to get to the resupply point.  
 * How far from the last resupply point
-* How much we want to resupply with at the previous resupply point
-* How many days of food we want as a safety margin for this section
+* How much we want to resupply with at the previous resupply point.  
+* How many days of food we want as a safety margin for this section.  
 
 In the table below, we show some extra columns:
 
-* Resupply: the days we will receive resupply packages - the number indicates the days rations we'll have at the end of the day.
-* Food: The fraction of a days rations we'll be able to save by eating locally purchased food.
-* Rations: The number of days rations left at the end of the day
+* Resupply: the days we will receive resupply packages - the number indicates the days rations we'll have at the end of the day.  
+* Food: The fraction of a days rations we'll be able to save by eating locally purchased food.  
+* Rations: The number of days rations left at the end of the day.  
 
 <div style="width:100%; overflow:auto;">
 <table class="tableizer-table">
