@@ -27,7 +27,6 @@ In the table below, we show some extra columns:
 <div style="width:100%; overflow:auto;">
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Day</th><th>Date</th><th>Location</th><th>Resupply</th><th>Food</th><th>Rations</th></tr></thead><tbody>
-<tr><td>0</td><td>14/04</td><td> </td><td> </td><td> </td><td>0.0</td></tr>
 <tr><td>1</td><td>15/04</td><td>Phurumbu</td><td>4</td><td>0%</td><td>4.0</td></tr>
 <tr><td>2</td><td>16/04</td><td>Chiruwa</td><td> </td><td>66%</td><td>3.7</td></tr>
 <tr><td>3</td><td>17/04</td><td>Sukethum</td><td> </td><td>33%</td><td>3.0</td></tr>
