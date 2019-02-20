@@ -155,6 +155,6 @@ In the table below, we show some extra columns:
 <tr><td>126</td><td>18/08</td><td>Kermi</td><td> </td><td>33%</td><td>4.3</td></tr>
 <tr><td>127</td><td>19/08</td><td>Thumkot</td><td> </td><td>0%</td><td>3.3</td></tr>
 <tr><td>128</td><td>20/08</td><td>Yari</td><td> </td><td>0%</td><td>2.3</td></tr>
-<tr><td>129</td><td>21/08</td><td> </td><td> </td><td>66%</td><td>2.0</td></tr>
+<tr><td>129</td><td>21/08</td><td>Hilsa</td><td> </td><td>66%</td><td>2.0</td></tr>
 </tbody></table>
 </div>
