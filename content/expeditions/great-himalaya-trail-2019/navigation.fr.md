@@ -13,4 +13,8 @@ Une aussi longue aventure que celle-ci requiert une planification absolument irr
 
 ### SOURCES
 
-Nepal Trekking and the GREAT HIMALAYA TRAIL by Robin Boustead
+**Nepal Trekking and the GREAT HIMALAYA TRAIL by Robin Boustead**
+
+Ce guide est probablement la meilleure source que nous avons trouvé à propos de la Grande Traversée de l'Himalaya, Robin étant lui-même le pionnier de celle-ci.
+
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549881032/5026693-NOC02.jpg)
