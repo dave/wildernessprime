@@ -41,7 +41,7 @@ fields:
   label: Image
   description: Image (for site preview / social sharing)
 pages:
-- content/expeditions/great-himalaya-trail-2019/l-itinéraire.fr.md
+- content/expeditions/great-himalaya-trail-2019/_itinéraire.fr.md
 - content/expeditions/great-himalaya-trail-2019/L'itinéraire/l-itinéraire.fr.md
 - content/expeditions/summer-haute-route-2018/_index.en.md
 - content/expeditions/great-himalaya-trail-2019/_index.en.md
