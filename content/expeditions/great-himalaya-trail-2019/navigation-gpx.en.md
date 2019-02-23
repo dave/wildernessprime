@@ -23,4 +23,4 @@ To create this I used [gpsies.com](https://www.gpsies.com/ "www.gpsies.com"), wh
 
 While creating the flashcards I created 115 separate GPX files in this way, then merged them into a single GPX file containing 115 route segments. This was painstaking repetitive work that took several weeks! It should be noted that this route is only as accurate as the highlighted route on the paper maps, which will not be 100% accurate. However, most of it matches up almost perfectly with Seth's recorded track, so I'm optimistic that it's a good enough estimation.
 
-You can find the final file here.
+You can find the [final file here](https://www.dropbox.com/s/s5p5neji22fi0bu/flashcard-daily-routes-copied-from-map.gpx?dl=0 "flashcard-daily-routes-copied-from-map.gpx").
