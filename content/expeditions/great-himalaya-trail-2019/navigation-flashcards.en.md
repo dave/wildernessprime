@@ -18,11 +18,9 @@ Robin's guide book is excellent, but not organised optimally for a thru-hike of 
 * Stats from the GPX route including elevation range, min, max, total ascent and descent.
 * An elevation profile graph for the day from GPSies.
 
-Here's an example page:
+I'm intending to use these paper flashcards as our primary navigation for the simple sections, only referring to the GPS topo maps when we need to. Here's an example page:
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_1500,dpr_auto/v1550912095/example-1.jpg)
-
-I'm intending to use these paper flashcards as our primary navigation for the simple sections, only referring to the GPS topo maps when we need to.
 
 I would love to distribute the flashcards PDF, but since they contain most of the content from Robin's guide book, I can't really do that. Robin has the files and I've given him full permission to distribute them as he sees fit. He's a very nice chap - if you [buy the paper maps from his site](http://www.greathimalayatrail.com/ghtProductDetail.php?pid=MjM%3D) and ask him nicely I'm sure he'll send you a copy.
 
