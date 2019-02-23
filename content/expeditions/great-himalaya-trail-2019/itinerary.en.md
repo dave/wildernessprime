@@ -1,9 +1,9 @@
 ---
 type: report
 date: 2019-02-20 00:00:00 +0000
-slug: itinerary
-translationKey: itinerary
-title: Itinerary
+slug: itinerary-summary
+translationKey: itinerary-summary
+title: Itinerary - Summary
 description: The intended itinerary
 image: "/v1550689648/IMG_2635.jpg"
 keywords: []
