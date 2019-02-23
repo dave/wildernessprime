@@ -52,8 +52,8 @@ fields:
       type: simple
     required: true
     options:
-      - Dave
-      - Mathilde
+    - Dave
+    - Mathilde
   label: Author
   description: Who wrote the article
 - type: file
