@@ -23,5 +23,5 @@ fields:
   config:
     required: true
 pages:
-- content/about/_index.en.md
 - content/about/_index.fr.md
+- content/about/_index.en.md
