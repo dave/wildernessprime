@@ -20,7 +20,7 @@ Robin's guide book is excellent, but not organised optimally for a thru-hike of 
 
 Here's an example page:
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550912095/example-1.jpg)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_1500,dpr_auto/v1550912095/example-1.jpg)
 
 I'm intending to use these paper flashcards as our primary navigation for the simple sections, only referring to the GPS topo maps when we need to.
 
