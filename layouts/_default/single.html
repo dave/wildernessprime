@@ -42,10 +42,8 @@
 							{{if .PrevInSection}}
 								<article>
 									<header>
-										{{ if not .PrevInSection.Date.IsZero }}
-											<span class="date">{{ .PrevInSection.Date.Format "January 2, 2006" }}</span>
-										{{ end }}
-										<h2>{{ $data.post.prevtext }}: <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h2>
+										<span class="date">{{ $data.post.prevtext }}</span>
+										<h2><a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h2>
 									</header>
 									{{ if .PrevInSection.Params.image }}
 										<a href="{{ .PrevInSection.Permalink }}" class="image fit"><img src="{{ .PrevInSection.Site.Params.cloudinary_base_url }}/w_800,h_800,c_fill,g_auto{{ .PrevInSection.Params.image }}" alt="" /></a>
@@ -56,14 +54,27 @@
 									</ul>
 								</article>
 							{{else}}
+								{{ if .CurrentSection }}
+									<article>
+										<header>
+											<span class="date">{{ index $data.sections .CurrentSection.Params.type }}</span>
+											<h2><a href="{{ .CurrentSection.Permalink }}">{{ .CurrentSection.Title }}</a></h2>
+										</header>
+										{{ if .CurrentSection.Params.image }}
+											<a href="{{ .CurrentSection.Permalink }}" class="image fit"><img src="{{ .CurrentSection.Site.Params.cloudinary_base_url }}/w_800,h_800,c_fill,g_auto{{ .CurrentSection.Params.image }}" alt="" /></a>
+										{{ end }}
+										<p>{{ .CurrentSection.Description }}</p>
+										<ul class="actions">
+											<li><a href="{{ .CurrentSection.Permalink }}" class="button">{{ index $data.sections .CurrentSection.Params.type }}</a></li>
+										</ul>
+									</article>
+								{{ end }}
 							{{end}}
 							{{if .NextInSection}}
 								<article>
 									<header>
-										{{ if not .NextInSection.Date.IsZero }}
-											<span class="date">{{ .NextInSection.Date.Format "January 2, 2006" }}</span>
-										{{ end }}
-										<h2>{{ $data.post.nexttext }}: <a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a></h2>
+										<span class="date">{{ $data.post.nexttext }}</span>
+										<h2><a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a></h2>
 									</header>
 									{{ if .NextInSection.Params.image }}
 										<a href="{{ .NextInSection.Permalink }}" class="image fit"><img src="{{ .NextInSection.Site.Params.cloudinary_base_url }}/w_800,h_800,c_fill,g_auto{{ .NextInSection.Params.image }}" alt="" /></a>
@@ -74,6 +85,21 @@
 									</ul>
 								</article>
 							{{else}}
+								{{ if .CurrentSection }}
+									<article>
+										<header>
+											<span class="date">{{ index $data.sections .CurrentSection.Params.type }}</span>
+											<h2><a href="{{ .CurrentSection.Permalink }}">{{ .CurrentSection.Title }}</a></h2>
+										</header>
+										{{ if .CurrentSection.Params.image }}
+											<a href="{{ .CurrentSection.Permalink }}" class="image fit"><img src="{{ .CurrentSection.Site.Params.cloudinary_base_url }}/w_800,h_800,c_fill,g_auto{{ .CurrentSection.Params.image }}" alt="" /></a>
+										{{ end }}
+										<p>{{ .CurrentSection.Description }}</p>
+										<ul class="actions">
+											<li><a href="{{ .CurrentSection.Permalink }}" class="button">{{ index $data.sections .CurrentSection.Params.type }}</a></li>
+										</ul>
+									</article>
+								{{ end }}
 							{{end}}
 
 
