@@ -1,8 +1,15 @@
 ---
-label: Contributor
+label: Author
 hide_body: true
 is_partial: false
 fields:
+- type: text
+  name: type
+  label: Type
+  hidden: true
+  config:
+    required: true
+  default: author
 - type: text
   name: name
   label: Name

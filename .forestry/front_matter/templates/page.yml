@@ -4,7 +4,24 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  name: type
+  label: Type
+  hidden: true
+  config:
+    required: true
+  default: about
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  config:
+    required: true
+  default: about
+- type: text
   name: title
   label: Title
   config:
     required: true
+pages:
+  - content/about/_index.fr.md
+  - content/about/_index.en.md
