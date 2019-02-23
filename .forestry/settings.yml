@@ -34,7 +34,6 @@ sections:
 - type: document
   path: content/about/_index.en.md
   label: About
-  create: none
   templates:
   - page
 - type: heading
@@ -67,7 +66,6 @@ sections:
 - type: document
   path: content/about/_index.fr.md
   label: About
-  create: none
   templates:
   - page
 upload_dir: ''
