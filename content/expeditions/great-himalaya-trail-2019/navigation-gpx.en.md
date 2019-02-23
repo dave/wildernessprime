@@ -21,7 +21,7 @@ Seth's track is a great resource, but some sections deviate significantly from o
 
 To create this I used [gpsies.com](https://www.gpsies.com/ "www.gpsies.com"), which is an invaluable online service. A GPX route can be created by simply drawing points onto the map. A handy time-saver is the GraphHopper feature, which automatically adds a section of route by following footpaths. Not all the footpaths found on the topo maps have routable paths, but most do. Where footpaths weren't drawn on the map I've estimated the position of the trail from the 1:150k scale Himalaya Map House paper maps.
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_1200,dpr_auto/v1550946659/Screenshot%202019-02-23%20at%2009.29.48.jpg)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_1000,dpr_auto/v1550946659/Screenshot%202019-02-23%20at%2009.29.48.jpg)
 
 While creating the flashcards I created 115 separate GPX files in this way, then merged them into a single GPX file containing 115 route segments. This was painstaking repetitive work that took several weeks! It should be noted that this route is only as accurate as the highlighted route on the paper maps, which will not be 100% accurate. However, most of it matches up almost perfectly with Seth's recorded track, so I'm optimistic that it's a good enough estimation.
 
