@@ -1,9 +1,9 @@
 ---
 type: report
-slug: navigation
-translationKey: navigation
-title: Navigation
-description: How we prepared the maps for the Great Himalaya Trail.
+slug: navigation-sources
+translationKey: navigation-sources
+title: Navigation Sources
+description: The maps, guide books and navigation sources available for the GHT.
 date: 2019-02-07 00:00:00 +0000
 image: "/v1549882013/Screenshot%202019-02-08%20at%2019.16.18.jpg"
 keywords: []
