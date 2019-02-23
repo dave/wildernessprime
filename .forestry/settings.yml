@@ -57,7 +57,7 @@ sections:
   match: "*.fr.md"
   new_doc_ext: fr.md
   templates:
-    - author
+  - author
 upload_dir: ''
 public_path: https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto
 front_matter_path: ''
