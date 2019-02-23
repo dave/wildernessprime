@@ -18,4 +18,4 @@ params:
     - "reviews"
   pagesize: 6
 googleAnalytics: UA-135021930-1
-disqusShortname: wildernessprime
+# disqusShortname: wildernessprime
