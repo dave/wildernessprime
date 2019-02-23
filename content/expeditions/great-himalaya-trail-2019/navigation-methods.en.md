@@ -7,7 +7,6 @@ title: Navigation - Methods
 description: The navigation methods and resources we'll be using on the trek.
 image: "/v1550908450/IMG_2743.jpg"
 keywords: []
-draft: true
 
 ---
 Navigating with the aid of digital topo maps is a game changer for unsupported trekking. However, extreme care must be taken because digital devices often fail in the field. We will be using several backups to mitigate this:
