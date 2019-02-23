@@ -9,9 +9,19 @@ fields:
   config:
     required: true
 - type: text
-  name: bio
-  label: Bio
+  name: description
+  label: Description
+  description: Very short bio for the bottom of articles
   config:
+    required: true
+- type: textarea
+  name: biography
+  label: Biography
+  description: Longer bio for the About page
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
     required: true
 - type: file
   name: image
