@@ -63,6 +63,34 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/fr/contributors/dave/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/contributors/dave/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/contributors/dave/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/contributors/mathilde/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/contributors/mathilde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/contributors/mathilde/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -74,6 +102,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/contributors/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/contributors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/contributors/"
                 />
   </url>
   
