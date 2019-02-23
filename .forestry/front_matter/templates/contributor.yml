@@ -28,5 +28,5 @@ fields:
   label: Image
   description: Image
 pages:
-- content/contributors/mathilde.en.md
 - content/contributors/dave.en.md
+- content/contributors/mathilde.en.md
