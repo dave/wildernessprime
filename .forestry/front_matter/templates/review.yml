@@ -45,6 +45,17 @@ fields:
     150 characters.
   config:
     required: true
+- type: select
+  name: author
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+      - Dave
+      - Mathilde
+  label: Author
+  description: Who wrote the article
 - type: file
   name: image
   label: Image

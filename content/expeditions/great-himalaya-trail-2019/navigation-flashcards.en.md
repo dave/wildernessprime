@@ -7,7 +7,7 @@ title: Navigation - Flashcards
 description: I created a set of daily flashcards for the trek.
 image: "/v1550912501/IMG_1681.jpg"
 keywords: []
-
+author: Dave
 ---
 Robin's guide book is excellent, but not organised optimally for a thru-hike of the GHT. I created a set of flashcards, one for each day of our itinerary. They are intended to be printed on A5, double sided. Included in each page is:
 

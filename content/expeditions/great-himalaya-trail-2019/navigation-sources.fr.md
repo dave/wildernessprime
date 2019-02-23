@@ -7,7 +7,7 @@ description: Comment nous avons préparé les cartes pour la grande traversée d
 date: 2019-02-07 00:00:00 +0000
 image: "/v1549486862/media/nepal.jpg"
 keywords: []
-
+author: Dave
 ---
 Une aussi longue aventure que celle-ci requiert une planification absolument irréprochable, surtout en considérant le fait que nous nous aventureront dans dans les régions du Népal où le réseau de sentier n'est pas toujours repérable. Dans cet article, nous passerons à travers les différents outils qui nous ont permis d'organiser nos déplacements sur ces 1700km. Semblerait-il nécéssaire d'ajouter que la préparation de nos données de navigation fut d'un défi de taille étant donné l'importante superficie du territoire, et pour la simple raison que la plupart des routes ne sont pas marquées sur les cartes accessibles les plus détaillées.
 

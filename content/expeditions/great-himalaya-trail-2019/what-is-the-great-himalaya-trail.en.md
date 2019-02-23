@@ -7,7 +7,7 @@ title: What is the Great Himalaya Trail?
 description: A description of our trek
 image: "/v1550183014/IMG_2423.jpg"
 keywords: []
-
+author: Dave
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550183229/overview-map-5000.jpg)
 

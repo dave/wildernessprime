@@ -45,6 +45,17 @@ fields:
     150 characters.
   config:
     required: true
+- type: select
+  name: author
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+      - Dave
+      - Mathilde
+  label: Author
+  description: Who wrote the article
 - type: file
   name: image
   label: Image
@@ -53,17 +64,6 @@ fields:
   name: keywords
   label: Keywords
   description: Meta keywords for search engines
-- type: select
-  name: author
-  config:
-    source:
-      type: simple
-    required: true
-    options:
-    - Dave
-    - Mathilde
-  label: Author
-  description: Who wrote the article
 pages:
 - content/expeditions/great-himalaya-trail-2019/navigation-sources.en.md
 - content/expeditions/great-himalaya-trail-2019/itinerary-summary.en.md

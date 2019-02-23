@@ -9,7 +9,7 @@ description: 'La grande traversée de l''Himalaya (The Great Himalaya Trail) est
   du Népal, et atteingnant les plus hauts sommets de la planète. '
 image: "/v1550183014/IMG_2423.jpg"
 keywords: []
-
+author: Dave
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550183229/overview-map-5000.jpg)
 
