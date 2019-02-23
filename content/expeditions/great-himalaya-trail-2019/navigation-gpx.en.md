@@ -14,8 +14,8 @@ ViewRanger will provide topo maps of the entire trekking area, but these would b
 
 I've tried to bring all the available GPX resources together in this section:
 
-* Robin Boustead published a collection of waypoints at [greathimalayatrail.com](http://www.greathimalayatrail.com/gps.php?cId=2 "www.greathimalayatrail.com").
-* Seth Wolpin recorded a track of his entire thru-hike which is available with notes at [himalayanadventurelabs.com]().
+* Robin Boustead published a collection of waypoints at [greathimalayatrail.com](http://www.greathimalayatrail.com/gps.php?cId=2).
+* Seth Wolpin recorded a track of his entire thru-hike which is available with notes at [himalayanadventurelabs.com](https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/).
 
 Seth's track is a great resource, but some sections deviate significantly from our intended route. Robin's waypoints follow our route, but aren't connected with a track. I wanted a better option covering the whole route and following the Himalaya Map House paper maps. I also wanted each day of our itinerary to be a separate route segment. Finally I wanted each segment to match up with out paper flashcards (see Flashcards article), so I could extract the stats and elevation profile.
 
