@@ -5,9 +5,10 @@ slug: navigation-gpx
 translationKey: navigation-gpx
 title: Navigation - GPX routes
 description: How I created GPX files for the entire trail.
-image: "/v1550910806/Screenshot%202019-02-23%20at%2009.11.30.png"
+image: "/v1550943527/Screenshot%202019-02-23%20at%2018.37.51.jpg"
 keywords: []
 author: dave
+
 ---
 ViewRanger will provide topo maps of the entire trekking area, but these would be of limited use without the route highlighted. The GHT is infrequently trekked, so there's relatively few digital resources available. For the more popular ares, the ViewRanger topo maps often include footpaths - but for much of the trek there is nothing plotted on the map.
 
