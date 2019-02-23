@@ -54,7 +54,7 @@
 									</ul>
 								</article>
 							{{else}}
-								{{ if and .CurrentSection.Params.type .CurrentSection }}
+								{{ if .CurrentSection }}
 									<article>
 										<header>
 											<span class="date">{{ index $data.sections .CurrentSection.Params.type }}</span>
@@ -85,7 +85,7 @@
 									</ul>
 								</article>
 							{{else}}
-								{{ if and .CurrentSection.Params.type .CurrentSection }}
+								{{ if .CurrentSection }}
 									<article>
 										<header>
 											<span class="date">{{ index $data.sections .CurrentSection.Params.type }}</span>
