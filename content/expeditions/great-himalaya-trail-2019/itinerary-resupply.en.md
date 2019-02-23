@@ -7,7 +7,7 @@ title: Itinerary - Resupply
 description: Resupply locations and food tracking calculations
 image: "/v1550696069/IMG_2712.jpg"
 keywords: []
-author: Dave
+author: dave
 ---
 Our general food strategy is to eat freshly cooked local food wherever possible, and not to reply on buying unprepared food along the trail that we cook later. Remote villages often will have nothing to sell apart from perhaps rice, flour and lentils - not exactly calorie dense or backpacking stove compatible. In order to ensure we have enough food between resupply points, I've attempted to estimate where we'll be able to eat local food. When we're eating local food we're not using our rations.
 

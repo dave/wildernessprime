@@ -7,7 +7,7 @@ title: 'Part 1: Zermatt'
 description: The first part of my journey from Zermatt along the Europaweg trail.
 image: "/v1549618595/IMG_4255.jpg"
 keywords: []
-author: Dave
+author: dave
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549618595/IMG_4255.jpg)
 

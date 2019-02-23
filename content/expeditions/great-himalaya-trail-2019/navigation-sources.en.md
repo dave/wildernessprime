@@ -7,7 +7,7 @@ description: The maps, guide books and navigation sources available for the GHT.
 date: 2019-02-07 00:00:00 +0000
 image: "/v1549882013/Screenshot%202019-02-08%20at%2019.16.18.jpg"
 keywords: []
-author: Dave
+author: dave
 ---
 Navigation is critical for any expedition, and especially those venturing into remote areas where the trail network is more tenuous. You'll realise I'm a great believer in technology - however I'd like to point out from the outset that a paper map backup is always required.
 

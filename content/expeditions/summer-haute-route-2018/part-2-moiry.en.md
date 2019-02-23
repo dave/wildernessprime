@@ -7,7 +7,7 @@ title: 'Part 2: Moiry'
 description: Lac de Moiry and the Cabane du Moiry
 image: "/v1549630383/IMG_4301.jpg"
 keywords: []
-author: Dave
+author: dave
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549633470/IMG_4374.jpg)
 
