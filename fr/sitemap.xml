@@ -63,30 +63,45 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/fr/contributors/dave/</loc>
+    <loc>https://www.wildernessprime.com/fr/authors/dave/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wildernessprime.com/contributors/dave/"
+                href="https://www.wildernessprime.com/authors/dave/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.wildernessprime.com/fr/contributors/dave/"
+                href="https://www.wildernessprime.com/fr/authors/dave/"
                 />
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/fr/contributors/mathilde/</loc>
+    <loc>https://www.wildernessprime.com/fr/authors/mathilde/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wildernessprime.com/contributors/mathilde/"
+                href="https://www.wildernessprime.com/authors/mathilde/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.wildernessprime.com/fr/contributors/mathilde/"
+                href="https://www.wildernessprime.com/fr/authors/mathilde/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/authors/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/authors/"
                 />
   </url>
   
@@ -102,21 +117,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/fr/contributors/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/contributors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/contributors/"
                 />
   </url>
   
@@ -162,6 +162,20 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/about/"
                 />
   </url>
   
