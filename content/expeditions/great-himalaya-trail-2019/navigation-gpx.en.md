@@ -1,9 +1,9 @@
 ---
 type: report
 date: 2019-02-22 00:00:00 +0000
-slug: Navigation - GPX routes
+slug: navigation-gpx
 translationKey: navigation-gpx
-title: navigation-gpx
+title: Navigation - GPX routes
 description: How I created GPX files for the entire trail.
 image: "/v1550909541/Screenshot%202019-02-23%20at%2009.11.30.png"
 keywords: []
