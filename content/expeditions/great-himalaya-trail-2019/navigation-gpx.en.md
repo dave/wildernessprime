@@ -4,9 +4,23 @@ date: 2019-02-22 00:00:00 +0000
 slug: Navigation - GPX routes
 translationKey: navigation-gpx
 title: navigation-gpx
-description: How I created GPX files for the entire trail
-image: ''
+description: How I created GPX files for the entire trail.
+image: "/v1550909541/Screenshot%202019-02-23%20at%2009.11.30.png"
 keywords: []
 draft: true
 
 ---
+ViewRanger will provide topo maps of the entire trekking area, but these would be of limited use without the route highlighted. The GHT is infrequently trekked, so there's relatively few digital resources available. For the more popular ares, the ViewRanger topo maps often include footpaths - but for much of the trek there is nothing plotted on the map.
+
+I've tried to bring all the available GPX resources together in this section:
+
+* Robin Boustead published a collection of waypoints at [greathimalayatrail.com](http://www.greathimalayatrail.com/gps.php?cId=2 "www.greathimalayatrail.com").
+* Seth Wolpin recorded a track of his entire thru-hike which is available with notes at [himalayanadventurelabs.com]().
+
+Seth's track is a great resource, but some sections deviate significantly from our intended route. Robin's waypoints follow our route, but aren't connected with a track. I wanted a better option covering the whole route and following the Himalaya Map House paper maps. I also wanted each day of our itinerary to be a separate route segment. Finally I wanted each segment to match up with out paper flashcards (see Flashcards article), so I could extract the stats and elevation profile.
+
+To create this I used [gpsies.com](https://www.gpsies.com/ "www.gpsies.com"), which is an invaluable online service. A GPX route can be created by simply drawing points onto the map. A handy time-saver is the GraphHopper feature, which automatically adds a section of route by following footpaths. Not all the footpaths found on the topo maps have routable paths, but most do. Where footpaths weren't drawn on the map I've estimated the position of the trail from the 1:150k scale Himalaya Map House paper maps. 
+
+While creating the flashcards I created 115 separate GPX files in this way, then merged them into a single GPX file containing 115 route segments. This was painstaking repetitive work that took several weeks! It should be noted that this route is only as accurate as the highlighted route on the paper maps, which will not be 100% accurate. However, most of it matches up almost perfectly with Seth's recorded track, so I'm optimistic that it's a good enough estimation.
+
+You can find the final file here.
