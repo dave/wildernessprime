@@ -11,15 +11,17 @@ keywords: []
 ---
 Navigation is critical for any expedition, and especially those venturing into remote areas where the trail network is more tenuous. You'll realise I'm a great believer in technology - however I'd like to point out from the outset that a paper map backup is always required.
 
-In this article I'm going to go through some of the preparation I'm doing for navigating the 1700km GHT. This trail posed my biggest challenge to date. The distances are vast and the trails are often not even marked on the most detailed maps available.
-
-## Sources
+In this article I'm going to go through some of the sources that are available for navigating the the 1300km Great Himalaya Trail. This posed my biggest navigation challenge to date. The distances are vast and the trails are often not even marked on the most detailed maps available.
 
 ### Guide book
 
 The guide book from Robin Boustead is the best source I've found about the GHT. Robin essentially invented the Great Himalaya Trail, and pioneered the route which links up more established trails with the more remote areas and high mountain passes. The guide book has a detailed itinerary and descriptions for each day. [Here's a link](https://www.amazon.com/dp/1905864604).
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549881032/5026693-NOC02.jpg)
+
+### Himalayan Adventure Labs
+
+Seth Wolpin and friends over at Himalayan Adventure Labs have some great GPX files, notes and tips from their 2014 trek. You can find them at [www.himalayanadventurelabs.com](https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/).
 
 ### Himalaya Map House topo maps
 
