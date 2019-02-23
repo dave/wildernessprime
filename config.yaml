@@ -17,4 +17,4 @@ params:
     - "expeditions"
     - "reviews"
   pagesize: 6
-googleAnalytics: UA-135021930-1
+  googleAnalytics: UA-135021930-1
