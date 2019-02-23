@@ -24,6 +24,6 @@ Here's an example page:
 
 I'm intending to use these paper flashcards as our primary navigation for the simple sections, only referring to the GPS topo maps when we need to.
 
-I had a set of these flashcards printed on waterproof 115gsm Xerox NeverTear paper by \[ColourGraphics\](https://www.colourgraphics.com/). I couldn't be happier with the results - they're perfect:
+I had a set of these flashcards printed on waterproof 115gsm Xerox NeverTear paper by [ColourGraphics](https://www.colourgraphics.com/). I couldn't be happier with the results - they're perfect:
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550912501/IMG_1681.jpg)
