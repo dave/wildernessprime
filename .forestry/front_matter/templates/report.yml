@@ -54,6 +54,7 @@ fields:
   label: Keywords
   description: Meta keywords for search engines
 pages:
+- content/expeditions/great-himalaya-trail-2019/navigation-flashcards.en.md
 - content/expeditions/great-himalaya-trail-2019/navigation-gpx.en.md
 - content/expeditions/great-himalaya-trail-2019/navigation-methods.en.md
 - content/expeditions/great-himalaya-trail-2019/navigation.fr.md
