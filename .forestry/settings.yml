@@ -24,13 +24,13 @@ sections:
   templates:
   - review
 - type: directory
-  path: content/contributors
-  label: Contributors
+  path: content/authors
+  label: Authors
   create: all
   match: "*.en.md"
   new_doc_ext: en.md
   templates:
-  - contributor
+  - author
 - type: heading
   label: Français
 - type: directory
@@ -51,13 +51,13 @@ sections:
   templates:
   - review
 - type: directory
-  path: content/contributors
-  label: Contributors
+  path: content/authors
+  label: Authors
   create: all
   match: "*.fr.md"
   new_doc_ext: fr.md
   templates:
-  - contributor
+  - author
 upload_dir: ''
 public_path: https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto
 front_matter_path: ''

@@ -15,9 +15,9 @@
 
 		<h1 id="title">{{ .Title }}</h1>
 
-		{{ partial "posts/list.html" (dict "posts" $paginator "siteData" (index .Site.Data .Site.Language.Lang)) }}
+		{{ partial "posts/list.html" (dict "posts" $paginator "Site" .Site) }}
 
-		{{ partial "posts/pagination.html" (dict "paginator" $paginator "siteData" (index .Site.Data .Site.Language.Lang)) }}
+		{{ partial "posts/pagination.html" (dict "paginator" $paginator "Site" .Site) }}
 		
 	</div>
 

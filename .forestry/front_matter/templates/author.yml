@@ -9,6 +9,9 @@ fields:
   config:
     required: true
 - type: text
+  name: contact
+  label: Contact URL (optional)
+- type: text
   name: description
   label: Description
   description: Very short bio for the bottom of articles
@@ -28,5 +31,5 @@ fields:
   label: Image
   description: Image
 pages:
-- content/contributors/mathilde.en.md
-- content/contributors/dave.en.md
+- content/authors/mathilde.en.md
+- content/authors/dave.en.md

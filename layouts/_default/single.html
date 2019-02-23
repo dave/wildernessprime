@@ -26,6 +26,10 @@
 								</div>
 							{{ end }}
 
+							{{ if .Params.author }}
+								{{ partial "author" (dict "author" (.Site.GetPage (printf "/authors/%s.%s.md" .Params.author .Site.Language.Lang )) "Site" .Site) }}
+							{{ end }}
+							
                             {{ partial "postcustom" . }}
                             
                             {{ if not (eq .Params.disableComments true) }}

@@ -1,0 +1,13 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+pages:
+- content/about/_index.fr.md
+- content/about/_index.en.md

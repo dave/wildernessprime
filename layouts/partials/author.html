@@ -1,0 +1,15 @@
+<!-- Author -->
+{{ $author := .author }}
+{{ $about := .Site.GetPage (printf "/about/_index.%s.md" .Site.Language.Lang) }}
+<div class="box">
+	<span class="image left">
+		<a class="image fit" href="{{ $about.Permalink }}" ><img src="{{ .Site.Params.cloudinary_base_url }}/w_100,h_100,c_fill,g_auto{{ $author.Params.image }}" alt="{{ $author.Params.name }}" /></a>
+	</span>
+	<h4 style="margin-top: 0.5rem;margin-bottom: 0.5rem;">
+		{{ $author.Params.name }}
+	</h4>
+	<p>
+		{{ $author.Params.description }}
+	</p>
+	<div style="clear:both;"></div>
+</div>

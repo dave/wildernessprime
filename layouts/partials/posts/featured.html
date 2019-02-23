@@ -1,5 +1,5 @@
 <!-- Featured Post -->
-{{ $data := .siteData }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
 {{ range .firstpost }}
 <article class="post featured">
     <header class="major">
