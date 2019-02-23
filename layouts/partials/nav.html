@@ -67,9 +67,12 @@
         {{ with .lastfm }}
         <li><a href="{{ . }}" class="icon fa-lastfm"><span class="label">Last.fm</span></a></li>
         {{ end }}
+        <!--
         {{ with .flickr }}
         <li><a href="{{ . }}" class="icon fa-flickr"><span class="label">Flickr</span></a></li>
         {{ end }}
+        -->
+        <li><a href="/index.xml" class="icon fa-rss"><span class="label">RSS</span></a></li>
     </ul>
     {{ end }}
 </nav>
