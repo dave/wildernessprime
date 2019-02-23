@@ -2,13 +2,13 @@
 {{ $author := .author }}
 {{ $about := .Site.GetPage (printf "/about/_index.%s.md" .Site.Language.Lang) }}
 <div class="box">
-	<span class="image left">
-		<a class="image fit" href="{{ $about.Permalink }}" ><img src="{{ .Site.Params.cloudinary_base_url }}/w_100,h_100,c_fill,g_auto{{ $author.Params.image }}" alt="{{ $author.Params.name }}" /></a>
+	<span class="image left" style="margin-bottom: 1.5rem;">
+		<a class="image fit" style="margin-bottom:0;" href="{{ $about.Permalink }}"><img src="{{ .Site.Params.cloudinary_base_url }}/w_100,h_100,c_fill,g_auto{{ $author.Params.image }}" alt="{{ $author.Params.name }}" /></a>
 	</span>
-	<h4 style="margin-top: 0.5rem;margin-bottom: 0.5rem;">
+	<h4 style="margin-top: 0.75rem; margin-bottom: 0;">
 		{{ $author.Params.name }}
 	</h4>
-	<p>
+	<p style="margin-bottom: 1.5rem;">
 		{{ $author.Params.description }}
 	</p>
 	<div style="clear:both;"></div>
