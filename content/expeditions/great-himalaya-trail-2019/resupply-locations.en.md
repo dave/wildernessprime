@@ -1,10 +1,10 @@
 ---
 type: report
 date: 2019-02-20 12:01:00 +0000
-slug: resupply
-translationKey: resupply
-title: Resupply locations
-description: Where we will be resupplying and food tracking
+slug: itinerary-resupply
+translationKey: itinerary-resupply
+title: Itinerary - Resupply
+description: Resupply locations and food tracking calculations
 image: "/v1550696069/IMG_2712.jpg"
 keywords: []
 
