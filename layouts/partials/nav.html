@@ -2,7 +2,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 <nav id="nav">
     <ul class="links">
-        <li class="active"><a href='{{ "/" | relLangURL }}'>{{ .Site.Title }}</a></li>
+        <li class="active" style="white-space:nowrap;"><a href='{{ "/" | relLangURL }}'>{{ .Site.Title }}</a></li>
 
         {{ with $data.contactinfo }}
             <li><a href='{{ "#footer" | relLangURL }}'>{{ i18n "NAV_CONTACT" . }}</a></li>
@@ -17,13 +17,13 @@
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
             {{ if .HasChildren }}
-                <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                <li style="white-space:nowrap;" class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
                     <a href="#">
                         {{ .Pre }}
                         <span>{{ .Name }}</span>
                     </a>
                 </li>
-                <ul class="sub-menu">
+                <ul class="sub-menu" style="white-space:nowrap;">
                     {{ range .Children }}
                         <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
                             <a href="{{ .URL }}">{{ .Name }}</a>
@@ -31,7 +31,7 @@
                     {{ end }}
                 </ul>
             {{ else }}
-                <li>
+                <li style="white-space:nowrap;">
                     <a href="{{ .URL }}">
                         {{ .Pre }}
                         <span>{{ .Name }}</span>
