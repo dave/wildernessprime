@@ -13,17 +13,14 @@
 	<!-- Main -->
 	<div id="main">
 
+		{{ if .Content }}
 		<!-- Post -->
 		<section class="post">
-			{{ if .Content }}
-				<div class="content">
-					{{ .Content }}
-				</div>
-			{{ end }}
+			<div class="content">
+				{{ .Content }}
+			</div>
 		</section>
-
-		
-		
+		{{ end }}
 
 		<section class="posts">
 			{{ range $authors }}
