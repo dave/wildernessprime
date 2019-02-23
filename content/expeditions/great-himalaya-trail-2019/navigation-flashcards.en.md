@@ -5,7 +5,7 @@ slug: navigation-flashcards
 translationKey: navigation-flashcards
 title: Navigation - Flashcards
 description: I created a set of daily flashcards for the trek.
-image: "/v1550912095/example-1.jpg"
+image: "/v1550912501/IMG_1681.jpg"
 keywords: []
 draft: true
 
