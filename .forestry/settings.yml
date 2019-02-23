@@ -30,7 +30,7 @@ sections:
   match: "*.en.md"
   new_doc_ext: en.md
   templates:
-    - contributor
+  - contributor
 - type: heading
   label: Français
 - type: directory
@@ -57,7 +57,7 @@ sections:
   match: "*.fr.md"
   new_doc_ext: fr.md
   templates:
-    - contributor
+  - contributor
 upload_dir: ''
 public_path: https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto
 front_matter_path: ''
