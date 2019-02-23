@@ -1,0 +1,21 @@
+---
+label: Contributor
+is_partial: false
+fields:
+- type: text
+  name: name
+  label: Name
+  config:
+    required: true
+- type: text
+  name: bio
+  label: Bio
+  config:
+    required: true
+- type: file
+  name: image
+  label: Image
+  description: Image
+pages:
+- content/contributors/dave.en.md
+- content/contributors/mathilde.en.md
