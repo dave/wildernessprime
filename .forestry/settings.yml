@@ -31,6 +31,12 @@ sections:
   new_doc_ext: en.md
   templates:
   - author
+- type: document
+  path: content/about/_index.en.md
+  label: About
+  create: none
+  templates:
+  - page
 - type: heading
   label: Français
 - type: directory
@@ -58,6 +64,12 @@ sections:
   new_doc_ext: fr.md
   templates:
   - author
+- type: document
+  path: content/about/_index.fr.md
+  label: About
+  create: none
+  templates:
+  - page
 upload_dir: ''
 public_path: https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto
 front_matter_path: ''
