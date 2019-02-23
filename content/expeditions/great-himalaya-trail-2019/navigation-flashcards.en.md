@@ -24,7 +24,7 @@ Here's an example page:
 
 I'm intending to use these paper flashcards as our primary navigation for the simple sections, only referring to the GPS topo maps when we need to.
 
-I would love to distribute the flashcards PDF, but since they contain most of the content from Robin's guide book, I can't really do that. Robin has the files and I've given him full permission to distribute them as he sees fit.
+I would love to distribute the flashcards PDF, but since they contain most of the content from Robin's guide book, I can't really do that. Robin has the files and I've given him full permission to distribute them as he sees fit. He's a very nice chap - if you [buy the paper maps from his site](http://www.greathimalayatrail.com/ghtProductDetail.php?pid=MjM%3D) and ask him nicely I'm sure he'll send you a copy.
 
 I had a set printed on waterproof 115gsm Xerox NeverTear paper by [ColourGraphics](https://www.colourgraphics.com/). I couldn't be happier with the results - they're perfect:
 
