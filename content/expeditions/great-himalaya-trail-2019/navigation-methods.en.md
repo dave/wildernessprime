@@ -4,7 +4,7 @@ date: 2019-02-23 00:00:00 +0000
 slug: navigation-methods
 translationKey: navigation-methods
 title: Navigation - Methods
-description: The methods we'll be using and resources we'll be using on the trek.
+description: The navigation methods and resources we'll be using on the trek.
 image: "/v1550908450/IMG_2743.jpg"
 keywords: []
 draft: true
