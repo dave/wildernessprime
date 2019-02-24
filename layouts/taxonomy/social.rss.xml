@@ -1,6 +1,6 @@
 {{ define "posts" }}
     {{ $data := index .Site.Data .Site.Language.Lang }}
-    {{ $posts := where .Site.Pages ".Params.social_posts" true }}
+    {{ $posts := where (where .Site.Pages ".Params.social_posts" true) ".Lang" "en" }}
     {{ range $posts }}
         <item>
             <title>{{ .Title }}</title>
