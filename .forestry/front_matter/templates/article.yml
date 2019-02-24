@@ -92,6 +92,18 @@ fields:
   name: facebook_post
   label: Facebook post override (optional)
   description: If you want special text for the Facebook post, add it here.
+- type: textarea
+  name: twitter_post
+  label: Twitter post override (optional)
+  description: If you want special text for the Twitter post, add it here.
+- type: textarea
+  name: instagram_post
+  label: Instagram post override (optional)
+  description: If you want special text for the Instagram post, add it here.
+- type: textarea
+  name: pinterest_post
+  label: Pinterest post override (optional)
+  description: If you want special text for the Pinterest post, add it here.
 pages:
 - content/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail.en.md
 - content/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail.fr.md
