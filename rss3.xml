@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    
+    
+    <channel>
+        <webfeeds:analytics id="UA-135021930-1" engine="GoogleAnalytics" />
+        <webfeeds:cover image="https://res.cloudinary.com/wildernessprime/image/upload/w_1600,h_800,c_fill,g_auto/v1551006985/IMG_2529%20%282%29.jpg" />
+        <title>Wilderness Prime</title>
+        <link>https://www.wildernessprime.com/</link>
+        <description>Recent content on Wilderness Prime</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <managingEditor>dave@wildernessprime.com (Dave Brophy)</managingEditor>
+        <webMaster>dave@wildernessprime.com (Dave Brophy)</webMaster>
+        
+        <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://www.wildernessprime.com/rss3.xml" rel="self" type="application/rss&#43;xml" />
+        
+        <item>
+            <title>Navigation - Flashcards</title>
+            <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-flashcards/</link>
+            <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-flashcards/</guid>
+            <description>&lt;h1&gt;I created a set of daily flashcards for our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;Robin&amp;rsquo;s guide book is excellent, but not organised optimally for a thru-hike of the GHT. I created a set of flashcards, one for each day of our itinerary. They are intended to be printed on A5, double sided. Included in each page is:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The description from Robin&amp;rsquo;s guide book.&lt;/li&gt;
+&lt;li&gt;Additional description from Himalaya Adventure Labs (marked with &lt;em&gt;HAL&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;A crop from the Himalaya Map House 1:150k raster map.&lt;/li&gt;
+&lt;li&gt;Stats from the GPX route including elevation range, min, max, total ascent and descent.&lt;/li&gt;
+&lt;li&gt;An elevation profile graph for the day from GPSies.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;m intending to use these paper flashcards as our primary navigation for the simple sections, only referring to the GPS topo maps when we need to. Here&amp;rsquo;s an example page:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_1500,dpr_auto/v1550912095/example-1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I would love to distribute the flashcards PDF, but since they contain most of the content from Robin&amp;rsquo;s guide book, I can&amp;rsquo;t really do that. Robin has the files and I&amp;rsquo;ve given him full permission to distribute them as he sees fit. He&amp;rsquo;s a very nice chap - if you &lt;a href=&#34;http://www.greathimalayatrail.com/ghtProductDetail.php?pid=MjM%3D&#34;&gt;buy the paper maps from his site&lt;/a&gt; and ask him nicely I&amp;rsquo;m sure he&amp;rsquo;ll send you a copy.&lt;/p&gt;
+
+&lt;p&gt;I had a set printed on waterproof 115gsm Xerox NeverTear paper by &lt;a href=&#34;https://www.colourgraphics.com/&#34;&gt;ColourGraphics&lt;/a&gt;. I couldn&amp;rsquo;t be happier with the results - they&amp;rsquo;re perfect:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550912501/IMG_1681.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550912501/IMG_1681.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Navigation - GPX routes</title>
+            <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-gpx/</link>
+            <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-gpx/</guid>
+            <description>&lt;h1&gt;How I created GPX files for our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;ViewRanger will provide topo maps of the entire trekking area, but these would be of limited use without the route highlighted. The GHT is infrequently trekked, so there&amp;rsquo;s relatively few digital resources available. For the more popular ares, the ViewRanger topo maps often include footpaths - but for much of the trek there is nothing plotted on the map.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve tried to bring all the available GPX resources together in this section:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Robin Boustead published a collection of waypoints at &lt;a href=&#34;http://www.greathimalayatrail.com/gps.php?cId=2&#34;&gt;greathimalayatrail.com&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Seth Wolpin recorded a track of his entire thru-hike which is available with notes at &lt;a href=&#34;https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/&#34;&gt;himalayanadventurelabs.com&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Seth&amp;rsquo;s track is a great resource, but some sections deviate significantly from our intended route. Robin&amp;rsquo;s waypoints follow our route, but aren&amp;rsquo;t connected with a track. I wanted a better option covering the whole route and following the Himalaya Map House paper maps. I also wanted each day of our itinerary to be a separate route segment. Finally I wanted each segment to match up with our paper flashcards (see &lt;a href=&#34;https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-flashcards/&#34;&gt;Flashcards&lt;/a&gt; article), so I could extract the stats and elevation profile.&lt;/p&gt;
+
+&lt;p&gt;To create this I used &lt;a href=&#34;https://www.gpsies.com/&#34; title=&#34;www.gpsies.com&#34;&gt;gpsies.com&lt;/a&gt;, which is an invaluable online service. A GPX route can be created by simply drawing points onto the map. A handy time-saver is the GraphHopper feature, which automatically adds a section of route by following footpaths. Not all the footpaths found on the topo maps have routable paths, but most do. Where footpaths weren&amp;rsquo;t drawn on the map I&amp;rsquo;ve estimated the position of the trail from the 1:150k scale Himalaya Map House paper maps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_1000,dpr_auto/v1550946659/Screenshot%202019-02-23%20at%2009.29.48.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While creating the flashcards I created 115 separate GPX files in this way, then merged them into a single GPX file containing 115 route segments. This was painstaking repetitive work that took several weeks! It should be noted that this route is only as accurate as the highlighted route on the paper maps, which will not be 100% accurate. However, most of it matches up almost perfectly with Seth&amp;rsquo;s recorded track, so I&amp;rsquo;m optimistic that it&amp;rsquo;s a good enough estimation.&lt;/p&gt;
+
+&lt;p&gt;You can find the &lt;a href=&#34;https://www.dropbox.com/s/s5p5neji22fi0bu/flashcard-daily-routes-copied-from-map.gpx?dl=0&#34; title=&#34;flashcard-daily-routes-copied-from-map.gpx&#34;&gt;final file here&lt;/a&gt;.&lt;/p&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550943527/Screenshot%202019-02-23%20at%2018.37.51.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Navigation - Methods</title>
+            <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-methods/</link>
+            <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-methods/</guid>
+            <description>&lt;h1&gt;The navigation methods and resources we&#39;ll be using on our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;Navigating with the aid of digital topo maps is a game changer for unsupported trekking. However, extreme care must be taken because digital devices often fail in the field. We will be using several backups to mitigate this:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;My iPhone with topo mapping, offline maps and GPX route.&lt;/li&gt;
+&lt;li&gt;Mathilde&amp;rsquo;s phone with similar setup.&lt;/li&gt;
+&lt;li&gt;Backup iPod touch with similar setup.&lt;/li&gt;
+&lt;li&gt;Garmin Fenix 5 GPS watch with waypoints and analogue compass (see Emergency Navigation article).&lt;/li&gt;
+&lt;li&gt;Backup 13,000mAh battery with 21W solar panel.&lt;/li&gt;
+&lt;li&gt;Daily flashcards for the intended route with map snapshots, descriptions and elevation profile (see &lt;a href=&#34;https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-flashcards/&#34;&gt;Flashcards&lt;/a&gt; article).&lt;/li&gt;
+&lt;li&gt;Himalaya Map House paper maps - 1:150k covering a wide area with alternate routes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We&amp;rsquo;ll use the paper flashcards to get an overview of the day, and as primary navigation on simple days. As the route gets more tricky we&amp;rsquo;ll fall back on our phones, running the ViewRanger topo mapping app with offline mapping for the entire trekking region. I have an old iPod touch which has also been configured with this app for another backup. For emergency navigation in bad conditions we&amp;rsquo;ll use my Garmin Fenix GPS watch with an analogue compass. See the Emergency Navigation article on how this is used. Finally as a paper backup we&amp;rsquo;ll be carrying the Himalaya Map House paper maps which cover the entire trekking region with many other alternate trails marked.&lt;/p&gt;
+
+&lt;p&gt;We have spent considerable time planning the ideal route along the GHT High Route. This will undoubtably change as the trek progresses&amp;hellip; However the alternate trails will lead south towards lower elevations which usually have more population and services&amp;hellip; so the navigation should get easier as we deviate from the High Route.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It should be noted that ViewRanger is not particularly efficient at downloading offline maps, so getting the entire GHT route map area was a major task. The maximum area that can be downloaded in one go it quite small, so I needed sixteen chunks to get the whole route. Each chunk took several hours, and the operation would pause if the app was not running in the foreground. I found the only reliable way to get it done without quarantining my phone was to start each chunk downloading before I went to bed and leave the phone on charge, turned on with the app running in the foreground. This way the process took almost two weeks. I repeated the entire process with my backup iPod touch.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550908450/IMG_2743.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Itinerary - Resupply</title>
+            <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/itinerary-resupply/</link>
+            <pubDate>Wed, 20 Feb 2019 12:01:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/itinerary-resupply/</guid>
+            <description>&lt;h1&gt;Resupply locations and food tracking calculations for our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;Our general food strategy is to eat freshly cooked local food wherever possible, and not to reply on buying unprepared food along the trail that we cook later. Remote villages often will have nothing to sell apart from perhaps rice, flour and lentils - not exactly calorie dense or backpacking stove compatible. In order to ensure we have enough food between resupply points, I&amp;rsquo;ve attempted to estimate where we&amp;rsquo;ll be able to eat local food. When we&amp;rsquo;re eating local food we&amp;rsquo;re not using our rations.&lt;/p&gt;
+
+&lt;p&gt;Our resupply points were picked by juggling a few variables:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How easy is it for our logistical assistance to get to the resupply point.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;How far from the last resupply point.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;How much we want to resupply with at the previous resupply point.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;How many days of food we want as a safety margin for this section.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the table below, we show some extra columns:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Resupply: the days we will receive resupply packages - the number indicates the days rations we&amp;rsquo;ll have at the end of the day.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Food: The fraction of a days rations we&amp;rsquo;ll be able to save by eating locally purchased food.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Rations: The number of days rations left at the end of the day.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;width:100%; overflow:auto;&#34;&gt;
+&lt;table class=&#34;tableizer-table&#34;&gt;
+&lt;thead&gt;&lt;tr class=&#34;tableizer-firstrow&#34;&gt;&lt;th&gt;Day&lt;/th&gt;&lt;th&gt;Date&lt;/th&gt;&lt;th&gt;Location&lt;/th&gt;&lt;th&gt;Resupply&lt;/th&gt;&lt;th&gt;Food&lt;/th&gt;&lt;th&gt;Rations&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;15/04&lt;/td&gt;&lt;td&gt;Phurumbu&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;16/04&lt;/td&gt;&lt;td&gt;Chiruwa&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;3.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;17/04&lt;/td&gt;&lt;td&gt;Sukethum&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;33%&lt;/td&gt;&lt;td&gt;3.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;18/04&lt;/td&gt;&lt;td&gt;Amjilosa&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;19/04&lt;/td&gt;&lt;td&gt;Gyabla&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;20/04&lt;/td&gt;&lt;td&gt;Ghunsa&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;21/04&lt;/td&gt;&lt;td&gt;Khangpachen&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;22/04&lt;/td&gt;&lt;td&gt;Khangpachen&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;23/04&lt;/td&gt;&lt;td&gt;Lhonak&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;24/04&lt;/td&gt;&lt;td&gt;Lhonak&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;3.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;25/04&lt;/td&gt;&lt;td&gt;Kanchenjunga BC&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;26/04&lt;/td&gt;&lt;td&gt;Kangpachen&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;27/04&lt;/td&gt;&lt;td&gt;Ghunsa&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;10.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;28/04&lt;/td&gt;&lt;td&gt;Kharka&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;29/04&lt;/td&gt;&lt;td&gt;Yangma Khola&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;30/04&lt;/td&gt;&lt;td&gt;Olangchun Gola&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;7.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;01/05&lt;/td&gt;&lt;td&gt;Pass Camp&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;6.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;02/05&lt;/td&gt;&lt;td&gt;Thudam&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;5.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;03/05&lt;/td&gt;&lt;td&gt;Thudam&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;4.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;04/05&lt;/td&gt;&lt;td&gt;Kharka&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;3.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;21&lt;/td&gt;&lt;td&gt;05/05&lt;/td&gt;&lt;td&gt;Chyamtang&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;3.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;06/05&lt;/td&gt;&lt;td&gt;Hongon&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;3.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;23&lt;/td&gt;&lt;td&gt;07/05&lt;/td&gt;&lt;td&gt;Molun Pokhari&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;2.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;08/05&lt;/td&gt;&lt;td&gt;Cave Camp&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;09/05&lt;/td&gt;&lt;td&gt;Kharka&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;0.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;26&lt;/td&gt;&lt;td&gt;10/05&lt;/td&gt;&lt;td&gt;Langmale Kharka&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;10.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;27&lt;/td&gt;&lt;td&gt;11/05&lt;/td&gt;&lt;td&gt;Makalu BC&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;10.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;28&lt;/td&gt;&lt;td&gt;12/05&lt;/td&gt;&lt;td&gt;Makalu BC&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;10.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;29&lt;/td&gt;&lt;td&gt;13/05&lt;/td&gt;&lt;td&gt;Swiss BC&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;30&lt;/td&gt;&lt;td&gt;14/05&lt;/td&gt;&lt;td&gt;Swiss BC&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;31&lt;/td&gt;&lt;td&gt;15/05&lt;/td&gt;&lt;td&gt;Sherpani Col BC&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;32&lt;/td&gt;&lt;td&gt;16/05&lt;/td&gt;&lt;td&gt;Advanced BC&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;33&lt;/td&gt;&lt;td&gt;17/05&lt;/td&gt;&lt;td&gt;Honku Basin&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;34&lt;/td&gt;&lt;td&gt;18/05&lt;/td&gt;&lt;td&gt;Amphu Labsta BC&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;19/05&lt;/td&gt;&lt;td&gt;Amphu Labsta BC&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;3.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;36&lt;/td&gt;&lt;td&gt;20/05&lt;/td&gt;&lt;td&gt;Chhukung&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;21/05&lt;/td&gt;&lt;td&gt;Dingboche&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;33%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;38&lt;/td&gt;&lt;td&gt;22/05&lt;/td&gt;&lt;td&gt;Lobuche&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;39&lt;/td&gt;&lt;td&gt;23/05&lt;/td&gt;&lt;td&gt;Gorak Shep&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;40&lt;/td&gt;&lt;td&gt;24/05&lt;/td&gt;&lt;td&gt;Lobuche&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;41&lt;/td&gt;&lt;td&gt;25/05&lt;/td&gt;&lt;td&gt;Dzongla&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;42&lt;/td&gt;&lt;td&gt;26/05&lt;/td&gt;&lt;td&gt;Dragnag&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;43&lt;/td&gt;&lt;td&gt;27/05&lt;/td&gt;&lt;td&gt;Gokyo&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;44&lt;/td&gt;&lt;td&gt;28/05&lt;/td&gt;&lt;td&gt;Lumde&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;45&lt;/td&gt;&lt;td&gt;29/05&lt;/td&gt;&lt;td&gt;Thame&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;46&lt;/td&gt;&lt;td&gt;30/05&lt;/td&gt;&lt;td&gt;Thame&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;47&lt;/td&gt;&lt;td&gt;31/05&lt;/td&gt;&lt;td&gt;Pachemuche Tsho&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;48&lt;/td&gt;&lt;td&gt;01/06&lt;/td&gt;&lt;td&gt;Tashi Labsta Camp&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;02/06&lt;/td&gt;&lt;td&gt;Glacier Camp&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;50&lt;/td&gt;&lt;td&gt;03/06&lt;/td&gt;&lt;td&gt;Na&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;5.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;51&lt;/td&gt;&lt;td&gt;04/06&lt;/td&gt;&lt;td&gt;Beding&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;5.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;52&lt;/td&gt;&lt;td&gt;05/06&lt;/td&gt;&lt;td&gt;Beding&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;5.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;53&lt;/td&gt;&lt;td&gt;06/06&lt;/td&gt;&lt;td&gt;Dokhang&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;33%&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;54&lt;/td&gt;&lt;td&gt;07/06&lt;/td&gt;&lt;td&gt;Simigaon&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;4.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;55&lt;/td&gt;&lt;td&gt;08/06&lt;/td&gt;&lt;td&gt;Orangdanda&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;4.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;56&lt;/td&gt;&lt;td&gt;09/06&lt;/td&gt;&lt;td&gt;Laduk&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;57&lt;/td&gt;&lt;td&gt;10/06&lt;/td&gt;&lt;td&gt;Loting&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;3.6&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;58&lt;/td&gt;&lt;td&gt;11/06&lt;/td&gt;&lt;td&gt;Bigu Gompa&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;3.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;59&lt;/td&gt;&lt;td&gt;12/06&lt;/td&gt;&lt;td&gt;Rupthang Kharka&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;2.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;60&lt;/td&gt;&lt;td&gt;13/06&lt;/td&gt;&lt;td&gt;Sano Jyandan&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;61&lt;/td&gt;&lt;td&gt;14/06&lt;/td&gt;&lt;td&gt;The Last Resort&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;10.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;62&lt;/td&gt;&lt;td&gt;15/06&lt;/td&gt;&lt;td&gt;The Last Resort&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;10.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;63&lt;/td&gt;&lt;td&gt;16/06&lt;/td&gt;&lt;td&gt;Shotang Kharka&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;64&lt;/td&gt;&lt;td&gt;17/06&lt;/td&gt;&lt;td&gt;Kyansin&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;65&lt;/td&gt;&lt;td&gt;18/06&lt;/td&gt;&lt;td&gt;Tembathang&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;66&lt;/td&gt;&lt;td&gt;19/06&lt;/td&gt;&lt;td&gt;Panch Pokhari&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;67&lt;/td&gt;&lt;td&gt;20/06&lt;/td&gt;&lt;td&gt;Tin Pokhari&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;68&lt;/td&gt;&lt;td&gt;21/06&lt;/td&gt;&lt;td&gt;High South Camp&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;69&lt;/td&gt;&lt;td&gt;22/06&lt;/td&gt;&lt;td&gt;High North Camp&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;3.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;70&lt;/td&gt;&lt;td&gt;23/06&lt;/td&gt;&lt;td&gt;Kyangjin Gompa&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;2.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;71&lt;/td&gt;&lt;td&gt;24/06&lt;/td&gt;&lt;td&gt;Kyangjin Gompa&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;2.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;72&lt;/td&gt;&lt;td&gt;25/06&lt;/td&gt;&lt;td&gt;Ghoratabela&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;2.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;73&lt;/td&gt;&lt;td&gt;26/06&lt;/td&gt;&lt;td&gt;Syabru Besi&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;74&lt;/td&gt;&lt;td&gt;27/06&lt;/td&gt;&lt;td&gt;Gatlang&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;3.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;75&lt;/td&gt;&lt;td&gt;28/06&lt;/td&gt;&lt;td&gt;Somdang&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;3.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;76&lt;/td&gt;&lt;td&gt;29/06&lt;/td&gt;&lt;td&gt;Tipling&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;2.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;77&lt;/td&gt;&lt;td&gt;30/06&lt;/td&gt;&lt;td&gt;Lapagaon&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;33%&lt;/td&gt;&lt;td&gt;1.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;78&lt;/td&gt;&lt;td&gt;01/07&lt;/td&gt;&lt;td&gt;Nauban Kharka&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;79&lt;/td&gt;&lt;td&gt;02/07&lt;/td&gt;&lt;td&gt;Machhakhla&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;80&lt;/td&gt;&lt;td&gt;03/07&lt;/td&gt;&lt;td&gt;Jagat&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;81&lt;/td&gt;&lt;td&gt;04/07&lt;/td&gt;&lt;td&gt;Deng&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;82&lt;/td&gt;&lt;td&gt;05/07&lt;/td&gt;&lt;td&gt;Namrung&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;83&lt;/td&gt;&lt;td&gt;06/07&lt;/td&gt;&lt;td&gt;Sama&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;84&lt;/td&gt;&lt;td&gt;07/07&lt;/td&gt;&lt;td&gt;Sama&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;85&lt;/td&gt;&lt;td&gt;08/07&lt;/td&gt;&lt;td&gt;Dharmasala&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;86&lt;/td&gt;&lt;td&gt;09/07&lt;/td&gt;&lt;td&gt;Bimtang&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;87&lt;/td&gt;&lt;td&gt;10/07&lt;/td&gt;&lt;td&gt;Dharapani&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;88&lt;/td&gt;&lt;td&gt;11/07&lt;/td&gt;&lt;td&gt;Chame&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;89&lt;/td&gt;&lt;td&gt;12/07&lt;/td&gt;&lt;td&gt;Pisang&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;90&lt;/td&gt;&lt;td&gt;13/07&lt;/td&gt;&lt;td&gt;Manang&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;91&lt;/td&gt;&lt;td&gt;14/07&lt;/td&gt;&lt;td&gt;Thorong Phedi&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;1.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;92&lt;/td&gt;&lt;td&gt;15/07&lt;/td&gt;&lt;td&gt;Muktinath&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;93&lt;/td&gt;&lt;td&gt;16/07&lt;/td&gt;&lt;td&gt;Muktinath&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;94&lt;/td&gt;&lt;td&gt;17/07&lt;/td&gt;&lt;td&gt;Kagbeni&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;95&lt;/td&gt;&lt;td&gt;18/07&lt;/td&gt;&lt;td&gt;Santa&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;96&lt;/td&gt;&lt;td&gt;19/07&lt;/td&gt;&lt;td&gt;Ghalden Ghuldun Khola Camp&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;97&lt;/td&gt;&lt;td&gt;20/07&lt;/td&gt;&lt;td&gt;Nulungsumda Kharka&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;98&lt;/td&gt;&lt;td&gt;21/07&lt;/td&gt;&lt;td&gt;Chharka Bhot&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;3.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;99&lt;/td&gt;&lt;td&gt;22/07&lt;/td&gt;&lt;td&gt;Chharka Bhot&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;3.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;100&lt;/td&gt;&lt;td&gt;23/07&lt;/td&gt;&lt;td&gt;Kharka or Chap Chu&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;2.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;101&lt;/td&gt;&lt;td&gt;24/07&lt;/td&gt;&lt;td&gt;Dho Tarap&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;2.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;102&lt;/td&gt;&lt;td&gt;25/07&lt;/td&gt;&lt;td&gt;Danigar&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;103&lt;/td&gt;&lt;td&gt;26/07&lt;/td&gt;&lt;td&gt;Ringmo/Phoksundo Lake&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;10.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;104&lt;/td&gt;&lt;td&gt;27/07&lt;/td&gt;&lt;td&gt;Phoksundo Khola Camp&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;105&lt;/td&gt;&lt;td&gt;28/07&lt;/td&gt;&lt;td&gt;Pass Camp&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;106&lt;/td&gt;&lt;td&gt;29/07&lt;/td&gt;&lt;td&gt;Shey Gompa&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;107&lt;/td&gt;&lt;td&gt;30/07&lt;/td&gt;&lt;td&gt;Shey Gompa&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;6.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;108&lt;/td&gt;&lt;td&gt;31/07&lt;/td&gt;&lt;td&gt;Bhijer&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;6.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;109&lt;/td&gt;&lt;td&gt;01/08&lt;/td&gt;&lt;td&gt;Pho&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;6.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;110&lt;/td&gt;&lt;td&gt;02/08&lt;/td&gt;&lt;td&gt;Pung Kharka&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;111&lt;/td&gt;&lt;td&gt;03/08&lt;/td&gt;&lt;td&gt;Chyandi Khola&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;112&lt;/td&gt;&lt;td&gt;04/08&lt;/td&gt;&lt;td&gt;Takla Khola&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;113&lt;/td&gt;&lt;td&gt;05/08&lt;/td&gt;&lt;td&gt;Thajuchaur&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;3.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;114&lt;/td&gt;&lt;td&gt;06/08&lt;/td&gt;&lt;td&gt;Shilenchaura Kharka&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;115&lt;/td&gt;&lt;td&gt;07/08&lt;/td&gt;&lt;td&gt;Mangri&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;33%&lt;/td&gt;&lt;td&gt;1.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;116&lt;/td&gt;&lt;td&gt;08/08&lt;/td&gt;&lt;td&gt;Gamgadhi&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;10.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;117&lt;/td&gt;&lt;td&gt;09/08&lt;/td&gt;&lt;td&gt;Rara Lake&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;9.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;118&lt;/td&gt;&lt;td&gt;10/08&lt;/td&gt;&lt;td&gt;Rara Lake&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;9.7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;119&lt;/td&gt;&lt;td&gt;11/08&lt;/td&gt;&lt;td&gt;Bam&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;9.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;120&lt;/td&gt;&lt;td&gt;12/08&lt;/td&gt;&lt;td&gt;Jogimara&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;121&lt;/td&gt;&lt;td&gt;13/08&lt;/td&gt;&lt;td&gt;Piplan&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;122&lt;/td&gt;&lt;td&gt;14/08&lt;/td&gt;&lt;td&gt;Apsia Lek&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;123&lt;/td&gt;&lt;td&gt;15/08&lt;/td&gt;&lt;td&gt;Punkha Khola&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;33%&lt;/td&gt;&lt;td&gt;6.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;124&lt;/td&gt;&lt;td&gt;16/08&lt;/td&gt;&lt;td&gt;River Camp&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;5.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;125&lt;/td&gt;&lt;td&gt;17/08&lt;/td&gt;&lt;td&gt;Simikot&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;126&lt;/td&gt;&lt;td&gt;18/08&lt;/td&gt;&lt;td&gt;Kermi&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;33%&lt;/td&gt;&lt;td&gt;4.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;127&lt;/td&gt;&lt;td&gt;19/08&lt;/td&gt;&lt;td&gt;Thumkot&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;3.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;128&lt;/td&gt;&lt;td&gt;20/08&lt;/td&gt;&lt;td&gt;Yari&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;2.3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;129&lt;/td&gt;&lt;td&gt;21/08&lt;/td&gt;&lt;td&gt;Hilsa&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550696069/IMG_2712.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Itinerary - Summary</title>
+            <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/itinerary-summary/</link>
+            <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/itinerary-summary/</guid>
+            <description>&lt;h1&gt;The intended itinerary for our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;In any trek it&amp;rsquo;s important to get an idea of the approximate itinerary. Of course, on a long trek like this the exact route will need to be flexible, but I&amp;rsquo;ll plan the intended route and the maps and guide book will provide alternates when we need them. The alternates are almost certainly going to take us south and down hill where services and accommodation are more usually more plentiful.&lt;/p&gt;
+
+&lt;p&gt;There are several companies that trek the Great Himalaya Trail fully supported&amp;hellip; these operations take a handful of customers accompanied by an army of guides and porters. Some of them conveniently publish their daily itinerary, and this made a great start in my planning.&lt;/p&gt;
+
+&lt;p&gt;This route was easily cross referenced with Robin&amp;rsquo;s guide book - obviously a large group always moves at the speed of the slowest member, so the fully supported itineraries moved quite a bit slower than we are hoping to. The guidebook gave us more realistic hiking times, along with various other sources I found online.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve intentionally added rest days only when essential. I&amp;rsquo;m expecting to take more than shown here, so the date should be interpreted as the earliest we could possible arrive somewhere.&lt;/p&gt;
+
+&lt;div style=&#34;width:100%; overflow:auto;&#34;&gt;
+&lt;table class=&#34;tableizer-table&#34;&gt;
+&lt;thead&gt;&lt;tr class=&#34;tableizer-firstrow&#34;&gt;&lt;th&gt;Day&lt;/th&gt;&lt;th&gt;Date&lt;/th&gt;&lt;th&gt;From&lt;/th&gt;&lt;th&gt;To&lt;/th&gt;&lt;th&gt;Hours&lt;/th&gt;&lt;th&gt;Start&lt;/th&gt;&lt;th&gt;Mid&lt;/th&gt;&lt;th&gt;End&lt;/th&gt;&lt;th&gt;Climb&lt;/th&gt;&lt;th&gt;Descent&lt;/th&gt;&lt;th&gt;Length&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;15/04&lt;/td&gt;&lt;td&gt;Taplejung&lt;/td&gt;&lt;td&gt;Phurumbu&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;2,413&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,677&lt;/td&gt;&lt;td&gt;63&lt;/td&gt;&lt;td&gt;797&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;16/04&lt;/td&gt;&lt;td&gt;Phurumbu&lt;/td&gt;&lt;td&gt;Chiruwa&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;1,677&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,270&lt;/td&gt;&lt;td&gt;616&lt;/td&gt;&lt;td&gt;1035&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;17/04&lt;/td&gt;&lt;td&gt;Chiruwa&lt;/td&gt;&lt;td&gt;Sukethum&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;1,270&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,575&lt;/td&gt;&lt;td&gt;539&lt;/td&gt;&lt;td&gt;215&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;18/04&lt;/td&gt;&lt;td&gt;Sukethum&lt;/td&gt;&lt;td&gt;Amjilosa&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;1,576&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,308&lt;/td&gt;&lt;td&gt;897&lt;/td&gt;&lt;td&gt;75&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;19/04&lt;/td&gt;&lt;td&gt;Amjilosa&lt;/td&gt;&lt;td&gt;Gyabla&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;2,308&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,730&lt;/td&gt;&lt;td&gt;671&lt;/td&gt;&lt;td&gt;354&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;20/04&lt;/td&gt;&lt;td&gt;Gyabla&lt;/td&gt;&lt;td&gt;Ghunsa&lt;/td&gt;&lt;td&gt;4.5&lt;/td&gt;&lt;td&gt;2,730&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,595&lt;/td&gt;&lt;td&gt;671&lt;/td&gt;&lt;td&gt;354&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;21/04&lt;/td&gt;&lt;td&gt;Ghunsa&lt;/td&gt;&lt;td&gt;Khangpachen&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;3,595&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,050&lt;/td&gt;&lt;td&gt;771&lt;/td&gt;&lt;td&gt;110&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;22/04&lt;/td&gt;&lt;td&gt;Khangpachen&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;4,050&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,050&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;23/04&lt;/td&gt;&lt;td&gt;Khangpachen&lt;/td&gt;&lt;td&gt;Lhonak&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;4,050&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,780&lt;/td&gt;&lt;td&gt;690&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;24/04&lt;/td&gt;&lt;td&gt;Lhonak&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;4,780&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,780&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;25/04&lt;/td&gt;&lt;td&gt;Lhonak&lt;/td&gt;&lt;td&gt;Kanchenjunga BC&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;4,780&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;5,143&lt;/td&gt;&lt;td&gt;628&lt;/td&gt;&lt;td&gt;135&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;26/04&lt;/td&gt;&lt;td&gt;Kanchenjunga BC&lt;/td&gt;&lt;td&gt;Kangpachen&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;5,143&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,050&lt;/td&gt;&lt;td&gt;153&lt;/td&gt;&lt;td&gt;1318&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;13&lt;/td&gt;&lt;td&gt;27/04&lt;/td&gt;&lt;td&gt;Kangpachen&lt;/td&gt;&lt;td&gt;Ghunsa&lt;/td&gt;&lt;td&gt;3.0&lt;/td&gt;&lt;td&gt;4,050&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,595&lt;/td&gt;&lt;td&gt;110&lt;/td&gt;&lt;td&gt;771&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;28/04&lt;/td&gt;&lt;td&gt;Ghunsa&lt;/td&gt;&lt;td&gt;Kharka&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;3,595&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,776&lt;/td&gt;&lt;td&gt;817&lt;/td&gt;&lt;td&gt;76&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;29/04&lt;/td&gt;&lt;td&gt;Kharka&lt;/td&gt;&lt;td&gt;Yangma Khola (via Nango La)&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;4,776&lt;/td&gt;&lt;td&gt;4,820&lt;/td&gt;&lt;td&gt;3,430&lt;/td&gt;&lt;td&gt;549&lt;/td&gt;&lt;td&gt;1440&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;30/04&lt;/td&gt;&lt;td&gt;Yangma Khola&lt;/td&gt;&lt;td&gt;Olangchun Gola&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;3,430&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,191&lt;/td&gt;&lt;td&gt;528&lt;/td&gt;&lt;td&gt;720&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;01/05&lt;/td&gt;&lt;td&gt;Olangchun Gola&lt;/td&gt;&lt;td&gt;Pass Camp&lt;/td&gt;&lt;td&gt;7.5&lt;/td&gt;&lt;td&gt;3,191&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,453&lt;/td&gt;&lt;td&gt;1453&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;02/05&lt;/td&gt;&lt;td&gt;Pass Camp&lt;/td&gt;&lt;td&gt;Thudam (via Lumbha Sambha Pass)&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;td&gt;4,453&lt;/td&gt;&lt;td&gt;5,159&lt;/td&gt;&lt;td&gt;3,556&lt;/td&gt;&lt;td&gt;514&lt;/td&gt;&lt;td&gt;1607&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;03/05&lt;/td&gt;&lt;td&gt;Thudam&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;3,556&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,556&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;04/05&lt;/td&gt;&lt;td&gt;Thudam&lt;/td&gt;&lt;td&gt;Kharka&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;3,556&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,700&lt;/td&gt;&lt;td&gt;638&lt;/td&gt;&lt;td&gt;1445&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;21&lt;/td&gt;&lt;td&gt;05/05&lt;/td&gt;&lt;td&gt;Kharka&lt;/td&gt;&lt;td&gt;Chyamtang&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;2,700&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,187&lt;/td&gt;&lt;td&gt;548&lt;/td&gt;&lt;td&gt;1070&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;06/05&lt;/td&gt;&lt;td&gt;Chyamtang&lt;/td&gt;&lt;td&gt;Hongon&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;2,187&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,323&lt;/td&gt;&lt;td&gt;898&lt;/td&gt;&lt;td&gt;813&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;23&lt;/td&gt;&lt;td&gt;07/05&lt;/td&gt;&lt;td&gt;Hongon&lt;/td&gt;&lt;td&gt;Molun Pokhari&lt;/td&gt;&lt;td&gt;6.5&lt;/td&gt;&lt;td&gt;2,323&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,954&lt;/td&gt;&lt;td&gt;1670&lt;/td&gt;&lt;td&gt;41&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;08/05&lt;/td&gt;&lt;td&gt;Molun Pokhari&lt;/td&gt;&lt;td&gt;Cave Camp&lt;/td&gt;&lt;td&gt;7.5&lt;/td&gt;&lt;td&gt;3,954&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,115&lt;/td&gt;&lt;td&gt;560&lt;/td&gt;&lt;td&gt;1406&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;09/05&lt;/td&gt;&lt;td&gt;Cave Camp&lt;/td&gt;&lt;td&gt;Kharka&lt;/td&gt;&lt;td&gt;9.5&lt;/td&gt;&lt;td&gt;3,115&lt;/td&gt;&lt;td&gt;4,192&lt;/td&gt;&lt;td&gt;4,097&lt;/td&gt;&lt;td&gt;1793&lt;/td&gt;&lt;td&gt;804&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;26&lt;/td&gt;&lt;td&gt;10/05&lt;/td&gt;&lt;td&gt;Kharka&lt;/td&gt;&lt;td&gt;Langmale Kharka&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;4,097&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,410&lt;/td&gt;&lt;td&gt;967&lt;/td&gt;&lt;td&gt;717&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;27&lt;/td&gt;&lt;td&gt;11/05&lt;/td&gt;&lt;td&gt;Langmale Kharka&lt;/td&gt;&lt;td&gt;Makalu BC&lt;/td&gt;&lt;td&gt;4.5&lt;/td&gt;&lt;td&gt;4,410&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,870&lt;/td&gt;&lt;td&gt;564&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;28&lt;/td&gt;&lt;td&gt;12/05&lt;/td&gt;&lt;td&gt;Makalu BC&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;4,870&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,870&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;29&lt;/td&gt;&lt;td&gt;13/05&lt;/td&gt;&lt;td&gt;Makalu BC&lt;/td&gt;&lt;td&gt;Swiss BC&lt;/td&gt;&lt;td&gt;3.0&lt;/td&gt;&lt;td&gt;4,870&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;5,150&lt;/td&gt;&lt;td&gt;329&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;30&lt;/td&gt;&lt;td&gt;14/05&lt;/td&gt;&lt;td&gt;Swiss BC&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;5,150&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;5,150&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;31&lt;/td&gt;&lt;td&gt;15/05&lt;/td&gt;&lt;td&gt;Swiss BC&lt;/td&gt;&lt;td&gt;Sherpani Col BC&lt;/td&gt;&lt;td&gt;2.5&lt;/td&gt;&lt;td&gt;5,150&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;5,688&lt;/td&gt;&lt;td&gt;448&lt;/td&gt;&lt;td&gt;76&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;32&lt;/td&gt;&lt;td&gt;16/05&lt;/td&gt;&lt;td&gt;Sherpani Col BC&lt;/td&gt;&lt;td&gt;Advanced BC (via Sherpani Col)&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;5,688&lt;/td&gt;&lt;td&gt;6,146&lt;/td&gt;&lt;td&gt;6,050&lt;/td&gt;&lt;td&gt;515&lt;/td&gt;&lt;td&gt;61&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;33&lt;/td&gt;&lt;td&gt;17/05&lt;/td&gt;&lt;td&gt;Advanced BC&lt;/td&gt;&lt;td&gt;Honku Basin (via West Col)&lt;/td&gt;&lt;td&gt;11.0&lt;/td&gt;&lt;td&gt;6,050&lt;/td&gt;&lt;td&gt;6,143&lt;/td&gt;&lt;td&gt;5,500&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;396&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;34&lt;/td&gt;&lt;td&gt;18/05&lt;/td&gt;&lt;td&gt;Honku Basin&lt;/td&gt;&lt;td&gt;Amphu Labsta BC&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;5,500&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;5,527&lt;/td&gt;&lt;td&gt;422&lt;/td&gt;&lt;td&gt;651&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;19/05&lt;/td&gt;&lt;td&gt;Amphu Labsta BC&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;5,527&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;5,527&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;36&lt;/td&gt;&lt;td&gt;20/05&lt;/td&gt;&lt;td&gt;Amphu Labsta BC&lt;/td&gt;&lt;td&gt;Chhukung (via Amphu Labsta La)&lt;/td&gt;&lt;td&gt;11.0&lt;/td&gt;&lt;td&gt;5,527&lt;/td&gt;&lt;td&gt;5,848&lt;/td&gt;&lt;td&gt;4,730&lt;/td&gt;&lt;td&gt;337&lt;/td&gt;&lt;td&gt;1116&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;21/05&lt;/td&gt;&lt;td&gt;Chhukung&lt;/td&gt;&lt;td&gt;Dingboche&lt;/td&gt;&lt;td&gt;3.0&lt;/td&gt;&lt;td&gt;4,730&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,410&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;388&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;38&lt;/td&gt;&lt;td&gt;22/05&lt;/td&gt;&lt;td&gt;Dingboche&lt;/td&gt;&lt;td&gt;Lobuche&lt;/td&gt;&lt;td&gt;3.5&lt;/td&gt;&lt;td&gt;4,410&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,910&lt;/td&gt;&lt;td&gt;625&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;39&lt;/td&gt;&lt;td&gt;23/05&lt;/td&gt;&lt;td&gt;Lobuche&lt;/td&gt;&lt;td&gt;Gorak Shep (via Kala Pattar)&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;4,910&lt;/td&gt;&lt;td&gt;5,550&lt;/td&gt;&lt;td&gt;5,140&lt;/td&gt;&lt;td&gt;280&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;40&lt;/td&gt;&lt;td&gt;24/05&lt;/td&gt;&lt;td&gt;Gorak Shep&lt;/td&gt;&lt;td&gt;Lobuche (via Everest BC)&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;5,140&lt;/td&gt;&lt;td&gt;5,364&lt;/td&gt;&lt;td&gt;4,910&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;td&gt;548&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;41&lt;/td&gt;&lt;td&gt;25/05&lt;/td&gt;&lt;td&gt;Lobuche&lt;/td&gt;&lt;td&gt;Dzongla&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;4,910&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,830&lt;/td&gt;&lt;td&gt;111&lt;/td&gt;&lt;td&gt;203&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;42&lt;/td&gt;&lt;td&gt;26/05&lt;/td&gt;&lt;td&gt;Dzongla&lt;/td&gt;&lt;td&gt;Dragnag (via Cho La Pass)&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;4,830&lt;/td&gt;&lt;td&gt;5,420&lt;/td&gt;&lt;td&gt;4,700&lt;/td&gt;&lt;td&gt;634&lt;/td&gt;&lt;td&gt;781&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;43&lt;/td&gt;&lt;td&gt;27/05&lt;/td&gt;&lt;td&gt;Dragnag&lt;/td&gt;&lt;td&gt;Gokyo (via Gokyo Ri)&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;4,700&lt;/td&gt;&lt;td&gt;5,360&lt;/td&gt;&lt;td&gt;4,790&lt;/td&gt;&lt;td&gt;733&lt;/td&gt;&lt;td&gt;666&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;44&lt;/td&gt;&lt;td&gt;28/05&lt;/td&gt;&lt;td&gt;Gokyo&lt;/td&gt;&lt;td&gt;Lumde (via Renjo La)&lt;/td&gt;&lt;td&gt;6.5&lt;/td&gt;&lt;td&gt;4,790&lt;/td&gt;&lt;td&gt;5,360&lt;/td&gt;&lt;td&gt;4,368&lt;/td&gt;&lt;td&gt;643&lt;/td&gt;&lt;td&gt;1235&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;45&lt;/td&gt;&lt;td&gt;29/05&lt;/td&gt;&lt;td&gt;Lumde&lt;/td&gt;&lt;td&gt;Thame&lt;/td&gt;&lt;td&gt;2.5&lt;/td&gt;&lt;td&gt;4,368&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,820&lt;/td&gt;&lt;td&gt;59&lt;/td&gt;&lt;td&gt;633&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;46&lt;/td&gt;&lt;td&gt;30/05&lt;/td&gt;&lt;td&gt;Thame&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;3,820&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,820&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;47&lt;/td&gt;&lt;td&gt;31/05&lt;/td&gt;&lt;td&gt;Thame&lt;/td&gt;&lt;td&gt;Pachemuche Tsho&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;3,820&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,780&lt;/td&gt;&lt;td&gt;909&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;48&lt;/td&gt;&lt;td&gt;01/06&lt;/td&gt;&lt;td&gt;Pachemuche Tsho&lt;/td&gt;&lt;td&gt;Tashi Labsta Camp&lt;/td&gt;&lt;td&gt;6.5&lt;/td&gt;&lt;td&gt;4,780&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;5,665&lt;/td&gt;&lt;td&gt;900&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;02/06&lt;/td&gt;&lt;td&gt;Tashi Labsta Camp&lt;/td&gt;&lt;td&gt;Glacier Camp (via Tashi Labsta La)&lt;/td&gt;&lt;td&gt;6.5&lt;/td&gt;&lt;td&gt;5,665&lt;/td&gt;&lt;td&gt;5,755&lt;/td&gt;&lt;td&gt;4,735&lt;/td&gt;&lt;td&gt;170&lt;/td&gt;&lt;td&gt;928&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;50&lt;/td&gt;&lt;td&gt;03/06&lt;/td&gt;&lt;td&gt;Glacier Camp&lt;/td&gt;&lt;td&gt;Na&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;4,735&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,820&lt;/td&gt;&lt;td&gt;254&lt;/td&gt;&lt;td&gt;899&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;51&lt;/td&gt;&lt;td&gt;04/06&lt;/td&gt;&lt;td&gt;Na&lt;/td&gt;&lt;td&gt;Beding&lt;/td&gt;&lt;td&gt;4.5&lt;/td&gt;&lt;td&gt;4,820&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,740&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;481&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;52&lt;/td&gt;&lt;td&gt;05/06&lt;/td&gt;&lt;td&gt;Beding&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;3,740&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,740&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;53&lt;/td&gt;&lt;td&gt;06/06&lt;/td&gt;&lt;td&gt;Beding&lt;/td&gt;&lt;td&gt;Dokhang&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;3,740&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,791&lt;/td&gt;&lt;td&gt;119&lt;/td&gt;&lt;td&gt;1043&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;54&lt;/td&gt;&lt;td&gt;07/06&lt;/td&gt;&lt;td&gt;Dokhang&lt;/td&gt;&lt;td&gt;Simigaon&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;2,791&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,036&lt;/td&gt;&lt;td&gt;180&lt;/td&gt;&lt;td&gt;974&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;55&lt;/td&gt;&lt;td&gt;08/06&lt;/td&gt;&lt;td&gt;Simigaon&lt;/td&gt;&lt;td&gt;Orangdanda&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;2,036&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,029&lt;/td&gt;&lt;td&gt;1010&lt;/td&gt;&lt;td&gt;1040&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;56&lt;/td&gt;&lt;td&gt;09/06&lt;/td&gt;&lt;td&gt;Orangdanda&lt;/td&gt;&lt;td&gt;Laduk&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;2,029&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,590&lt;/td&gt;&lt;td&gt;561&lt;/td&gt;&lt;td&gt;580&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;57&lt;/td&gt;&lt;td&gt;10/06&lt;/td&gt;&lt;td&gt;Laduk&lt;/td&gt;&lt;td&gt;Loting&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;1,590&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,768&lt;/td&gt;&lt;td&gt;567&lt;/td&gt;&lt;td&gt;928&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;58&lt;/td&gt;&lt;td&gt;11/06&lt;/td&gt;&lt;td&gt;Loting&lt;/td&gt;&lt;td&gt;Bigu Gompa&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;1,768&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,516&lt;/td&gt;&lt;td&gt;652&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;59&lt;/td&gt;&lt;td&gt;12/06&lt;/td&gt;&lt;td&gt;Bigu Gompa&lt;/td&gt;&lt;td&gt;Rupthang Kharka&lt;/td&gt;&lt;td&gt;4.5&lt;/td&gt;&lt;td&gt;2,516&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,280&lt;/td&gt;&lt;td&gt;1270&lt;/td&gt;&lt;td&gt;214&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;60&lt;/td&gt;&lt;td&gt;13/06&lt;/td&gt;&lt;td&gt;Rupthang Kharka&lt;/td&gt;&lt;td&gt;Sano Jyandan&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;3,280&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,127&lt;/td&gt;&lt;td&gt;372&lt;/td&gt;&lt;td&gt;742&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;61&lt;/td&gt;&lt;td&gt;14/06&lt;/td&gt;&lt;td&gt;Sano Jyandan&lt;/td&gt;&lt;td&gt;The Last Resort&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;3,127&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,170&lt;/td&gt;&lt;td&gt;193&lt;/td&gt;&lt;td&gt;1958&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;62&lt;/td&gt;&lt;td&gt;15/06&lt;/td&gt;&lt;td&gt;The Last Resort&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;1,170&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,170&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;63&lt;/td&gt;&lt;td&gt;16/06&lt;/td&gt;&lt;td&gt;The Last Resort&lt;/td&gt;&lt;td&gt;Shotang Kharka&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;1,170&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,379&lt;/td&gt;&lt;td&gt;2497&lt;/td&gt;&lt;td&gt;199&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;64&lt;/td&gt;&lt;td&gt;17/06&lt;/td&gt;&lt;td&gt;Shotang Kharka&lt;/td&gt;&lt;td&gt;Kyansin&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;td&gt;3,379&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,520&lt;/td&gt;&lt;td&gt;451&lt;/td&gt;&lt;td&gt;1378&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;65&lt;/td&gt;&lt;td&gt;18/06&lt;/td&gt;&lt;td&gt;Kyansin&lt;/td&gt;&lt;td&gt;Tembathang&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;2,520&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,160&lt;/td&gt;&lt;td&gt;628&lt;/td&gt;&lt;td&gt;934&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;66&lt;/td&gt;&lt;td&gt;19/06&lt;/td&gt;&lt;td&gt;Tembathang&lt;/td&gt;&lt;td&gt;Panch Pokhari&lt;/td&gt;&lt;td&gt;10.0&lt;/td&gt;&lt;td&gt;2,160&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,074&lt;/td&gt;&lt;td&gt;2397&lt;/td&gt;&lt;td&gt;515&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;67&lt;/td&gt;&lt;td&gt;20/06&lt;/td&gt;&lt;td&gt;Panch Pokhari&lt;/td&gt;&lt;td&gt;Tin Pokhari&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;4,074&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,255&lt;/td&gt;&lt;td&gt;792&lt;/td&gt;&lt;td&gt;669&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;68&lt;/td&gt;&lt;td&gt;21/06&lt;/td&gt;&lt;td&gt;Tin Pokhari&lt;/td&gt;&lt;td&gt;High South Camp&lt;/td&gt;&lt;td&gt;4.5&lt;/td&gt;&lt;td&gt;4,255&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,867&lt;/td&gt;&lt;td&gt;777&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;69&lt;/td&gt;&lt;td&gt;22/06&lt;/td&gt;&lt;td&gt;High South Camp&lt;/td&gt;&lt;td&gt;High North Camp (via Tilman&#39;s Pass)&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;4,867&lt;/td&gt;&lt;td&gt;5,308&lt;/td&gt;&lt;td&gt;4,720&lt;/td&gt;&lt;td&gt;361&lt;/td&gt;&lt;td&gt;594&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;70&lt;/td&gt;&lt;td&gt;23/06&lt;/td&gt;&lt;td&gt;High North Camp&lt;/td&gt;&lt;td&gt;Kyangjin Gompa&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;4,720&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,830&lt;/td&gt;&lt;td&gt;141&lt;/td&gt;&lt;td&gt;1019&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;71&lt;/td&gt;&lt;td&gt;24/06&lt;/td&gt;&lt;td&gt;Kyangjin Gompa&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;3,830&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,830&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;72&lt;/td&gt;&lt;td&gt;25/06&lt;/td&gt;&lt;td&gt;Kyangjin Gompa&lt;/td&gt;&lt;td&gt;Ghoratabela&lt;/td&gt;&lt;td&gt;4.5&lt;/td&gt;&lt;td&gt;3,830&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,030&lt;/td&gt;&lt;td&gt;64&lt;/td&gt;&lt;td&gt;908&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;73&lt;/td&gt;&lt;td&gt;26/06&lt;/td&gt;&lt;td&gt;Ghoratabela&lt;/td&gt;&lt;td&gt;Syabru Besi&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;3,030&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,503&lt;/td&gt;&lt;td&gt;185&lt;/td&gt;&lt;td&gt;1746&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;74&lt;/td&gt;&lt;td&gt;27/06&lt;/td&gt;&lt;td&gt;Syabru Besi&lt;/td&gt;&lt;td&gt;Gatlang&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;1,503&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,230&lt;/td&gt;&lt;td&gt;1100&lt;/td&gt;&lt;td&gt;259&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;75&lt;/td&gt;&lt;td&gt;28/06&lt;/td&gt;&lt;td&gt;Gatlang&lt;/td&gt;&lt;td&gt;Somdang (via Khurpudada Pass)&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;2,230&lt;/td&gt;&lt;td&gt;3,710&lt;/td&gt;&lt;td&gt;3,258&lt;/td&gt;&lt;td&gt;1464&lt;/td&gt;&lt;td&gt;464&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;76&lt;/td&gt;&lt;td&gt;29/06&lt;/td&gt;&lt;td&gt;Somdang&lt;/td&gt;&lt;td&gt;Tipling (via Pansan Pass)&lt;/td&gt;&lt;td&gt;6.5&lt;/td&gt;&lt;td&gt;3,258&lt;/td&gt;&lt;td&gt;3,830&lt;/td&gt;&lt;td&gt;1,890&lt;/td&gt;&lt;td&gt;653&lt;/td&gt;&lt;td&gt;1862&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;77&lt;/td&gt;&lt;td&gt;30/06&lt;/td&gt;&lt;td&gt;Tipling&lt;/td&gt;&lt;td&gt;Lapagaon&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;1,890&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,285&lt;/td&gt;&lt;td&gt;1002&lt;/td&gt;&lt;td&gt;1193&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;78&lt;/td&gt;&lt;td&gt;01/07&lt;/td&gt;&lt;td&gt;Lapagaon&lt;/td&gt;&lt;td&gt;Nauban Kharka (via Mangro Bhanjyang)&lt;/td&gt;&lt;td&gt;6.5&lt;/td&gt;&lt;td&gt;1,285&lt;/td&gt;&lt;td&gt;2,936&lt;/td&gt;&lt;td&gt;2,750&lt;/td&gt;&lt;td&gt;1244&lt;/td&gt;&lt;td&gt;1103&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;79&lt;/td&gt;&lt;td&gt;02/07&lt;/td&gt;&lt;td&gt;Nauban Kharka&lt;/td&gt;&lt;td&gt;Machhakhla&lt;/td&gt;&lt;td&gt;7.5&lt;/td&gt;&lt;td&gt;2,750&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,074&lt;/td&gt;&lt;td&gt;785&lt;/td&gt;&lt;td&gt;1914&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;80&lt;/td&gt;&lt;td&gt;03/07&lt;/td&gt;&lt;td&gt;Machhakhla&lt;/td&gt;&lt;td&gt;Jagat&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;2,074&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,340&lt;/td&gt;&lt;td&gt;1344&lt;/td&gt;&lt;td&gt;852&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;81&lt;/td&gt;&lt;td&gt;04/07&lt;/td&gt;&lt;td&gt;Jagat&lt;/td&gt;&lt;td&gt;Deng&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;1,340&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,860&lt;/td&gt;&lt;td&gt;2125&lt;/td&gt;&lt;td&gt;1580&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;82&lt;/td&gt;&lt;td&gt;05/07&lt;/td&gt;&lt;td&gt;Deng&lt;/td&gt;&lt;td&gt;Namrung&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;1,860&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,630&lt;/td&gt;&lt;td&gt;1379&lt;/td&gt;&lt;td&gt;666&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;83&lt;/td&gt;&lt;td&gt;06/07&lt;/td&gt;&lt;td&gt;Namrung&lt;/td&gt;&lt;td&gt;Sama&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;2,630&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,520&lt;/td&gt;&lt;td&gt;1211&lt;/td&gt;&lt;td&gt;303&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;84&lt;/td&gt;&lt;td&gt;07/07&lt;/td&gt;&lt;td&gt;Sama&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;3,520&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,520&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;85&lt;/td&gt;&lt;td&gt;08/07&lt;/td&gt;&lt;td&gt;Sama&lt;/td&gt;&lt;td&gt;Dharmasala&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;3,520&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,460&lt;/td&gt;&lt;td&gt;984&lt;/td&gt;&lt;td&gt;41&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;86&lt;/td&gt;&lt;td&gt;09/07&lt;/td&gt;&lt;td&gt;Dharmasala&lt;/td&gt;&lt;td&gt;Bimtang (via Larkya La)&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;4,460&lt;/td&gt;&lt;td&gt;5,160&lt;/td&gt;&lt;td&gt;3,590&lt;/td&gt;&lt;td&gt;707&lt;/td&gt;&lt;td&gt;1370&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;87&lt;/td&gt;&lt;td&gt;10/07&lt;/td&gt;&lt;td&gt;Bimtang&lt;/td&gt;&lt;td&gt;Dharapani&lt;/td&gt;&lt;td&gt;6.5&lt;/td&gt;&lt;td&gt;3,590&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,860&lt;/td&gt;&lt;td&gt;230&lt;/td&gt;&lt;td&gt;2208&lt;/td&gt;&lt;td&gt;24&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;88&lt;/td&gt;&lt;td&gt;11/07&lt;/td&gt;&lt;td&gt;Dharapani&lt;/td&gt;&lt;td&gt;Chame&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;1,860&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,670&lt;/td&gt;&lt;td&gt;1185&lt;/td&gt;&lt;td&gt;320&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;89&lt;/td&gt;&lt;td&gt;12/07&lt;/td&gt;&lt;td&gt;Chame&lt;/td&gt;&lt;td&gt;Pisang&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;2,670&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,675&lt;/td&gt;&lt;td&gt;2894&lt;/td&gt;&lt;td&gt;2292&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;90&lt;/td&gt;&lt;td&gt;13/07&lt;/td&gt;&lt;td&gt;Pisang&lt;/td&gt;&lt;td&gt;Manang&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;2,675&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,540&lt;/td&gt;&lt;td&gt;1054&lt;/td&gt;&lt;td&gt;816&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;91&lt;/td&gt;&lt;td&gt;14/07&lt;/td&gt;&lt;td&gt;Manang&lt;/td&gt;&lt;td&gt;Thorong Phedi&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;3,540&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,450&lt;/td&gt;&lt;td&gt;1164&lt;/td&gt;&lt;td&gt;166&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;92&lt;/td&gt;&lt;td&gt;15/07&lt;/td&gt;&lt;td&gt;Thorong Phedi&lt;/td&gt;&lt;td&gt;Muktinath (via Thorung La)&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;td&gt;4,450&lt;/td&gt;&lt;td&gt;5,415&lt;/td&gt;&lt;td&gt;3,760&lt;/td&gt;&lt;td&gt;909&lt;/td&gt;&lt;td&gt;1684&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;93&lt;/td&gt;&lt;td&gt;16/07&lt;/td&gt;&lt;td&gt;Muktinath&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;3,760&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,760&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;94&lt;/td&gt;&lt;td&gt;17/07&lt;/td&gt;&lt;td&gt;Muktinath&lt;/td&gt;&lt;td&gt;Kagbeni&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;3,760&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,810&lt;/td&gt;&lt;td&gt;213&lt;/td&gt;&lt;td&gt;542&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;95&lt;/td&gt;&lt;td&gt;18/07&lt;/td&gt;&lt;td&gt;Kagbeni&lt;/td&gt;&lt;td&gt;Santa (via Bhima Lojun La)&lt;/td&gt;&lt;td&gt;10.0&lt;/td&gt;&lt;td&gt;2,810&lt;/td&gt;&lt;td&gt;4,460&lt;/td&gt;&lt;td&gt;3,777&lt;/td&gt;&lt;td&gt;1827&lt;/td&gt;&lt;td&gt;954&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;96&lt;/td&gt;&lt;td&gt;19/07&lt;/td&gt;&lt;td&gt;Santa&lt;/td&gt;&lt;td&gt;Ghalden Ghuldun Khola Camp&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;3,777&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,247&lt;/td&gt;&lt;td&gt;1096&lt;/td&gt;&lt;td&gt;423&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;97&lt;/td&gt;&lt;td&gt;20/07&lt;/td&gt;&lt;td&gt;Ghalden Ghuldun Khola Camp&lt;/td&gt;&lt;td&gt;Nulungsumda Kharka (via Jungben La)&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;td&gt;4,247&lt;/td&gt;&lt;td&gt;5,550&lt;/td&gt;&lt;td&gt;4,987&lt;/td&gt;&lt;td&gt;1140&lt;/td&gt;&lt;td&gt;629&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;98&lt;/td&gt;&lt;td&gt;21/07&lt;/td&gt;&lt;td&gt;Nulungsumda Kharka&lt;/td&gt;&lt;td&gt;Chharka Bhot&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;td&gt;4,987&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,302&lt;/td&gt;&lt;td&gt;195&lt;/td&gt;&lt;td&gt;864&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;99&lt;/td&gt;&lt;td&gt;22/07&lt;/td&gt;&lt;td&gt;Chharka Bhot&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;4,302&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,302&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;100&lt;/td&gt;&lt;td&gt;23/07&lt;/td&gt;&lt;td&gt;Chharka Bhot&lt;/td&gt;&lt;td&gt;Kharka or Chap Chu&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;4,302&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,320&lt;/td&gt;&lt;td&gt;777&lt;/td&gt;&lt;td&gt;439&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;101&lt;/td&gt;&lt;td&gt;24/07&lt;/td&gt;&lt;td&gt;Kharka or Chap Chu&lt;/td&gt;&lt;td&gt;Dho Tarap (via Chan La)&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;4,320&lt;/td&gt;&lt;td&gt;5,378&lt;/td&gt;&lt;td&gt;3,944&lt;/td&gt;&lt;td&gt;1114&lt;/td&gt;&lt;td&gt;1668&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;102&lt;/td&gt;&lt;td&gt;25/07&lt;/td&gt;&lt;td&gt;Dho Tarap&lt;/td&gt;&lt;td&gt;Danigar (via Numa La)&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;td&gt;3,944&lt;/td&gt;&lt;td&gt;5,309&lt;/td&gt;&lt;td&gt;4,512&lt;/td&gt;&lt;td&gt;1496&lt;/td&gt;&lt;td&gt;1106&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;103&lt;/td&gt;&lt;td&gt;26/07&lt;/td&gt;&lt;td&gt;Danigar&lt;/td&gt;&lt;td&gt;Ringmo (via Baga La)&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;4,512&lt;/td&gt;&lt;td&gt;5,169&lt;/td&gt;&lt;td&gt;3,641&lt;/td&gt;&lt;td&gt;969&lt;/td&gt;&lt;td&gt;1819&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;104&lt;/td&gt;&lt;td&gt;27/07&lt;/td&gt;&lt;td&gt;Ringmo/Phoksundo Lake&lt;/td&gt;&lt;td&gt;Phoksundo Khola Camp&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;3,641&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,630&lt;/td&gt;&lt;td&gt;529&lt;/td&gt;&lt;td&gt;537&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;105&lt;/td&gt;&lt;td&gt;28/07&lt;/td&gt;&lt;td&gt;Phoksundo Khola Camp&lt;/td&gt;&lt;td&gt;Pass Camp&lt;/td&gt;&lt;td&gt;5.5&lt;/td&gt;&lt;td&gt;3,630&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,717&lt;/td&gt;&lt;td&gt;1017&lt;/td&gt;&lt;td&gt;88&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;106&lt;/td&gt;&lt;td&gt;29/07&lt;/td&gt;&lt;td&gt;Pass Camp&lt;/td&gt;&lt;td&gt;Shey Gompa (via Nagdala La)&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;4,717&lt;/td&gt;&lt;td&gt;5,350&lt;/td&gt;&lt;td&gt;4,343&lt;/td&gt;&lt;td&gt;821&lt;/td&gt;&lt;td&gt;1020&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;107&lt;/td&gt;&lt;td&gt;30/07&lt;/td&gt;&lt;td&gt;Shey Gompa&lt;/td&gt;&lt;td&gt;Bhijer&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;4,343&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,850&lt;/td&gt;&lt;td&gt;1260&lt;/td&gt;&lt;td&gt;1757&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;108&lt;/td&gt;&lt;td&gt;31/07&lt;/td&gt;&lt;td&gt;Shey Gompa&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;3,850&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,850&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;109&lt;/td&gt;&lt;td&gt;01/08&lt;/td&gt;&lt;td&gt;Bhijer&lt;/td&gt;&lt;td&gt;Pho (via Yambur La)&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;td&gt;3,850&lt;/td&gt;&lt;td&gt;4,813&lt;/td&gt;&lt;td&gt;4,087&lt;/td&gt;&lt;td&gt;1619&lt;/td&gt;&lt;td&gt;1503&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;110&lt;/td&gt;&lt;td&gt;02/08&lt;/td&gt;&lt;td&gt;Pho&lt;/td&gt;&lt;td&gt;Pung Kharka (via Nyingma Gyanzen La)&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;td&gt;4,087&lt;/td&gt;&lt;td&gt;5,563&lt;/td&gt;&lt;td&gt;4,650&lt;/td&gt;&lt;td&gt;2022&lt;/td&gt;&lt;td&gt;1291&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;111&lt;/td&gt;&lt;td&gt;03/08&lt;/td&gt;&lt;td&gt;Pung Kharka&lt;/td&gt;&lt;td&gt;Chyandi Khola (via Yala La)&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;4,650&lt;/td&gt;&lt;td&gt;5,414&lt;/td&gt;&lt;td&gt;4,830&lt;/td&gt;&lt;td&gt;762&lt;/td&gt;&lt;td&gt;840&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;112&lt;/td&gt;&lt;td&gt;04/08&lt;/td&gt;&lt;td&gt;Chyandi Khola&lt;/td&gt;&lt;td&gt;Takla Khola&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;4,830&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,785&lt;/td&gt;&lt;td&gt;983&lt;/td&gt;&lt;td&gt;1847&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;113&lt;/td&gt;&lt;td&gt;05/08&lt;/td&gt;&lt;td&gt;Takla Khola&lt;/td&gt;&lt;td&gt;Thajuchaur&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;3,785&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;4,050&lt;/td&gt;&lt;td&gt;1473&lt;/td&gt;&lt;td&gt;1231&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;114&lt;/td&gt;&lt;td&gt;06/08&lt;/td&gt;&lt;td&gt;Thajuchaur&lt;/td&gt;&lt;td&gt;Shilenchaura Kharka&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;4,050&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,945&lt;/td&gt;&lt;td&gt;245&lt;/td&gt;&lt;td&gt;1306&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;115&lt;/td&gt;&lt;td&gt;07/08&lt;/td&gt;&lt;td&gt;Shilenchaura Kharka&lt;/td&gt;&lt;td&gt;Mangri&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;2,945&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,950&lt;/td&gt;&lt;td&gt;1002&lt;/td&gt;&lt;td&gt;1694&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;116&lt;/td&gt;&lt;td&gt;08/08&lt;/td&gt;&lt;td&gt;Mangri&lt;/td&gt;&lt;td&gt;Gamgadhi&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;1,950&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,095&lt;/td&gt;&lt;td&gt;817&lt;/td&gt;&lt;td&gt;930&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;117&lt;/td&gt;&lt;td&gt;09/08&lt;/td&gt;&lt;td&gt;Gamgadhi&lt;/td&gt;&lt;td&gt;Rara Lake&lt;/td&gt;&lt;td&gt;4.0&lt;/td&gt;&lt;td&gt;2,095&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,980&lt;/td&gt;&lt;td&gt;979&lt;/td&gt;&lt;td&gt;101&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;118&lt;/td&gt;&lt;td&gt;10/08&lt;/td&gt;&lt;td&gt;Rara Lake&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;td&gt;2,980&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,980&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;119&lt;/td&gt;&lt;td&gt;11/08&lt;/td&gt;&lt;td&gt;Rara Lake&lt;/td&gt;&lt;td&gt;Bam&lt;/td&gt;&lt;td&gt;9.0&lt;/td&gt;&lt;td&gt;2,980&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,700&lt;/td&gt;&lt;td&gt;1238&lt;/td&gt;&lt;td&gt;1588&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;120&lt;/td&gt;&lt;td&gt;12/08&lt;/td&gt;&lt;td&gt;Bam&lt;/td&gt;&lt;td&gt;Jogimara&lt;/td&gt;&lt;td&gt;6.5&lt;/td&gt;&lt;td&gt;2,700&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,005&lt;/td&gt;&lt;td&gt;1155&lt;/td&gt;&lt;td&gt;691&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;121&lt;/td&gt;&lt;td&gt;13/08&lt;/td&gt;&lt;td&gt;Jogimara&lt;/td&gt;&lt;td&gt;Piplan&lt;/td&gt;&lt;td&gt;5.0&lt;/td&gt;&lt;td&gt;3,005&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;1,700&lt;/td&gt;&lt;td&gt;552&lt;/td&gt;&lt;td&gt;1930&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;122&lt;/td&gt;&lt;td&gt;14/08&lt;/td&gt;&lt;td&gt;Piplan&lt;/td&gt;&lt;td&gt;Apsia Lek&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;1,700&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,195&lt;/td&gt;&lt;td&gt;2276&lt;/td&gt;&lt;td&gt;872&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;123&lt;/td&gt;&lt;td&gt;15/08&lt;/td&gt;&lt;td&gt;Apsia Lek&lt;/td&gt;&lt;td&gt;Punkha Khola&lt;/td&gt;&lt;td&gt;4.5&lt;/td&gt;&lt;td&gt;3,195&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,010&lt;/td&gt;&lt;td&gt;455&lt;/td&gt;&lt;td&gt;925&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;124&lt;/td&gt;&lt;td&gt;16/08&lt;/td&gt;&lt;td&gt;Punkha Khola&lt;/td&gt;&lt;td&gt;River Camp&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;3,010&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,100&lt;/td&gt;&lt;td&gt;1361&lt;/td&gt;&lt;td&gt;1017&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;125&lt;/td&gt;&lt;td&gt;17/08&lt;/td&gt;&lt;td&gt;River Camp&lt;/td&gt;&lt;td&gt;Simikot&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;2,100&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,985&lt;/td&gt;&lt;td&gt;1042&lt;/td&gt;&lt;td&gt;1073&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;126&lt;/td&gt;&lt;td&gt;18/08&lt;/td&gt;&lt;td&gt;Simikot&lt;/td&gt;&lt;td&gt;Kermi&lt;/td&gt;&lt;td&gt;8.0&lt;/td&gt;&lt;td&gt;2,985&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;2,670&lt;/td&gt;&lt;td&gt;1008&lt;/td&gt;&lt;td&gt;1097&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;127&lt;/td&gt;&lt;td&gt;19/08&lt;/td&gt;&lt;td&gt;Kermi&lt;/td&gt;&lt;td&gt;Thumkot&lt;/td&gt;&lt;td&gt;7.0&lt;/td&gt;&lt;td&gt;2,670&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,380&lt;/td&gt;&lt;td&gt;1082&lt;/td&gt;&lt;td&gt;870&lt;/td&gt;&lt;td&gt;23&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;128&lt;/td&gt;&lt;td&gt;20/08&lt;/td&gt;&lt;td&gt;Thumkot&lt;/td&gt;&lt;td&gt;Yari&lt;/td&gt;&lt;td&gt;4.5&lt;/td&gt;&lt;td&gt;3,380&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;3,700&lt;/td&gt;&lt;td&gt;845&lt;/td&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;13&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;129&lt;/td&gt;&lt;td&gt;21/08&lt;/td&gt;&lt;td&gt;Yari&lt;/td&gt;&lt;td&gt;Hilsa (via Nara La)&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;3,700&lt;/td&gt;&lt;td&gt;4,620&lt;/td&gt;&lt;td&gt;3,720&lt;/td&gt;&lt;td&gt;680&lt;/td&gt;&lt;td&gt;959&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550689648/IMG_2635.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Navigation - Sources</title>
+            <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-sources/</link>
+            <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-sources/</guid>
+            <description>&lt;h1&gt;The maps, guide books and navigation sources available for our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;
+
+&lt;p&gt;Navigation is critical for any expedition, and especially those venturing into remote areas where the trail network is more tenuous. You&amp;rsquo;ll realise I&amp;rsquo;m a great believer in technology - however I&amp;rsquo;d like to point out from the outset that a paper map backup is always required.&lt;/p&gt;
+
+&lt;p&gt;In this article I&amp;rsquo;m going to go through some of the sources that are available for navigating the the 1300km Great Himalaya Trail. This posed my biggest navigation challenge to date. The distances are vast and the trails are often not even marked on the most detailed maps available.&lt;/p&gt;
+
+&lt;h3 id=&#34;guide-book&#34;&gt;Guide book&lt;/h3&gt;
+
+&lt;p&gt;The guide book from Robin Boustead is the best source I&amp;rsquo;ve found about the GHT. Robin essentially invented the Great Himalaya Trail, and pioneered the route which links up more established trails with the more remote areas and high mountain passes. The guide book has a detailed itinerary and descriptions for each day. &lt;a href=&#34;https://www.amazon.com/dp/1905864604&#34;&gt;Here&amp;rsquo;s a link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549881032/5026693-NOC02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;himalayan-adventure-labs&#34;&gt;Himalayan Adventure Labs&lt;/h3&gt;
+
+&lt;p&gt;Seth Wolpin and friends over at Himalayan Adventure Labs have some great GPX files, notes and tips from their 2014 trek. You can find them at &lt;a href=&#34;https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/&#34;&gt;www.himalayanadventurelabs.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;himalaya-map-house-topo-maps&#34;&gt;Himalaya Map House topo maps&lt;/h3&gt;
+
+&lt;p&gt;These excellent maps are co-produced with Robin, and include the GHT route as well as many other hiking trails. One caveat is the maps are 1:150k scale, so not exactly ideal for detailed navigation. Paper and digital versions are available from Robin&amp;rsquo;s site &lt;a href=&#34;http://www.greathimalayatrail.com/&#34;&gt;www.greathimalayatrail.com&lt;/a&gt;. Be aware the paper versions are shipped from Nepal so will take a couple of weeks to arrive. The digital version is split into 12 jpg files, each is approx 10k x 6k resolution.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549882055/Screenshot%202019-02-11%20at%2011.20.21.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;finaid-maps&#34;&gt;FinAid maps&lt;/h3&gt;
+
+&lt;p&gt;The most detailed topographic maps of Nepal were produced in 1996 from aerial photography in collaboration with the government of Finland. The north of the country is covered by 1:50k scale maps, and the accuracy of the topographic features is excellent. However, the quality of the other information - trails, place names is sometimes less than ideal. In addition, the maps aren&amp;rsquo;t based on the modern WGS84 geographic reference system, so can&amp;rsquo;t be easily geo-coded for display in a GPS app. Paper copies of the maps can be purchased in Kathmandu (from Maps of Nepal in New Baneshwor, near the Everest Hotel). Digital copies of the maps are available for &lt;a href=&#34;https://jemecasseausoleil.blogspot.com/2017/07/cartes-du-nepal.html&#34;&gt;download here&lt;/a&gt;. A set covering the GHT route totals about 120 jpg files, approx 8k x 7k resolution - over 1GB in total. If anyone has any good ideas on how these digital maps could be best presented in a mobile app, I would love to get in touch!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549882089/Screenshot%202019-02-11%20at%2011.15.54.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549882013/Screenshot%202019-02-08%20at%2019.16.18.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>What is the Great Himalaya Trail?</title>
+            <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail/</link>
+            <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail/</guid>
+            <description>&lt;h1&gt;A brief overview of our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550183229/overview-map-5000.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Great Himalaya Trail is the combination of several trail networks stretching the length of the Himalaya range, with sections in India, Nepal, Bhutan and Tibet. Our trek will follow the High Route of the Nepal section from Kanchenjunga on the Indian border in the East to Hilsa on the Chinese border in the West.&lt;/p&gt;
+
+&lt;p&gt;The concept of the high route is that it follows the highest feasible continuous route across the country, averaging 3,750m (12,000ft) of elevation, with several passes taking us over 6,100m (20,000ft). In total 1,340km (830 miles) over 115 days of hiking, with 94,000m (310,000ft) of ascent and 93,000m (305,000ft) of descent - that&amp;rsquo;s an average elevation change of 1,600m (5250ft) per day. Including rest days, we&amp;rsquo;re expecting to complete the trek in around 130 days.&lt;/p&gt;
+
+&lt;p&gt;Although the route passes through the more popular trekking areas of Everest and Annapurna, many sections visit some of the most remote corners of Nepal. For more than half the days, we&amp;rsquo;re expecting to be camping and cooking our own food. We hope to complete the trek with the minimum of support, so no guides or porters hiking with us unless absolutely necessary for safety or mandated by local law. We will employ the services of a logistical assistance company based in Kathmandu, who will arrange several resupply drops to replenish our food and consumables that aren&amp;rsquo;t readily available on the route.&lt;/p&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550183014/IMG_2423.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Part 5: La Fouly, Courmayeur</title>
+            <link>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-5-la-fouly-courmayeur/</link>
+            <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-5-la-fouly-courmayeur/</guid>
+            <description>&lt;h1&gt;Over the pass to Italy and down the valley to Courmayeur.&lt;/h1&gt;&lt;p&gt;Onwards and upwards into the foothills of Mont Blanc from Lac Champex towards Italy. La Fouly is a cute little town with an amazing view, and I&amp;rsquo;d highly recommend staying at the excellent Maya Joie hostel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549729130/IMG_4609%20%281%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As we climbed further into the hills, the buildings became less frequent and the landscape more barren. The view down the valley towards Courmayeur from the Swiss Itallian border was one of the best of the trip.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549729285/IMG_4681%20%281%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Refugio Bonetti is always a pleasure to stay at, winter or summer and this time it didn&amp;rsquo;t disappoint. The Mont Blanc massive growing larger as we make our way down the valley.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549729460/IMG_4713.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549729285/IMG_4681%20%281%29.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Part 4: Verbier, Champex</title>
+            <link>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-4-verbier-champex/</link>
+            <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-4-verbier-champex/</guid>
+            <description>&lt;h1&gt;Onwards down to La Chable and Champex.&lt;/h1&gt;&lt;p&gt;Arguably the most beautiful town in the European Alps, Verbier overlooks the most picturesque valley. After the last few days of rocks, scrambling and mountains, this all seems rather civilised.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549728184/IMG_4576.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After a day hiking along the valley floor, again I&amp;rsquo;m ascending into the hills towards Lac Champex.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549728519/IMG_4587.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Again this doesn&amp;rsquo;t disappoint.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549728473/IMG_4590.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549728184/IMG_4576.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Part 3: Dix, Prafleuri</title>
+            <link>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-3-dix-prafleuri/</link>
+            <pubDate>Wed, 12 Sep 2018 16:47:36 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-3-dix-prafleuri/</guid>
+            <description>&lt;h1&gt;Over the Pas de Chèvres, Mont Blanc de Cheilon, La Cabane des Dix&lt;/h1&gt;&lt;p&gt;The next section led deep into the mountains. Up the valley to the ski resort of Arolla, and over the Pas de Chèvres to the imposing view of the Mont Blanc de Cheilon with La Cabane des Dix overlooking. I&amp;rsquo;ve visited the Dix hut several times on the winter version of this route, so I pushed on towards the Pas du Chat and the Lac Dix beyond.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549644809/IMG_4490.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cabane de Prafleuri isn&amp;rsquo;t in the most picturesque setting - crouching in the barren quarry carved out of the landscape during the construction of the Dix dam. I was running low on water for the last couple of hours hiking, so arriving at the cabin was very welcome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549727659/IMG_4516.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The journey onwards to Mont Fort was perhaps the most perilous of the trip - an intense scramble up and over the Col de la Chaux. Very happy to arrive at Cabane du Mont Fort in one piece.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549728032/IMG_4548.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549648710/IMG_4504.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Part 2: Moiry</title>
+            <link>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-2-moiry/</link>
+            <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-2-moiry/</guid>
+            <description>&lt;h1&gt;Lac de Moiry and the Cabane du Moiry&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549633470/IMG_4374.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The hike over the mountains to Gruben was a long way, but well worth the effort. The next day came a long traverse past the Lac de Moiry and up to the snout of the Moiry Glacier&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549643721/IMG_4416.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The glacier was spectacular, and the cabin was the most amazing place, perched on the side of the mountain overlooking the river of ice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549643855/IMG_4430%20%281%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549630383/IMG_4301.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Part 1: Zermatt</title>
+            <link>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-1-zermatt/</link>
+            <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-1-zermatt/</guid>
+            <description>&lt;h1&gt;The first part of my journey from Zermatt along the Europaweg trail.&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549618595/IMG_4255.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I hiked the Haute Route in the opposite direction to most people, starting in Zermatt under the majestic Matterhorn and heading down the valley towards Grächen along the Europaweg trail.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549619435/IMG_4283.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Charles Kuonen Suspension Bridge is the longest in the world, spanning almost 500m (1620ft). A recent landslide blocked the trail shortly after the bridge, forcing a re-route down into the valley to Randa.&lt;/p&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549618595/IMG_4255.jpg</url></image>
+        </item>
+        
+        <item>
+            <title>Hyperlite Mountain Gear Ultamid 4</title>
+            <link>https://www.wildernessprime.com/reviews/hgm-ultamid-4/</link>
+            <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/reviews/hgm-ultamid-4/</guid>
+            <description>&lt;h1&gt;A quick review of the HMG Ultamid 4 pyramid tent.&lt;/h1&gt;&lt;p&gt;Coming soon.&lt;/p&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549539837/tent.jpg</url></image>
+        </item>
+        
+    </channel>
+</rss>
