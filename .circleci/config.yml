@@ -6,6 +6,7 @@ jobs:
     working_directory: ~/hugo
     environment:
       HUGO_BUILD_DIR: ~/hugo/public
+      HUGO_DEPLOY_DIR: ~/hugo/public/deploy
     steps:
       - run: apk update && apk add git rsync
       - checkout
@@ -16,4 +17,13 @@ jobs:
       #    command: htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
       - deploy:
           name: Deploy to Github Pages
-          command: ./.circleci/deploy.sh
+          command: -
+            git config --global push.default simple
+            git config --global user.email $(git --no-pager show -s --format='%ae' HEAD)
+            git config --global user.name $CIRCLE_USERNAME
+            git clone -q --branch=gh-pages $CIRCLE_REPOSITORY_URL $HUGO_DEPLOY_DIR
+            cd $HUGO_DEPLOY_DIR
+            rsync -arv --delete ../public/* .
+            git add -f .
+            git commit -m "Deploy build $CIRCLE_BUILD_NUM [ci skip]" || true
+            git push -f
