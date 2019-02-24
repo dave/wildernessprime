@@ -3,11 +3,12 @@ type: report
 date: 2019-02-23 00:00:00 +0000
 slug: navigation-flashcards
 translationKey: navigation-flashcards
-title: Navigation - Flashcards
+title: Navigation - Flashcards foo
 description: I created a set of daily flashcards for the trek.
 image: "/v1550912501/IMG_1681.jpg"
 keywords: []
 author: dave
+
 ---
 Robin's guide book is excellent, but not organised optimally for a thru-hike of the GHT. I created a set of flashcards, one for each day of our itinerary. They are intended to be printed on A5, double sided. Included in each page is:
 
