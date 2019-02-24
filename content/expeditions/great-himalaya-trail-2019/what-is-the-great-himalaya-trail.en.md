@@ -4,7 +4,8 @@ slug: what-is-the-great-himalaya-trail
 translationKey: what-is-the-great-himalaya-trail
 date: 2019-02-01 00:00:00 +0000
 title: What is the Great Himalaya Trail?
-description: A description of our trek
+description: A brief overview of the trek.
+description_with_context: A brief overview of our 1,300km thru-hike of the Great Himalaya Trail.
 image: "/v1550183014/IMG_2423.jpg"
 keywords: []
 author: dave

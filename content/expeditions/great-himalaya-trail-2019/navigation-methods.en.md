@@ -5,6 +5,7 @@ slug: navigation-methods
 translationKey: navigation-methods
 title: Navigation - Methods
 description: The navigation methods and resources we'll be using on the trek.
+description_with_context: The navigation methods and resources we'll be using on our 1,300km thru-hike of the Great Himalaya Trail.
 image: "/v1550908450/IMG_2743.jpg"
 keywords: []
 author: dave

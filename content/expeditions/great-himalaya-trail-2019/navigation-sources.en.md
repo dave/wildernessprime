@@ -4,6 +4,7 @@ slug: navigation-sources
 translationKey: navigation-sources
 title: Navigation - Sources
 description: The maps, guide books and navigation sources available for the GHT.
+description_with_context: The maps, guide books and navigation sources available for our 1,300km thru-hike of the Great Himalaya Trail.
 date: 2019-02-07 00:00:00 +0000
 image: "/v1549882013/Screenshot%202019-02-08%20at%2019.16.18.jpg"
 keywords: []

@@ -4,7 +4,8 @@ date: 2019-02-20 00:00:00 +0000
 slug: itinerary-summary
 translationKey: itinerary-summary
 title: Itinerary - Summary
-description: The intended itinerary
+description: The intended itinerary for the trek.
+description_with_context: The intended itinerary for our 1,300km thru-hike of the Great Himalaya Trail.
 image: "/v1550689648/IMG_2635.jpg"
 keywords: []
 author: dave

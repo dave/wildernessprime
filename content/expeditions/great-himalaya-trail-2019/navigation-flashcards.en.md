@@ -5,6 +5,7 @@ slug: navigation-flashcards
 translationKey: navigation-flashcards
 title: Navigation - Flashcards
 description: I created a set of daily flashcards for the trek.
+description_with_context: I created a set of daily flashcards for our 1,300km thru-hike of the Great Himalaya Trail.
 image: "/v1550912501/IMG_1681.jpg"
 keywords: []
 author: dave
