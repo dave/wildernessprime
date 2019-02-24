@@ -31,6 +31,6 @@ It's a long and steep descent to the extremely stoutly constructed Refuge de la 
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551035465/IMG_4738.jpg)
 
-The next day we're hiking into easier terrain, and the village of Les Contamines-Montjoie is soon reached.
+The next day we're hiking into easier terrain, and we soon reach the village of Les Contamines-Montjoie.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551035565/IMG_4732%20%281%29.jpg)
