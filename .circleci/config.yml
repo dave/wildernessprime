@@ -22,8 +22,8 @@ jobs:
           name: Deploy to Github Pages
           command: |
             git config --global push.default simple
-            git config --global user.email $(git --no-pager show -s --format='%ae' HEAD)
-            git config --global user.name $CIRCLE_USERNAME
+            git config --global user.email "dave@brophy.uk"
+            git config --global user.name "dave"
             git clone -q --branch=gh-pages $CIRCLE_REPOSITORY_URL $HUGO_DEPLOY_DIR
             cd $HUGO_DEPLOY_DIR
             rsync -arv --delete ../public/* .
