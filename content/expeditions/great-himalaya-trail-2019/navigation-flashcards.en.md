@@ -3,7 +3,7 @@ type: report
 date: 2019-02-23 00:00:00 +0000
 slug: navigation-flashcards
 translationKey: navigation-flashcards
-title: Navigation - Flashcards foo
+title: Navigation - Flashcards
 description: I created a set of daily flashcards for the trek.
 image: "/v1550912501/IMG_1681.jpg"
 keywords: []
