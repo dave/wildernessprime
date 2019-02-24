@@ -34,13 +34,12 @@
 				<meta property="og:locale:alternate" content="{{ $lang.opengraph.locale }}" />
 			{{- end -}}
 		{{- end -}}
-	{{- end }}
-	
-	{{ block "opengraph" . }}
-		{{ $data := index .Site.Data .Site.Language.Lang }}
-		<meta property="og:title" content="{{ if .Params.title }}{{ .Params.title }}{{ else }}{{ $data.opengraph.title }}{{ end }}" />
-		<meta property="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ $data.opengraph.description }}{{ end }}" />
-		<meta property="og:image" content="{{ .Site.Params.imgbase }}/w_1080,h_1080,c_fill,g_auto{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ $data.opengraph.image }}{{ end }}" />
+	{{- end -}}
+	{{- block "opengraph" . -}}
+	{{- $data := index .Site.Data .Site.Language.Lang -}}
+	<meta property="og:title" content="{{ if .Params.title }}{{ .Params.title }}{{ else }}{{ $data.opengraph.title }}{{ end }}" />
+	<meta property="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ $data.opengraph.description }}{{ end }}" />
+	<meta property="og:image" content="{{ .Site.Params.imgbase }}/w_1080,h_1080,c_fill,g_auto{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ $data.opengraph.image }}{{ end }}" />
 	{{ end }}
 </head>
 
