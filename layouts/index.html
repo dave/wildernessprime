@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-	{{ $posts := where .Data.Pages ".Params.type" "in" (slice "report" "review") }}
+	{{ $posts := where .Data.Pages ".Params.type" "in" .Site.Params.pagetypes }}
 	{{ $first := first 1 .Data.Pages }}
 	{{ $highlight := gt (len .Data.Pages) 1 }}
 	{{ if $highlight }}

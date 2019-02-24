@@ -11,9 +11,6 @@ languages:
   fr:
     languageName: FR
     weight: 2
-params:
-  imgbase: https://res.cloudinary.com/wildernessprime/image/upload
-  pagesize: 6
 
 outputs:
   home:
@@ -25,4 +22,9 @@ outputFormats:
     mediatype: application/rss
     baseName: rss3
 
-# disqusShortname: wildernessprime
+params:
+  imgbase: https://res.cloudinary.com/wildernessprime/image/upload
+  pagesize: 6
+  pagetypes:
+    - report
+    - review

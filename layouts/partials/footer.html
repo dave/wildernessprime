@@ -33,8 +33,8 @@
                 {{ with .flickr}}
                 <li><a href="{{ . }}" class="icon alt fa-flickr"><span class="label">Flickr</span></a></li>
                 {{ end }}
-                {{ if .Site.RSSLink }}
-                    <li><a href="{{ .Site.RSSLink }}" class="icon alt fa-rss"><span class="label">RSS</span></a></li>
+                {{ if $.Site.RSSLink }}
+                    <li><a href="{{ $.Site.RSSLink }}" class="icon alt fa-rss"><span class="label">RSS</span></a></li>
                 {{ end }}
             </ul>
         </section>
