@@ -2,7 +2,6 @@
 baseURL: https://www.wildernessprime.com/
 languageCode: en-us
 title: Wilderness Prime
-theme: massively
 metaDataFormat: yaml
 languages:
   en:
