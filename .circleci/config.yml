@@ -15,9 +15,9 @@ jobs:
       #- run:
       #    name: test our generated HTML files
       #    command: htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
-      - add_ssh_keys:
-          fingerprints:
-            - "44:9f:a7:54:cc:a1:39:99:57:85:6e:f0:ad:71:a6:6a"
+      #- add_ssh_keys:
+      #    fingerprints:
+      #      - "44:9f:a7:54:cc:a1:39:99:57:85:6e:f0:ad:71:a6:6a"
       - deploy:
           name: Deploy to Github Pages
           command: |
