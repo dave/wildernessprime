@@ -11,10 +11,7 @@ languages:
     languageName: FR
     weight: 2
 params:
-  cloudinary_base_url: https://res.cloudinary.com/wildernessprime/image/upload
-  folders:
-    - "expeditions"
-    - "reviews"
+  imgbase: https://res.cloudinary.com/wildernessprime/image/upload
   pagesize: 6
 googleAnalytics: UA-135021930-1
 # disqusShortname: wildernessprime

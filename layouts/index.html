@@ -1,44 +1,18 @@
-{{ partial "htmlhead" . }}
-	<body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
+{{ define "main" }}
 
-		{{ $posts := .Data.Pages }}
-		{{ $first := first 1 .Data.Pages }}
-		{{ $highlight := gt (len .Data.Pages) 1 }}
-		{{ if $highlight }}
-			{{ $posts = after 1 $posts }}
-		{{ end }}
-		
-		{{ $paginator := .Paginate $posts .Site.Params.pagesize }}
-		
-		<!-- Wrapper -->
-			<div id="wrapper" data-ps="{{ $paginator.PageSize }}" data-pfp="{{ $highlight }}">
+	{{ $posts := where .Data.Pages ".Params.type" "in" (slice "report" "review") }}
+	{{ $first := first 1 .Data.Pages }}
+	{{ $highlight := gt (len .Data.Pages) 1 }}
+	{{ if $highlight }}
+		{{ $posts = after 1 $posts }}
+	{{ end }}
+	{{ $paginator := .Paginate $posts .Site.Params.pagesize }}
 
-				{{ if eq $paginator.PageNumber 1 }}
-				{{ partial "intro.html" . }}
-				{{ end }}
-
-				{{ partial "header" . }}
-				{{ partial "nav" . }}
-
-				<!-- Main -->
-					<div id="main">
-
-						{{ if and $highlight (eq $paginator.PageNumber 1) }}
-							 {{ partial "posts/featured.html" (dict "firstpost" $first "Site" .Site) }}
-						{{ end }}
-						
-						{{ partial "posts/list.html" (dict "posts" $paginator "Site" .Site) }}
-
-						{{ partial "posts/pagination.html" (dict "paginator" $paginator "Site" .Site) }}
-						
-					</div>
-
-					{{ partial "footer/index" . }}
-					{{ partial "copyright" . }}
-			</div>
-
-			{{ template "_internal/google_analytics.html" . }}
-			{{ partial "scripts/index" . }}
-
-	</body>
-</html>
+	{{ if and $highlight (eq $paginator.PageNumber 1) }}
+		 {{ partial "posts/featured.html" (dict "firstpost" $first "Site" .Site) }}
+	{{ end }}
+	
+	{{ partial "posts/list.html" (dict "posts" $paginator "Site" .Site) }}
+	{{ partial "posts/pagination.html" (dict "paginator" $paginator "Site" .Site) }}
+	
+{{ end }}

@@ -1,31 +1,12 @@
-{{ partial "htmlhead" . }}
-<body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
+{{ define "main" }}
 
-{{ $posts := .Pages }}
-{{ $paginator := .Paginate $posts .Site.Params.pagesize }}
+	{{ $posts := .Pages }}
+	{{ $paginator := .Paginate $posts .Site.Params.pagesize }}
+		
+	<h1 id="title">{{ .Title }}</h1>
 
-<!-- Wrapper -->
-<div id="wrapper" data-ps="{{ $paginator.PageSize }}">
+	{{ partial "posts/list.html" (dict "posts" $paginator "Site" .Site) }}
 
-	{{ partial "header" . }}
-	{{ partial "nav" . }}
-
-	<!-- Main -->
-	<div id="main">
-
-		<h1 id="title">{{ .Title }}</h1>
-
-		{{ partial "posts/list.html" (dict "posts" $paginator "Site" .Site) }}
-
-		{{ partial "posts/pagination.html" (dict "paginator" $paginator "Site" .Site) }}
-
-	</div>
-
-	{{ partial "footer/index" . }}
-	{{ partial "copyright" . }}
-
-</div>
-{{ template "_internal/google_analytics.html" . }}
-{{ partial "scripts/index" . }}
-</body>
-</html>
+	{{ partial "posts/pagination.html" (dict "paginator" $paginator "Site" .Site) }}
+	
+{{ end }}
