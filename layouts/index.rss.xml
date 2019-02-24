@@ -2,6 +2,8 @@
     {{ $data := index .Site.Data .Site.Language.Lang }}
     {{ $posts := where .Data.Pages ".Params.type" "in" (slice "report" "review") }}
     <channel>
+        <webfeeds:analytics id="{{ .Site.GoogleAnalytics }}" engine="GoogleAnalytics" />
+        <webfeeds:cover image="{{ .Site.Params.imgbase }}/w_1600,h_800,c_fill,g_auto/v1551006985/IMG_2529%20%282%29.jpg" />
         <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
         <link>{{ .Permalink }}</link>
         <description>Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
@@ -19,12 +21,8 @@
             <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
             {{ with .Params.author }}<author>{{.}}</author>{{end}}
             <guid>{{ .Permalink }}</guid>
-            <description>
-                <h1>{{ if .Params.description_with_context }}{{ .Params.description_with_context }}{{ else }}{{ .Params.description }}{{ end }}</h1> {{ .Content | html }}
-            </description>
-            <image>
-                <url>{{ .Site.Params.imgbase }}/w_1200,c_fill,g_auto{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ $data.opengraph.image }}{{ end }}</url>
-            </image>
+            <description><![CDATA[<h1>{{ if .Params.description_with_context }}{{ .Params.description_with_context }}{{ else }}{{ .Params.description }}{{ end }}</h1>{{ .Content | html }}]]></description>
+            <image><url>{{ .Site.Params.imgbase }}/w_1200,c_fill,g_auto{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ $data.opengraph.image }}{{ end }}</url></image>
         </item>
         {{ end }}
     </channel>
