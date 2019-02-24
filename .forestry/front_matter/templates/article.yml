@@ -77,7 +77,7 @@ fields:
   description: Meta keywords for search engines
 - type: boolean
   name: social_posts
-  label: Social posts (Facebook, Twitter, Instagram, Pinterest)
+  label: Social posts (Facebook, Twitter, Instagram [coming soon], Pinterest, Tumblr)
   description: Should we post to social networks?
 - type: datetime
   name: social_post_date
@@ -104,6 +104,10 @@ fields:
   name: pinterest_post
   label: Pinterest post override (optional)
   description: If you want special text for the Pinterest post, add it here.
+- type: textarea
+  name: tumblr_post
+  label: Tumblr post override (optional)
+  description: If you want special text for the Tumblr post, add it here.
 pages:
 - content/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail.en.md
 - content/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail.fr.md
