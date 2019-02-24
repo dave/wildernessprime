@@ -10,8 +10,8 @@ fields:
       type: simple
     required: true
     options:
-      - report
-      - review
+    - report
+    - review
   label: Type
   description: Is this an equipment review or an expedition report?
   default: report
@@ -66,6 +66,7 @@ fields:
     - mathilde
   label: Author
   description: Who wrote the article
+  default: dave
 - type: file
   name: image
   label: Image
@@ -74,20 +75,37 @@ fields:
   name: keywords
   label: Keywords
   description: Meta keywords for search engines
+- type: boolean
+  name: social_posts
+  label: Social posts (Facebook, Twitter, Instagram, Pinterest)
+  description: Should we post to social networks?
+- type: datetime
+  name: social_post_date
+  label: Social post date / time
+  description: What date / time should we post to social networks (make sure it's
+    at least 2 hours after the post goes live)
+  config:
+    date_format: YYYY-MM-DD
+    time_format: hh:mm A ZZ
+    display_utc: true
+- type: textarea
+  name: facebook_post
+  label: Facebook post override (optional)
+  description: If you want special text for the Facebook post, add it here.
 pages:
-- content/reviews/hgm-ultamid-4.fr.md
-- content/reviews/hgm-ultamid-4.en.md
-- content/expeditions/great-himalaya-trail-2019/navigation-flashcards.en.md
-- content/expeditions/great-himalaya-trail-2019/navigation-sources.fr.md
-- content/expeditions/summer-haute-route-2018/part-4-verbier-champex.en.md
-- content/expeditions/summer-haute-route-2018/part-1-zermatt.en.md
-- content/expeditions/summer-haute-route-2018/part-2-moiry.en.md
-- content/expeditions/summer-haute-route-2018/part-3-dix-prafleuri.en.md
-- content/expeditions/summer-haute-route-2018/part-5-la-fouly-courmayeur.en.md
-- content/expeditions/great-himalaya-trail-2019/itinerary-resupply.en.md
-- content/expeditions/great-himalaya-trail-2019/navigation-sources.en.md
-- content/expeditions/great-himalaya-trail-2019/itinerary-summary.en.md
-- content/expeditions/great-himalaya-trail-2019/navigation-gpx.en.md
-- content/expeditions/great-himalaya-trail-2019/navigation-methods.en.md
-- content/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail.fr.md
 - content/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail.en.md
+- content/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail.fr.md
+- content/expeditions/great-himalaya-trail-2019/navigation-methods.en.md
+- content/expeditions/great-himalaya-trail-2019/navigation-gpx.en.md
+- content/expeditions/great-himalaya-trail-2019/itinerary-summary.en.md
+- content/expeditions/great-himalaya-trail-2019/navigation-sources.en.md
+- content/expeditions/great-himalaya-trail-2019/itinerary-resupply.en.md
+- content/expeditions/summer-haute-route-2018/part-5-la-fouly-courmayeur.en.md
+- content/expeditions/summer-haute-route-2018/part-3-dix-prafleuri.en.md
+- content/expeditions/summer-haute-route-2018/part-2-moiry.en.md
+- content/expeditions/summer-haute-route-2018/part-1-zermatt.en.md
+- content/expeditions/summer-haute-route-2018/part-4-verbier-champex.en.md
+- content/expeditions/great-himalaya-trail-2019/navigation-sources.fr.md
+- content/expeditions/great-himalaya-trail-2019/navigation-flashcards.en.md
+- content/reviews/hgm-ultamid-4.en.md
+- content/reviews/hgm-ultamid-4.fr.md
