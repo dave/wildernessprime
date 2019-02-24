@@ -3,6 +3,7 @@ baseURL: https://www.wildernessprime.com/
 languageCode: en-us
 title: Wilderness Prime
 metaDataFormat: yaml
+googleAnalytics: UA-135021930-1
 languages:
   en:
     languageName: EN
@@ -13,6 +14,15 @@ languages:
 params:
   imgbase: https://res.cloudinary.com/wildernessprime/image/upload
   pagesize: 6
-googleAnalytics: UA-135021930-1
+
+outputs:
+  home:
+    - HTML
+    - RSS
+
+outputFormats:
+  RSS:
+    mediatype: application/rss
+    baseName: index1
 
 # disqusShortname: wildernessprime
