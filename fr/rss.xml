@@ -12,7 +12,7 @@
         <webMaster>dave@wildernessprime.com (Dave Brophy)</webMaster>
         
         <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://www.wildernessprime.com/fr/index1.xml" rel="self" type="application/rss&#43;xml" />
+        <atom:link href="https://www.wildernessprime.com/fr/rss.xml" rel="self" type="application/rss&#43;xml" />
         
         <item>
             <title>Préparation de la carte</title>
