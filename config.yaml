@@ -23,6 +23,6 @@ outputs:
 outputFormats:
   RSS:
     mediatype: application/rss
-    baseName: rss2
+    baseName: rss3
 
 # disqusShortname: wildernessprime
