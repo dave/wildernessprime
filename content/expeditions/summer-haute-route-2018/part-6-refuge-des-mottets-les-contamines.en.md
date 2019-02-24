@@ -33,3 +33,5 @@ It's a long and steep descent to the stoutly constructed Refuge de la Mottets. O
 The next day we're hiking into easier terrain, and we soon reach the village of Les Contamines-Montjoie.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551035565/IMG_4732%20%281%29.jpg)
+
+foo
