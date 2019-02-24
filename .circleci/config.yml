@@ -16,7 +16,7 @@ jobs:
       #    command: htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
       - run:
           name: Install deployment dependencies
-          command: sudo apt install rsync
+          command: apt install rsync
       - deploy:
           name: Deploy to Github Pages
           command: ./.circleci/deploy.sh
