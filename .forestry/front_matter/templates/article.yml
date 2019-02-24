@@ -1,15 +1,20 @@
 ---
-label: Equipment Review
+label: Article
 hide_body: false
 is_partial: false
 fields:
-- type: text
+- type: select
   name: type
-  label: Type
-  hidden: true
   config:
+    source:
+      type: simple
     required: true
-  default: review
+    options:
+      - report
+      - review
+  label: Type
+  description: Is this an equipment review or an expedition report?
+  default: report
 - type: datetime
   name: date
   label: Date
