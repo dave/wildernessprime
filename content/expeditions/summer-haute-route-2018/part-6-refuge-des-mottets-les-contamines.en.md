@@ -27,7 +27,7 @@ We leave the bog behind and head up the mountain to the Col de la Seigne, and to
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551035271/IMG_4729.jpg)
 
-It's a long and steep descent to the extremely stoutly constructed Refuge de la Mottets. I'm sure this building has to withstand regular avalanches in the winter with the steep valley either side.
+It's a long and steep descent to the stoutly constructed Refuge de la Mottets. One of the more comfortable mountain huts we've visited.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551035465/IMG_4738.jpg)
 
