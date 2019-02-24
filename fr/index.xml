@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     
+    
     <channel>
         <title>Wilderness Prime</title>
         <link>https://www.wildernessprime.com/fr/</link>
@@ -71,34 +72,6 @@
             </description>
             <image>
                 <url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549539837/tent.jpg</url>
-            </image>
-        </item>
-        
-        <item>
-            <title></title>
-            <link>https://www.wildernessprime.com/fr/authors/dave/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            
-            <guid>https://www.wildernessprime.com/fr/authors/dave/</guid>
-            <description>
-                <h1>Normalement un ingénieur en logiciel, récemment, je passe un peu plus de temps dans la nature.</h1> 
-            </description>
-            <image>
-                <url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550934174/war-memorial.jpg</url>
-            </image>
-        </item>
-        
-        <item>
-            <title></title>
-            <link>https://www.wildernessprime.com/fr/authors/mathilde/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            
-            <guid>https://www.wildernessprime.com/fr/authors/mathilde/</guid>
-            <description>
-                <h1>...</h1> 
-            </description>
-            <image>
-                <url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550934235/14568248_1876033235963719_4405964862684903525_n.jpg</url>
             </image>
         </item>
         
