@@ -83,7 +83,7 @@ fields:
   name: social_post_date
   label: Social post date / time
   description: What date / time should we post to social networks (make sure it's
-    at least 2 hours after the post goes live)
+    at least 2 hours after the post goes live. Default if left blank is 6 hours after post goes live).
   config:
     date_format: YYYY-MM-DD
     time_format: hh:mm A ZZ
