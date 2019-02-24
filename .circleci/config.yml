@@ -17,7 +17,7 @@ jobs:
       #    command: htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
       - deploy:
           name: Deploy to Github Pages
-          command: -
+          command: |
             git config --global push.default simple
             git config --global user.email $(git --no-pager show -s --format='%ae' HEAD)
             git config --global user.name $CIRCLE_USERNAME
