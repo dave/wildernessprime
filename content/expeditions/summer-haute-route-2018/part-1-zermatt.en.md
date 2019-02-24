@@ -8,6 +8,7 @@ description: The first part of my journey from Zermatt along the Europaweg trail
 image: "/v1549618595/IMG_4255.jpg"
 keywords: []
 author: dave
+social_posts: true
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549618595/IMG_4255.jpg)
 

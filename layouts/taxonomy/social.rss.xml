@@ -1,0 +1,32 @@
+{{ define "posts" }}
+    {{ $data := index .Site.Data .Site.Language.Lang }}
+    {{ $posts := where .Site.Pages ".Params.social_posts" true }}
+    {{ range $posts }}
+        <item>
+            <title>{{ .Title }}</title>
+            <link>{{ .Permalink }}</link>
+            <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+            {{ with .Params.author }}<author>{{.}}</author>{{end}}
+            <guid>{{ .Permalink }}</guid>
+            <description>
+                {{ $description := "" }}
+                {{ if .Params.description_with_context }}
+                    {{ $description = .Params.description_with_context }}
+                {{ else }}
+                    {{ $description = .Params.description }}
+                {{ end }}
+                {{ if and (eq $.Data.Term "facebook") .Params.description_facebook }}{{ $description = .Params.description_facebook }}{{ end }}
+                {{ if and (eq $.Data.Term "twitter") .Params.description_twitter }}{{ $description = .Params.description_twitter }}{{ end }}
+                {{ if and (eq $.Data.Term "instagram") .Params.description_instagram }}{{ $description = .Params.description_instagram }}{{ end }}
+                {{ if and (eq $.Data.Term "pinterest") .Params.description_pinterest }}{{ $description = .Params.description_pinterest }}{{ end }}
+                {{ if and (eq $.Data.Term "tumblr") .Params.description_tumblr }}{{ $description = .Params.description_tumblr }}{{ end }}
+                {{ $description }}
+            </description>
+                {{ $resolution := "w_1200" }}
+                {{ if eq $.Data.Term "instagram" }}
+                    {{ $resolution = "w_1200,h_1200" }}
+                {{ end }}
+            <image><url>{{ .Site.Params.imgbase }}/{{ $resolution }},c_fill,g_auto{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ $data.opengraph.image }}{{ end }}</url></image>
+        </item>
+    {{ end }}
+{{ end }}

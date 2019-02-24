@@ -12,6 +12,11 @@ languages:
     languageName: FR
     weight: 2
 
+taxonomies:
+  category: categories
+  tag: tags
+  social: socials 
+  
 outputs:
   home:
     - HTML
@@ -20,7 +25,7 @@ outputs:
 outputFormats:
   RSS:
     mediatype: application/rss
-    baseName: rss3
+    baseName: feed
 
 params:
   imgbase: https://res.cloudinary.com/wildernessprime/image/upload

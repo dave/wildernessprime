@@ -79,33 +79,24 @@ fields:
   name: social_posts
   label: Social posts (Facebook, Twitter, Instagram [coming soon], Pinterest, Tumblr)
   description: Should we post to social networks?
-- type: datetime
-  name: social_post_date
-  label: Social post date / time
-  description: What date / time should we post to social networks (make sure it's
-    at least 2 hours after the post goes live. Default if left blank is 6 hours after post goes live).
-  config:
-    date_format: YYYY-MM-DD
-    time_format: hh:mm A ZZ
-    display_utc: true
 - type: textarea
-  name: facebook_post
+  name: description_facebook
   label: Facebook post override (optional)
   description: If you want special text for the Facebook post, add it here.
 - type: textarea
-  name: twitter_post
+  name: description_twitter
   label: Twitter post override (optional)
   description: If you want special text for the Twitter post, add it here.
 - type: textarea
-  name: instagram_post
+  name: description_instagram
   label: Instagram post override (optional)
   description: If you want special text for the Instagram post, add it here.
 - type: textarea
-  name: pinterest_post
+  name: description_pinterest
   label: Pinterest post override (optional)
   description: If you want special text for the Pinterest post, add it here.
 - type: textarea
-  name: tumblr_post
+  name: description_tumblr
   label: Tumblr post override (optional)
   description: If you want special text for the Tumblr post, add it here.
 pages:
