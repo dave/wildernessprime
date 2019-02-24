@@ -11,6 +11,9 @@ autopublish:
             - master
 jobs:
   build:
+    filters:
+      branches:
+        only: master
     docker:
       - image: cibuilds/hugo:latest
     working_directory: ~/hugo
