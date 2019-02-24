@@ -12,27 +12,21 @@
                 {{ with .facebook}}
                 <li><a href="{{ . }}" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
                 {{ end }}
-                {{ with .instagram}}
+                {{ with .pinterest}}
+                    <li><a href="{{ . }}" class="icon alt fa-pinterest"><span class="label">Pinterest</span></a></li>
+                {{ end }}
+                {{ with .tumblr}}
+                    <li><a href="{{ . }}" class="icon alt fa-tumblr"><span class="label">Tumblr</span></a></li>
+                {{ end }}
+                <!--{{ with .instagram}}
                 <li><a href="{{ . }}" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-                {{ end }}
-                {{ with .linkedin}}
-                <li><a href="{{ . }}" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-                {{ end }}
-                {{ with .github}}
-                <li><a href="{{ . }}" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
                 {{ end }}
                 {{ with .youtube}}
                 <li><a href="{{ . }}" class="icon alt fa-youtube"><span class="label">Youtube</span></a></li>
                 {{ end }}
-                {{ with .googleplus}}
-                <li><a href="{{ . }}" class="icon alt fa-google-plus"><span class="label">Google Plus</span></a></li>
-                {{ end }}
-                {{ with .lastfm}}
-                <li><a href="{{ . }}" class="icon alt fa-lastfm"><span class="label">Last.fm</span></a></li>
-                {{ end }}
                 {{ with .flickr}}
                 <li><a href="{{ . }}" class="icon alt fa-flickr"><span class="label">Flickr</span></a></li>
-                {{ end }}
+                {{ end }}-->
                 {{ if $.Site.RSSLink }}
                     <li><a href="{{ $.Site.RSSLink }}" class="icon alt fa-rss"><span class="label">RSS</span></a></li>
                 {{ end }}
