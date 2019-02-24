@@ -1,33 +1,47 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 <!DOCTYPE HTML>
-<!--
-	Favicon background: #6a8ecf
--->
+{{- /* Favicon background: #6a8ecf */ -}}
 <html lang='{{ .Site.Language.Lang | default "en-us" }}'>
 <head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	{{ if .RSSLink }}
-		<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-		<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+	<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+	<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 	{{ end }}
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 	<link rel="manifest" href="/site.webmanifest">
-	<title>{{ if eq (.Site.Title) (.Title) }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href='{{ "assets/css/main.css" | relURL }}' />
-	{{ with .Site.Params.favicon }}
-		<link rel="shortcut icon" href="{{ . }}">
-	{{ end }}
-	<noscript><link rel="stylesheet" href='{{ "assets/css/noscript.css" | relURL }}' /></noscript>
+	<noscript>
+		<link rel="stylesheet" href='{{ "assets/css/noscript.css" | relURL }}' />
+	</noscript>
 
-	<!--<meta property="og:url"                content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
-	<meta property="og:type"               content="article" />
-	<meta property="og:title"              content="When Great Minds Don’t Think Alike" />
-	<meta property="og:description"        content="How much does culture influence creative thinking?" />
-	<meta property="og:image"              content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />-->
+	<title>
+		{{ if eq .Site.Title .Title }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}
+	</title>
 	
+	<meta property="og:url" content="{{ .Permalink }}" />
+	<meta property="og:type" content="article" />
+	<meta property="fb:app_id" content="wildernessprime" />
+	<meta property="og:locale" content="{{ $data.opengraph.locale }}" />
+	{{ if .IsTranslated -}}
+		{{- /* I don't think this will actually work... See https://stackoverflow.com/questions/20827882/in-open-graph-markup-whats-the-use-of-oglocalealternate-without-the-locati */ -}}
+		{{- range .AllTranslations -}}
+			{{- if ne $.Site.Language .Language -}}
+				{{- $lang := index $.Site.Data .Language.String -}}
+				<meta property="og:locale:alternate" content="{{ $lang.opengraph.locale }}" />
+			{{- end -}}
+		{{- end -}}
+	{{- end }}
+	
+	{{ block "opengraph" . }}
+		{{ $data := index .Site.Data .Site.Language.Lang }}
+		<meta property="og:title" content="{{ if .Params.title }}{{ .Params.title }}{{ else }}{{ $data.opengraph.title }}{{ end }}" />
+		<meta property="og:description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ $data.opengraph.description }}{{ end }}" />
+		<meta property="og:image" content="{{ .Site.Params.imgbase }}/w_1080,h_1080,c_fill,g_auto{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ $data.opengraph.image }}{{ end }}" />
+	{{ end }}
 </head>
 
 <body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
@@ -44,6 +58,7 @@
 		</div>
 	
 		{{ partial "footer" . }}
+		
 		<!-- Copyright -->
 		<div id="copyright">
 			<ul><li>&copy; {{ .Site.Title }}</li><li>{{ i18n "COPYRIGHT_MESSAGE_1" . | markdownify }}</li><li>{{ i18n "COPYRIGHT_MESSAGE_2" . | markdownify }}</li></ul>
