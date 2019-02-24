@@ -8,6 +8,9 @@ jobs:
       HUGO_BUILD_DIR: ~/hugo/public
       HUGO_DEPLOY_DIR: ~/hugo/deploy
     steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "70:74:0a:39:c2:90:77:4c:0e:36:8d:b4:3c:c3:75:9e"
       - run: apk update && apk add git rsync
       - checkout
       - run: git submodule sync && git submodule update --init
