@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
     
     
     <channel>
@@ -22,7 +22,7 @@
             <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-flashcards/</guid>
-            <description>&lt;![CDATA[<h1>I created a set of daily flashcards for our 1,300km thru-hike of the Great Himalaya Trail.</h1>&lt;p&gt;Robin&amp;rsquo;s guide book is excellent, but not organised optimally for a thru-hike of the GHT. I created a set of flashcards, one for each day of our itinerary. They are intended to be printed on A5, double sided. Included in each page is:&lt;/p&gt;
+            <description>&lt;h1&gt;I created a set of daily flashcards for our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;Robin&amp;rsquo;s guide book is excellent, but not organised optimally for a thru-hike of the GHT. I created a set of flashcards, one for each day of our itinerary. They are intended to be printed on A5, double sided. Included in each page is:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The description from Robin&amp;rsquo;s guide book.&lt;/li&gt;
@@ -41,7 +41,7 @@
 &lt;p&gt;I had a set printed on waterproof 115gsm Xerox NeverTear paper by &lt;a href=&#34;https://www.colourgraphics.com/&#34;&gt;ColourGraphics&lt;/a&gt;. I couldn&amp;rsquo;t be happier with the results - they&amp;rsquo;re perfect:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550912501/IMG_1681.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550912501/IMG_1681.jpg</url></image>
         </item>
         
@@ -51,7 +51,7 @@
             <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-gpx/</guid>
-            <description>&lt;![CDATA[<h1>How I created GPX files for our 1,300km thru-hike of the Great Himalaya Trail.</h1>&lt;p&gt;ViewRanger will provide topo maps of the entire trekking area, but these would be of limited use without the route highlighted. The GHT is infrequently trekked, so there&amp;rsquo;s relatively few digital resources available. For the more popular ares, the ViewRanger topo maps often include footpaths - but for much of the trek there is nothing plotted on the map.&lt;/p&gt;
+            <description>&lt;h1&gt;How I created GPX files for our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;ViewRanger will provide topo maps of the entire trekking area, but these would be of limited use without the route highlighted. The GHT is infrequently trekked, so there&amp;rsquo;s relatively few digital resources available. For the more popular ares, the ViewRanger topo maps often include footpaths - but for much of the trek there is nothing plotted on the map.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve tried to bring all the available GPX resources together in this section:&lt;/p&gt;
 
@@ -69,7 +69,7 @@
 &lt;p&gt;While creating the flashcards I created 115 separate GPX files in this way, then merged them into a single GPX file containing 115 route segments. This was painstaking repetitive work that took several weeks! It should be noted that this route is only as accurate as the highlighted route on the paper maps, which will not be 100% accurate. However, most of it matches up almost perfectly with Seth&amp;rsquo;s recorded track, so I&amp;rsquo;m optimistic that it&amp;rsquo;s a good enough estimation.&lt;/p&gt;
 
 &lt;p&gt;You can find the &lt;a href=&#34;https://www.dropbox.com/s/s5p5neji22fi0bu/flashcard-daily-routes-copied-from-map.gpx?dl=0&#34; title=&#34;flashcard-daily-routes-copied-from-map.gpx&#34;&gt;final file here&lt;/a&gt;.&lt;/p&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550943527/Screenshot%202019-02-23%20at%2018.37.51.jpg</url></image>
         </item>
         
@@ -79,7 +79,7 @@
             <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-methods/</guid>
-            <description>&lt;![CDATA[<h1>The navigation methods and resources we&#39;ll be using on our 1,300km thru-hike of the Great Himalaya Trail.</h1>&lt;p&gt;Navigating with the aid of digital topo maps is a game changer for unsupported trekking. However, extreme care must be taken because digital devices often fail in the field. We will be using several backups to mitigate this:&lt;/p&gt;
+            <description>&lt;h1&gt;The navigation methods and resources we&#39;ll be using on our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;Navigating with the aid of digital topo maps is a game changer for unsupported trekking. However, extreme care must be taken because digital devices often fail in the field. We will be using several backups to mitigate this:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;My iPhone with topo mapping, offline maps and GPX route.&lt;/li&gt;
@@ -98,7 +98,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;It should be noted that ViewRanger is not particularly efficient at downloading offline maps, so getting the entire GHT route map area was a major task. The maximum area that can be downloaded in one go it quite small, so I needed sixteen chunks to get the whole route. Each chunk took several hours, and the operation would pause if the app was not running in the foreground. I found the only reliable way to get it done without quarantining my phone was to start each chunk downloading before I went to bed and leave the phone on charge, turned on with the app running in the foreground. This way the process took almost two weeks. I repeated the entire process with my backup iPod touch.&lt;/p&gt;
 &lt;/blockquote&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550908450/IMG_2743.jpg</url></image>
         </item>
         
@@ -108,7 +108,7 @@
             <pubDate>Wed, 20 Feb 2019 12:01:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/itinerary-resupply/</guid>
-            <description>&lt;![CDATA[<h1>Resupply locations and food tracking calculations for our 1,300km thru-hike of the Great Himalaya Trail.</h1>&lt;p&gt;Our general food strategy is to eat freshly cooked local food wherever possible, and not to reply on buying unprepared food along the trail that we cook later. Remote villages often will have nothing to sell apart from perhaps rice, flour and lentils - not exactly calorie dense or backpacking stove compatible. In order to ensure we have enough food between resupply points, I&amp;rsquo;ve attempted to estimate where we&amp;rsquo;ll be able to eat local food. When we&amp;rsquo;re eating local food we&amp;rsquo;re not using our rations.&lt;/p&gt;
+            <description>&lt;h1&gt;Resupply locations and food tracking calculations for our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;Our general food strategy is to eat freshly cooked local food wherever possible, and not to reply on buying unprepared food along the trail that we cook later. Remote villages often will have nothing to sell apart from perhaps rice, flour and lentils - not exactly calorie dense or backpacking stove compatible. In order to ensure we have enough food between resupply points, I&amp;rsquo;ve attempted to estimate where we&amp;rsquo;ll be able to eat local food. When we&amp;rsquo;re eating local food we&amp;rsquo;re not using our rations.&lt;/p&gt;
 
 &lt;p&gt;Our resupply points were picked by juggling a few variables:&lt;/p&gt;
 
@@ -261,7 +261,7 @@
 &lt;tr&gt;&lt;td&gt;129&lt;/td&gt;&lt;td&gt;21/08&lt;/td&gt;&lt;td&gt;Hilsa&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td&gt;66%&lt;/td&gt;&lt;td&gt;2.0&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;/div&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550696069/IMG_2712.jpg</url></image>
         </item>
         
@@ -271,7 +271,7 @@
             <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/itinerary-summary/</guid>
-            <description>&lt;![CDATA[<h1>The intended itinerary for our 1,300km thru-hike of the Great Himalaya Trail.</h1>&lt;p&gt;In any trek it&amp;rsquo;s important to get an idea of the approximate itinerary. Of course, on a long trek like this the exact route will need to be flexible, but I&amp;rsquo;ll plan the intended route and the maps and guide book will provide alternates when we need them. The alternates are almost certainly going to take us south and down hill where services and accommodation are more usually more plentiful.&lt;/p&gt;
+            <description>&lt;h1&gt;The intended itinerary for our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;In any trek it&amp;rsquo;s important to get an idea of the approximate itinerary. Of course, on a long trek like this the exact route will need to be flexible, but I&amp;rsquo;ll plan the intended route and the maps and guide book will provide alternates when we need them. The alternates are almost certainly going to take us south and down hill where services and accommodation are more usually more plentiful.&lt;/p&gt;
 
 &lt;p&gt;There are several companies that trek the Great Himalaya Trail fully supported&amp;hellip; these operations take a handful of customers accompanied by an army of guides and porters. Some of them conveniently publish their daily itinerary, and this made a great start in my planning.&lt;/p&gt;
 
@@ -413,7 +413,7 @@
 &lt;tr&gt;&lt;td&gt;129&lt;/td&gt;&lt;td&gt;21/08&lt;/td&gt;&lt;td&gt;Yari&lt;/td&gt;&lt;td&gt;Hilsa (via Nara La)&lt;/td&gt;&lt;td&gt;6.0&lt;/td&gt;&lt;td&gt;3,700&lt;/td&gt;&lt;td&gt;4,620&lt;/td&gt;&lt;td&gt;3,720&lt;/td&gt;&lt;td&gt;680&lt;/td&gt;&lt;td&gt;959&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;/div&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550689648/IMG_2635.jpg</url></image>
         </item>
         
@@ -423,7 +423,7 @@
             <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/navigation-sources/</guid>
-            <description>&lt;![CDATA[<h1>The maps, guide books and navigation sources available for our 1,300km thru-hike of the Great Himalaya Trail.</h1>
+            <description>&lt;h1&gt;The maps, guide books and navigation sources available for our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;
 
 &lt;p&gt;Navigation is critical for any expedition, and especially those venturing into remote areas where the trail network is more tenuous. You&amp;rsquo;ll realise I&amp;rsquo;m a great believer in technology - however I&amp;rsquo;d like to point out from the outset that a paper map backup is always required.&lt;/p&gt;
 
@@ -450,7 +450,7 @@
 &lt;p&gt;The most detailed topographic maps of Nepal were produced in 1996 from aerial photography in collaboration with the government of Finland. The north of the country is covered by 1:50k scale maps, and the accuracy of the topographic features is excellent. However, the quality of the other information - trails, place names is sometimes less than ideal. In addition, the maps aren&amp;rsquo;t based on the modern WGS84 geographic reference system, so can&amp;rsquo;t be easily geo-coded for display in a GPS app. Paper copies of the maps can be purchased in Kathmandu (from Maps of Nepal in New Baneshwor, near the Everest Hotel). Digital copies of the maps are available for &lt;a href=&#34;https://jemecasseausoleil.blogspot.com/2017/07/cartes-du-nepal.html&#34;&gt;download here&lt;/a&gt;. A set covering the GHT route totals about 120 jpg files, approx 8k x 7k resolution - over 1GB in total. If anyone has any good ideas on how these digital maps could be best presented in a mobile app, I would love to get in touch!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549882089/Screenshot%202019-02-11%20at%2011.15.54.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549882013/Screenshot%202019-02-08%20at%2019.16.18.jpg</url></image>
         </item>
         
@@ -460,14 +460,14 @@
             <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail-2019/what-is-the-great-himalaya-trail/</guid>
-            <description>&lt;![CDATA[<h1>A brief overview of our 1,300km thru-hike of the Great Himalaya Trail.</h1>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550183229/overview-map-5000.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description>&lt;h1&gt;A brief overview of our 1,300km thru-hike of the Great Himalaya Trail.&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550183229/overview-map-5000.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Great Himalaya Trail is the combination of several trail networks stretching the length of the Himalaya range, with sections in India, Nepal, Bhutan and Tibet. Our trek will follow the High Route of the Nepal section from Kanchenjunga on the Indian border in the East to Hilsa on the Chinese border in the West.&lt;/p&gt;
 
 &lt;p&gt;The concept of the high route is that it follows the highest feasible continuous route across the country, averaging 3,750m (12,000ft) of elevation, with several passes taking us over 6,100m (20,000ft). In total 1,340km (830 miles) over 115 days of hiking, with 94,000m (310,000ft) of ascent and 93,000m (305,000ft) of descent - that&amp;rsquo;s an average elevation change of 1,600m (5250ft) per day. Including rest days, we&amp;rsquo;re expecting to complete the trek in around 130 days.&lt;/p&gt;
 
 &lt;p&gt;Although the route passes through the more popular trekking areas of Everest and Annapurna, many sections visit some of the most remote corners of Nepal. For more than half the days, we&amp;rsquo;re expecting to be camping and cooking our own food. We hope to complete the trek with the minimum of support, so no guides or porters hiking with us unless absolutely necessary for safety or mandated by local law. We will employ the services of a logistical assistance company based in Kathmandu, who will arrange several resupply drops to replenish our food and consumables that aren&amp;rsquo;t readily available on the route.&lt;/p&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550183014/IMG_2423.jpg</url></image>
         </item>
         
@@ -477,7 +477,7 @@
             <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-5-la-fouly-courmayeur/</guid>
-            <description>&lt;![CDATA[<h1>Over the pass to Italy and down the valley to Courmayeur.</h1>&lt;p&gt;Onwards and upwards into the foothills of Mont Blanc from Lac Champex towards Italy. La Fouly is a cute little town with an amazing view, and I&amp;rsquo;d highly recommend staying at the excellent Maya Joie hostel.&lt;/p&gt;
+            <description>&lt;h1&gt;Over the pass to Italy and down the valley to Courmayeur.&lt;/h1&gt;&lt;p&gt;Onwards and upwards into the foothills of Mont Blanc from Lac Champex towards Italy. La Fouly is a cute little town with an amazing view, and I&amp;rsquo;d highly recommend staying at the excellent Maya Joie hostel.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549729130/IMG_4609%20%281%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -488,7 +488,7 @@
 &lt;p&gt;Refugio Bonetti is always a pleasure to stay at, winter or summer and this time it didn&amp;rsquo;t disappoint. The Mont Blanc massive growing larger as we make our way down the valley.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549729460/IMG_4713.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549729285/IMG_4681%20%281%29.jpg</url></image>
         </item>
         
@@ -498,7 +498,7 @@
             <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-4-verbier-champex/</guid>
-            <description>&lt;![CDATA[<h1>Onwards down to La Chable and Champex.</h1>&lt;p&gt;Arguably the most beautiful town in the European Alps, Verbier overlooks the most picturesque valley. After the last few days of rocks, scrambling and mountains, this all seems rather civilised.&lt;/p&gt;
+            <description>&lt;h1&gt;Onwards down to La Chable and Champex.&lt;/h1&gt;&lt;p&gt;Arguably the most beautiful town in the European Alps, Verbier overlooks the most picturesque valley. After the last few days of rocks, scrambling and mountains, this all seems rather civilised.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549728184/IMG_4576.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -509,7 +509,7 @@
 &lt;p&gt;Again this doesn&amp;rsquo;t disappoint.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549728473/IMG_4590.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549728184/IMG_4576.jpg</url></image>
         </item>
         
@@ -519,7 +519,7 @@
             <pubDate>Wed, 12 Sep 2018 16:47:36 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-3-dix-prafleuri/</guid>
-            <description>&lt;![CDATA[<h1>Over the Pas de Chèvres, Mont Blanc de Cheilon, La Cabane des Dix</h1>&lt;p&gt;The next section led deep into the mountains. Up the valley to the ski resort of Arolla, and over the Pas de Chèvres to the imposing view of the Mont Blanc de Cheilon with La Cabane des Dix overlooking. I&amp;rsquo;ve visited the Dix hut several times on the winter version of this route, so I pushed on towards the Pas du Chat and the Lac Dix beyond.&lt;/p&gt;
+            <description>&lt;h1&gt;Over the Pas de Chèvres, Mont Blanc de Cheilon, La Cabane des Dix&lt;/h1&gt;&lt;p&gt;The next section led deep into the mountains. Up the valley to the ski resort of Arolla, and over the Pas de Chèvres to the imposing view of the Mont Blanc de Cheilon with La Cabane des Dix overlooking. I&amp;rsquo;ve visited the Dix hut several times on the winter version of this route, so I pushed on towards the Pas du Chat and the Lac Dix beyond.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549644809/IMG_4490.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -530,7 +530,7 @@
 &lt;p&gt;The journey onwards to Mont Fort was perhaps the most perilous of the trip - an intense scramble up and over the Col de la Chaux. Very happy to arrive at Cabane du Mont Fort in one piece.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549728032/IMG_4548.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549648710/IMG_4504.jpg</url></image>
         </item>
         
@@ -540,7 +540,7 @@
             <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-2-moiry/</guid>
-            <description>&lt;![CDATA[<h1>Lac de Moiry and the Cabane du Moiry</h1>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549633470/IMG_4374.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description>&lt;h1&gt;Lac de Moiry and the Cabane du Moiry&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549633470/IMG_4374.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The hike over the mountains to Gruben was a long way, but well worth the effort. The next day came a long traverse past the Lac de Moiry and up to the snout of the Moiry Glacier&lt;/p&gt;
 
@@ -549,7 +549,7 @@
 &lt;p&gt;The glacier was spectacular, and the cabin was the most amazing place, perched on the side of the mountain overlooking the river of ice.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549643855/IMG_4430%20%281%29.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549630383/IMG_4301.jpg</url></image>
         </item>
         
@@ -559,14 +559,14 @@
             <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-1-zermatt/</guid>
-            <description>&lt;![CDATA[<h1>The first part of my journey from Zermatt along the Europaweg trail.</h1>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549618595/IMG_4255.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+            <description>&lt;h1&gt;The first part of my journey from Zermatt along the Europaweg trail.&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549618595/IMG_4255.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I hiked the Haute Route in the opposite direction to most people, starting in Zermatt under the majestic Matterhorn and heading down the valley towards Grächen along the Europaweg trail.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549619435/IMG_4283.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Charles Kuonen Suspension Bridge is the longest in the world, spanning almost 500m (1620ft). A recent landslide blocked the trail shortly after the bridge, forcing a re-route down into the valley to Randa.&lt;/p&gt;
-]]></description>
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549618595/IMG_4255.jpg</url></image>
         </item>
         
@@ -576,8 +576,8 @@
             <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/reviews/hgm-ultamid-4/</guid>
-            <description>&lt;![CDATA[<h1>A quick review of the HMG Ultamid 4 pyramid tent.</h1>&lt;p&gt;Coming soon.&lt;/p&gt;
-]]></description>
+            <description>&lt;h1&gt;A quick review of the HMG Ultamid 4 pyramid tent.&lt;/h1&gt;&lt;p&gt;Coming soon.&lt;/p&gt;
+</description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549539837/tent.jpg</url></image>
         </item>
         
