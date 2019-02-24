@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <webfeeds:analytics id="UA-135021930-1" engine="GoogleAnalytics" />
+        <webfeeds:cover image="https://res.cloudinary.com/wildernessprime/image/upload/w_1600,h_800,c_fill,g_auto/v1551006985/IMG_2529%20%282%29.jpg" />
+        <title>Tumblr on Wilderness Prime</title>
+        <link>https://www.wildernessprime.com/socials/tumblr/</link>
+        <description>Recent content in Tumblr on Wilderness Prime</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <managingEditor>dave@wildernessprime.com (Dave Brophy)</managingEditor>
+        <webMaster>dave@wildernessprime.com (Dave Brophy)</webMaster>
+        
+        
+        <atom:link href="https://www.wildernessprime.com/socials/tumblr/feed.xml" rel="self" type="application/rss+xml" />
+        
+    
+    
+    
+        <item>
+            <title>Part 1: Zermatt</title>
+            <link>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-1-zermatt/</link>
+            <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-1-zermatt/</guid>
+            <description>
+                
+                
+                    
+                
+                
+                
+                
+                
+                
+                The first part of my journey from Zermatt along the Europaweg trail.
+            </description>
+                
+                
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549618595/IMG_4255.jpg</url></image>
+        </item>
+    
+
+    </channel>
+</rss>

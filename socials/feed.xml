@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Socials on Wilderness Prime</title>
+    <link>https://www.wildernessprime.com/socials/</link>
+    <description>Recent content in Socials on Wilderness Prime</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.wildernessprime.com/socials/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Facebook</title>
+      <link>https://www.wildernessprime.com/socials/facebook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/socials/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instagram</title>
+      <link>https://www.wildernessprime.com/socials/instagram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/socials/instagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pinterest</title>
+      <link>https://www.wildernessprime.com/socials/pinterest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/socials/pinterest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tumblr</title>
+      <link>https://www.wildernessprime.com/socials/tumblr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/socials/tumblr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>https://www.wildernessprime.com/socials/twitter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wildernessprime.com/socials/twitter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

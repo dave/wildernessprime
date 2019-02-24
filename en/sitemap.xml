@@ -146,6 +146,10 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/socials/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -204,6 +208,11 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/socials/facebook/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/reviews/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -215,6 +224,31 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.wildernessprime.com/reviews/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/instagram/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/pinterest/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/socials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/socials/"
                 />
   </url>
   
@@ -231,6 +265,16 @@
                 hreflang="en"
                 href="https://www.wildernessprime.com/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/tumblr/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/twitter/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

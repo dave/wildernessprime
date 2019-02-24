@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.wildernessprime.com/fr/expeditions/rss3.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.wildernessprime.com/fr/expeditions/feed.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

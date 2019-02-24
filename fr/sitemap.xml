@@ -135,6 +135,21 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/fr/socials/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/socials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/socials/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link

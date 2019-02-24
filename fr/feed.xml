@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    
-    
     <channel>
         <webfeeds:analytics id="UA-135021930-1" engine="GoogleAnalytics" />
         <webfeeds:cover image="https://res.cloudinary.com/wildernessprime/image/upload/w_1600,h_800,c_fill,g_auto/v1551006985/IMG_2529%20%282%29.jpg" />
@@ -14,8 +12,11 @@
         <webMaster>dave@wildernessprime.com (Dave Brophy)</webMaster>
         
         <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://www.wildernessprime.com/fr/rss3.xml" rel="self" type="application/rss&#43;xml" />
+        <atom:link href="https://www.wildernessprime.com/fr/feed.xml" rel="self" type="application/rss+xml" />
         
+    
+    
+    
         <item>
             <title>Préparation de la carte</title>
             <link>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/navigation-sources/</link>
@@ -36,7 +37,7 @@
 </description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549486862/media/nepal.jpg</url></image>
         </item>
-        
+    
         <item>
             <title>Qu’est ce que la grande route de l’Himalaya?</title>
             <link>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail-2019/quest-ce-que-la-grande-route-de-l-himalaya/</link>
@@ -53,7 +54,7 @@
 </description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1550183014/IMG_2423.jpg</url></image>
         </item>
-        
+    
         <item>
             <title>Hyperlite Mountain Gear Ultamid 4</title>
             <link>https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/</link>
@@ -64,6 +65,17 @@
 </description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1549539837/tent.jpg</url></image>
         </item>
-        
+    
+        <item>
+            <title>Équipement</title>
+            <link>https://www.wildernessprime.com/fr/reviews/</link>
+            <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+            
+            <guid>https://www.wildernessprime.com/fr/reviews/</guid>
+            <description>&lt;h1&gt;&lt;/h1&gt;</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1551006985/IMG_2529%20%282%29.jpg</url></image>
+        </item>
+    
+
     </channel>
 </rss>
