@@ -10,13 +10,13 @@ description_with_context: We continue the route of the Tour du Mont Blanc throug
   Les Houches, Chamonix and on to Argentiere.
 image: "/v1551208274/IMG_4770.jpg"
 keywords: []
-social_posts: false
+social_posts: true
 description_facebook: ''
-description_twitter: ''
+description_twitter: 'We continue the route of the Tour du Mont Blanc through Les
+  Houches, Chamonix and on to Argentiere. #chamonix'
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
-draft: true
 
 ---
 We can see Les Houches and Chamonix in the distance for the long descent from the mountains. We had to make up a day so we bypassed the normal hiking trail along the Petit Balcon Sud, and walked through the centre of Chamonix. I've lived here for four winters but this was my first time visiting in the  summer.
