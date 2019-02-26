@@ -23,6 +23,6 @@ We can see Les Houches and Chamonix in the distance for the long descent from th
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551208438/IMG_4768.jpg)
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551208511/IMG_4784%20%281%29.jpg)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551208511/IMG_4784%20%281%29.jpg#portrait)
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551208598/IMG_4805.jpg)
