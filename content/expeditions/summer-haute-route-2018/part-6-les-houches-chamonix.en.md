@@ -2,9 +2,9 @@
 type: report
 author: dave
 date: 2018-09-22 00:00:00 +0000
-slug: part-6-les-houches-chamonix
-translationKey: part-6-les-houches-chamonix
-title: 'Part 6: Les Houches, Chamonix'
+slug: part-7-les-houches-chamonix
+translationKey: part-7-les-houches-chamonix
+title: 'Part 7: Les Houches, Chamonix'
 description: We continue through Les Houches, Chamonix and on to Argentiere.
 description_with_context: We continue the route of the Tour du Mont Blanc through
   Les Houches, Chamonix and on to Argentiere.
