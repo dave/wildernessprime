@@ -5,17 +5,25 @@ date: 2018-09-25 00:00:00 +0000
 slug: part-8-trient-champex
 translationKey: part-8-trient-champex
 title: 'Part 8: Trient and back to Champex'
-description: The trail continues into the hills, past Trient and back to Champex.
-description_with_context: The Tour du Mont Blanc trail continues over the hills, past
-  Trient and back to Champex.
+description: Our hike concludes, back at Champex.
+description_with_context: Our Tour du Mont Blanc circuit concludes, back at Champex.
 image: "/v1551218080/IMG_4807.jpg"
 keywords: []
-social_posts: false
-description_facebook: ''
-description_twitter: ''
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
+social_posts: true
+description_facebook: The trail wound on up into the hills once again for the last
+  leg. To Trient, then down into the valley where we returned to the beautiful Lac
+  Champex.
+description_twitter: 'The trail wound on up into the hills once again for the last
+  leg. To Trient, then down into the valley where we returned to the beautiful Lac
+  Champex. #chamonix #tourdumontblanc #tmb'
+description_instagram: The trail wound on up into the hills once again for the last
+  leg. To Trient, then down into the valley where we returned to the beautiful Lac
+  Champex.
+description_pinterest: The trail wound on up into the hills once again for the last
+  leg. To Trient, then down into the valley where we returned to the beautiful Lac
+  Champex.
+description_tumblr: The trail wound on up into the hills once again for the last leg.
+  To Trient, then down into the valley where we returned to the beautiful Lac Champex.
 draft: true
 
 ---
