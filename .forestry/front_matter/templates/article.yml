@@ -100,6 +100,7 @@ fields:
   label: Tumblr post override (optional)
   description: If you want special text for the Tumblr post, add it here.
 pages:
+- content/expeditions/summer-haute-route-2018/part-8-trient-and-back-to-champex.en.md
 - content/expeditions/summer-haute-route-2018/part-7-les-houches-chamonix.en.md
 - content/expeditions/summer-haute-route-2018/part-6-refuge-des-mottets-les-contamines.en.md
 - content/expeditions/summer-haute-route-2018/part-5-la-fouly-courmayeur.en.md
