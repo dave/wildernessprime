@@ -1,14 +1,5 @@
 version: 2
-autopublish:
-  jobs:
-    - build
-  triggers:
-    - schedule:
-      cron: "0 */1 * * *"
-      filters:
-        branches:
-          only:
-            - master
+
 jobs:
   build:
     filters:
@@ -43,3 +34,19 @@ jobs:
             git add -f .
             git commit -m "Deploy build $CIRCLE_BUILD_NUM [ci skip]" || true
             git push -f
+
+workflows:
+  version: 2
+  commit:
+    jobs:
+      - build
+  nightly:
+    triggers:
+      - schedule:
+          cron: "0 */1 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - build
