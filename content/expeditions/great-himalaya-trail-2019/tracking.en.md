@@ -18,4 +18,6 @@ description_tumblr: ''
 draft: true
 
 ---
+We're planning to start the hike around April 12th 2019. Our Garmin InReach satellite tracker will update this map every few minutes. Our intended route is marked in red and yellow. Our actual track is blue.
+
 <iframe src="https://share.garmin.com/wildernessprime" frameborder="0" marginwidth="0" marginheight="0" style="width: 100%; height:100vh;"></iframe>
