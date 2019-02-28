@@ -5,10 +5,17 @@ slug: navigation-gpx
 translationKey: navigation-gpx
 title: Navigation - GPX routes
 description: How I created GPX files for the entire trail.
-description_with_context: How I created GPX files for our 1,300km thru-hike of the Great Himalaya Trail.
+description_with_context: How I created GPX files for our 1,300km thru-hike of the
+  Great Himalaya Trail.
 image: "/v1550943527/Screenshot%202019-02-23%20at%2018.37.51.jpg"
 keywords: []
 author: dave
+social_posts: false
+description_facebook: ''
+description_twitter: ''
+description_instagram: ''
+description_pinterest: ''
+description_tumblr: ''
 
 ---
 ViewRanger will provide topo maps of the entire trekking area, but these would be of limited use without the route highlighted. The GHT is infrequently trekked, so there's relatively few digital resources available. For the more popular ares, the ViewRanger topo maps often include footpaths - but for much of the trek there is nothing plotted on the map.
@@ -24,6 +31,6 @@ To create this I used [gpsies.com](https://www.gpsies.com/ "www.gpsies.com"), wh
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_1000,dpr_auto/v1550946659/Screenshot%202019-02-23%20at%2009.29.48.jpg)
 
-While creating the flashcards I created 115 separate GPX files in this way, then merged them into a single GPX file containing 115 route segments. This was painstaking repetitive work that took several weeks! It should be noted that this route is only as accurate as the highlighted route on the paper maps, which will not be 100% accurate. However, most of it matches up almost perfectly with Seth's recorded track, so I'm optimistic that it's a good enough estimation.
+While creating the flashcards I created 115 separate GPX files in this way, then merged them into a single GPX file containing 115 route segments. This was painstaking repetitive work that took several weeks! It should be noted that this route is only as accurate as the highlighted route on the paper maps, which will not be 100% perfect. However, most of it matches up almost perfectly with Seth's recorded track, so I'm optimistic that it's a good enough estimation.
 
 You can find the [final file here](https://www.dropbox.com/s/s5p5neji22fi0bu/flashcard-daily-routes-copied-from-map.gpx?dl=0 "flashcard-daily-routes-copied-from-map.gpx").
