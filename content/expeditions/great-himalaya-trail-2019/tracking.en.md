@@ -15,7 +15,6 @@ description_twitter: ''
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
-draft: true
 
 ---
 We're planning to start the hike around April 12th 2019. Our Garmin InReach satellite tracker will update this map every few minutes. Our intended route is marked in red and yellow - each coloured section being one day of hiking, and our actual track is blue.
