@@ -1,8 +1,9 @@
 +++
-type = "author"
 biography = "..."
+contact = ""
 description = "..."
-image = "/v1550934235/14568248_1876033235963719_4405964862684903525_n.jpg"
+image = "/v1551370086/Screen%20Shot%202019-02-28%20at%2011.07.39.png"
 name = "Mathilde"
+type = "author"
 
 +++
