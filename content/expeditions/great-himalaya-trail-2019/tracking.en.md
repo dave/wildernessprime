@@ -18,4 +18,4 @@ description_tumblr: ''
 draft: true
 
 ---
-<iframe src="https://share.garmin.com/wildernessprime" frameborder="0" marginwidth="0" marginheight="0" width="100%" height="100vh"></iframe>
+<iframe src="https://share.garmin.com/wildernessprime" frameborder="0" marginwidth="0" marginheight="0" style="width: 100%; height:100vh;"></iframe>
