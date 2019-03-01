@@ -7,7 +7,7 @@ title: 'Day 16: Ghasa to Tatopani'
 image: "/v1551466482/IMG_2980.jpg"
 keywords: []
 author: dave
-description: XXX
+description: A dangerous rock slide hampered our progress on the trail to Tatopani, ane we were exhausted by the end.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

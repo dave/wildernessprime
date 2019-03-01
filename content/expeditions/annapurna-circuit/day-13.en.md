@@ -7,7 +7,7 @@ title: 'Day 13: Kagbeni to Marpha'
 image: "/v1551465921/IMG_2902.jpg"
 keywords: []
 author: dave
-description: XXX
+description: I'm glad we skipped Jomsom and headed all the way to picturesque town of Marpha.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

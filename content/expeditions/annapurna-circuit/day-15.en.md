@@ -7,7 +7,7 @@ title: 'Day 15: Larjung to Ghasa'
 image: "/v1551466321/IMG_2966.jpg"
 keywords: []
 author: dave
-description: XXX
+description: Tricky navigation and real coffee on the road to Ghasa.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

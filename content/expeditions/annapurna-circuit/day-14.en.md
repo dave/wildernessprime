@@ -7,7 +7,7 @@ title: 'Day 14: Marpha to Larjung'
 image: "/v1551465992/IMG_2915.jpg"
 keywords: []
 author: dave
-description: XXX
+description: We battled gale force winds in the afternoon making our way to Larjung.
 social_posts: false
 description_facebook: ''
 description_twitter: ''
