@@ -16,9 +16,7 @@ description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
 draft: true
-
 ---
-{{% michelle %}}
 
 The tourist buses from Kathmandu to Besi Sahar weren’t running when I went, so I took the local bus. It takes between 6 and 10 hours depending on your luck. Mine took about 7, so I recommend taking the earliest bus possible and having lunch in Besi Sahar. The local bus costs 360 rupees ($3.60), and it left from Gongabu New Bus Station Park. When the bus arrives in Besi Sahar you’ll want to take it to the very last stop.
 
