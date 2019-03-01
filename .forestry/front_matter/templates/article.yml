@@ -100,6 +100,7 @@ fields:
   label: Tumblr post override (optional)
   description: If you want special text for the Tumblr post, add it here.
 pages:
+- content/expeditions/great-himalaya-trail-2019/navigation-sources.fr.md
 - content/expeditions/great-himalaya-trail-2019/tracking.en.md
 - content/expeditions/summer-haute-route-2018/part-8-trient-and-back-to-champex.en.md
 - content/expeditions/summer-haute-route-2018/part-7-les-houches-chamonix.en.md
@@ -116,7 +117,6 @@ pages:
 - content/expeditions/great-himalaya-trail-2019/itinerary-summary.en.md
 - content/expeditions/great-himalaya-trail-2019/navigation-sources.en.md
 - content/expeditions/great-himalaya-trail-2019/itinerary-resupply.en.md
-- content/expeditions/great-himalaya-trail-2019/navigation-sources.fr.md
 - content/expeditions/great-himalaya-trail-2019/navigation-flashcards.en.md
 - content/reviews/hgm-ultamid-4.en.md
 - content/reviews/hgm-ultamid-4.fr.md
