@@ -3,7 +3,7 @@ type: report
 slug: day-8-manang
 translationKey: day-8-manang
 date: 2018-05-19 00:00:00 +0000
-title: 'Day 8: Braka – Manang'
+title: 'Day 8: Braka to Manang'
 image: "/v1551464320/IMG_2616.jpg"
 keywords: []
 author: dave

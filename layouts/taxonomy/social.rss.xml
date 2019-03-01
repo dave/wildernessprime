@@ -3,7 +3,14 @@
     {{ $posts := where (where .Site.Pages ".Params.social_posts" true) ".Lang" "en" }}
     {{ range $posts }}
         <item>
-            <title>{{ .Title }}</title>
+            <title>
+                {{ if eq .Params.type "report" }}
+                    {{ if eq .CurrentSection.Params.type "expedition" }}
+                        {{ .CurrentSection.Params.title }} - 
+                    {{ end }}
+                {{ end }}
+                {{ .Title }}
+            </title>
             <link>{{ .Permalink }}</link>
             <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
             {{ with .Params.author }}<author>{{.}}</author>{{end}}
@@ -15,11 +22,11 @@
                 {{ else }}
                     {{ $description = .Params.description }}
                 {{ end }}
-                {{ if and (eq $.Data.Term "facebook") .Params.description_facebook }}{{ $description = .Params.description_facebook }}{{ end }}
-                {{ if and (eq $.Data.Term "twitter") .Params.description_twitter }}{{ $description = .Params.description_twitter }}{{ end }}
-                {{ if and (eq $.Data.Term "instagram") .Params.description_instagram }}{{ $description = .Params.description_instagram }}{{ end }}
-                {{ if and (eq $.Data.Term "pinterest") .Params.description_pinterest }}{{ $description = .Params.description_pinterest }}{{ end }}
-                {{ if and (eq $.Data.Term "tumblr") .Params.description_tumblr }}{{ $description = .Params.description_tumblr }}{{ end }}
+                {{ if and (eq $.Data.Term "facebook") .Params.description_facebook }}{{ $description = print $description " " .Params.description_facebook }}{{ end }}
+                {{ if and (eq $.Data.Term "twitter") .Params.description_twitter }}{{ $description = print $description " " .Params.description_twitter }}{{ end }}
+                {{ if and (eq $.Data.Term "instagram") .Params.description_instagram }}{{ $description = print $description " " .Params.description_instagram }}{{ end }}
+                {{ if and (eq $.Data.Term "pinterest") .Params.description_pinterest }}{{ $description = print $description " " .Params.description_pinterest }}{{ end }}
+                {{ if and (eq $.Data.Term "tumblr") .Params.description_tumblr }}{{ $description = print $description " " .Params.description_tumblr }}{{ end }}
                 {{ $description }}
             </description>
                 {{ $resolution := "w_1200" }}

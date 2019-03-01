@@ -15,11 +15,7 @@ description_with_context: We pick up the trail of the Tour du Mont Blanc, as we 
   Joie hostel.
 social_posts: true
 description_facebook: ''
-description_twitter: 'We pick up the trail of the Tour du Mont Blanc, as we hike over
-  the pass to Italy and down the valley to Courmayeur. Onwards and upwards into the
-  foothills of Mont Blanc from Lac Champex towards Italy. La Fouly is a cute little
-  town with an amazing view, and I''d highly recommend staying at the excellent Maya
-  Joie hostel. #tourdumontblanc #tmb'
+description_twitter: '#tourdumontblanc #tmb'
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''

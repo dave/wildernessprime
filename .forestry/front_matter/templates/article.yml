@@ -81,24 +81,24 @@ fields:
   description: Should we post to social networks?
 - type: textarea
   name: description_facebook
-  label: Facebook post override (optional)
-  description: If you want special text for the Facebook post, add it here.
+  label: Facebook post suffix (optional)
+  description: This text is appended to the Facebook post description.
 - type: textarea
   name: description_twitter
-  label: Twitter post override (optional)
-  description: If you want special text for the Twitter post, add it here.
+  label: Twitter post suffix (optional)
+  description: This text is appended to the Twitter post description.
 - type: textarea
   name: description_instagram
-  label: Instagram post override (optional)
-  description: If you want special text for the Instagram post, add it here.
+  label: Instagram post suffix (optional)
+  description: This text is appended to the Instagram post description.
 - type: textarea
   name: description_pinterest
-  label: Pinterest post override (optional)
-  description: If you want special text for the Pinterest post, add it here.
+  label: Pinterest post suffix (optional)
+  description: This text is appended to the Pinterest post description.
 - type: textarea
   name: description_tumblr
-  label: Tumblr post override (optional)
-  description: If you want special text for the Tumblr post, add it here.
+  label: Tumblr post suffix (optional)
+  description: This text is appended to the Tumblr post description.
 pages:
 - content/expeditions/annapurna-circuit-2018/day-05.en.md
 - content/expeditions/annapurna-circuit-2018/day-13.en.md

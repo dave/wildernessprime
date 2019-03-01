@@ -11,7 +11,7 @@
 		</div>
 	{{ end }}
 
-	{{ partial "posts/list.html" (dict "posts" $paginator "Site" .Site) }}
+	{{ partial "posts/list.html" (dict "posts" $paginator "Site" .Site "context" false) }}
 
 	{{ partial "posts/pagination.html" (dict "paginator" $paginator "Site" .Site) }}
 	

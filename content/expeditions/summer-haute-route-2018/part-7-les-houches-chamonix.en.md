@@ -12,8 +12,7 @@ image: "/v1551208274/IMG_4770.jpg"
 keywords: []
 social_posts: true
 description_facebook: ''
-description_twitter: 'We continue the route of the Tour du Mont Blanc through Les
-  Houches, Chamonix and on to Argentiere. #chamonix'
+description_twitter: '#chamonix'
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
