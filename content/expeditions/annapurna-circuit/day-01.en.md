@@ -8,7 +8,7 @@ image: "/v1551459890/IMG_2337.jpg"
 keywords: []
 author: dave
 description: The first part of our trek... We made the right decision in taking the easier path.
-social_posts: false
+social_posts: true
 description_facebook: ''
 description_twitter: ''
 description_instagram: ''
