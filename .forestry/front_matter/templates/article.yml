@@ -100,11 +100,11 @@ fields:
   label: Tumblr post override (optional)
   description: If you want special text for the Tumblr post, add it here.
 pages:
+- content/expeditions/annapurna-circuit-2018/day-05.en.md
 - content/expeditions/annapurna-circuit-2018/day-13.en.md
 - content/expeditions/annapurna-circuit-2018/day-09.en.md
 - content/expeditions/annapurna-circuit-2018/day-08.en.md
 - content/expeditions/annapurna-circuit-2018/day-07.en.md
-- content/expeditions/annapurna-circuit-2018/day-05.en.md
 - content/expeditions/annapurna-circuit-2018/day-03.en.md
 - content/expeditions/annapurna-circuit-2018/day-02.en.md
 - content/expeditions/great-himalaya-trail-2019/navigation-flashcards.fr.md

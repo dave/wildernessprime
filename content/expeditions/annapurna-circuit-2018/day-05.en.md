@@ -4,7 +4,7 @@ slug: day-5-chame
 translationKey: day-5-chame
 date: 2018-04-05 00:00:00 +0000
 title: 'Day 5: Dharapani to Chame'
-image: ''
+image: "/v1551462296/IMG_2448.jpg"
 keywords: []
 author: dave
 description: XXX
