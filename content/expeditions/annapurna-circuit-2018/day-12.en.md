@@ -33,3 +33,5 @@ The views were incredible and unlike anything I’d seen in Nepal so far. Parts 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551465614/IMG_2865.jpg)
 
 After arriving in Kagbeni, I searched for the rest of my crew and strolled through the beautiful streets. It’s the oldest city I’ve seen in Nepal, and the architecture is incredible. I’d stumble on stupas, rows of prayer wheels, and old stone buildings. I eventually decided to eat and stay at YacDonalds despite the $5 room charge. I ordered the happy meal for lunch which promised a side of happiness and they were right. It was an AMAZING burger even by American standards.
+
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551465764/IMG_2870.jpg)
