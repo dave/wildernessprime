@@ -1,4 +1,5 @@
 ---
+draft: true
 type: expedition
 layout: reports
 title: Annapurna Circuit 2018
