@@ -49,12 +49,6 @@ fields:
   description: Summary of the page (for site previews).
   config:
     required: true
-- type: textarea
-  name: description_with_context
-  label: Description with context (optional)
-  description: Summary of the page with extra context (for social sharing).
-  config:
-    required: false
 - type: select
   name: author
   config:

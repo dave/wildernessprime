@@ -7,8 +7,7 @@ title: 'Day 6: Chame to Upper Pisang'
 image: "/v1551463071/IMG_2457.jpg"
 keywords: []
 author: dave
-description: XXX
-description_with_context: XXX
+description: Spectacular scenery on the trail from Chame to Pisang.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

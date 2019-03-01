@@ -6,8 +6,6 @@ slug: navigation-gpx
 translationKey: navigation-gpx
 title: Navigation - GPX routes
 description: How I created GPX files for the entire trail.
-description_with_context: How I created GPX files for our 1,300km thru-hike of the
-  Great Himalaya Trail.
 image: "/v1550943527/Screenshot%202019-02-23%20at%2018.37.51.jpg"
 keywords: []
 author: dave

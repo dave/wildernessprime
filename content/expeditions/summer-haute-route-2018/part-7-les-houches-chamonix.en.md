@@ -6,8 +6,6 @@ slug: part-7-les-houches-chamonix
 translationKey: part-7-les-houches-chamonix
 title: 'Part 7: Les Houches, Chamonix'
 description: We continue through Les Houches, Chamonix and on to Argentiere.
-description_with_context: We continue the route of the Tour du Mont Blanc through
-  Les Houches, Chamonix and on to Argentiere.
 image: "/v1551208274/IMG_4770.jpg"
 keywords: []
 social_posts: true

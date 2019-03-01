@@ -7,8 +7,7 @@ title: 'Day 12: Muktinath to Kagbeni'
 image: "/v1551465614/IMG_2865.jpg"
 keywords: []
 author: dave
-description: XXX
-description_with_context: XXX
+description: Kagbeni was a beautiful town, lush green fields against a desert background.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

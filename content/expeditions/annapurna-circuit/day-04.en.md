@@ -7,8 +7,7 @@ title: 'Day 4: Chamje to Dharapani'
 image: "/v1551461056/IMG_2423%20%282%29.jpg"
 keywords: []
 author: dave
-description: XXX
-description_with_context: XXX
+description: Our first day hiking completely off the road, all the way to Dharapani.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

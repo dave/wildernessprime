@@ -8,7 +8,6 @@ description: Lac de Moiry and the Cabane du Moiry
 image: "/v1549630383/IMG_4301.jpg"
 keywords: []
 author: dave
-description_with_context: ''
 social_posts: true
 description_facebook: ''
 description_twitter: ''

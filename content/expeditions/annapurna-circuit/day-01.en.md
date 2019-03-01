@@ -8,7 +8,6 @@ image: "/v1551459890/IMG_2337.jpg"
 keywords: []
 author: dave
 description: The first part of our trek... We made the right decision in taking the easier path.
-description_with_context: The first part of our Annapurna Circuit trek... We made the right decision in taking the easier path.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

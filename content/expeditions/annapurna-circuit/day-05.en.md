@@ -7,8 +7,7 @@ title: 'Day 5: Dharapani to Chame'
 image: "/v1551462296/IMG_2448.jpg"
 keywords: []
 author: dave
-description: XXX
-description_with_context: XXX
+description: Switchbacks and bridges as we pass Qunche and Danakyu towards Chame.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

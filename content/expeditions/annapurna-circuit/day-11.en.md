@@ -7,8 +7,7 @@ title: 'Day 11: Thorung Phedi to Muktinath'
 image: "/v1551465259/IMG_2794%20%281%29.jpg"
 keywords: []
 author: dave
-description: XXX
-description_with_context: XXX
+description: The highest point of the trek at 5,400m and we're all feeling the altitude.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

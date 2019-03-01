@@ -6,7 +6,6 @@ slug: part-8-trient-champex
 translationKey: part-8-trient-champex
 title: 'Part 8: Trient and back to Champex'
 description: Our hike concludes, back at Champex.
-description_with_context: Our Tour du Mont Blanc circuit concludes, back at Champex.
 image: "/v1551218080/IMG_4807.jpg"
 keywords: []
 social_posts: true

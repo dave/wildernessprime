@@ -8,7 +8,6 @@ image: "/v1551466695/IMG_3013%20%281%29.jpg"
 keywords: []
 author: dave
 description: XXX
-description_with_context: XXX
 social_posts: false
 description_facebook: ''
 description_twitter: ''

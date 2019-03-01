@@ -7,8 +7,7 @@ title: 'Day 9: Manang to Yak Kharka'
 image: "/v1551464484/IMG_2746%20%281%29.jpg"
 keywords: []
 author: dave
-description: XXX
-description_with_context: XXX
+description: My favourite evening of the whole trek in Yak Kharka, as snow starts falling.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

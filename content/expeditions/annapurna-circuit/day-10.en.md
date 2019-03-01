@@ -7,8 +7,7 @@ title: 'Day 10: Yak Kharka to Thorung Phedi'
 image: "/v1551464760/IMG_2775.jpg"
 keywords: []
 author: dave
-description: XXX
-description_with_context: XXX
+description: The trail starts getting really tough as the elevation increases towards the pass.
 social_posts: false
 description_facebook: ''
 description_twitter: ''

@@ -7,8 +7,7 @@ title: 'Day 8: Braka to Manang'
 image: "/v1551464320/IMG_2616.jpg"
 keywords: []
 author: dave
-description: XXX
-description_with_context: XXX
+description: The mysterious hidden cave of Milarepa eludes us, as we take a well needed rest day in Braka.
 social_posts: false
 description_facebook: ''
 description_twitter: ''
@@ -20,7 +19,12 @@ draft: true
 ---
 {{% michelle %}}
 
-We spent a day in Braka to acclimate. The best way to acclimate is to walk high and sleep low. There are two popular side treks that start in Braka. Ice Lake goes up to 4,600m and offers spectacular views, but I’ve heard that the lake itself is nothing special. We decided to do Milarepa’s Cave which is at 4,250m. The cave was extremely hard to find and marked incorrectly on maps, so we ended up seeing two other “caves” instead. That being said, it offers incredible views in almost every direction. You can check out this post on Milarepa’s Cave for more details.
+We spent a day in Braka to acclimate. The best way to acclimate is to walk high and sleep low. There 
+are two popular side treks that start in Braka. Ice Lake goes up to 4,600m and offers spectacular 
+views, but I’ve heard that the lake itself is nothing special. We decided to do Milarepa’s Cave 
+which is at 4,250m. The cave was extremely hard to find and marked incorrectly on maps, so we ended 
+up seeing two other “caves” instead. That being said, it offers incredible views in almost every 
+direction. You can check out this post on Milarepa’s Cave for more details.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551464320/IMG_2616.jpg)
 

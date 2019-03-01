@@ -6,8 +6,6 @@ slug: part-6-mottets-contamines
 translationKey: part-6-mottets-contamines
 title: 'Part 6: Refuge Des Mottets, Les Contamines'
 description: Over the Col de la Seigne and into France towards Les Contamines.
-description_with_context: Over the Col de la Seigne and into France towards Les Contamines,
-  as we continue the Tour du Mont Blanc hiking route.
 image: "/v1551035074/IMG_4720.jpg"
 keywords: []
 social_posts: true

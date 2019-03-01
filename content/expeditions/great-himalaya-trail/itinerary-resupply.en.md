@@ -5,7 +5,6 @@ slug: itinerary-resupply
 translationKey: itinerary-resupply
 title: Itinerary - Resupply
 description: Resupply locations and food tracking calculations.
-description_with_context: Resupply locations and food tracking calculations for our 1,300km thru-hike of the Great Himalaya Trail.
 image: "/v1550696069/IMG_2712.jpg"
 keywords: []
 author: dave

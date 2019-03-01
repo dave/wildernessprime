@@ -4,11 +4,7 @@
     {{ range $posts }}
         <item>
             <title>
-                {{ if eq .Params.type "report" }}
-                    {{ if eq .CurrentSection.Params.type "expedition" }}
-                        {{ .CurrentSection.Params.title }} - 
-                    {{ end }}
-                {{ end }}
+                {{ if and (eq .Params.type "report") (eq .CurrentSection.Params.type "expedition") }}{{ .CurrentSection.Params.title }} - {{ end }}
                 {{ .Title }}
             </title>
             <link>{{ .Permalink }}</link>
@@ -16,12 +12,7 @@
             {{ with .Params.author }}<author>{{.}}</author>{{end}}
             <guid>{{ .Permalink }}</guid>
             <description>
-                {{ $description := "" }}
-                {{ if .Params.description_with_context }}
-                    {{ $description = .Params.description_with_context }}
-                {{ else }}
-                    {{ $description = .Params.description }}
-                {{ end }}
+                {{ $description := .Params.description }}
                 {{ if and (eq $.Data.Term "facebook") .Params.description_facebook }}{{ $description = print $description " " .Params.description_facebook }}{{ end }}
                 {{ if and (eq $.Data.Term "twitter") .Params.description_twitter }}{{ $description = print $description " " .Params.description_twitter }}{{ end }}
                 {{ if and (eq $.Data.Term "instagram") .Params.description_instagram }}{{ $description = print $description " " .Params.description_instagram }}{{ end }}

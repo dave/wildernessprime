@@ -8,7 +8,6 @@ description: Over the Pas de Chèvres, Mont Blanc de Cheilon, La Cabane des Dix
 image: "/v1549648710/IMG_4504.jpg"
 keywords: []
 author: dave
-description_with_context: ''
 social_posts: true
 description_facebook: ''
 description_twitter: ''
