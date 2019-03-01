@@ -48,21 +48,6 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/reviews/hgm-ultamid-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/reviews/hgm-ultamid-4/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/fr/authors/dave/</loc>
     <xhtml:link
                 rel="alternate"
@@ -191,21 +176,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/fr/reviews/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/reviews/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/reviews/"
                 />
   </url>
   
