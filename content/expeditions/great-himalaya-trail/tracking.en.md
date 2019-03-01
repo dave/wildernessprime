@@ -6,7 +6,7 @@ slug: tracking
 translationKey: tracking
 title: Tracking
 description: Our satellite tracker will allow you to follow along and watch our progress.
-image: "/v1551363646/Screenshot%202019-02-28%20at%2015.20.13.jpg"
+image: "/v1551474016/Screenshot%202019-03-01%20at%2021.59.43.jpg"
 keywords: []
 social_posts: false
 description_facebook: ''
