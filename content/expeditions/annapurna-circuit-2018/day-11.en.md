@@ -1,11 +1,10 @@
 ---
-draft: true
 type: report
 slug: day-11-muktinath
 translationKey: day-11-muktinath
 date: 2018-04-11 00:00:00 +0000
 title: 'Day 11: Thorung Phedi to Muktinath'
-image: ""
+image: ''
 keywords: []
 author: dave
 description: XXX
@@ -16,11 +15,14 @@ description_twitter: ''
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
----
+draft: true
 
+---
 {{% michelle %}}
 
 We pre ordered our breakfast the night before which included honey porridge at 4:00am and two hard boiled eggs to go. After packing and getting dressed, we ended up starting the hike at 5:00am. The route to High Camp is steep and takes about an hour. There is only one hotel at High Camp, so we stopped there to have a hot tea and change our clothes (I was hot). We spent about a half hour there before heading back out.
+
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551465029/IMG_2768.jpg)
 
 The part right after high camp was my favorite. The sky was still somewhat clear of clouds and we could see several beautiful peaks to the right of the path that were breathtaking. The path from here to the pass varied from flat sections to short steep sections. Looking at it from afar, it looked like the easiest walk ever, but the altitude made us feel extremely out of breath. We all looked like we had been weighted down at the feet. After about 2 hours we reached Thorung La Pass which is a building with a bunch of prayer flags next to it. Unfortunately, clouds had rolled in, and it started to snow, so we couldn’t see any views.
 
