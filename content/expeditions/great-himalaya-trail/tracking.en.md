@@ -5,8 +5,8 @@ date: 2019-02-28 00:00:00 +0000
 slug: tracking
 translationKey: tracking
 title: Tracking
-description: Track our progress
-description_with_context: Track our progress along the 1300km Great Himalaya Trail
+description: Our satellite tracker will allow you to follow along and watch our progress.
+description_with_context: Our satellite tracker will allow you to follow along and watch our progress along the 1300km Great Himalaya Trail.
 image: "/v1551363646/Screenshot%202019-02-28%20at%2015.20.13.jpg"
 keywords: []
 social_posts: false

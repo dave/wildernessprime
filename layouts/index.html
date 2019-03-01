@@ -9,7 +9,7 @@
 	{{ $paginator := .Paginate $posts .Site.Params.pagesize }}
 
 	{{ if and $highlight (eq $paginator.PageNumber 1) }}
-		 {{ partial "posts/featured.html" (dict "firstpost" $first "Site" .Site) }}
+		 {{ partial "posts/featured.html" (dict "firstpost" $first "Site" .Site "context" true) }}
 	{{ end }}
 	
 	{{ partial "posts/list.html" (dict "posts" $paginator "Site" .Site "context" true) }}

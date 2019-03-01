@@ -3,8 +3,20 @@
 {{ range .firstpost }}
 <article class="post featured">
     <header class="major">
-        {{ if not .Date.IsZero }}
-        <span class="date">{{ .Date.Format "January 2, 2006" }}</span>
+        {{ $showExpedition := and $.context (and (eq .Params.type "report") (eq .CurrentSection.Params.type "expedition")) }}
+        {{ $showDate := not .Date.IsZero }}
+        {{ if or $showDate $showExpedition }}
+            <p>
+                {{ if $showDate }}
+                    {{ .Date.Format "January 2, 2006" }}
+                {{ end }}
+                {{ if and $showDate $showExpedition }}
+                    -
+                {{ end }}
+                {{ if $showExpedition }}
+                    {{ .CurrentSection.Params.title }}
+                {{ end }}
+            </p>
         {{ end }}
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <p>{{ .Description }}</p>
