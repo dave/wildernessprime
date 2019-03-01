@@ -15,7 +15,6 @@ description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
 
-
 ---
 {{% michelle %}}
 
