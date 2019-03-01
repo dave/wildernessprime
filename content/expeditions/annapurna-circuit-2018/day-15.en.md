@@ -4,7 +4,7 @@ slug: day-15-ghasa
 translationKey: day-15-ghasa
 date: 2018-04-15 00:00:00 +0000
 title: 'Day 15: Larjung to Ghasa'
-image: ''
+image: "/v1551466321/IMG_2966.jpg"
 keywords: []
 author: dave
 description: XXX
