@@ -1,5 +1,5 @@
 ---
-draft: true
+
 type: expedition
 layout: reports
 title: Annapurna Circuit
