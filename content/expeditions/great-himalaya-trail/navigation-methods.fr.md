@@ -18,7 +18,7 @@ Navigating with the aid of digital topo maps is a game changer for unsupported t
 * Backup iPod touch with similar setup.
 * Garmin Fenix 5 GPS watch with waypoints and analogue compass (see Emergency Navigation article).
 * Backup 13,000mAh battery with 21W solar panel.
-* Daily flashcards for the intended route with map snapshots, descriptions and elevation profile (see [Flashcards](/expeditions/great-himalaya-trail-2019/navigation-flashcards/) article).
+* Daily flashcards for the intended route with map snapshots, descriptions and elevation profile (see [Flashcards](/expeditions/great-himalaya-trail/navigation-flashcards/) article).
 * Himalaya Map House paper maps - 1:150k covering a wide area with alternate routes.
 
 We'll use the paper flashcards to get an overview of the day, and as primary navigation on simple days. As the route gets more tricky we'll fall back on our phones, running the ViewRanger topo mapping app with offline mapping for the entire trekking region. I have an old iPod touch which has also been configured with this app for another backup. For emergency navigation in bad conditions we'll use my Garmin Fenix GPS watch with an analogue compass. See the Emergency Navigation article on how this is used. Finally as a paper backup we'll be carrying the Himalaya Map House paper maps which cover the entire trekking region with many other alternate trails marked.
