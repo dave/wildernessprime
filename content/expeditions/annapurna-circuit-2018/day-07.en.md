@@ -2,7 +2,7 @@
 type: report
 slug: day-7-braka
 translationKey: day-7-braka
-date: 2018-04-07 00:00:00 +0000
+date: 2018-05-18 00:00:00 +0000
 title: 'Day 7: Upper Pisang to Braka'
 image: "/v1551006985/IMG_2529%20%282%29.jpg"
 keywords: []

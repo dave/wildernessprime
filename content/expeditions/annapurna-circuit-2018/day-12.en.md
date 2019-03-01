@@ -2,7 +2,7 @@
 type: report
 slug: day-12-kagbeni
 translationKey: day-12-kagbeni
-date: 2018-04-12 00:00:00 +0000
+date: 2018-05-23 00:00:00 +0000
 title: 'Day 12: Muktinath to Kagbeni'
 image: "/v1551465614/IMG_2865.jpg"
 keywords: []

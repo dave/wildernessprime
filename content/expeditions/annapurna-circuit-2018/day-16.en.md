@@ -2,7 +2,7 @@
 type: report
 slug: day-16-tatopani
 translationKey: day-16-tatopani
-date: 2018-04-16 00:00:00 +0000
+date: 2018-05-27 00:00:00 +0000
 title: 'Day 16: Ghasa to Tatopani'
 image: "/v1551466482/IMG_2980.jpg"
 keywords: []

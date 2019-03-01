@@ -2,7 +2,7 @@
 type: report
 slug: day-9-yak-kharka
 translationKey: day-9-yak-kharka
-date: 2018-04-09 00:00:00 +0000
+date: 2018-05-20 00:00:00 +0000
 title: 'Day 9: Manang to Yak Kharka'
 image: "/v1551464484/IMG_2746%20%281%29.jpg"
 keywords: []

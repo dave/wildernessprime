@@ -2,7 +2,7 @@
 type: report
 slug: day-6-pisang
 translationKey: day-6-pisang
-date: 2018-04-06 00:00:00 +0000
+date: 2018-05-17 00:00:00 +0000
 title: 'Day 6: Chame to Upper Pisang'
 image: "/v1551463071/IMG_2457.jpg"
 keywords: []

@@ -2,7 +2,7 @@
 type: report
 slug: day-4-dharapani
 translationKey: day-4-dharapani
-date: 2018-04-04 00:00:00 +0000
+date: 2018-05-15 00:00:00 +0000
 title: 'Day 4: Chamje to Dharapani'
 image: "/v1551461056/IMG_2423%20%282%29.jpg"
 keywords: []

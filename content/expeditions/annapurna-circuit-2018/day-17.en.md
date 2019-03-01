@@ -2,7 +2,7 @@
 type: report
 slug: day-17-ghorepani
 translationKey: day-17-ghorepani
-date: 2018-04-17 00:00:00 +0000
+date: 2018-05-28 00:00:00 +0000
 title: 'Day 17: Tatopani to Ghorepani'
 image: "/v1551466695/IMG_3013%20%281%29.jpg"
 keywords: []

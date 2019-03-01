@@ -2,7 +2,7 @@
 type: report
 slug: day-14-larjung
 translationKey: day-14-larjung
-date: 2018-04-14 00:00:00 +0000
+date: 2018-05-25 00:00:00 +0000
 title: 'Day 14: Marpha to Larjung'
 image: "/v1551465992/IMG_2915.jpg"
 keywords: []

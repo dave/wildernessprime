@@ -2,7 +2,7 @@
 type: report
 slug: day-2-bahundanda
 translationKey: day-2-bahundanda
-date: 2018-04-02 00:00:00 +0000
+date: 2018-05-13 00:00:00 +0000
 title: 'Day 2: Bhulbhule to Bahundanda'
 image: "/v1551460251/IMG_2383.jpg"
 keywords: []
