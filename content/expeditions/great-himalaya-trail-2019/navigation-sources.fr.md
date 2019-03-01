@@ -35,6 +35,4 @@ Créé par Seth Wolpin, pour son expédition de 2014, Himalayan Adventure Labs e
 
 ### Carte topographiques de L'Himalaya
 
-Ces cartes, coproduites par Robin, incluent la Grande Traversée de l'Himalaya ainsi que plusieurs autres sentiers de randonnée. 
-
-These excellent maps are co-produced with Robin, and include the GHT route as well as many other hiking trails. One caveat is the maps are 1:150k scale, so not exactly ideal for detailed navigation. Paper and digital versions are available from Robin's site [www.greathimalayatrail.com](http://www.greathimalayatrail.com/). Be aware the paper versions are shipped from Nepal so will take a couple of weeks to arrive. The digital version is split into 12 jpg files, each is approx 10k x 6k resolution.
+Ces cartes, coproduites par Robin, incluent la Grande Traversée de l'Himalaya ainsi que plusieurs autres sentiers de randonnée. Cependant, petite mise en garde : les cartes ont une échelle de 1:150k, ce qui n'est pas idéal si vous désirez optez pour une navigation détaillée. La version digitale ainsi que la version papier sont disponibles sur [ce site web](http://www.greathimalayatrail.com/). Soyez conscients que la version papier est expédiée du Népal, cela prendra donc plusieurs semaines avant de pouvoir l'acquérir en main propre. Pour ce qui est de la version digitale, celle-ci est divisée en 12 différents fichiers jpg ayant une résolution d'approximativement 10k x 6k.
