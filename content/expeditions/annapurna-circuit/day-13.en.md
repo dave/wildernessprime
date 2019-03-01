@@ -10,7 +10,7 @@ author: dave
 description: I'm glad we skipped Jomsom and headed all the way to picturesque town of Marpha.
 social_posts: false
 description_facebook: ''
-description_twitter: ''
+description_twitter: '#nepal #trekking #annapurna'
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''

@@ -10,7 +10,7 @@ author: dave
 description: Tricky navigation and real coffee on the road to Ghasa.
 social_posts: false
 description_facebook: ''
-description_twitter: ''
+description_twitter: '#nepal #trekking #annapurna'
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''

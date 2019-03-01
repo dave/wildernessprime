@@ -10,7 +10,7 @@ author: dave
 description: The mysterious hidden cave of Milarepa eludes us, as we take a well needed rest day in Braka.
 social_posts: false
 description_facebook: ''
-description_twitter: ''
+description_twitter: '#nepal #trekking #annapurna'
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''

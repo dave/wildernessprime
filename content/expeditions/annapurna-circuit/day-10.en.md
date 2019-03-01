@@ -10,7 +10,7 @@ author: dave
 description: The trail starts getting really tough as the elevation increases towards the pass.
 social_posts: false
 description_facebook: ''
-description_twitter: ''
+description_twitter: '#nepal #trekking #annapurna'
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''

@@ -10,7 +10,7 @@ author: dave
 description: After a late start to avoid the rain, we again take the easier path and don't regret it. 
 social_posts: false
 description_facebook: ''
-description_twitter: ''
+description_twitter: '#nepal #trekking #annapurna'
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''

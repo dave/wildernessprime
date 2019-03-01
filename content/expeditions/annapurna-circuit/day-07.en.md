@@ -10,7 +10,7 @@ author: dave
 description: An amazing day hiking to Pisang as we start to get glimpses of the Annapurna range.
 social_posts: false
 description_facebook: ''
-description_twitter: ''
+description_twitter: '#nepal #trekking #annapurna'
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
