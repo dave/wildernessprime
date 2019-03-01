@@ -8,7 +8,7 @@ image: "/v1551460251/IMG_2383.jpg"
 keywords: []
 author: dave
 description: After a late start to avoid the rain, we again take the easier path and don't regret it. 
-social_posts: false
+social_posts: true
 description_facebook: ''
 description_twitter: '#nepal #trekking #annapurna'
 description_instagram: ''
