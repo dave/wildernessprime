@@ -34,6 +34,6 @@ Along the land slide, we do see blue sheep running along the ridge and grazing i
 
 When we arrived at Yak Kharka, it started to snow. We had originally planned to try to make it to High Camp, but I had a small headache so we decided to stay lower to acclimate. I heard the one hour from Yak Kharka made going over the pass harder. Half of our group went to High Camp and half stayed behind. Friends told me High Camp was freezing cold, the facilities weren’t great, and they didn’t sleep at altitude.
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551465029/IMG_2768.jpg)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551465186/IMG_2772.jpg)
 
 On the other hand, we stayed at the Thorong Base Camp Lodge where we had people playing guitar, dancing, doing yoga, playing high altitude chess, and a Jenga competition that took hours to complete and got insanely intense. We had to walk further in the morning, but we had an incredible time staying in a warm lodge with fun games to keep us busy. It was one of my favorite nights of the trek, so I highly recommend stopping in Thorung Phedi.
