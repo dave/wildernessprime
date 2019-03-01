@@ -30,4 +30,4 @@ After the tea break, you’ll walk through the beautiful village of Ghyaru. Most
 
 From Ngawal, it’s a gentle incline along the road with just a few hills. We decided to take the easier route on the map (to the left) since the morning was so exhausting. You’ll pass through a few small villages and then arrive in beautiful Braka. We stayed at the very nice New Yak Hotel which is one of the first ones in town. We arrived late in the afternoon and since it’s off season, we managed to get the room for free. They have beautiful clean rooms and a very hot gas shower.
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551463305/IMG_2490%20%281%29.jpg)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551463693/IMG_2600%20%281%29.jpg)
