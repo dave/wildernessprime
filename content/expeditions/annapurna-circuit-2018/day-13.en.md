@@ -3,7 +3,7 @@ draft: true
 type: report
 slug: day-13-marpha
 translationKey: day-13-marpha
-date: 2018-04-05 00:00:00 +0000
+date: 2018-04-13 00:00:00 +0000
 title: 'Day 13: Kagbeni to Marpha'
 image: ""
 keywords: []

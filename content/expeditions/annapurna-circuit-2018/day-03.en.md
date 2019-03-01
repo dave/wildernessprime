@@ -3,7 +3,7 @@ draft: true
 type: report
 slug: day-3-chamje
 translationKey: day-3-chamje
-date: 2018-04-05 00:00:00 +0000
+date: 2018-04-03 00:00:00 +0000
 title: 'Day 3: Bahundana to Chamje'
 image: ""
 keywords: []

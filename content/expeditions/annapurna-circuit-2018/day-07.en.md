@@ -3,7 +3,7 @@ draft: true
 type: report
 slug: day-7-braka
 translationKey: day-7-braka
-date: 2018-04-05 00:00:00 +0000
+date: 2018-04-07 00:00:00 +0000
 title: 'Day 7: Upper Pisang to Braka'
 image: ""
 keywords: []

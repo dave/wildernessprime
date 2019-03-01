@@ -3,7 +3,7 @@ draft: true
 type: report
 slug: day-6-pisang
 translationKey: day-6-pisang
-date: 2018-04-05 00:00:00 +0000
+date: 2018-04-06 00:00:00 +0000
 title: 'Day 6: Chame to Upper Pisang'
 image: ""
 keywords: []

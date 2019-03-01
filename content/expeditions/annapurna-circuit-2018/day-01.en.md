@@ -3,7 +3,7 @@ draft: true
 type: report
 slug: day-1-bhulbhule
 translationKey: day-1-bhulbhule
-date: 2018-04-05 00:00:00 +0000
+date: 2018-04-01 00:00:00 +0000
 title: 'Day 1: Besi Sahar to Bhulbhule'
 image: ""
 keywords: []

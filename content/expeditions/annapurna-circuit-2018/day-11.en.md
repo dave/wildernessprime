@@ -3,7 +3,7 @@ draft: true
 type: report
 slug: day-11-muktinath
 translationKey: day-11-muktinath
-date: 2018-04-05 00:00:00 +0000
+date: 2018-04-11 00:00:00 +0000
 title: 'Day 11: Thorung Phedi to Muktinath'
 image: ""
 keywords: []

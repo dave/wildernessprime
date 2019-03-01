@@ -3,7 +3,7 @@ draft: true
 type: report
 slug: day-15-ghasa
 translationKey: day-15-ghasa
-date: 2018-04-05 00:00:00 +0000
+date: 2018-04-15 00:00:00 +0000
 title: 'Day 15: Larjung to Ghasa'
 image: ""
 keywords: []

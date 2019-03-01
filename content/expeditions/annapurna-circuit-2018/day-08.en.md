@@ -3,7 +3,7 @@ draft: true
 type: report
 slug: day-8-manang
 translationKey: day-8-manang
-date: 2018-04-05 00:00:00 +0000
+date: 2018-04-08 00:00:00 +0000
 title: 'Day 8: Braka – Manang'
 image: ""
 keywords: []
