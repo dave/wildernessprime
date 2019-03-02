@@ -8,8 +8,15 @@ description: A brief overview of the trek.
 image: "/v1550183014/IMG_2423.jpg"
 keywords: []
 author: dave
+social_posts: false
+description_facebook: ''
+description_twitter: ''
+description_instagram: ''
+description_pinterest: ''
+description_tumblr: ''
+
 ---
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550183229/overview-map-5000.jpg)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_1600,dpr_auto/v1550183229/overview-map-5000.jpg)
 
 The Great Himalaya Trail is the combination of several trail networks stretching the length of the Himalaya range, with sections in India, Nepal, Bhutan and Tibet. Our trek will follow the High Route of the Nepal section from Kanchenjunga on the Indian border in the East to Hilsa on the Chinese border in the West.
 
