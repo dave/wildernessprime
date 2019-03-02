@@ -27,4 +27,4 @@ If you walk to the end of the main road in Besi Sahar, you’ll find the road go
 
 The road runs along the river and still offers lovely views. We started our trek in mid-May when most trekkers are already completing the circuit. Therefore, there weren’t many jeeps on the road. We were also trekking closer to monsoon season which means rainfall would be more likely, but there was also very little dust. The hike was only three hours up a gentle incline. We wanted to stay in Khudi, but the only guesthouse there was full when we arrived, so we moved on to Bhulbhule where we stayed in the Heaven Guest House.
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551459975/IMG_2339.jpg#portrait)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551459975/IMG_2339.jpg)

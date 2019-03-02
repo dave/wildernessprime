@@ -20,4 +20,4 @@ The trail wound on, up into the hills once again for the last leg. To Trient, th
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551217772/IMG_4808.jpg)
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551217934/IMG_4826.jpg#portrait)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551217934/IMG_4826.jpg)
