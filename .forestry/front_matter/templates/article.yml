@@ -94,6 +94,7 @@ fields:
   label: Tumblr post suffix (optional)
   description: This text is appended to the Tumblr post description.
 pages:
+- content/expeditions/great-himalaya-trail/navigation-gpx.en.md
 - content/expeditions/annapurna-circuit/day-03.en.md
 - content/expeditions/annapurna-circuit/day-02.en.md
 - content/expeditions/annapurna-circuit/day-08.en.md
@@ -102,7 +103,6 @@ pages:
 - content/expeditions/great-himalaya-trail/itinerary-resupply.en.md
 - content/expeditions/great-himalaya-trail/navigation-sources.en.md
 - content/expeditions/great-himalaya-trail/itinerary-summary.en.md
-- content/expeditions/great-himalaya-trail/navigation-gpx.en.md
 - content/expeditions/great-himalaya-trail/navigation-methods.en.md
 - content/expeditions/great-himalaya-trail/what-is-the-great-himalaya-trail.fr.md
 - content/expeditions/great-himalaya-trail/what-is-the-great-himalaya-trail.en.md
