@@ -8,13 +8,12 @@ image: "/v1551463071/IMG_2457.jpg"
 keywords: []
 author: dave
 description: Spectacular scenery on the trail from Chame to Pisang.
-social_posts: false
-description_facebook: ''
-description_twitter: '#nepal #trekking #annapurna'
+social_posts: true
+description_facebook: "#nepal #trekking #annapurna"
+description_twitter: "#nepal #trekking #annapurna"
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
-
 
 ---
 {{% michelle %}}
