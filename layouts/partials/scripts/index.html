@@ -5,4 +5,14 @@
 <script src='{{ "assets/js/skel.min.js" | relURL }}'></script>
 <script src='{{ "assets/js/util.js" | relURL }}'></script>
 <script src='{{ "assets/js/main.js" | relURL }}'></script>
+<!--<script>
+    $("img").each(function (index, element) {
+        var $element = $(element);
+        var imageUrl = $element.attr("data-src");
 
+        //Do your checks here to change the image-url to a smaller one when required
+		element.src = element.src.replace(/https:\/\/res.cloudinary.com\/wildernessprime\/image\/upload\/w_800,dpr_auto\//g, "https://res.cloudinary.com/wildernessprime/image/upload/w_1600,dpr_auto/"); 
+
+        $element.attr("src", imageUrl);
+    });
+</script>-->

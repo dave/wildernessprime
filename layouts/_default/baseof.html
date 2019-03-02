@@ -52,7 +52,28 @@
 	
 		{{ partial "header" . }}
 		{{ partial "nav" . }}
-	
+		{{ partial "breadcrumbs.html" . }}
+		
+		<!-- 
+		{{/* if and (eq .Params.type "report") .CurrentSection (eq .CurrentSection.Params.type "expedition") }}
+			{{ .CurrentSection.Params.title }} - 
+		{{ end */}}
+		
+		<div id="breadcrumbs">
+			<ul>
+				<li>
+					<a href="/" class="icon fa-home"><span class="label">Home</span></a>
+				</li>
+				<li>
+					<a href="/">Expeditions</a>
+				</li>
+				<li>
+					<a href="/">Expeditions</a>
+				</li>
+			</ul>
+		</div>
+		-->
+		
 		<!-- Main -->
 		<div id="main">
 			{{ block "main" . }}{{ end }}

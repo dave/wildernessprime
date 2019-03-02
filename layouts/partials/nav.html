@@ -2,7 +2,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 <nav id="nav">
     <ul class="links">
-        <li class="active" style="white-space:nowrap;"><a href='{{ "/" | relLangURL }}'>{{ .Site.Title }}</a></li>
+        <!--<li class="active" style="white-space:nowrap;"><a href='{{ "/" | relLangURL }}'>{{ .Site.Title }}</a></li>-->
 
         {{ with $data.contactinfo }}
             <li><a href='{{ "#footer" | relLangURL }}'>{{ i18n "NAV_CONTACT" . }}</a></li>
