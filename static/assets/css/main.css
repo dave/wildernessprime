@@ -3678,6 +3678,10 @@
 				border-top-width: 2px;
 				text-align: center;
 			}
+			
+			#main > .posts > article > p {
+				text-align: center;
+			}
 
 				#main > .posts > article > :last-child {
 					margin-bottom: 0;
