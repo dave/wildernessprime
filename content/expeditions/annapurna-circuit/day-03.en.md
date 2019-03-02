@@ -7,14 +7,13 @@ title: 'Day 3: Bahundana to Chamje'
 image: "/v1551460378/IMG_2408.jpg"
 keywords: []
 author: dave
-description: Fabulous Dal Baht and confusing side treks as we continue towards Chamje. 
-social_posts: false
-description_facebook: ''
-description_twitter: '#nepal #trekking #annapurna'
+description: Fabulous Dal Baht and confusing side treks as we continue towards Chamje.
+social_posts: true
+description_facebook: "#nepal #trekking #annapurna"
+description_twitter: "#nepal #trekking #annapurna"
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
-
 
 ---
 {{% michelle %}}
