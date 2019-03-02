@@ -7,14 +7,14 @@ title: 'Day 7: Upper Pisang to Braka'
 image: "/v1551006985/IMG_2529%20%282%29.jpg"
 keywords: []
 author: dave
-description: An amazing day hiking to Pisang as we start to get glimpses of the Annapurna range.
-social_posts: false
-description_facebook: ''
-description_twitter: '#nepal #trekking #annapurna'
+description: An amazing day hiking to Pisang as we start to get glimpses of the Annapurna
+  range.
+social_posts: true
+description_facebook: "#nepal #trekking #annapurna"
+description_twitter: "#nepal #trekking #annapurna"
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
-
 
 ---
 {{% michelle %}}
