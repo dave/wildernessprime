@@ -7,14 +7,14 @@ title: 'Day 9: Manang to Yak Kharka'
 image: "/v1551464484/IMG_2746%20%281%29.jpg"
 keywords: []
 author: dave
-description: My favourite evening of the whole trek in Yak Kharka, as snow starts falling.
-social_posts: false
-description_facebook: ''
-description_twitter: '#nepal #trekking #annapurna'
+description: My favourite evening of the whole trek in Yak Kharka, as snow starts
+  falling.
+social_posts: true
+description_facebook: "#nepal #trekking #annapurna"
+description_twitter: "#nepal #trekking #annapurna"
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
-
 
 ---
 {{% michelle %}}
