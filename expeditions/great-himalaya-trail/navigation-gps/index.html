@@ -17,15 +17,15 @@
 	</noscript>
 
 	<title>
-		Navigation - GPX routes &middot; Wilderness Prime
+		Navigation - GPS routes &middot; Wilderness Prime
 	</title>
 	
-	<meta property="og:url" content="https://www.wildernessprime.com/expeditions/great-himalaya-trail/navigation-gpx/" />
+	<meta property="og:url" content="https://www.wildernessprime.com/expeditions/great-himalaya-trail/navigation-gps/" />
 	<meta property="og:type" content="article" />
 	<meta property="fb:app_id" content="408388909949374" />
 	<meta property="og:locale" content="en_GB" />
-	<meta property="og:title" content="Great Himalaya Trail - Navigation - GPX routes" />
-	<meta property="og:description" content="How I created GPX files for the entire trail." />
+	<meta property="og:title" content="Great Himalaya Trail - Navigation - GPS routes" />
+	<meta property="og:description" content="How I created GPS routes for the entire trail." />
 	<meta property="og:image" content="https://res.cloudinary.com/wildernessprime/image/upload/w_1600,h_1200,c_fill,g_auto/v1550943527/Screenshot%202019-02-23%20at%2018.37.51.jpg" />
 	<meta property="og:image:width" content="1600" />
 	<meta property="og:image:height" content="1200" />
@@ -113,7 +113,7 @@
 				<a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/">Great Himalaya Trail</a>
 			</li>
 			<li>
-				Navigation - GPX routes
+				Navigation - GPS routes
 			</li>
 		</ul>
 	</div>
@@ -139,28 +139,28 @@
 			
 			<span class="date">February 22, 2019</span>
 			
-			<h1>Navigation - GPX routes</h1>
+			<h1>Navigation - GPS routes</h1>
 		</header>
 		
 		
 			<div class="content">
 				<p>ViewRanger will provide topo maps of the entire trekking area, but these would be of limited use without the route highlighted. The GHT is infrequently trekked, so there&rsquo;s relatively few digital resources available. For the more popular ares, the ViewRanger topo maps often include footpaths - but for much of the trek there is nothing plotted on the map.</p>
 
-<p>I&rsquo;ve tried to bring all the available GPX resources together in this section:</p>
+<p>I&rsquo;ve tried to bring all the available GPS resources together in this section:</p>
 
 <ul>
 <li>Robin Boustead published a <a href="http://www.greathimalayatrail.com/gps.php?cId=2">collection of waypoints</a>.</li>
 <li>Himalayan Adventure Labs also publish <a href="https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/">a collection of waypoints</a> which include some of (but not all of) Robin&rsquo;s.</li>
-<li>Seth Wolpin <a href="https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/">recorded a track</a> of his entire thru-hike with excellent notes.</li>
+<li>Seth Wolpin and Doc McKerr both recorded tracks of their thru-hikes, which Himalayan Adventure Labs merged into a <a href="https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/">set of tracks</a> with excellent notes.</li>
 </ul>
 
 <p>Seth&rsquo;s track is a great resource, but some sections deviate significantly from our intended route. Robin&rsquo;s waypoints follow our route, but aren&rsquo;t connected with a track. I wanted a better option covering the whole route and following the Himalaya Map House paper maps. I also wanted each day of our itinerary to be a separate route segment. Finally I wanted each segment to match up with our paper flashcards (see <a href="/expeditions/great-himalaya-trail/navigation-flashcards/">Flashcards</a> article), so I could extract the stats and elevation profile. To create this I used <a href="https://www.gpsies.com/" title="www.gpsies.com">gpsies.com</a>, which is an invaluable online service. A GPX route can be created by simply drawing points onto the map. A handy time-saver is the GraphHopper feature, which automatically adds a section of route by following footpaths. Not all the footpaths found on the topo maps have routable paths, but most do. Where footpaths weren&rsquo;t drawn on the map I&rsquo;ve estimated the position of the trail from the 1:150k scale Himalaya Map House paper maps.</p>
 
 <p><img src="https://res.cloudinary.com/wildernessprime/image/upload/w_1000,dpr_auto/v1550946659/Screenshot%202019-02-23%20at%2009.29.48.jpg" alt="" /></p>
 
-<p>While creating the flashcards I created 115 separate GPX files in this way, then merged them into a single GPX file containing 115 route segments. This was painstaking repetitive work that took several weeks! It should be noted that this route is only as accurate as the highlighted route on the paper maps, which will not be 100% perfect. However, most of it matches up almost perfectly with Seth&rsquo;s recorded track, so I&rsquo;m optimistic that it&rsquo;s a good enough estimation.</p>
+<p>While creating the flashcards I created 115 separate GPX files in this way, then merged them into a single GPX file containing 115 route segments. It should be noted that this route is only as accurate as the highlighted route on the paper maps, which will not be 100% perfect. However, most of it matches up almost perfectly with Seth&rsquo;s recorded track, so I&rsquo;m optimistic that it&rsquo;s a good enough estimation.</p>
 
-<p>I also merged and de-duplicated the waypoint databases from Robin and Seth, and normalised the formatting of the names. I created a set of km markers for each day, which are useful for emergency navigation, and assigned each waypoint to the nearest marker to generate a unique code.</p>
+<p>I also merged and de-duplicated the waypoint databases from Robin and Himalayan Adventure Labs, and normalised the formatting of the names. I created a set of km markers for each day, which are useful for emergency navigation, and assigned each waypoint to the nearest marker to generate a unique code.</p>
 
 <p>You can find the final files here:</p>
 
@@ -171,9 +171,9 @@
 <li>Tracks - Tracks from Himalayan Adventure Labs, merged into one file in <a href="https://www.dropbox.com/s/cddwui34eo8qei0/himalayan-adventure-labs-tracks.gpx?dl=1">GPX</a> or <a href="https://www.dropbox.com/s/4ityalfo1oq9za9/himalayan-adventure-labs-tracks.kml?dl=1">KML</a> format.</li>
 </ul>
 
-<p>If you&rsquo;d like to know how I manipulated the GPX files in bulk, here&rsquo;s <a href="https://github.com/dave/gpx/blob/master/main.go">the source code</a>.</p>
+<p>If you&rsquo;d like to know how I manipulated the GPX files, here&rsquo;s <a href="https://github.com/dave/gpx/blob/master/main.go">the source code</a>.</p>
 
-<p>Here&rsquo;s a demo of how to load the KML routes into Google Earth, which gives an excellent 3D visualisation:</p>
+<p>Here&rsquo;s a demo of how to load KML routes into Google Earth, which gives an excellent 3D visualisation:</p>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/aghBgeKEsR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
