@@ -31,3 +31,5 @@ like the Great Himalaya Trail, so I'll be using these three apps in combination:
 *Disadvantages*: Maps aren't topographic, so of limited use for off-trail navigation. Only imports KML files (not GPX).  
 
 <iframe class="youtube" src="https://www.youtube.com/embed/Y6rY1eoqASA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> It should be noted that ViewRanger and Footpath are not particularly efficient at loading multiple routes and downloading offline maps, so getting them set up was a major task taking several days.
