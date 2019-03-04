@@ -24,6 +24,10 @@ fields:
     time_format: hh:mm
     display_utc: true
     required: true
+- type: boolean
+  name: featured
+  label: Featured
+  description: Should we feature this article on the front page?
 - type: text
   name: slug
   label: Url

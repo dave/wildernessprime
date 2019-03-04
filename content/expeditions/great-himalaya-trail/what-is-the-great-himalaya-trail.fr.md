@@ -10,6 +10,8 @@ description: 'La grande traversée de l''Himalaya (The Great Himalaya Trail) est
 image: "/v1550183014/IMG_2423.jpg"
 keywords: []
 author: dave
+featured: true
+
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550183229/overview-map-5000.jpg)
 
