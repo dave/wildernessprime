@@ -28,7 +28,7 @@ Thanks very much to [RxBar](https://www.rxbar.com/) sponsoring our expedition by
 
 ## Dehydrated meals
 
-Thanks also to [Expeditions Foods](https://expeditionfoods.com/) for extending us a generous discount on their [1,000 calorie Extreme Energy](https://expeditionfoods.com/collections/1000kcal) dehydrated meals.
+Thanks also to [Expeditions Foods](https://expeditionfoods.com/) for sponsorship in the form of a generous discount on their [1,000 calorie Extreme Energy](https://expeditionfoods.com/collections/1000kcal) dehydrated meals.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551711026/spaghettibolognaise_1000_v4__orange_1000x1000.jpg)
 
