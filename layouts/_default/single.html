@@ -37,10 +37,10 @@
 					<span class="date">{{ $data.post.nexttext }}</span>
 					<h2><a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a></h2>
 				</header>
+				<p>{{ .NextInSection.Description }}</p>
 				{{ if .NextInSection.Params.image }}
 					<a href="{{ .NextInSection.Permalink }}" class="image fit"><img src="{{ .NextInSection.Site.Params.imgbase }}/w_800,h_800,c_fill,g_auto{{ .NextInSection.Params.image }}" alt="" /></a>
 				{{ end }}
-				<p>{{ .NextInSection.Description }}</p>
 				<ul class="actions">
 					<li><a href="{{ .NextInSection.Permalink }}" class="button">{{ $data.post.linktext }}</a></li>
 				</ul>
