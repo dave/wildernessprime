@@ -15,7 +15,7 @@ We will eat as much freshly prepared food as we can. Dal Bhat is delicious and w
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551710343/IMG_2289.jpg)
 
-Our logistic partner [Mactrek](http://www.mactreks.com/) will be arranging several supply packages to be delivered to us at [various points](/expeditions/great-himalaya-trail/itinerary-resupply/) along the route, but we'll have to carry ten days of food at several points. Calorie density is essential, and ease of preparation is also important.
+Our logistics partner [Mactrek](http://www.mactreks.com/) will be arranging several supply packages to be delivered to us at [various points](/expeditions/great-himalaya-trail/itinerary-resupply/) along the route, but we'll have to carry ten days of food at several points. Calorie density is essential, and ease of preparation is also important.
 
 We will be having a fast-and-light breakfast of an energy bar, 100g of trail mix and a hot coffee. Lunch will be easy to prepare - no stove needed - 100g of protein shake and an energy bar. Dinner will be a high calorie dehydrated backpacking meal with hot water, and a hot chocolate drink. We'll carry a bottle of olive oil which we'll add to dinner as a calorie boost. This should give us 2,673 calories for 560g.
 
