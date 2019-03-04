@@ -98,6 +98,15 @@ fields:
   label: Tumblr post suffix (optional)
   description: This text is appended to the Tumblr post description.
 pages:
+- content/expeditions/annapurna-circuit/day-15.en.md
+- content/expeditions/great-himalaya-trail/food.fr.md
+- content/expeditions/great-himalaya-trail/navigation-methods.fr.md
+- content/expeditions/great-himalaya-trail/navigation-methods.en.md
+- content/expeditions/great-himalaya-trail/food.en.md
+- content/expeditions/great-himalaya-trail/navigation-apps.fr.md
+- content/expeditions/great-himalaya-trail/navigation-apps.en.md
+- content/expeditions/great-himalaya-trail/navigation-emergencies.fr.md
+- content/expeditions/great-himalaya-trail/navigation-emergencies.en.md
 - content/expeditions/annapurna-circuit/day-13.en.md
 - content/expeditions/great-himalaya-trail/navigation-gps.fr.md
 - content/expeditions/great-himalaya-trail/navigation-gps.en.md
@@ -109,7 +118,6 @@ pages:
 - content/expeditions/great-himalaya-trail/itinerary-resupply.en.md
 - content/expeditions/great-himalaya-trail/navigation-sources.en.md
 - content/expeditions/great-himalaya-trail/itinerary-summary.en.md
-- content/expeditions/great-himalaya-trail/navigation-methods.en.md
 - content/expeditions/great-himalaya-trail/what-is-the-great-himalaya-trail.fr.md
 - content/expeditions/great-himalaya-trail/what-is-the-great-himalaya-trail.en.md
 - content/expeditions/great-himalaya-trail/navigation-sources.fr.md
@@ -120,11 +128,9 @@ pages:
 - content/expeditions/annapurna-circuit/day-11.en.md
 - content/expeditions/annapurna-circuit/day-12.en.md
 - content/expeditions/annapurna-circuit/day-14.en.md
-- content/expeditions/annapurna-circuit/day-15.en.md
 - content/expeditions/annapurna-circuit/day-16.en.md
 - content/expeditions/annapurna-circuit/day-17.en.md
 - content/expeditions/great-himalaya-trail/tracking.fr.md
-- content/expeditions/great-himalaya-trail/navigation-methods.fr.md
 - content/expeditions/great-himalaya-trail/itinerary-summary.fr.md
 - content/expeditions/great-himalaya-trail/itinerary-resupply.fr.md
 - content/expeditions/great-himalaya-trail/navigation-flashcards.fr.md
@@ -141,9 +147,3 @@ pages:
 - content/expeditions/summer-haute-route-2018/part-1-zermatt.en.md
 - content/reviews/hgm-ultamid-4.en.md
 - content/reviews/hgm-ultamid-4.fr.md
-- content/expeditions/great-himalaya-trail/navigation-emergencies.en.md
-- content/expeditions/great-himalaya-trail/navigation-emergencies.fr.md
-- content/expeditions/great-himalaya-trail/navigation-apps.en.md
-- content/expeditions/great-himalaya-trail/navigation-apps.fr.md
-- content/expeditions/great-himalaya-trail/food.en.md
-- content/expeditions/great-himalaya-trail/food.fr.md
