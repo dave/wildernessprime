@@ -19,7 +19,7 @@ I leave the watch turned off, but easily accessible in an outside pocket so I ca
 
 In an emergency navigation situation where I've lost the trail, I'll first refer to my phone to work out where I am, and which waypoint I need to be heading towards. I'll then navigate to this waypoint on the Garmin. The waypoint list is ordered by proximity, so even with ~2000 waypoints the one you need will usually be near the top of the list.
 
-My navigation home screen is configured to show me the bearing to the waypoint, the distance and the vertical distance. Bearing is the most important. Attached to the watch strap I keep an analogue compass (Suunto M-9). The velcro strap that comes with the compass is perfect. This has a sighting window, allowing my to get an accurate direction to the given bearing.
+My navigation home screen is configured to show me the bearing to the waypoint, the distance and the vertical distance. Bearing is the most important. Attached to the watch strap I keep an analogue compass (Suunto M-9). This has a sighting window, allowing my to get an accurate direction to the given bearing. The velcro strap that comes with the compass is perfect. 
 
 This method has worked in practise and got me out of a couple of tricky situations in the past. Once on top of the Pigne d'Arolla, descending to Cabane Des Vignettes in low visibility. That descent is notoriously tricky, with cliffs on one side and a serac field on the other. Another time in Iceland in zero visibility and horizontal rain we decided to locate Fimmvörðuháls Mountain Hut using the Garmin. Both times it worked flawlessly.
 
