@@ -30,7 +30,7 @@ Seth's track is a great resource, but some sections deviate significantly from o
 
 While creating the flashcards I created 115 separate GPX files in this way, then merged them into a single GPX file containing 115 route segments. It should be noted that this route is only as accurate as the highlighted route on the paper maps, which will not be 100% perfect. However, most of it matches up almost perfectly with Seth's recorded track, so I'm optimistic that it's a good enough estimation.
 
-I also merged and de-duplicated the waypoint databases from Robin and Himalayan Adventure Labs, and normalised the formatting of the names. I created a set of km markers for each day, which are useful for emergency navigation, and assigned each waypoint to the nearest marker to generate a unique code.
+I also merged and de-duplicated the waypoint databases from Robin and Himalayan Adventure Labs, and normalised the formatting of the names. I created a set of km markers for each day, which are useful for [emergency navigation](/expeditions/great-himalaya-trail/navigation-emergencies/), and assigned each waypoint to the nearest marker to generate a unique code.
 
 You can find the final files here:
 
