@@ -1,6 +1,6 @@
 ---
 type: report
-date: 2019-03-04 00:00:00 +0000
+date: 2019-03-03 00:00:00 +0000
 slug: navigation-emergencies
 translationKey: navigation-emergencies
 title: Navigation - Emergencies
