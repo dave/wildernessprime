@@ -94,6 +94,8 @@ fields:
   label: Tumblr post suffix (optional)
   description: This text is appended to the Tumblr post description.
 pages:
+- content/expeditions/annapurna-circuit/day-13.en.md
+- content/expeditions/great-himalaya-trail/navigation-gps.fr.md
 - content/expeditions/great-himalaya-trail/navigation-gps.en.md
 - content/expeditions/annapurna-circuit/day-03.en.md
 - content/expeditions/annapurna-circuit/day-02.en.md
@@ -119,13 +121,11 @@ pages:
 - content/expeditions/annapurna-circuit/day-17.en.md
 - content/expeditions/great-himalaya-trail/tracking.fr.md
 - content/expeditions/great-himalaya-trail/navigation-methods.fr.md
-- content/expeditions/great-himalaya-trail/navigation-gps.fr.md
 - content/expeditions/great-himalaya-trail/itinerary-summary.fr.md
 - content/expeditions/great-himalaya-trail/itinerary-resupply.fr.md
 - content/expeditions/great-himalaya-trail/navigation-flashcards.fr.md
 - content/expeditions/annapurna-circuit/day-07.en.md
 - content/expeditions/annapurna-circuit/day-09.en.md
-- content/expeditions/annapurna-circuit/day-13.en.md
 - content/expeditions/annapurna-circuit/day-05.en.md
 - content/expeditions/summer-haute-route-2018/part-4-verbier-champex.en.md
 - content/expeditions/summer-haute-route-2018/part-2-moiry.en.md
