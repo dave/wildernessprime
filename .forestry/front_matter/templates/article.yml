@@ -27,7 +27,7 @@ fields:
 - type: boolean
   name: featured
   label: Featured
-  description: Should we feature this article on the front page?
+  description: Should we feature this article at the top of the homepage?
 - type: text
   name: slug
   label: Url
