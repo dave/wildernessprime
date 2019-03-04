@@ -29,40 +29,10 @@
 	</section>
 
 	<!-- Links to next / previous in section -->
-	<section class="posts">
-		{{if .PrevInSection}}
-			<article>
-				<header>
-					<span class="date">{{ $data.post.prevtext }}</span>
-					<h2><a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h2>
-				</header>
-				{{ if .PrevInSection.Params.image }}
-					<a href="{{ .PrevInSection.Permalink }}" class="image fit"><img src="{{ .PrevInSection.Site.Params.imgbase }}/w_800,h_800,c_fill,g_auto{{ .PrevInSection.Params.image }}" alt="" /></a>
-				{{ end }}
-				<p>{{ .PrevInSection.Description }}</p>
-				<ul class="actions">
-					<li><a href="{{ .PrevInSection.Permalink }}" class="button">{{ $data.post.linktext }}</a></li>
-				</ul>
-			</article>
-		{{else}}
-			{{ if and .CurrentSection.Params.type .CurrentSection }}
-				<article>
-					<header>
-						<span class="date">{{ index $data.sections .CurrentSection.Params.type }}</span>
-						<h2><a href="{{ .CurrentSection.Permalink }}">{{ .CurrentSection.Title }}</a></h2>
-					</header>
-					{{ if .CurrentSection.Params.image }}
-						<a href="{{ .CurrentSection.Permalink }}" class="image fit"><img src="{{ .CurrentSection.Site.Params.imgbase }}/w_800,h_800,c_fill,g_auto{{ .CurrentSection.Params.image }}" alt="" /></a>
-					{{ end }}
-					<p>{{ .CurrentSection.Description }}</p>
-					<ul class="actions">
-						<li><a href="{{ .CurrentSection.Permalink }}" class="button">{{ index $data.sections .CurrentSection.Params.type }}</a></li>
-					</ul>
-				</article>
-			{{ end }}
-		{{end}}
-		{{if .NextInSection}}
-			<article>
+	
+	{{ if .NextInSection }}
+		<section class="posts">
+			<article style="margin-left: auto; margin-right: auto;">
 				<header>
 					<span class="date">{{ $data.post.nexttext }}</span>
 					<h2><a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a></h2>
@@ -75,23 +45,15 @@
 					<li><a href="{{ .NextInSection.Permalink }}" class="button">{{ $data.post.linktext }}</a></li>
 				</ul>
 			</article>
-		{{else}}
-			{{ if and .CurrentSection.Params.type .CurrentSection }}
-				<article>
-					<header>
-						<span class="date">{{ index $data.sections .CurrentSection.Params.type }}</span>
-						<h2><a href="{{ .CurrentSection.Permalink }}">{{ .CurrentSection.Title }}</a></h2>
-					</header>
-					{{ if .CurrentSection.Params.image }}
-						<a href="{{ .CurrentSection.Permalink }}" class="image fit"><img src="{{ .CurrentSection.Site.Params.imgbase }}/w_800,h_800,c_fill,g_auto{{ .CurrentSection.Params.image }}" alt="" /></a>
-					{{ end }}
-					<p>{{ .CurrentSection.Description }}</p>
-					<ul class="actions">
-						<li><a href="{{ .CurrentSection.Permalink }}" class="button">{{ index $data.sections .CurrentSection.Params.type }}</a></li>
-					</ul>
-				</article>
-			{{ end }}
-		{{end}}
-	</section>
+		</section>
+	{{ end }}
+	{{ if .PrevInSection }}
+		<div style="text-align: center; padding-top: 30px; padding-bottom: 30px;">
+			{{ $data.post.prevtext }}: <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
+		</div>
+	{{ end }}
+	
+
+	
 	
 {{ end }}
