@@ -7,14 +7,15 @@ title: 'Day 17: Tatopani to Ghorepani'
 image: "/v1551466695/IMG_3013%20%281%29.jpg"
 keywords: []
 author: dave
-description: Easy navigation but an utterly exhausting trail up the never ending hill to Ghorepani, and beautiful Poon Hill. 
-social_posts: false
-description_facebook: ''
-description_twitter: '#nepal #trekking #annapurna'
+description: Easy navigation but an utterly exhausting trail up the never ending hill
+  to Ghorepani, and beautiful Poon Hill.
+social_posts: true
+description_facebook: "#nepal #trekking #annapurna"
+description_twitter: "#nepal #trekking #annapurna"
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
-
+featured: false
 
 ---
 {{% michelle %}}
