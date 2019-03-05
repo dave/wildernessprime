@@ -35,9 +35,8 @@ I also merged and de-duplicated the waypoint databases from Robin and Himalayan 
 You can find the final files here:
 
 * Routes - All 115 daily routes merged into a single file in [GPX](https://www.dropbox.com/s/s5p5neji22fi0bu/routes.gpx?dl=1) or [KML](https://www.dropbox.com/s/g25xzr6rs4omm4o/routes.kml?dl=1) format. If you need the routes as 115 individual GPX files, [here's a zip](https://www.dropbox.com/s/m6giufmdi3pq9y1/routes.zip?dl=1).
-* Waypoints - All 475 waypoints in [GPX](https://www.dropbox.com/s/quugmnsmhim10mf/waypoints.gpx?dl=1) or [KML](https://www.dropbox.com/s/q8zyhxj54ckvhab/waypoints.kml?dl=1) format.
 * Markers - All 1432 km markers in [GPX](https://www.dropbox.com/s/mk0kvn48uk2lva1/markers.gpx?dl=1) or [KML](https://www.dropbox.com/s/vfa60081uswczuo/markers.kml?dl=1) format.  
-* Tracks - Tracks from Himalayan Adventure Labs, merged into one file in [GPX](https://www.dropbox.com/s/cddwui34eo8qei0/himalayan-adventure-labs-tracks.gpx?dl=1) or [KML](https://www.dropbox.com/s/4ityalfo1oq9za9/himalayan-adventure-labs-tracks.kml?dl=1) format.
+* Waypoints - The waypoints file will soon be hosted on the Himalayan Adventure Labs site.
  
 If you'd like to know how I manipulated the GPX files, here's [the source code](https://github.com/dave/gpx/blob/master/main.go).
  
