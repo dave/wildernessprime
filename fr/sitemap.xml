@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/nourriture/</loc>
-    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/suivi-de-notre-exp%C3%A9dition/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T04:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,6 +15,11 @@
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/suivi-de-notre-exp%C3%A9dition/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/nourriture/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -186,7 +186,7 @@
   
   <url>
     <loc>https://www.wildernessprime.com/fr/</loc>
-    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T04:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
