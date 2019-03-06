@@ -38,35 +38,16 @@ Notre dîner (pour les français)/souper (pour les québécois.. coudonc) seront
 
 ## Barres énergétiques
 
-Merci du fond du coeur à [RxBar](https://www.rxbar.com/) qui sponsorise notre expédition en nous envoyant une sélection de [leurs meilleures barres énergétiques](https://www.rxbar.com/shop/rxbar.html/). 
+Un immense merci à [RxBar](https://www.rxbar.com/) qui sponsorise notre expédition en nous envoyant une sélection de [leurs meilleures barres énergétiques](https://www.rxbar.com/shop/rxbar.html/). 
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551711153/bs12thumbnail_1.jpg)
 
-## Dehydrated meals
+## Nourriture déshydratée 
 
-Thanks also to [Expeditions Foods](https://expeditionfoods.com/) for sponsorship in the form of a generous discount on their [1,000 calorie Extreme Energy](https://expeditionfoods.com/collections/1000kcal) dehydrated meals.
+Encore une fois merci à [Expeditions Foods](https://expeditionfoods.com/) qui nous sponsorise avec l'aide d'un généreux rabais sur leur plats déshydratés de [1000 calories d'énergie extrême](https://expeditionfoods.com/collections/1000kcal).
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551711026/spaghettibolognaise_1000_v4__orange_1000x1000.jpg)
 
-## The full menu
+## Le Menu
 
-<div style="width:100%; overflow:auto;">
-<table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th></th><th>Calories</th><th>Weight (g)</th><th>cal/g</th></tr></thead><tbody>
-<tr><td>Breakfast</td><td> </td><td> </td><td> </td></tr>
-<tr><td>Energy bar</td><td>200</td><td>54</td><td>3.7</td></tr>
-<tr><td>Trail mix</td><td>567</td><td>100</td><td>5.7</td></tr>
-<tr><td>White coffee</td><td>37</td><td>10</td><td>3.7</td></tr>
-<tr><td> </td><td> </td><td> </td><td> </td></tr>
-<tr><td>Lunch</td><td> </td><td> </td><td> </td></tr>
-<tr><td>Protein shake</td><td>400</td><td>100</td><td>4.0</td></tr>
-<tr><td>Energy bar</td><td>200</td><td>50</td><td>4.0</td></tr>
-<tr><td> </td><td> </td><td> </td><td> </td></tr>
-<tr><td>Dinner</td><td> </td><td> </td><td> </td></tr>
-<tr><td>Dehydrated meal</td><td>1,000</td><td>200</td><td>5.0</td></tr>
-<tr><td>Hot chocolate drink</td><td>107</td><td>28</td><td>3.8</td></tr>
-<tr><td>Olive oil (20ml)</td><td>162</td><td>18</td><td>8.8</td></tr>
-<tr><td> </td><td> </td><td> </td><td> </td></tr>
-<tr><td>Totals</td><td>2,673</td><td>560</td><td>4.8</td></tr>
-</tbody></table>
-</div>
+<div style="width:100%; overflow:auto;"> <table class="tableizer-table"> <thead><tr class="tableizer-firstrow"><th></th><th>Calories</th><th>Poids (g)</th><th>cal/g</th></tr></thead><tbody> <tr><td>Petit Déjeuner</td><td> </td><td> </td><td> </td></tr> <tr><td>Barre énergétique</td><td>200</td><td>54</td><td>3.7</td></tr> <tr><td>Mélange du randonneur</td><td>567</td><td>100</td><td>5.7</td></tr> <tr><td>Café</td><td>37</td><td>10</td><td>3.7</td></tr> <tr><td> </td><td> </td><td> </td><td> </td></tr> <tr><td>Déjeuner</td><td> </td><td> </td><td> </td></tr> <tr><td>Shake Protéiné</td><td>400</td><td>100</td><td>4.0</td></tr> <tr><td>Barre énergétique</td><td>200</td><td>50</td><td>4.0</td></tr> <tr><td> </td><td> </td><td> </td><td> </td></tr> <tr><td>Dîner</td><td> </td><td> </td><td> </td></tr> <tr><td>Repas déshydratés</td><td>1,000</td><td>200</td><td>5.0</td></tr> <tr><td>Chocolat chaud</td><td>107</td><td>28</td><td>3.8</td></tr> <tr><td>Huile d'olive(20ml)</td><td>162</td><td>18</td><td>8.8</td></tr> <tr><td> </td><td> </td><td> </td><td> </td></tr> <tr><td>Totaux</td><td>2,673</td><td>560</td><td>4.8</td></tr> </tbody></table> </div>
