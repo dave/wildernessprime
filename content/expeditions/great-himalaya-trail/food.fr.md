@@ -1,18 +1,24 @@
 ---
 type: report
 date: 2019-03-03 00:00:00 +0000
-slug: food
-translationKey: food
-title: Food
-description: The food we'll be eating on the trek.
+slug: Nourriture
+translationKey: Nourriture
+title: Notre nourriture
+description: La nourriture que nous mangerons sur la route.
 image: "/v1551465764/IMG_2870.jpg"
 keywords: []
-author: dave
+author: mathilde
+featured: false
+social_posts: false
+description_facebook: ''
+description_twitter: ''
+description_instagram: ''
+description_pinterest: ''
+description_tumblr: ''
 draft: true
 
 ---
-
-We will eat as much freshly prepared food as we can. Dal Bhat is delicious and we want to support the local economy as much as possible. However, we'll only have access to locally prepared food on about half the 115 days in the itinerary. The rest of the food we'll have to take with us. We would love to be able to resupply at shops along the route, but the remote villages rarely sell backpacking compatible food. It's not really possible to cook lentils and rice on a backpacking stove. 
+Bien entendu, nous aimerions manger le plus possible de nourriture fraîchement préparée. Le Dal Bhat est un met délicieux et nous aimons savoir que nous aiderons à supporter l'économie locale dès que nous le pourrons. Cependant, nous auront accès à la nourriture fraîchement concoctée par nos superbes hôtes népalais que seulement durant la moitié des 115 jours de l'itinéraire, c'est-à-dire que nous devrons préparer nous-mêmes nos repas durant 
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551710343/IMG_2289.jpg)
 
@@ -20,11 +26,11 @@ Our logistics partner [Mactrek](http://www.mactreks.com/) will be arranging seve
 
 ## Breakfast
 
-We will be having a fast-and-light breakfast of an energy bar, 100g of trail mix and a hot coffee. 
+We will be having a fast-and-light breakfast of an energy bar, 100g of trail mix and a hot coffee.
 
 ## Lunch
 
-Lunch will be easy to prepare - no stove needed - 100g of protein shake and an energy bar. 
+Lunch will be easy to prepare - no stove needed - 100g of protein shake and an energy bar.
 
 ## Dinner
 
@@ -47,21 +53,20 @@ Thanks also to [Expeditions Foods](https://expeditionfoods.com/) for sponsorship
 <div style="width:100%; overflow:auto;">
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th></th><th>Calories</th><th>Weight (g)</th><th>cal/g</th></tr></thead><tbody>
- <tr><td>Breakfast</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Energy bar</td><td>200</td><td>54</td><td>3.7</td></tr>
- <tr><td>Trail mix</td><td>567</td><td>100</td><td>5.7</td></tr>
- <tr><td>White coffee</td><td>37</td><td>10</td><td>3.7</td></tr>
- <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Lunch</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Protein shake</td><td>400</td><td>100</td><td>4.0</td></tr>
- <tr><td>Energy bar</td><td>200</td><td>50</td><td>4.0</td></tr>
- <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Dinner</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Dehydrated meal</td><td>1,000</td><td>200</td><td>5.0</td></tr>
- <tr><td>Hot chocolate drink</td><td>107</td><td>28</td><td>3.8</td></tr>
- <tr><td>Olive oil (20ml)</td><td>162</td><td>18</td><td>8.8</td></tr>
- <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Totals</td><td>2,673</td><td>560</td><td>4.8</td></tr>
+<tr><td>Breakfast</td><td> </td><td> </td><td> </td></tr>
+<tr><td>Energy bar</td><td>200</td><td>54</td><td>3.7</td></tr>
+<tr><td>Trail mix</td><td>567</td><td>100</td><td>5.7</td></tr>
+<tr><td>White coffee</td><td>37</td><td>10</td><td>3.7</td></tr>
+<tr><td> </td><td> </td><td> </td><td> </td></tr>
+<tr><td>Lunch</td><td> </td><td> </td><td> </td></tr>
+<tr><td>Protein shake</td><td>400</td><td>100</td><td>4.0</td></tr>
+<tr><td>Energy bar</td><td>200</td><td>50</td><td>4.0</td></tr>
+<tr><td> </td><td> </td><td> </td><td> </td></tr>
+<tr><td>Dinner</td><td> </td><td> </td><td> </td></tr>
+<tr><td>Dehydrated meal</td><td>1,000</td><td>200</td><td>5.0</td></tr>
+<tr><td>Hot chocolate drink</td><td>107</td><td>28</td><td>3.8</td></tr>
+<tr><td>Olive oil (20ml)</td><td>162</td><td>18</td><td>8.8</td></tr>
+<tr><td> </td><td> </td><td> </td><td> </td></tr>
+<tr><td>Totals</td><td>2,673</td><td>560</td><td>4.8</td></tr>
 </tbody></table>
 </div>
-
