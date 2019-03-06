@@ -99,7 +99,7 @@ fields:
   description: This text is appended to the Tumblr post description.
 pages:
 - content/expeditions/annapurna-circuit/day-15.en.md
-- content/expeditions/great-himalaya-trail/food.fr.md
+- content/expeditions/great-himalaya-trail/nourriture.fr.md
 - content/expeditions/great-himalaya-trail/navigation-methods.fr.md
 - content/expeditions/great-himalaya-trail/navigation-methods.en.md
 - content/expeditions/great-himalaya-trail/food.en.md
