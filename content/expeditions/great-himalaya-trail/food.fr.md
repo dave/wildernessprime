@@ -15,7 +15,6 @@ description_twitter: ''
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
-draft: true
 
 ---
 Bien entendu, nous aimerions manger le plus possible de nourriture fraîchement préparée. Le Dal Bhat est un met délicieux et nous aimons savoir que nous aiderons à supporter l'économie locale dès que nous le pourrons. Cependant, nous auront accès à la nourriture fraîchement concoctée par nos superbes hôtes népalais que seulement durant la moitié des 115 jours de l'itinéraire, c'est-à-dire que nous devrons préparer nous-mêmes nos repas durant 63 jours. Vous aurez bien compris que nous devrons porter avec nous tous ces kilos de nourriture, raison pour laquelle nous avons pensé qu'il serait merveilleux de se réapprovisionner dans les boutiques que nous croiserons sur notre chemin, malgré que les villages isolés ne vendent que très rarement de la nourriture de randonnée. Il faudra aussi penser que de se préparer des lentilles et du riz dans une poêle de voyage serait un peu trop laborieux, mais si c'est David qui gratte, décape et nettoie la casserole, je ne suis pas contre l'idée. 
