@@ -26,15 +26,15 @@ C'est MacTrek, notre superbe équipe de logistique, qui assurera la livraison de
 
 ## Petit Déjeuner
 
-Tous les matins, nous prendrons un déjeuner rapide et léger 
+Tous les matins, nous prendrons un déjeuner rapide et léger fait de barres tendres protéinées, de 100g de mélange du randonneur et d'un café chaud. 
 
-## Lunch
+## Déjeuner / Dîner
 
-Lunch will be easy to prepare - no stove needed - 100g of protein shake and an energy bar.
+Déjeuner pour les Français et puis dîner pour les québécois, ca ne pourrait pas être plus simple ? Bref.. Notre lunch devra être facile à préparer, en ce sens que notre poêle n'aura pas à être utilisée : 100g de shake protéiné et une barre tendre énergétique. Point.
 
-## Dinner
+## Diner / Souper
 
-Dinner will be a high calorie dehydrated backpacking meal with hot water, and a hot chocolate drink. We'll carry a bottle of olive oil which we'll add to dinner as a calorie boost. This should give us 2,673 calories per day for 560g.
+Notre dîner (pour les français)/souper (pour les québécois.. coudonc) seront faits de chocolats chauds et de repas déshydratés conçus spécialement pour les randonneurs auxquels il faut ajouter de l'eau bouillante. Nous transporterons également une bouteille d'huile d'olive qui servira non seulement à rehausser le goût de ces plats insipides, mais qui nous fournira jusqu'à 2673 calories par jours pour 560g.
 
 ## Energy bars
 
