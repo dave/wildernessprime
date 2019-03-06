@@ -22,11 +22,11 @@ Bien entendu, nous aimerions manger le plus possible de nourriture fraîchement 
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551710343/IMG_2289.jpg)
 
-C'est MacTrek, notre superbe équipe de logistique, qui assurera la livraison de nos 
+C'est MacTrek, notre superbe équipe de logistique, qui assurera la livraison de nos paquets qui nous serons livrés à plusieurs points tout au long de notre périple. Dans la majorité des cas, nous serons tout de même contraints de transporter avec nous jusqu'à 10 jours de rations de nourriture. La densité calorique est essentielle et la facilité de préparation est également importante.
 
-## Breakfast
+## Petit Déjeuner
 
-We will be having a fast-and-light breakfast of an energy bar, 100g of trail mix and a hot coffee.
+Tous les matins, nous prendrons un déjeuner rapide et léger 
 
 ## Lunch
 
