@@ -36,9 +36,9 @@ Déjeuner pour les Français et puis dîner pour les québécois, ca ne pourrait
 
 Notre dîner (pour les français)/souper (pour les québécois.. coudonc) seront faits de chocolats chauds et de repas déshydratés conçus spécialement pour les randonneurs auxquels il faut ajouter de l'eau bouillante. Nous transporterons également une bouteille d'huile d'olive qui servira non seulement à rehausser le goût de ces plats insipides, mais qui nous fournira jusqu'à 2673 calories par jours pour 560g.
 
-## Energy bars
+## Barres énergétiques
 
-Thanks very much to [RxBar](https://www.rxbar.com/) sponsoring our expedition by sending us a [selection of their RxBars](https://www.rxbar.com/shop/rxbar.html/).
+Merci du fond du coeur à [RxBar](https://www.rxbar.com/) qui sponsorise notre expédition en nous envoyant une sélection de [leurs meilleures barres énergétiques](https://www.rxbar.com/shop/rxbar.html/). 
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551711153/bs12thumbnail_1.jpg)
 
