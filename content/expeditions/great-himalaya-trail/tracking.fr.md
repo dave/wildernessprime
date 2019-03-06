@@ -1,5 +1,4 @@
 ---
-draft: true
 type: report
 author: dave
 date: 2019-02-28 00:00:00 +0000
@@ -15,8 +14,10 @@ description_twitter: ''
 description_instagram: ''
 description_pinterest: ''
 description_tumblr: ''
+featured: false
+draft: true
 
 ---
-We're planning to start the hike around April 12th 2019. Our Garmin InReach satellite tracker will update this map every few minutes. Our intended route is marked in red and yellow - each coloured section being one day of hiking, and our actual track is blue.
+Nous prévoyons commencer la randonnée vers le 12 avril 2019. Notre système de suivi des satellites InReach de Garmin mettra à jour cette carte à toutes les minutes. Notre itinéraire prévu est indiqué en rouge et jaune - chaque partie colorée correspond à une journée de randonnée, et notre piste est bleue.
 
 <iframe src="https://share.garmin.com/wildernessprime" frameborder="0" marginwidth="0" marginheight="0" style="width: 100%; height:100vh;"></iframe>
