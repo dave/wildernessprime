@@ -4,7 +4,7 @@ author: mathilde
 date: 2019-03-06 04:00:00 +0000
 slug: Suivi de notre expédition
 translationKey: tracking
-title: Suivi
+title: Nous suivre en direct
 description: 'Notre localisateur vous permettra de nous suivre tout au long du trajet. '
 image: "/v1551363646/Screenshot%202019-02-28%20at%2015.20.13.jpg"
 keywords: []
