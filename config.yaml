@@ -29,7 +29,7 @@ outputFormats:
 
 params:
   imgbase: https://res.cloudinary.com/wildernessprime/image/upload
-  pagesize: 6
+  pagesize: 12
   pagetypes:
     - report
     - review
