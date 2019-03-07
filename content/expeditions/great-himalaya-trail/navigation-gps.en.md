@@ -34,10 +34,10 @@ I also merged and de-duplicated the waypoint databases from Robin and Himalayan 
 
 You can find the final files here:
 
-* Routes - All 115 daily routes merged into a single file in [GPX](https://www.dropbox.com/s/s5p5neji22fi0bu/routes.gpx?dl=1) or [KML](https://www.dropbox.com/s/g25xzr6rs4omm4o/routes.kml?dl=1) format. If you need the routes as 115 individual GPX files, [here's a zip](https://www.dropbox.com/s/m6giufmdi3pq9y1/routes.zip?dl=1).
+* Routes - All 115 daily routes merged into a single file in [GPX](https://www.dropbox.com/s/s5p5neji22fi0bu/routes.gpx?dl=1) or [KML](https://www.dropbox.com/s/g25xzr6rs4omm4o/routes.kml?dl=1) format. If you need the routes as 115 individual GPX files, [here's a zip](https://www.dropbox.com/s/m6giufmdi3pq9y1/routes.zip?dl=1).  
 * Markers - All 1432 km markers in [GPX](https://www.dropbox.com/s/mk0kvn48uk2lva1/markers.gpx?dl=1) or [KML](https://www.dropbox.com/s/vfa60081uswczuo/markers.kml?dl=1) format.  
-* Waypoints - All 475 waypoints in GPX or KML format will soon be hosted on the Himalayan Adventure Labs site.
-* Tracks - You can find the Himalayan Adventure Labs tracks at [www.himalayanadventurelabs.com](https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/).
+* Waypoints - A file containing all 475 waypoints in GPX and KML format can be found in the Himalayan Adventure Labs file repository, which is linked on their [Interactive Map page](https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/). Look for the `Dave Brophy's files` directory, and the files are called `waypoints.gpx` and `waypoints.kml`.  
+* Tracks - A single file containing the 10 Himalayan Adventure Labs tracks in GPX and KML formats can be found in their file repository, which is linked on their [Interactive Map page](https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/). Look for the `Dave Brophy's files` directory, and the files are called `himalayan-adventure-labs-tracks.gpx` and `himalayan-adventure-labs-tracks.kml`.
  
 If you'd like to know how I manipulated the GPX files, here's [the source code](https://github.com/dave/gpx/blob/master/main.go).
  
