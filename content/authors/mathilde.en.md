@@ -1,5 +1,5 @@
 +++
-biography = "Montrealer, student, indecisive (also described as \"chaos junky\"), I am a real champion of long last-minute journeys, of indomitable overdoses of blissfulness and of everlasting dreams."
+biography = "Montrealer, student, indecisive (also described as \"chaos junky\"), I am a real champion of long last-minute journeys, of indomitable overdoses of blissfulness and everlasting dreams."
 contact = ""
 description = "Montrealer, student and quite indecisive (also described as \"chaos junky\"), I am a real champion of long last-minute journeys, of indomitable overdoses of gaiety and of everlasting dreams."
 image = "/v1552088239/IMG_2196.jpg"
