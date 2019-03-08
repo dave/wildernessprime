@@ -1,7 +1,6 @@
 ---
 label: Article
 hide_body: false
-is_partial: false
 fields:
 - type: select
   name: type
@@ -98,6 +97,7 @@ fields:
   label: Tumblr post suffix (optional)
   description: This text is appended to the Tumblr post description.
 pages:
+- content/expeditions/great-himalaya-trail/navigation-flashcards.fr.md
 - content/expeditions/great-himalaya-trail/NousSuivre.fr.md
 - content/expeditions/annapurna-circuit/day-15.en.md
 - content/expeditions/great-himalaya-trail/nourriture.fr.md
@@ -133,7 +133,6 @@ pages:
 - content/expeditions/annapurna-circuit/day-17.en.md
 - content/expeditions/great-himalaya-trail/itinerary-summary.fr.md
 - content/expeditions/great-himalaya-trail/itinerary-resupply.fr.md
-- content/expeditions/great-himalaya-trail/navigation-flashcards.fr.md
 - content/expeditions/annapurna-circuit/day-07.en.md
 - content/expeditions/annapurna-circuit/day-09.en.md
 - content/expeditions/annapurna-circuit/day-05.en.md

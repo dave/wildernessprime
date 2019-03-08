@@ -1,7 +1,6 @@
 ---
 label: Author
 hide_body: true
-is_partial: false
 fields:
 - type: text
   name: type
@@ -38,7 +37,7 @@ fields:
   label: Image
   description: Image
 pages:
+- content/authors/mathilde.en.md
 - content/authors/mathilde.fr.md
 - content/authors/dave.fr.md
 - content/authors/dave.en.md
-- content/authors/mathilde.en.md
