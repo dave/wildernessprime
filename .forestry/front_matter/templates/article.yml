@@ -76,26 +76,10 @@ fields:
   name: social_posts
   label: Social posts (Facebook, Twitter, Instagram [coming soon], Pinterest, Tumblr)
   description: Should we post to social networks?
-- type: textarea
-  name: description_facebook
-  label: Facebook post suffix (optional)
-  description: This text is appended to the Facebook post description.
-- type: textarea
-  name: description_twitter
-  label: Twitter post suffix (optional)
-  description: This text is appended to the Twitter post description.
-- type: textarea
-  name: description_instagram
-  label: Instagram post suffix (optional)
-  description: This text is appended to the Instagram post description.
-- type: textarea
-  name: description_pinterest
-  label: Pinterest post suffix (optional)
-  description: This text is appended to the Pinterest post description.
-- type: textarea
-  name: description_tumblr
-  label: Tumblr post suffix (optional)
-  description: This text is appended to the Tumblr post description.
+- type: text
+  name: hashtags
+  label: Hashtags
+  description: Hashtags to add to description in social posts.
 pages:
 - content/expeditions/great-himalaya-trail/navigation-flashcards.fr.md
 - content/expeditions/great-himalaya-trail/NousSuivre.fr.md

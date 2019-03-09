@@ -9,12 +9,6 @@ keywords: []
 author: dave
 description: The highest point of the trek at 5,400m and we're all feeling the altitude.
 social_posts: true
-description_facebook: "#nepal #trekking #annapurna"
-description_twitter: "#nepal #trekking #annapurna"
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-
 ---
 {{% michelle %}}
 

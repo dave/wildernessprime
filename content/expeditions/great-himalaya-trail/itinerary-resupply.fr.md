@@ -12,12 +12,6 @@ keywords:
 author: mathilde
 featured: false
 social_posts: false
-description_facebook: ''
-description_twitter: ''
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-
 ---
 Notre stratégie pour ce qui est de s'alimenter de manière judicieuse consistera à manger des plats locaux fraîchement cuisinés dans la mesure du possible et à ne pas acheter d'aliments non préparés le long du sentier. Les villages éloignés n'auront souvent rien à vendre à part peut-être du riz, de la farine et des lentilles (pas exactement denses en calories ou compatibles avec les réchauds). Afin de nous assurer que nous avons suffisamment de nourriture entre les points de réapprovisionnement, David a essayé de faire les estimations des différents endroits où nous pourrons trouver des aliments locaux. Évidemment, le fait de manger locaux nous fera sauver des rations de nourritures.
 

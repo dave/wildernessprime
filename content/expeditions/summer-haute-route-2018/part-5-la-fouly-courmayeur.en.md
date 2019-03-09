@@ -9,12 +9,7 @@ image: "/v1549729285/IMG_4681%20%281%29.jpg"
 keywords: []
 author: dave
 social_posts: true
-description_facebook: ''
-description_twitter: '#tourdumontblanc #tmb'
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-
+hashtags: '#tourdumontblanc #tmb'
 ---
 Onwards and upwards into the foothills of Mont Blanc from Lac Champex towards Italy. La Fouly is a cute little town with an amazing view, and I'd highly recommend staying at the excellent Maya Joie hostel.
 

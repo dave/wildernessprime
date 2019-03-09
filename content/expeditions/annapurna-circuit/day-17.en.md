@@ -10,13 +10,6 @@ author: dave
 description: Easy navigation but an utterly exhausting trail up the never ending hill
   to Ghorepani, and beautiful Poon Hill.
 social_posts: true
-description_facebook: "#nepal #trekking #annapurna"
-description_twitter: "#nepal #trekking #annapurna"
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-featured: false
-
 ---
 {{% michelle %}}
 

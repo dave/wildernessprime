@@ -9,11 +9,6 @@ keywords: []
 author: dave
 description: Switchbacks and bridges as we pass Qunche and Danakyu towards Chame.
 social_posts: true
-description_facebook: "#nepal #trekking #annapurna"
-description_twitter: "#nepal #trekking #annapurna"
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
 
 ---
 {{% michelle %}}

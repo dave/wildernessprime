@@ -10,11 +10,6 @@ author: dave
 description: My favourite evening of the whole trek in Yak Kharka, as snow starts
   falling.
 social_posts: true
-description_facebook: "#nepal #trekking #annapurna"
-description_twitter: "#nepal #trekking #annapurna"
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
 
 ---
 {{% michelle %}}

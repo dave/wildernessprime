@@ -9,12 +9,6 @@ image: "/v1549728184/IMG_4576.jpg"
 keywords: []
 author: dave
 social_posts: true
-description_facebook: ''
-description_twitter: ''
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-
 ---
 Arguably the most beautiful town in the European Alps, Verbier overlooks the most picturesque valley. After the last few days of rocks, scrambling and mountains, this all seems rather civilised.
 

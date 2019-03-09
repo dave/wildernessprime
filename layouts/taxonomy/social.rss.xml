@@ -13,11 +13,12 @@
             <guid>{{ .Permalink }}</guid>
             <description>
                 {{ $description := .Params.description }}
-                {{ if and (eq $.Data.Term "facebook") .Params.description_facebook }}{{ $description = print $description " " .Params.description_facebook }}{{ end }}
-                {{ if and (eq $.Data.Term "twitter") .Params.description_twitter }}{{ $description = print $description " " .Params.description_twitter }}{{ end }}
-                {{ if and (eq $.Data.Term "instagram") .Params.description_instagram }}{{ $description = print $description " " .Params.description_instagram }}{{ end }}
-                {{ if and (eq $.Data.Term "pinterest") .Params.description_pinterest }}{{ $description = print $description " " .Params.description_pinterest }}{{ end }}
-                {{ if and (eq $.Data.Term "tumblr") .Params.description_tumblr }}{{ $description = print $description " " .Params.description_tumblr }}{{ end }}
+                {{ if .Params.hashtags }}
+                    {{ $description = print $description " " .Params.hashtags }}
+                {{ end }}
+                {{ if and (eq .Params.type "report") (eq .CurrentSection.Params.type "expedition") (.CurrentSection.Params.hashtags) }}
+                    {{ $description = print $description " " .CurrentSection.Params.hashtags }}
+                {{ end }}
                 {{ $description }}
             </description>
                 {{ $resolution := "w_1200" }}

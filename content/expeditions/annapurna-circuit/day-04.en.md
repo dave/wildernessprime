@@ -9,11 +9,6 @@ keywords: []
 author: dave
 description: Our first day hiking completely off the road, all the way to Dharapani.
 social_posts: true
-description_facebook: "#nepal #trekking #annapurna"
-description_twitter: "#nepal #trekking #annapurna"
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
 
 ---
 {{% michelle %}}

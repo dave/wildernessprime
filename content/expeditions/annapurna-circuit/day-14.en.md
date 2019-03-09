@@ -9,13 +9,6 @@ keywords: []
 author: dave
 description: We battled gale force winds in the afternoon making our way to Larjung.
 social_posts: true
-description_facebook: '#nepal #trekking #annapurna'
-description_twitter: '#nepal #trekking #annapurna'
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-
-
 ---
 {{% michelle %}}
 

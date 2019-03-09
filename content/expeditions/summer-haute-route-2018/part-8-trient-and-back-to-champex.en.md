@@ -9,12 +9,7 @@ description: Our hike concludes, back at Champex.
 image: "/v1551218080/IMG_4807.jpg"
 keywords: []
 social_posts: true
-description_facebook: ''
-description_twitter: '#chamonix #tourdumontblanc #tmb'
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-
+hashtags: '#chamonix #tourdumontblanc #tmb'
 ---
 The trail wound on, up into the hills once again for the last leg. To Trient, then down into the valley where we returned to the beautiful Lac Champex. This ends a magnificent 21 day hike from Zermatt to Chamonix and all the way round Mont Blanc. I've seen beautiful mountains all over the world, but nothing beats the European Alps for charm.
 

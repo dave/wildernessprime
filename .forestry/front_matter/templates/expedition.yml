@@ -35,6 +35,10 @@ fields:
   label: Description
   description: Summary of the page (for site previews / social sharing). No more than
     150 characters.
+- type: text
+  name: hashtags
+  label: Hashtags
+  description: Hashtags to apply to social posts for all articles in this expedition (after article hashtags).
 - type: file
   name: image
   label: Image

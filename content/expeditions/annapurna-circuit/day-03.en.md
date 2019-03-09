@@ -9,11 +9,6 @@ keywords: []
 author: dave
 description: Fabulous Dal Baht and confusing side treks as we continue towards Chamje.
 social_posts: true
-description_facebook: "#nepal #trekking #annapurna"
-description_twitter: "#nepal #trekking #annapurna"
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
 
 ---
 {{% michelle %}}

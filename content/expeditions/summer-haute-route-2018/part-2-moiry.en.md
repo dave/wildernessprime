@@ -9,12 +9,6 @@ image: "/v1549630383/IMG_4301.jpg"
 keywords: []
 author: dave
 social_posts: true
-description_facebook: ''
-description_twitter: ''
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549633470/IMG_4374.jpg)
 

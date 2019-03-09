@@ -9,12 +9,6 @@ keywords: []
 author: dave
 description: The first part of our trek... We made the right decision in taking the easier path.
 social_posts: true
-description_facebook: ''
-description_twitter: '#nepal #trekking #annapurna'
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-
 
 ---
 {{% michelle %}}

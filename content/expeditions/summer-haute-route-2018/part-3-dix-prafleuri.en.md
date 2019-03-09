@@ -9,12 +9,6 @@ image: "/v1549648710/IMG_4504.jpg"
 keywords: []
 author: dave
 social_posts: true
-description_facebook: ''
-description_twitter: ''
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-
 ---
 The next section led deep into the mountains. Up the valley to the ski resort of Arolla, and over the Pas de Chèvres to the imposing view of the Mont Blanc de Cheilon with La Cabane des Dix overlooking. I've visited the Dix hut several times on the winter version of this route, so I pushed on towards the Pas du Chat and the Lac Dix beyond.
 

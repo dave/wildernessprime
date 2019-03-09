@@ -9,12 +9,6 @@ description: Over the Col de la Seigne and into France towards Les Contamines.
 image: "/v1551035074/IMG_4720.jpg"
 keywords: []
 social_posts: true
-description_facebook: ''
-description_twitter: ''
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
-
 ---
 The valley to the west of Courmayeur gets plusher and wetter the further we go. Lush green marsh land and cattle grazing.
 
