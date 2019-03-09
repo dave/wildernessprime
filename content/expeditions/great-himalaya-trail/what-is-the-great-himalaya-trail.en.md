@@ -9,6 +9,8 @@ image: "/v1550183014/IMG_2423.jpg"
 keywords: []
 author: dave
 social_posts: false
+title_has_context: true
+featured: true
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_1600,dpr_auto/v1550183229/overview-map-5000.jpg)
 

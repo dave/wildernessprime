@@ -80,6 +80,10 @@ fields:
   name: hashtags
   label: Hashtags
   description: Hashtags to add to description in social posts.
+- type: boolean
+  name: title_has_context
+  label: Title Has Context
+  description: Tick this if the title includes the name of the expedition. The expedition name will not be added to social posts / RSS.
 pages:
 - content/expeditions/great-himalaya-trail/navigation-flashcards.fr.md
 - content/expeditions/great-himalaya-trail/NousSuivre.fr.md

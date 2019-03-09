@@ -4,7 +4,7 @@
     {{ range $posts }}
         <item>
             <title>
-                {{ if and (eq .Params.type "report") (eq .CurrentSection.Params.type "expedition") }}{{ .CurrentSection.Params.title }} - {{ end }}
+                {{ if and (eq .Params.type "report") (eq .CurrentSection.Params.type "expedition") (ne .Params.title_has_context true) }}{{ .CurrentSection.Params.title }} - {{ end }}
                 {{ .Title }}
             </title>
             <link>{{ .Permalink }}</link>
