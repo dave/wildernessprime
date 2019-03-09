@@ -8,9 +8,11 @@ description: A brief overview of the 1,300km trail we'll be hiking this summer.
 image: "/v1550183014/IMG_2423.jpg"
 keywords: []
 author: dave
-social_posts: false
+social_posts: true
 title_has_context: true
 featured: true
+hashtags: ''
+
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_1600,dpr_auto/v1550183229/overview-map-5000.jpg)
 

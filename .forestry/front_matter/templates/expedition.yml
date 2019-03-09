@@ -38,7 +38,8 @@ fields:
 - type: text
   name: hashtags
   label: Hashtags
-  description: Hashtags to apply to social posts for all articles in this expedition (after article hashtags).
+  description: Hashtags to apply to social posts for all articles in this expedition
+    (after article hashtags).
 - type: file
   name: image
   label: Image
