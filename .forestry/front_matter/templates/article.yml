@@ -86,6 +86,8 @@ fields:
   description: Tick this if the title includes the name of the expedition. The expedition
     name will not be added to social posts / RSS.
 pages:
+- content/expeditions/great-himalaya-trail/interactive-map.fr.md
+- content/expeditions/great-himalaya-trail/interactive-map.en.md
 - content/expeditions/annapurna-circuit/day-03.en.md
 - content/expeditions/summer-haute-route-2018/part-2-moiry.en.md
 - content/expeditions/summer-haute-route-2018/part-4-verbier-champex.en.md
@@ -101,8 +103,6 @@ pages:
 - content/expeditions/great-himalaya-trail/navigation-apps.en.md
 - content/expeditions/great-himalaya-trail/navigation-emergencies.fr.md
 - content/expeditions/great-himalaya-trail/navigation-emergencies.en.md
-- content/expeditions/great-himalaya-trail/interactive-map.en.md
-- content/expeditions/great-himalaya-trail/interactive-map.fr.md
 - content/expeditions/annapurna-circuit/day-13.en.md
 - content/expeditions/great-himalaya-trail/navigation-gps.fr.md
 - content/expeditions/great-himalaya-trail/navigation-gps.en.md
