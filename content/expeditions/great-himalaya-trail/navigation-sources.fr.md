@@ -8,7 +8,7 @@ description: Comment avons-nous préparé les cartes pour la grande traversée d
 date: 2019-02-07 00:00:00 +0000
 image: "/v1552311593/53327607_254824992129049_1639603808197672960_n.jpg"
 keywords: []
-author: dave
+author: mathilde
 social_posts: false
 featured: false
 hashtags: ''
