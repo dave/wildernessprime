@@ -34,6 +34,8 @@ You can find the final files here:
 * Waypoints - A file containing all 475 waypoints in GPX and KML format can be found in the Himalayan Adventure Labs file repository, which is linked on their [Interactive Map page](https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/). Look for the _Dave Brophy's files_ directory, and the files are called _waypoints.gpx_ and _waypoints.kml_.  
 * Tracks - A single file containing the 10 Himalayan Adventure Labs tracks in GPX and KML formats can be found in their file repository, which is linked on their [Interactive Map page](https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/). Look for the _Dave Brophy's files_ directory, and the files are called _himalayan-adventure-labs-tracks.gpx_ and _himalayan-adventure-labs-tracks.kml_.
  
+> I've just found a frustrating limitation of 1000 waypoints on the Garmin Fenix 5 watch. I can't find any way around is, so I've created a set of km markers containing only one in 3 markers. So each day has a marker at 0km, 3km, 6km etc. This gives 516 markers, added to the 475 waypoints gives 991 in total. You can find the reduced marker file at _markers-every-3-km.gpx_.
+ 
 If you'd like to know how I manipulated the GPX files, here's [the source code](https://github.com/dave/gpx/blob/master/main.go).
  
 Here's a demo of how to load KML routes into Google Earth, which gives an excellent 3D visualisation:
