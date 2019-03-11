@@ -21,16 +21,16 @@ Une aussi longue aventure que celle-ci requiert une planification absolument irr
 
 [**Nepal Trekking and the GREAT HIMALAYA TRAIL by Robin Boustead**](https://www.amazon.com/dp/1905864604)
 
-Ce guide est probablement la meilleure source que nous avons trouvée à propos de la Grande Traversée de l'Himalaya, Robin étant lui-même le pionnier de celle-ci, ayant relié plusieurs sentiers de haute altitude et de régions reculées pour n'en faire qu'un seul. Vous y retrouverez une description des itinéraires ultra détaillée pour chaque jour. 
+Ce guide est probablement la meilleure source que nous avons trouvée à propos de la Grande Traversée de l'Himalaya, Robin étant lui-même le pionnier de celle-ci, ayant relié plusieurs sentiers de haute altitude et de régions reculées pour n'en faire qu'un seul. Vous y retrouverez une description des itinéraires ultra détaillée pour chaque jour.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551706673/5026693-NOC02-1.jpg)
 
 ### Himalayan Adventure Labs
 
-Créé par Seth Wolpin, pour son expédition de 2014, Himalayan Adventure Labs est un autre très bon site-web pour trouver de bons fichier GPX, notes et conseils.   
+Créé par Seth Wolpin, pour son expédition de 2014, Himalayan Adventure Labs est un autre très bon site-web pour trouver de bons fichier GPX, notes et conseils.  
 [www.himalayanadventurelabs.com](https://www.himalayanadventurelabs.com/great-himalaya-trail/interactive-map-great-himalayan-trail/) (seulement en anglais)
 
-### Carte topographiques de L'Himalaya
+### Cartes topographiques de L'Himalaya
 
 Ces cartes, coproduites par Robin, incluent la Grande Traversée de l'Himalaya ainsi que plusieurs autres sentiers de randonnée. Cependant, petite mise en garde : les cartes ont une échelle de 1:150k, ce qui n'est pas idéal si vous désirez optez pour une navigation détaillée. La version digitale ainsi que la version papier sont disponibles sur [ce site web](http://www.greathimalayatrail.com/). Soyez conscients que la version papier est expédiée du Népal, cela prendra donc plusieurs semaines avant de pouvoir l'acquérir en main propre. Pour ce qui est de la version digitale, celle-ci est divisée en 12 différents fichiers jpg ayant une résolution d'approximativement 10k x 6k.
 
