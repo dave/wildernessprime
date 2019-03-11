@@ -12,7 +12,6 @@ featured: false
 social_posts: false
 hashtags: ''
 title_has_context: false
-draft: true
 
 ---
 Ici, une carte interactive de notre traversée où les onglets au dessous du plan figure les détails de chaque journée. 
