@@ -4,14 +4,17 @@ slug: quest-ce-que-la-grande-route-de-l-himalaya
 translationKey: what-is-the-great-himalaya-trail
 date: 2019-02-01 00:00:00 +0000
 title: Qu’est ce que la grande route de l’Himalaya?
-description: 'La grande traversée de l''Himalaya (The Great Himalaya Trail) est un
-  réseaux de sentiers de randonnée pedestre de 1700km traversant la longueur totale
-  du Népal, et atteingnant les plus hauts sommets de la planète.'
-image: "/v1550183014/IMG_2423.jpg"
+description: La grande traversée de l'Himalaya (The Great Himalaya Trail) est un réseaux
+  de sentiers de randonnée pedestre de 1700km traversant la longueur totale du Népal,
+  et atteingnant les plus hauts sommets de la planète.
+image: "/v1552311448/54214947_1227516930729338_428887389704814592_n.jpg"
 keywords: []
 author: dave
 featured: true
 title_has_context: true
+social_posts: false
+hashtags: ''
+
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1550183229/overview-map-5000.jpg)
 
