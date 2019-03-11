@@ -8,6 +8,11 @@ description: The intended itinerary for the trek.
 image: "/v1550689648/IMG_2635.jpg"
 keywords: []
 author: dave
+featured: false
+social_posts: true
+hashtags: ''
+title_has_context: false
+
 ---
 In any trek it's important to get an idea of the approximate itinerary. Of course, on a long trek like this the exact route will need to be flexible, but I'll plan the intended route and the maps and guide book will provide alternates when we need them. The alternates are almost certainly going to take us south and down hill where services and accommodation are more usually more plentiful.
 
