@@ -12,7 +12,6 @@ featured: false
 social_posts: false
 hashtags: ''
 title_has_context: false
-draft: true
 
 ---
 La navigation à l’aide de cartes topographiques numériques, pour la plupart du temps, change la donne pour les trekkings non pris en charge. Cependant, il faut être extrêmement prudent, car les appareils numériques ont des risques d'échouer sur le terrain. Voici ce que nous utiliserons en terme d'application lorsqu'il nous faudra choisir un plan B : 
