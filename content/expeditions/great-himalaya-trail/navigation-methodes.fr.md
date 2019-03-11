@@ -1,5 +1,4 @@
 ---
-draft: true
 type: report
 date: 2019-02-21 00:00:00 +0000
 slug: navigation-methods
@@ -9,6 +8,7 @@ description: The navigation methods and resources we'll be using on the trek.
 image: "/v1550908450/IMG_2743.jpg"
 keywords: []
 author: dave
+draft: true
 
 ---
 Navigating with the aid of digital topo maps is a game changer for unsupported trekking. However, extreme care must be taken because digital devices often fail in the field. We will be using several backups to mitigate this:
