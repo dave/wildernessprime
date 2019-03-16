@@ -8,7 +8,11 @@ title: Tracking
 description: Our satellite tracker will allow you to follow along and watch our progress.
 image: "/v1551474016/Screenshot%202019-03-01%20at%2021.59.43.jpg"
 keywords: []
-social_posts: false
+social_posts: true
+featured: false
+hashtags: "#Tracking"
+title_has_context: false
+
 ---
 We're planning to start the hike around April 12th 2019. Our Garmin InReach satellite tracker will update this map every few minutes. Our intended route is marked in red and yellow - each coloured section being one day of hiking, and our actual track is blue.
 
