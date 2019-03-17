@@ -8,9 +8,12 @@ description: How I use my GPS watch for emergency navigation.
 image: "/v1551695384/IMG_1754.jpg"
 keywords: []
 author: dave
+featured: false
+social_posts: true
+hashtags: "#Navigation #GPS"
+title_has_context: false
 
 ---
-
 I carry a Garmin Fenix 5 GPS watch, which I use just for emergency navigation. Emergency navigation is for when there's zero visibility, no trail and adverse weather. The times when you don't want to be taking your phone out of your pocket every two minutes to check where you are.
 
 I leave the watch turned off, but easily accessible in an outside pocket so I can get it when needed. GPS watches don't have particular big screens so trying to use a topo map isn't the best idea. Even routes or tracks aren't easy to follow. My tried and tested emergency navigation procedure is to create a set of kilometer marker waypoints for the entire route, and load these onto the watch along with any other waypoints I have for the trek. You can find these markers for our GHT route [here](/expeditions/great-himalaya-trail/navigation-gps/).
