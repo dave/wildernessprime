@@ -28,9 +28,9 @@ Attached to the pack I'll also have two Zpacks waist strap pouches, a Mammut sho
 
 One disadvantage of strapping the dry-bags to the sides of the pack is it limits the height of the water bottles I'll be able to carry in the side pockets. I've chosen 1L Nalgene Ultralight HDPE wide-mouth bottles to best fit with this system, which isn't ideal because they're much heavier (108g) than the standard disposable bottles I'd usually take.
 
-<iframe class="youtube" src="https://www.youtube.com/embed/HMxIWQIjeN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 I'll also be bringing an Hyperlight Mountain Gear Stuff Pack, which I'll be able to attach to the back of my pack in case I need extra volume. The mountaineering sections I may need a bit more space. This is a handy little bag, which at only 117g makes an excellent day pack.
+
+<iframe class="youtube" src="https://www.youtube.com/embed/HMxIWQIjeN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="tableizer-container">
 <table class="tableizer-table">
