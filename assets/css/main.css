@@ -43,6 +43,11 @@
 		border-collapse: collapse;
 		border-spacing: 0;
 	}
+	
+	.tableizer-container {
+		width:100%;
+		overflow:auto;
+	}
 
 	body {
 		-webkit-text-size-adjust: none;
