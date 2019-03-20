@@ -2,6 +2,13 @@
     {{ $data := index .Site.Data .Site.Language.Lang }}
     {{ $posts := where (where .Site.Pages ".Params.social_posts" true) ".Lang" "en" }}
     {{ range $posts }}
+        {{ $soc := false }}
+        {{ if .Params.social_date }}
+            {{ $soc = lt (time .Params.social_date).Unix now.Unix }}
+        {{ else }}
+            {{ $soc = true }}
+        {{ end }}
+        {{ if $soc }}
         <item>
             <title>
                 {{ if and (eq .Params.type "report") (eq .CurrentSection.Params.type "expedition") (ne .Params.title_has_context true) }}{{ .CurrentSection.Params.title }} - {{ end }}
@@ -27,5 +34,6 @@
                 {{ end }}
             <image><url>{{ .Site.Params.imgbase }}/{{ $resolution }},c_fill,g_auto{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ $data.opengraph.image }}{{ end }}</url></image>
         </item>
+        {{ end }}
     {{ end }}
 {{ end }}

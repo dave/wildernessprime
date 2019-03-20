@@ -12,7 +12,6 @@ featured: false
 social_posts: true
 hashtags: "#Map"
 title_has_context: false
-
 ---
 Here's an interactive map of the route. You can use the tabs at the bottom to zoom in to the detail of a single day.
 

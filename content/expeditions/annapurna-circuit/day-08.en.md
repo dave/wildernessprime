@@ -10,7 +10,6 @@ author: dave
 description: The mysterious hidden cave of Milarepa eludes us, as we take a well needed
   rest day in Braka.
 social_posts: true
-
 ---
 {{% michelle %}}
 

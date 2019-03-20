@@ -9,7 +9,6 @@ keywords: []
 author: dave
 description: The first part of our trek... We made the right decision in taking the easier path.
 social_posts: true
-
 ---
 {{% michelle %}}
 

@@ -25,8 +25,7 @@ In the table below, we show some extra columns:
 * Food: The fraction of a days rations we'll be able to save by eating locally purchased food.  
 * Rations: The number of days rations left at the end of the day.  
 
-<div style="width:100%; overflow:auto;">
-<table class="tableizer-table">
+<div class="tableizer-container"><table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Day</th><th>Date</th><th>Location</th><th>Resupply</th><th>Food</th><th>Rations</th></tr></thead><tbody>
 <tr><td>1</td><td>15/04</td><td>Phurumbu</td><td>4</td><td>0%</td><td>4.0</td></tr>
 <tr><td>2</td><td>16/04</td><td>Chiruwa</td><td> </td><td>66%</td><td>3.7</td></tr>
@@ -157,5 +156,4 @@ In the table below, we show some extra columns:
 <tr><td>127</td><td>19/08</td><td>Thumkot</td><td> </td><td>0%</td><td>3.3</td></tr>
 <tr><td>128</td><td>20/08</td><td>Yari</td><td> </td><td>0%</td><td>2.3</td></tr>
 <tr><td>129</td><td>21/08</td><td>Hilsa</td><td> </td><td>66%</td><td>2.0</td></tr>
-</tbody></table>
-</div>
+</tbody></table></div>

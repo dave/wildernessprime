@@ -9,7 +9,6 @@ keywords: []
 author: dave
 description: Fabulous Dal Baht and confusing side treks as we continue towards Chamje.
 social_posts: true
-
 ---
 {{% michelle %}}
 

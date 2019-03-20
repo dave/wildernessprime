@@ -76,6 +76,15 @@ fields:
   name: social_posts
   label: Social posts (Facebook, Twitter, Instagram [coming soon], Pinterest, Tumblr)
   description: Should we post to social networks?
+- type: datetime
+  name: social_date
+  label: Social posts date
+  description: Date / time to post to social networks?
+  config:
+    date_format: YYYY-MM-DD
+    time_format: hh:mm
+    display_utc: true
+    required: false
 - type: text
   name: hashtags
   label: Hashtags
@@ -137,3 +146,10 @@ pages:
 - content/expeditions/summer-haute-route-2018/part-1-zermatt.en.md
 - content/reviews/hgm-ultamid-4.en.md
 - content/reviews/hgm-ultamid-4.fr.md
+- content/expeditions/great-himalaya-trail/gear-camping.en.md
+- content/expeditions/great-himalaya-trail/gear-clothes.en.md
+- content/expeditions/great-himalaya-trail/gear-cooking.en.md
+- content/expeditions/great-himalaya-trail/gear-miscellaneous.en.md
+- content/expeditions/great-himalaya-trail/gear-mountaineering.en.md
+- content/expeditions/great-himalaya-trail/gear-pack.en.md
+- content/expeditions/great-himalaya-trail/gear-sleeping.en.md

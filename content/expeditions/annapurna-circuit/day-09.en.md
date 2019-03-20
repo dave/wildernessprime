@@ -10,7 +10,6 @@ author: dave
 description: My favourite evening of the whole trek in Yak Kharka, as snow starts
   falling.
 social_posts: true
-
 ---
 {{% michelle %}}
 

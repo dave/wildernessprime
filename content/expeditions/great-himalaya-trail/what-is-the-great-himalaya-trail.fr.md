@@ -12,7 +12,6 @@ keywords: []
 author: dave
 featured: true
 title_has_context: true
-social_posts: false
 hashtags: ''
 
 ---

@@ -9,7 +9,6 @@ keywords: []
 author: dave
 description: Our first day hiking completely off the road, all the way to Dharapani.
 social_posts: true
-
 ---
 {{% michelle %}}
 

@@ -10,11 +10,6 @@ keywords: []
 author: dave
 featured: false
 social_posts: true
-description_facebook: ''
-description_twitter: ''
-description_instagram: ''
-description_pinterest: ''
-description_tumblr: ''
 hashtags: "#Food #DalBhat"
 title_has_context: false
 
@@ -51,8 +46,7 @@ Thanks also to [Expeditions Foods](https://expeditionfoods.com/) for sponsorship
 
 ## The full menu
 
-<div style="width:100%; overflow:auto;">
-<table class="tableizer-table">
+<div class="tableizer-container"><table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th></th><th>Calories</th><th>Weight (g)</th><th>cal/g</th></tr></thead><tbody>
 <tr><td>Breakfast</td><td> </td><td> </td><td> </td></tr>
 <tr><td>Energy bar</td><td>200</td><td>54</td><td>3.7</td></tr>
@@ -69,5 +63,4 @@ Thanks also to [Expeditions Foods](https://expeditionfoods.com/) for sponsorship
 <tr><td>Olive oil (20ml)</td><td>162</td><td>18</td><td>8.8</td></tr>
 <tr><td> </td><td> </td><td> </td><td> </td></tr>
 <tr><td>Totals</td><td>2,673</td><td>560</td><td>4.8</td></tr>
-</tbody></table>
-</div>
+</tbody></table></div>

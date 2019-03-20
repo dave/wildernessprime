@@ -9,7 +9,6 @@ keywords: []
 author: dave
 description: Spectacular scenery on the trail from Chame to Pisang.
 social_posts: true
-
 ---
 {{% michelle %}}
 

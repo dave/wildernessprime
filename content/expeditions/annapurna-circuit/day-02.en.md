@@ -9,7 +9,6 @@ keywords: []
 author: dave
 description: After a late start to avoid the rain, we again take the easier path and don't regret it. 
 social_posts: true
-
 ---
 {{% michelle %}}
 

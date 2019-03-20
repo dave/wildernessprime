@@ -10,7 +10,6 @@ author: dave
 description: An amazing day hiking to Pisang as we start to get glimpses of the Annapurna
   range.
 social_posts: true
-
 ---
 {{% michelle %}}
 

@@ -9,7 +9,6 @@ keywords: []
 author: dave
 description: Switchbacks and bridges as we pass Qunche and Danakyu towards Chame.
 social_posts: true
-
 ---
 {{% michelle %}}
 

@@ -9,7 +9,6 @@ keywords: []
 author: dave
 description: Tricky navigation and real coffee on the road to Ghasa.
 social_posts: true
-
 ---
 {{% michelle %}}
 
