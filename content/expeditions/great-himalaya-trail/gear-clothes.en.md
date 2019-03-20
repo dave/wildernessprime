@@ -58,7 +58,7 @@ Footwear was one of the most difficult decisions I've had to make, and compounde
 
 The trail will be incredibly varied - the lower sections will be hot, humid - almost rainforest conditions. The mountain passes will have snow, and some sections will require crampons. Getting one perfect pair of boots to do the whole range of conditions will be nearly impossible.
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553085828/SAL1992_1000_4.jpg)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553088730/s-lab-xa-alpine-2__L40214000.jpg)
 
 After trying on 8 different pairs of shoes / boots I've settled on the Salomon XA Alpine 2. They're a lightweight trail running shoe (based on Salomon's Sense platform) with a permanently attached gaiter. Not completely waterproof but the gaiter should discourage most of the water from getting in... and they should be relatively quick to dry. They have a reinforced section in the sole that improves their performance with crampons - but in my testing they were still rather flexible. They're probably just good enough for the technical sections.
 
