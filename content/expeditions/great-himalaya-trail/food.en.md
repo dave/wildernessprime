@@ -22,45 +22,52 @@ Our logistics partner [Mactrek](http://www.mactreks.com/) will be arranging seve
 
 ## Breakfast
 
-We will be having a fast-and-light breakfast of an energy bar, 100g of trail mix and a hot coffee.
+We will be having a fast-and-light breakfast of an [RxBar](https://www.rxbar.com/), 100g of trail mix and a hot coffee.
 
 ## Lunch
 
-Lunch will be easy to prepare - no stove needed - 100g of protein shake and an energy bar.
+Lunch will be easy to prepare - no stove needed - 100g of [Huel](https://huel.com/) protein shake, an energy bar, and half an [FBOMB](https://www.dropanfbomb.com/collections/nut-butters) nut butter sachet.
 
 ## Dinner
 
-Dinner will be a high calorie dehydrated backpacking meal with hot water, and a hot chocolate drink. We'll carry a bottle of olive oil which we'll add to dinner as a calorie boost. This should give us 2,673 calories per day for 560g.
+Dinner will be an [Expeditions Foods](https://expeditionfoods.com/) 1000 calorie dehydrated backpacking meal, and a hot chocolate drink. We'll add half an [FBOMB](https://www.dropanfbomb.com/collections/fbomb-oils) oil sachet as a calorie boost. This should give us 2,912 calories per day for 612g.
 
 ## Energy bars
 
-Thanks very much to [RxBar](https://www.rxbar.com/) sponsoring our expedition by sending us a [selection of their RxBars](https://www.rxbar.com/shop/rxbar.html/).
+Thanks very much to [RxBar](https://www.rxbar.com/) for sending us a selection of their [RxBar energy bars](https://www.rxbar.com/shop.html/).
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551711153/bs12thumbnail_1.jpg)
 
 ## Dehydrated meals
 
-Thanks also to [Expeditions Foods](https://expeditionfoods.com/) for sponsorship in the form of a generous discount on their [1,000 calorie Extreme Energy](https://expeditionfoods.com/collections/1000kcal) dehydrated meals.
+Thanks also to [Expeditions Foods](https://expeditionfoods.com/) for offering us a generous discount on their [1,000 calorie Extreme Energy](https://expeditionfoods.com/collections/1000kcal) dehydrated meals.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551711026/spaghettibolognaise_1000_v4__orange_1000x1000.jpg)
+
+## Oils and nut butters
+
+Thanks also to [FBOMB](https://www.dropanfbomb.com/) for sending us some of their [Premium Oils](https://www.dropanfbomb.com/collections/fbomb-oils) and [Nut Butter](https://www.dropanfbomb.com/collections/nut-butters) sachets.
+
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553256138/fbomb.jpg)
 
 ## The full menu
 
 <div class="tableizer-container"><table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th></th><th>Calories</th><th>Weight (g)</th><th>cal/g</th></tr></thead><tbody>
 <tr><td>Breakfast</td><td> </td><td> </td><td> </td></tr>
-<tr><td>Energy bar</td><td>200</td><td>54</td><td>3.7</td></tr>
+<tr><td>Energy bar (RxBar)</td><td>200</td><td>54</td><td>3.7</td></tr>
 <tr><td>Trail mix</td><td>567</td><td>100</td><td>5.7</td></tr>
 <tr><td>White coffee</td><td>37</td><td>10</td><td>3.7</td></tr>
 <tr><td> </td><td> </td><td> </td><td> </td></tr>
 <tr><td>Lunch</td><td> </td><td> </td><td> </td></tr>
-<tr><td>Protein shake</td><td>400</td><td>100</td><td>4.0</td></tr>
-<tr><td>Energy bar</td><td>200</td><td>50</td><td>4.0</td></tr>
+<tr><td>Protein shake (Huel)</td><td>400</td><td>100</td><td>4.0</td></tr>
+<tr><td>Energy bar (ProBar Meal)</td><td>370</td><td>90</td><td>4.0</td></tr>
+<tr><td>Nut butter (half an FBOMB sachet)</td><td>105</td><td>15</td><td>7.0</td></tr>
 <tr><td> </td><td> </td><td> </td><td> </td></tr>
 <tr><td>Dinner</td><td> </td><td> </td><td> </td></tr>
-<tr><td>Dehydrated meal</td><td>1,000</td><td>200</td><td>5.0</td></tr>
+<tr><td>Expeditions Foods backpacking meal</td><td>1,000</td><td>200</td><td>5.0</td></tr>
 <tr><td>Hot chocolate drink</td><td>107</td><td>28</td><td>3.8</td></tr>
-<tr><td>Olive oil (20ml)</td><td>162</td><td>18</td><td>8.8</td></tr>
+<tr><td>Oil (half an FBOMB sachet)</td><td>126</td><td>15</td><td>8.4</td></tr>
 <tr><td> </td><td> </td><td> </td><td> </td></tr>
-<tr><td>Totals</td><td>2,673</td><td>560</td><td>4.8</td></tr>
+<tr><td>Totals</td><td>2,912</td><td>612</td><td>4.8</td></tr>
 </tbody></table></div>
