@@ -26,7 +26,7 @@ We will be having a fast-and-light breakfast of an [RxBar](https://www.rxbar.com
 
 ## Lunch
 
-Lunch will be easy to prepare - no stove needed - 100g of [Huel](https://huel.com/) protein shake, an energy bar, and half an [FBOMB](https://www.dropanfbomb.com/collections/nut-butters) nut butter sachet.
+Lunch will be easy to prepare - no stove needed - 100g of [Huel](https://huel.com/) protein shake, a [ProBar Meal](http://shop.theprobar.com/Products/PROBAR-Meal) energy bar, and half an [FBOMB](https://www.dropanfbomb.com/collections/nut-butters) nut butter sachet.
 
 ## Dinner
 
