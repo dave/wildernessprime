@@ -48,7 +48,7 @@ Thanks also to [Expeditions Foods](https://expeditionfoods.com/) for offering us
 
 Thanks also to [FBOMB](https://www.dropanfbomb.com/) for sending us some of their [Premium Oils](https://www.dropanfbomb.com/collections/fbomb-oils) and [Nut Butter](https://www.dropanfbomb.com/collections/nut-butters) sachets.
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553256138/fbomb.jpg)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553327452/FBOMB-SILO.jpg)
 
 ## The full menu
 
