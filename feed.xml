@@ -11,11 +11,48 @@
         <managingEditor>dave@wildernessprime.com (Dave Brophy)</managingEditor>
         <webMaster>dave@wildernessprime.com (Dave Brophy)</webMaster>
         
-        <lastBuildDate>Sat, 30 Mar 2019 10:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2019 10:00:00 +0000</lastBuildDate>
         <atom:link href="https://www.wildernessprime.com/feed.xml" rel="self" type="application/rss+xml" />
         
     
     
+    
+        <item>
+            <title>Great Himalaya Trail - Temperatures</title>
+            <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail/temperatures/</link>
+            <pubDate>Sun, 31 Mar 2019 10:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail/temperatures/</guid>
+            <description>&lt;h1&gt;The temperatures we&#39;ll be experiencing on the trail.&lt;/h1&gt;
+
+&lt;p&gt;It&amp;rsquo;s possible to work out the approximate temperatures on the trail by taking the average monthly temperatures in Kathmandu at 1,400m, and using the adiabatic lapse rate of 9.8C per km. This gives us a very approximate estimate of the temperature we&amp;rsquo;ll be experiencing on the trail.&lt;/p&gt;
+
+&lt;p&gt;The results show we&amp;rsquo;ll be expecting a rather chilly -20C on some nights, but daytime temperatures rarely dip below freezing.&lt;/p&gt;
+
+&lt;h2 id=&#34;maximum-daytime-temperature&#34;&gt;Maximum daytime temperature&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/v1553348976/max.svg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;minimum-overnight-temperature&#34;&gt;Minimum overnight temperature&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/v1553348980/min.svg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;average-temperatures-in-kathmandu&#34;&gt;Average temperatures in Kathmandu&lt;/h2&gt;
+
+&lt;div class=&#34;tableizer-container&#34;&gt; 
+&lt;table class=&#34;tableizer-table&#34;&gt;
+&lt;thead&gt;&lt;tr class=&#34;tableizer-firstrow&#34;&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Overnight low (C)&lt;/th&gt;&lt;th&gt;Daytime high (C)&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+ &lt;tr&gt;&lt;td&gt;Apr&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;28&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;May&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;29&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Jun&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;29&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Jul&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;27&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Aug&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;27&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Sep&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;27&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1553349302/weather-thermometer-isolated-on-white-vector-7454030.jpg</url></image>
+        </item>
     
         <item>
             <title>Great Himalaya Trail - Sponsors - RxBars</title>
