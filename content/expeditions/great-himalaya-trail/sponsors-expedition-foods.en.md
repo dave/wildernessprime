@@ -16,7 +16,7 @@ hashtags: "@expeditionfoods #Sponsors"
 title_has_context: false
 ---
 
-Thanks very much to [Expeditions Foods](https://expeditionfoods.com/) for offering us a generous discount on their [1,000 calorie Extreme Energy](https://expeditionfoods.com/collections/1000kcal) dehydrated meals.
+Thanks very much to [Expeditions Foods](https://expeditionfoods.com/) for offering us a generous discount on their [1,000 calorie Extreme Energy](https://expeditionfoods.com/collections/1000kcal) dehydrated meals. They're high calorie, energy dense meals perfect for a big expedition like this.   
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551711026/spaghettibolognaise_1000_v4__orange_1000x1000.jpg)
 

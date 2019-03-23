@@ -16,6 +16,6 @@ hashtags: "@RXBAR #Sponsors"
 title_has_context: false
 ---
 
-Thanks very much to [RxBar](https://www.rxbar.com/) for sending us a selection of their [RxBar energy bars](https://www.rxbar.com/shop.html/).
+Thanks very much to [RxBar](https://www.rxbar.com/) for sending us a selection of their [RxBar energy bars](https://www.rxbar.com/shop.html/). They'll make a great calorie dense breakfast, and made from real food ingredients.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551711153/bs12thumbnail_1.jpg)

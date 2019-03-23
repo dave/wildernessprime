@@ -16,6 +16,6 @@ hashtags: "@FatIsSmartFuel #Sponsors"
 title_has_context: false
 ---
 
-Thanks very much to [FBOMB](https://www.dropanfbomb.com/) for sending us some of their [Premium Oils](https://www.dropanfbomb.com/collections/fbomb-oils) and [Nut Butter](https://www.dropanfbomb.com/collections/nut-butters) sachets.
+Thanks very much to [FBOMB](https://www.dropanfbomb.com/) for sending us some of their [Premium Oils](https://www.dropanfbomb.com/collections/fbomb-oils) and [Nut Butter](https://www.dropanfbomb.com/collections/nut-butters) sachets. We'll be adding oil to our evening meals to give us a calorie boost, and the nut butter will make a great snack during the day.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_1000,dpr_auto/v1553327452/FBOMB-SILO.jpg)
