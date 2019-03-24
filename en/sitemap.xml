@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/trash/</loc>
+    <lastmod>2019-04-02T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/trash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/trash/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/communication/</loc>
+    <lastmod>2019-04-01T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/communication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/communication/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/temperatures/</loc>
     <lastmod>2019-03-31T10:00:00+00:00</lastmod>
   </url>
@@ -464,7 +494,7 @@
   
   <url>
     <loc>https://www.wildernessprime.com/</loc>
-    <lastmod>2019-03-31T10:00:00+00:00</lastmod>
+    <lastmod>2019-04-02T10:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
