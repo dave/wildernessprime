@@ -20,4 +20,4 @@ title_has_context: false
 
 _5,760m, D043_ - The route over Tashi Labsta La is a rocky scramble with constant danger from rockfall and crevasses. We'll have to be very careful on this section, but it's perhaps less technical than the previous three passes.
 
-<iframe class="youtube" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/untitled-map_307235?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false&fullscreenControl=null&datalayers=809609#14/27.8377/86.5385"></iframe>
+<iframe class="youtube" style="height:75vh;" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/untitled-map_307235?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false&fullscreenControl=null&datalayers=809609#14/27.8377/86.5385"></iframe>
