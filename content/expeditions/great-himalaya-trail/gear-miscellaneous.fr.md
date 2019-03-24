@@ -6,20 +6,20 @@ slug: gear-miscellaneous
 translationKey: gear-miscellaneous
 title: Gear - Miscellaneous
 description: Our miscellaneous gear.
-image: "/v1553075075/garmin-inreach-mini.jpg"
+image: "/v1553075075/panel-square.jpg"
 hashtags: "@garmin #InReach"
 keywords: []
 author: dave
 draft: true
 ---
 
-![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553075263/2016091850295104.jpg)
+![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553075263/panel-cropped.jpg)
 
-We'll be taking a 21w solar panel by BigBlue, and an Anker 13,000 mAh power bank. This is rather an unknown for me - I've never done a trek that relied on solar charging before. During the Annapurna Circuit last year, it was quite common to have power provided in the tea houses, but I've heard this isn't the case for much of the country. I'd like to be as self-sufficient as possible so the solar panel is a rather heavy necessity.
+We'll be taking a Suntactics S5-Lite solar panel, and an Anker 13,000 mAh power bank. This is rather an unknown for me - I've never done a trek that relied on solar charging before. During the Annapurna Circuit last year, it was quite common to have power provided in the tea houses, but I've heard this isn't the case for much of the country. I'd like to be as self-sufficient as possible so the solar panel is a necessity.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553075075/garmin-inreach-mini.jpg)
 
-We'll be taking a Garmin InReach satellite communicator. I've had three iterations of the InReach devices, and they've got better each time. This version is almost identical in functionality but much smaller and lighter than it's predecessors. It uses the Iridium satellite network to send or receive short messages, even when without a mobile network. A dedicated SOS button alerts a central control center that you're in trouble and they can send help. Bluetooth connects to your phone to compose or read messages. The tracking feature sends your location every few minutes that is updated [on a live map](/expeditions/great-himalaya-trail/tracking/), and it can also request weather forecasts. We'll use it to communicate with our logistical assistance company, and to post regular updates to twitter. 
+We'll be taking a Garmin InReach satellite communicator. I've had three iterations of the InReach devices, and they've got better each time. This version is almost identical in functionality but much smaller and lighter than it's predecessors. It uses the Iridium satellite network to send or receive short messages, even when without a mobile network. You can read more about the features on the [Communication](/expeditions/great-himalaya-trail/communication/) page. We'll use it to communicate with our logistical assistance company, and to post regular updates to Twitter. 
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553075375/s1.jpg)
 
