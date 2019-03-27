@@ -1,0 +1,61 @@
+<select onchange="changeModel(this)" id="modelSelect"></select>
+<script src="https://preview.babylonjs.com/viewer/babylon.viewer.js"></script>
+<div class="youtube" style="height:75vh;">
+	<div id="babylonViewer"></div>
+</div>
+<script>
+    let sel = document.getElementById("modelSelect");
+	for (let i = 1; i < 116; i++) {
+	    const special = (i == 88 || i == 89);
+	    const count = special ? 2 : 1;
+	    for (let j = 0; j < count; j++) {
+	        var suffix = "";
+	        if (special && j == 0) {
+	            suffix = "n";
+			} else if (special && j == 1) {
+                suffix = "s";
+			}
+            var opt = document.createElement('option');
+            const name = "D"+(i+"").padStart(3, "0")+suffix;
+            opt.appendChild(document.createTextNode(name));
+            opt.value = name;
+            sel.appendChild(opt);
+        }
+	}
+    var items = sel.getElementsByTagName('option');
+    var index = Math.floor(Math.random() * items.length);
+    sel.selectedIndex = index;
+    let name = sel.options[sel.selectedIndex].value;
+
+    let domElement = document.getElementById('babylonViewer');
+
+    let viewer = new BabylonViewer.DefaultViewer(domElement, {
+        scene: {
+            debug: false
+        },
+        camera: {
+            behaviors: {
+                autoRotate: 1
+            }
+        },
+        engine: {
+            antialiasing: true
+        },
+        model: {
+            url: "https://storage.googleapis.com/wildernessprime/models/"+name+".glb"
+        }
+    });
+	
+	function changeModel(sel) {
+	    let name = sel.options[sel.selectedIndex].value;
+        viewer.loadModel({
+            title: name,
+            //thumbnail: "https://www.babylonjs.com/img/favicon/apple-icon-144x144.png",
+            url: "https://storage.googleapis.com/wildernessprime/models/"+name+".glb",
+        });
+    }
+
+    
+    setTimeout(changeModel(sel), 1000);
+    
+</script>

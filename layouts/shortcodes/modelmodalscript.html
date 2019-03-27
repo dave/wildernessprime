@@ -1,0 +1,77 @@
+<script src="https://preview.babylonjs.com/viewer/babylon.viewer.js"></script>
+
+<div id="modal" class="modal">
+	<div id="viewer"></div>	
+</div>
+
+<script>
+
+    let modalElement = document.getElementById('modal');
+    let viewerElement = document.getElementById('viewer');
+
+    let viewer = new BabylonViewer.DefaultViewer(viewerElement, {
+        scene: {
+            debug: false
+        },
+        camera: {
+            behaviors: {
+                autoRotate: 1
+            }
+        },
+        engine: {
+            antialiasing: true
+        }
+    });
+
+    let actionManager = new BABYLON.ActionManager(viewer.sceneManager.scene);
+
+    actionManager.registerAction(
+        new BABYLON.ExecuteCodeAction(
+            {
+                trigger: BABYLON.ActionManager.OnKeyUpTrigger,
+                parameter: 27
+            },
+            function () {
+                modalElement.style.display = "none";
+			}
+        )
+    );
+    
+    function showModelModal(name) {
+		
+        viewer.loadModel({
+            title: name,
+            url: "https://storage.googleapis.com/wildernessprime/models/"+name+".glb",
+        });
+		
+        modalElement.style.display = "block";
+        
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+        if (event.target == modalElement) {
+            modalElement.style.display = "none";
+        }
+    };
+    
+    window.onkeypress = function(event) {
+        if (event.code == 27) {
+            modalElement.style.display = "none";
+        }
+    };
+</script>
+
+<style>
+	/* The Modal (background) */
+	.modal {
+		display: none; /* Hidden by default */
+		position: fixed; /* Stay in place */
+		z-index: 1; /* Sit on top */
+		left: 0;
+		top: 0;
+		width: 100%; /* Full width */
+		height: 100%; /* Full height */
+		overflow: auto; /* Enable scroll if needed */
+	}
+</style>
