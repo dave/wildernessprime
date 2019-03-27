@@ -17,16 +17,16 @@
 	</noscript>
 
 	<title>
-		Tilamn&#39;s Pass &middot; Wilderness Prime
+		Models &middot; Wilderness Prime
 	</title>
 	
-	<meta property="og:url" content="https://www.wildernessprime.com/expeditions/great-himalaya-trail/tilmans-pass/" />
+	<meta property="og:url" content="https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/" />
 	<meta property="og:type" content="article" />
 	<meta property="fb:app_id" content="408388909949374" />
 	<meta property="og:locale" content="en_GB" />
-	<meta property="og:title" content="Great Himalaya Trail - Tilamn&#39;s Pass" />
-	<meta property="og:description" content="The last and most remote of the five mountaineering sections." />
-	<meta property="og:image" content="https://res.cloudinary.com/wildernessprime/image/upload/w_1600,h_1200,c_fill,g_auto/v1553445671/tilmans1.jpg" />
+	<meta property="og:title" content="Great Himalaya Trail - Models" />
+	<meta property="og:description" content="3D models for each day of the trek." />
+	<meta property="og:image" content="https://res.cloudinary.com/wildernessprime/image/upload/w_1600,h_1200,c_fill,g_auto/v1553679579/models.jpg" />
 	<meta property="og:image:width" content="1600" />
 	<meta property="og:image:height" content="1200" />
 	
@@ -113,7 +113,7 @@
 				<a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/">Great Himalaya Trail</a>
 			</li>
 			<li>
-				Tilamn&#39;s Pass
+				Models
 			</li>
 		</ul>
 	</div>
@@ -137,21 +137,80 @@
 	<section class="post">
 		<header class="major">
 			
-			<span class="date">April 8, 2019</span>
+			<span class="date">April 9, 2019</span>
 			
-			<h1>Tilamn&#39;s Pass</h1>
+			<h1>Models</h1>
 		</header>
 		
 		
 			<div class="content">
-				<script src="https://preview.babylonjs.com/viewer/babylon.viewer.js"></script>
+				<p><a href="https://maps3d.io/">Maps3d.io</a> is an amazing service that easily converts a GPX route into a GLTF format 3D model, using satellite imagery and elevation data. These can be displayed on the web (as below) or in a mobile app.</p>
+
+<p>I&rsquo;ve downloaded models for all 115 days to my phone, so while we&rsquo;re on the trek we should be able to preview the next section in glorious 3D. It makes visualising the route so much easier than looking at a topo map. I&rsquo;ve been using the <a href="https://www.vispolygon.com/">glTFShowcase</a> app to view the models on my phone.</p>
+
+<p>Select a day from the itinerary and the model will load below:</p>
+
+<select onchange="changeModel(this)" id="modelSelect"></select>
+<script src="https://preview.babylonjs.com/viewer/babylon.viewer.js"></script>
 <div class="youtube" style="height:75vh;">
-	<babylon model="https://storage.googleapis.com/wildernessprime/models/D061.glb"></babylon>
+	<div id="babylonViewer"></div>
 </div>
+<script>
+    let sel = document.getElementById("modelSelect");
+	for (let i = 1; i < 116; i++) {
+	    const special = (i == 88 || i == 89);
+	    const count = special ? 2 : 1;
+	    for (let j = 0; j < count; j++) {
+	        var suffix = "";
+	        if (special && j == 0) {
+	            suffix = "n";
+			} else if (special && j == 1) {
+                suffix = "s";
+			}
+            var opt = document.createElement('option');
+            const name = "D"+(i+"").padStart(3, "0")+suffix;
+            opt.appendChild(document.createTextNode(name));
+            opt.value = name;
+            sel.appendChild(opt);
+        }
+	}
+    var items = sel.getElementsByTagName('option');
+    var index = Math.floor(Math.random() * items.length);
+    sel.selectedIndex = index;
+    let name = sel.options[sel.selectedIndex].value;
 
-<p><em>5,308m, D061</em> - Navigation on the approach to Tilman&rsquo;s is reportedly rather difficult. It&rsquo;s less technical than the other passes and lower elevation at just 5,308m. A steep scramble beside an icefall is followed by an crevassed plateau, then a steep scramble down. The exit is a long walk along a glacier with a tricky river crossing at the end.</p>
+    let domElement = document.getElementById('babylonViewer');
 
-<iframe class="youtube" style="height:75vh;" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/untitled-map_307236?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false&fullscreenControl=null&datalayers=809611#13/28.1719/85.6977"></iframe>
+    let viewer = new BabylonViewer.DefaultViewer(domElement, {
+        scene: {
+            debug: false
+        },
+        camera: {
+            behaviors: {
+                autoRotate: 1
+            }
+        },
+        engine: {
+            antialiasing: true
+        },
+        model: {
+            url: "https://storage.googleapis.com/wildernessprime/models/"+name+".glb"
+        }
+    });
+	
+	function changeModel(sel) {
+	    let name = sel.options[sel.selectedIndex].value;
+        viewer.loadModel({
+            title: name,
+            
+            url: "https://storage.googleapis.com/wildernessprime/models/"+name+".glb",
+        });
+    }
+
+    
+    setTimeout(changeModel(sel), 1000);
+    
+</script>
 
 			</div>
 		
@@ -184,25 +243,9 @@
 	
 	
 	
-		<section class="posts">
-			<article style="margin-left: auto; margin-right: auto;">
-				<header>
-					<span class="date">Next Story</span>
-					<h2><a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/">Models</a></h2>
-				</header>
-				<p>3D models for each day of the trek.</p>
-				
-					<a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/" class="image fit"><img src="https://res.cloudinary.com/wildernessprime/image/upload/w_800,h_800,c_fill,g_auto/v1553679579/models.jpg" alt="" /></a>
-				
-				<ul class="actions">
-					<li><a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/" class="button">Full Story</a></li>
-				</ul>
-			</article>
-		</section>
-	
 	
 		<div style="text-align: center; padding-top: 30px; padding-bottom: 30px;">
-			Previous Story: <a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/tashi-labsta-la/">Tashi Labsta La</a>
+			Previous Story: <a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/tilmans-pass/">Tilamn&#39;s Pass</a>
 		</div>
 	
 	
