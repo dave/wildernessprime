@@ -1,6 +1,6 @@
 ---
 type: report
-date: 2019-04-05 10:00:00 +0000
+date: 2019-04-04 14:00:00 +0000
 publishDate: 2019-03-20 00:00:00 +0000
 slug: west-col
 translationKey: west-col
