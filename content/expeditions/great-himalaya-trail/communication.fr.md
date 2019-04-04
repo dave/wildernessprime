@@ -22,7 +22,7 @@ We'll be using a Garmin InReach Mini for communicating with the outside world du
 
 ## Messaging
 
-The device can send and receive short, 140 character messages. Messages are sent from the outside world using a simple web form - feel free to [send us a message](...). Outgoing messages are usually created on a phone with bluetooth connection, but in an emergency can be composed on the device.
+The device can send and receive short, 140 character messages. Messages are sent from the outside world using a simple web form - feel free to [send us a message](/expeditions/great-himalaya-trail/tracking/). Outgoing messages are usually created on a phone with bluetooth connection, but in an emergency can be composed on the device.
 
 ## Social updates
 
