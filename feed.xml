@@ -11,16 +11,29 @@
         <managingEditor>dave@wildernessprime.com (Dave Brophy)</managingEditor>
         <webMaster>dave@wildernessprime.com (Dave Brophy)</webMaster>
         
-        <lastBuildDate>Tue, 09 Apr 2019 10:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2019 23:00:00 +0000</lastBuildDate>
         <atom:link href="https://www.wildernessprime.com/feed.xml" rel="self" type="application/rss+xml" />
         
     
     
     
         <item>
+            <title>Great Himalaya Trail - Tracking</title>
+            <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/</link>
+            <pubDate>Sat, 06 Apr 2019 23:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/</guid>
+            <description>&lt;h1&gt;Our satellite tracker will allow you to follow along and watch our progress.&lt;/h1&gt;&lt;p&gt;We&amp;rsquo;re planning to start the hike around April 12th 2019. Our Garmin InReach satellite tracker will update this map every few minutes. Our intended route is marked in red and yellow - each coloured section being one day of hiking, and our actual track is blue. You can send us a short message by clicking the &lt;em&gt;Message&lt;/em&gt; button in the left panel.&lt;/p&gt;
+
+&lt;iframe src=&#34;https://share.garmin.com/wildernessprime&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; style=&#34;width: 100%; height:100vh;&#34;&gt;&lt;/iframe&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1551474016/Screenshot%202019-03-01%20at%2021.59.43.jpg</url></image>
+        </item>
+    
+        <item>
             <title>Great Himalaya Trail - Models</title>
             <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/</link>
-            <pubDate>Tue, 09 Apr 2019 10:00:00 +0000</pubDate>
+            <pubDate>Fri, 05 Apr 2019 18:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/</guid>
             <description>&lt;h1&gt;3D models for each day of the trek.&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://maps3d.io/&#34;&gt;Maps3d.io&lt;/a&gt; is an amazing service that easily converts a GPX route into a GLTF format 3D model, using satellite imagery and elevation data. These can be displayed on the web (as below) or in a mobile app.&lt;/p&gt;
@@ -97,7 +110,7 @@
         <item>
             <title>Great Himalaya Trail - Tilamn&#39;s Pass</title>
             <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tilmans-pass/</link>
-            <pubDate>Mon, 08 Apr 2019 10:00:00 +0000</pubDate>
+            <pubDate>Fri, 05 Apr 2019 14:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tilmans-pass/</guid>
             <description>&lt;h1&gt;The last and most remote of the five mountaineering sections.&lt;/h1&gt;&lt;script src=&#34;https://preview.babylonjs.com/viewer/babylon.viewer.js&#34;&gt;&lt;/script&gt;
@@ -115,7 +128,7 @@
         <item>
             <title>Great Himalaya Trail - Tashi Labsta La</title>
             <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tashi-labsta-la/</link>
-            <pubDate>Sun, 07 Apr 2019 10:00:00 +0000</pubDate>
+            <pubDate>Fri, 05 Apr 2019 10:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tashi-labsta-la/</guid>
             <description>&lt;h1&gt;Less technical than the preceding passes but still perilous.&lt;/h1&gt;&lt;script src=&#34;https://preview.babylonjs.com/viewer/babylon.viewer.js&#34;&gt;&lt;/script&gt;
@@ -133,7 +146,7 @@
         <item>
             <title>Great Himalaya Trail - Amphu Labsta La</title>
             <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail/amphu-labsta-la/</link>
-            <pubDate>Sat, 06 Apr 2019 10:00:00 +0000</pubDate>
+            <pubDate>Thu, 04 Apr 2019 18:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail/amphu-labsta-la/</guid>
             <description>&lt;h1&gt;One of the most dangerous passes in Nepal and the most technical part of the trek.&lt;/h1&gt;&lt;script src=&#34;https://preview.babylonjs.com/viewer/babylon.viewer.js&#34;&gt;&lt;/script&gt;
@@ -151,7 +164,7 @@
         <item>
             <title>Great Himalaya Trail - West Col</title>
             <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail/west-col/</link>
-            <pubDate>Fri, 05 Apr 2019 10:00:00 +0000</pubDate>
+            <pubDate>Thu, 04 Apr 2019 14:00:00 +0000</pubDate>
             <author>dave</author>
             <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail/west-col/</guid>
             <description>&lt;h1&gt;The second mountaineering section and the highest point of the trek.&lt;/h1&gt;&lt;script src=&#34;https://preview.babylonjs.com/viewer/babylon.viewer.js&#34;&gt;&lt;/script&gt;
@@ -832,19 +845,6 @@
 &lt;iframe class=&#34;youtube&#34; src=&#34;https://www.youtube.com/embed/lbGWiVMW49c&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
             <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1551695384/IMG_1754.jpg</url></image>
-        </item>
-    
-        <item>
-            <title>Great Himalaya Trail - Tracking</title>
-            <link>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/</link>
-            <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-            <author>dave</author>
-            <guid>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/</guid>
-            <description>&lt;h1&gt;Our satellite tracker will allow you to follow along and watch our progress.&lt;/h1&gt;&lt;p&gt;We&amp;rsquo;re planning to start the hike around April 12th 2019. Our Garmin InReach satellite tracker will update this map every few minutes. Our intended route is marked in red and yellow - each coloured section being one day of hiking, and our actual track is blue.&lt;/p&gt;
-
-&lt;iframe src=&#34;https://share.garmin.com/wildernessprime&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; style=&#34;width: 100%; height:100vh;&#34;&gt;&lt;/iframe&gt;
-</description>
-            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1551474016/Screenshot%202019-03-01%20at%2021.59.43.jpg</url></image>
         </item>
     
         <item>
