@@ -14,7 +14,7 @@
 	{{/* if and $highlight (eq $paginator.PageNumber 1) }}
 		 {{ partial "posts/featured.html" (dict "firstpost" $first "Site" .Site "context" true) }}
 	{{ end */}}
-		
+
 	{{ if and $featured (eq $paginator.PageNumber 1) }}
 		{{ partial "posts/featured.html" (dict "firstpost" $featured "Site" .Site "context" true) }}
 	{{ end }}

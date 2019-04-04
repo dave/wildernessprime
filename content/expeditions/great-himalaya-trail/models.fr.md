@@ -1,6 +1,6 @@
 ---
 type: report
-date: 2019-04-05 18:00:00 +0000
+date: 2019-04-09 10:00:00 +0000
 publishDate: 2019-03-20 00:00:00 +0000
 slug: models
 translationKey: models
@@ -10,9 +10,7 @@ image: "/v1553679579/models.jpg"
 keywords: []
 author: dave
 featured: false
-social_posts: true
-social_date: 2019-04-05 18:00:00 +0000
-hashtags: "@tibbb #3D"
+draft: true
 title_has_context: false
 ---
 
