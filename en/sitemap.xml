@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/updates/</loc>
-    <lastmod>2019-04-10T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/</loc>
     <lastmod>2019-04-09T10:00:00+00:00</lastmod>
   </url>
@@ -534,7 +529,7 @@
   
   <url>
     <loc>https://www.wildernessprime.com/</loc>
-    <lastmod>2019-04-10T10:00:00+00:00</lastmod>
+    <lastmod>2019-04-09T10:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
