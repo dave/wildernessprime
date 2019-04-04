@@ -16,6 +16,6 @@ hashtags: "#Updates"
 title_has_context: false
 ---
 
-Our satellite communicator will allow us to tweet from the trail. If you're a twitter user you can follow [@wildernessprime](https://twitter.com/wildernessprime). If not, here's our feed:
+Our [satellite communicator](/expeditions/great-himalaya-trail/communication/) will allow us to tweet from the trail. If you're a twitter user you can follow [@wildernessprime](https://twitter.com/wildernessprime). If not, here's our feed:
 
 {{% tweets %}}
