@@ -3,28 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/</loc>
-    <lastmod>2019-04-09T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tilmans-pass/</loc>
-    <lastmod>2019-04-08T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tashi-labsta-la/</loc>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/updates/</loc>
     <lastmod>2019-04-07T10:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/</loc>
+    <lastmod>2019-04-06T23:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/suivi-de-notre-exp%C3%A9dition/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/</loc>
+    <lastmod>2019-04-05T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tilmans-pass/</loc>
+    <lastmod>2019-04-05T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tashi-labsta-la/</loc>
+    <lastmod>2019-04-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/amphu-labsta-la/</loc>
-    <lastmod>2019-04-06T10:00:00+00:00</lastmod>
+    <lastmod>2019-04-04T18:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/west-col/</loc>
-    <lastmod>2019-04-05T10:00:00+00:00</lastmod>
+    <lastmod>2019-04-04T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -150,21 +170,6 @@
   <url>
     <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/navigation-emergencies/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/suivi-de-notre-exp%C3%A9dition/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/"
-                />
   </url>
   
   <url>
@@ -529,7 +534,7 @@
   
   <url>
     <loc>https://www.wildernessprime.com/</loc>
-    <lastmod>2019-04-09T10:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T10:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
