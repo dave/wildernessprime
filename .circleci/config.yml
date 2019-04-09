@@ -6,7 +6,7 @@ jobs:
       branches:
         only: master
     docker:
-      - image: cibuilds/hugo:latest
+      - image: cibuilds/hugo:v0.54.0
     working_directory: ~/hugo
     environment:
       HUGO_BUILD_DIR: ~/hugo/public
