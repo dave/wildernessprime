@@ -150,68 +150,67 @@
 
 <p>Select a day from the itinerary and the model will load below:</p>
 
-<p><select onchange="changeModel(this)" id="modelSelect"></select>
+<select onchange="changeModel(this)" id="modelSelect"></select>
 <script src="https://preview.babylonjs.com/viewer/babylon.viewer.js"></script>
 <div class="youtube" style="height:75vh;">
-    <div id="babylonViewer"></div>
+	<div id="babylonViewer"></div>
 </div>
 <script>
-    let sel = document.getElementById(&ldquo;modelSelect&rdquo;);
-    for (let i = 1; i &lt; 116; i++) {
-        const special = (i == 88 || i == 89);
-        const count = special ? 2 : 1;
-        for (let j = 0; j &lt; count; j++) {
-            var suffix = &ldquo;&rdquo;;
-            if (special &amp;&amp; j == 0) {
-                suffix = &ldquo;n&rdquo;;
-            } else if (special &amp;&amp; j == 1) {
-                suffix = &ldquo;s&rdquo;;
-            }
-            var opt = document.createElement(&lsquo;option&rsquo;);
-            const name = &ldquo;D&rdquo;+(i+&ldquo;&rdquo;).padStart(3, &ldquo;0&rdquo;)+suffix;
+    let sel = document.getElementById("modelSelect");
+	for (let i = 1; i < 116; i++) {
+	    const special = (i == 88 || i == 89);
+	    const count = special ? 2 : 1;
+	    for (let j = 0; j < count; j++) {
+	        var suffix = "";
+	        if (special && j == 0) {
+	            suffix = "n";
+			} else if (special && j == 1) {
+                suffix = "s";
+			}
+            var opt = document.createElement('option');
+            const name = "D"+(i+"").padStart(3, "0")+suffix;
             opt.appendChild(document.createTextNode(name));
             opt.value = name;
             sel.appendChild(opt);
         }
-    }
-    var items = sel.getElementsByTagName(&lsquo;option&rsquo;);
+	}
+    var items = sel.getElementsByTagName('option');
     var index = Math.floor(Math.random() * items.length);
     sel.selectedIndex = index;
-    let name = sel.options[sel.selectedIndex].value;</p>
-
-<pre><code>let domElement = document.getElementById('babylonViewer');
-
-let viewer = new BabylonViewer.DefaultViewer(domElement, {
-    scene: {
-        debug: false
-    },
-    camera: {
-        behaviors: {
-            autoRotate: 1
-        }
-    },
-    engine: {
-        antialiasing: true
-    },
-    model: {
-        url: &quot;https://storage.googleapis.com/wildernessprime/models/&quot;+name+&quot;.glb&quot;
-    }
-});
-
-function changeModel(sel) {
     let name = sel.options[sel.selectedIndex].value;
-    viewer.loadModel({
-        title: name,
 
-        url: &quot;https://storage.googleapis.com/wildernessprime/models/&quot;+name+&quot;.glb&quot;,
+    let domElement = document.getElementById('babylonViewer');
+
+    let viewer = new BabylonViewer.DefaultViewer(domElement, {
+        scene: {
+            debug: false
+        },
+        camera: {
+            behaviors: {
+                autoRotate: 1
+            }
+        },
+        engine: {
+            antialiasing: true
+        },
+        model: {
+            url: "https://storage.googleapis.com/wildernessprime/models/"+name+".glb"
+        }
     });
-}
+	
+	function changeModel(sel) {
+	    let name = sel.options[sel.selectedIndex].value;
+        viewer.loadModel({
+            title: name,
+            
+            url: "https://storage.googleapis.com/wildernessprime/models/"+name+".glb",
+        });
+    }
 
-
-setTimeout(changeModel(sel), 1000);
-</code></pre>
-
-<p></script></p>
+    
+    setTimeout(changeModel(sel), 1000);
+    
+</script>
 
 			</div>
 		
@@ -244,6 +243,26 @@ setTimeout(changeModel(sel), 1000);
 	
 	
 	
+		<section class="posts">
+			<article style="margin-left: auto; margin-right: auto;">
+				<header>
+					<span class="date">Next Story</span>
+					<h2><a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/">Tracking</a></h2>
+				</header>
+				<p>Our satellite tracker will allow you to follow along and watch our progress.</p>
+				
+					<a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/" class="image fit"><img src="https://res.cloudinary.com/wildernessprime/image/upload/w_800,h_800,c_fill,g_auto/v1551474016/Screenshot%202019-03-01%20at%2021.59.43.jpg" alt="" /></a>
+				
+				<ul class="actions">
+					<li><a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/tracking/" class="button">Full Story</a></li>
+				</ul>
+			</article>
+		</section>
+	
+	
+		<div style="text-align: center; padding-top: 30px; padding-bottom: 30px;">
+			Previous Story: <a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/tilmans-pass/">Tilman&#39;s Pass</a>
+		</div>
 	
 	
 

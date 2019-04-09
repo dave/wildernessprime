@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <webfeeds:analytics id="UA-135021930-1" engine="GoogleAnalytics" />
         <webfeeds:cover image="https://res.cloudinary.com/wildernessprime/image/upload/w_1600,h_800,c_fill,g_auto/v1551006985/IMG_2529%20%282%29.jpg" />
-        <title>twitter on Wilderness Prime</title>
+        <title>Twitter on Wilderness Prime</title>
         <link>https://www.wildernessprime.com/socials/twitter/</link>
-        <description>Recent content in twitter on Wilderness Prime</description>
+        <description>Recent content in Twitter on Wilderness Prime</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>dave@wildernessprime.com (Dave Brophy)</managingEditor>

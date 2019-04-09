@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/</loc>
-    <lastmod>2019-04-06T23:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/suivi-de-notre-exp%C3%A9dition/</loc>
     <lastmod>2019-04-06T23:00:00+00:00</lastmod>
     <xhtml:link
@@ -29,22 +14,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/suivi-de-notre-exp%C3%A9dition/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/fr/</loc>
-    <lastmod>2019-04-06T23:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/"
                 />
   </url>
   
@@ -130,6 +99,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/navigation-sources/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/"
                 />
   </url>
   
@@ -247,6 +231,22 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/</loc>
+    <lastmod>2019-04-06T23:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/"
                 />
   </url>
   

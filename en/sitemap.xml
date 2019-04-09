@@ -3,39 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/</loc>
-    <lastmod>2019-04-07T10:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/updates/</loc>
     <lastmod>2019-04-07T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/</loc>
-    <lastmod>2019-04-07T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/"
-                />
   </url>
   
   <url>
@@ -254,6 +223,21 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/what-is-the-great-himalaya-trail/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -270,11 +254,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-8-trient-champex/</loc>
-    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -314,8 +293,8 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -401,6 +380,11 @@
   <url>
     <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-1-bhulbhule/</loc>
     <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/</loc>
+    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -494,6 +478,21 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/socials/facebook/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/instagram/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/pinterest/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/socials/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -524,21 +523,6 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/socials/facebook/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/socials/instagram/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/socials/pinterest/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/socials/tumblr/</loc>
     <priority>0</priority>
   </url>
@@ -546,6 +530,22 @@
   <url>
     <loc>https://www.wildernessprime.com/socials/twitter/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/</loc>
+    <lastmod>2019-04-07T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/"
+                />
   </url>
   
 </urlset>
