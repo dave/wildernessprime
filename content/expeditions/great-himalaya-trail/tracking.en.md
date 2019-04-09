@@ -19,4 +19,4 @@ We're planning to start the hike around April 12th 2019. Our Garmin InReach sate
 
 > Note: this tracking page doesn't work for my on my iPhone - it shows a map but our position isn't marked. If this happens, try [the desktop version of the tracking page](https://share.garmin.com/wildernessprime/Map/RequestDesktopSite).
 
-<iframe src="https://share.garmin.com/wildernessprime" frameborder="0" marginwidth="0" marginheight="0" style="width: 100%; height:100vh;"></iframe>
+<iframe src="https://share.garmin.com/wildernessprime" frameborder="0" marginwidth="0" marginheight="0" style="width: 100%; height:80vh;"></iframe>
