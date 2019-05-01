@@ -95,25 +95,25 @@ fields:
   description: Tick this if the title includes the name of the expedition. The expedition
     name will not be added to social posts / RSS.
 pages:
+- content/expeditions/great-himalaya-trail/trash.fr.md
+- content/expeditions/great-himalaya-trail/tracking.fr.md
+- content/expeditions/great-himalaya-trail/tracking.en.md
 - content/expeditions/great-himalaya-trail/mountaineering-tilmans-pass.en.md
 - content/expeditions/great-himalaya-trail/communication.fr.md
 - content/expeditions/great-himalaya-trail/updates.fr.md
 - content/expeditions/great-himalaya-trail/updates.en.md
 - content/expeditions/great-himalaya-trail/mountaineering-tashi-labsta-la.fr.md
-- content/expeditions/great-himalaya-trail/tracking.fr.md
 - content/expeditions/great-himalaya-trail/mountaineering-tilmans-pass.fr.md
 - content/expeditions/great-himalaya-trail/mountaineering-west-col.fr.md
 - content/expeditions/great-himalaya-trail/models.fr.md
 - content/expeditions/great-himalaya-trail/mountaineering-west-col.en.md
 - content/expeditions/great-himalaya-trail/mountaineering-amphu-labsta-la.en.md
-- content/expeditions/great-himalaya-trail/tracking.en.md
 - content/expeditions/great-himalaya-trail/models.en.md
 - content/expeditions/great-himalaya-trail/mountaineering-sherpani-col.fr.md
 - content/expeditions/great-himalaya-trail/mountaineering-sherpani-col.en.md
 - content/expeditions/great-himalaya-trail/mountaineering-amphu-labsta-la.fr.md
 - content/expeditions/great-himalaya-trail/mountaineering-tashi-labsta-la.en.md
 - content/expeditions/great-himalaya-trail/mountaineering.en.md
-- content/expeditions/great-himalaya-trail/trash.fr.md
 - content/expeditions/great-himalaya-trail/trash.en.md
 - content/expeditions/great-himalaya-trail/mountaineering.fr.md
 - content/expeditions/great-himalaya-trail/communication.en.md
