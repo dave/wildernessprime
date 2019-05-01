@@ -4,12 +4,12 @@ date: 2019-03-22T00:00:00.000+00:00
 publishDate: '2019-03-20T00:00:00.000+00:00'
 slug: gear-camping
 translationKey: gear-camping
-title: Gear - Camping
-description: Our tent, pegs and accessories.
+title: Équipement - Camping
+description: La tante, les piquets et les accessoires
 image: "/v1553085986/WH.jpg"
 hashtags: "@hyperlitemgear #Camping"
 keywords: []
-author: dave
+author: mathilde
 featured: false
 social_posts: false
 social_date: ''
