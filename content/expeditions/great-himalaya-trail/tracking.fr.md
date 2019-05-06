@@ -9,7 +9,7 @@ title: 'En direct '
 description: 'Notre localisateur vous permettra de nous suivre tout au long du trajet. '
 image: "/v1551363646/Screenshot%202019-02-28%20at%2015.20.13.jpg"
 keywords: []
-featured: false
+featured: true
 social_posts: false
 social_date: 
 hashtags: ''

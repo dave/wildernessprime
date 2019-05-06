@@ -95,8 +95,8 @@ fields:
   description: Tick this if the title includes the name of the expedition. The expedition
     name will not be added to social posts / RSS.
 pages:
-- content/expeditions/great-himalaya-trail/communication.fr.md
 - content/expeditions/great-himalaya-trail/tracking.fr.md
+- content/expeditions/great-himalaya-trail/communication.fr.md
 - content/expeditions/great-himalaya-trail/trash.fr.md
 - content/expeditions/great-himalaya-trail/tracking.en.md
 - content/expeditions/great-himalaya-trail/mountaineering-tilmans-pass.en.md
