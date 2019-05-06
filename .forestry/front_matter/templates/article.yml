@@ -95,6 +95,7 @@ fields:
   description: Tick this if the title includes the name of the expedition. The expedition
     name will not be added to social posts / RSS.
 pages:
+- content/expeditions/great-himalaya-trail/gear-cooking.fr.md
 - content/expeditions/great-himalaya-trail/tracking.fr.md
 - content/expeditions/great-himalaya-trail/communication.fr.md
 - content/expeditions/great-himalaya-trail/trash.fr.md
@@ -130,7 +131,6 @@ pages:
 - content/expeditions/great-himalaya-trail/gear-pack.fr.md
 - content/expeditions/great-himalaya-trail/gear-mountaineering.fr.md
 - content/expeditions/great-himalaya-trail/gear-miscellaneous.fr.md
-- content/expeditions/great-himalaya-trail/gear-cooking.fr.md
 - content/expeditions/great-himalaya-trail/gear-clothes.fr.md
 - content/expeditions/great-himalaya-trail/gear-camping.fr.md
 - content/expeditions/great-himalaya-trail/gear-sleeping.en.md
