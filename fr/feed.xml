@@ -11,11 +11,29 @@
         <managingEditor>dave@wildernessprime.com (Dave Brophy)</managingEditor>
         <webMaster>dave@wildernessprime.com (Dave Brophy)</webMaster>
         
-        <lastBuildDate>Sat, 06 Apr 2019 23:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 07 Apr 2019 10:00:00 +0000</lastBuildDate>
         <atom:link href="https://www.wildernessprime.com/fr/feed.xml" rel="self" type="application/rss+xml" />
         
     
     
+    
+        <item>
+            <title>Expéditions - Mise à jour</title>
+            <link>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/updates/</link>
+            <pubDate>Sun, 07 Apr 2019 10:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/updates/</guid>
+            <description>&lt;h1&gt;We&#39;ll be posting regular updates from the trail.&lt;/h1&gt;&lt;p&gt;Nous n&amp;rsquo;aurons pas un bon accès Internet pendant une très grande partie de la randonnée, donc nous ne prévoyons pas mettre à jour le blog pendant notre absence. Cependant, notre communicateur satellite nous permettra de tweeter sur le sentier. Si vous êtes un utilisateur de Twitter, vous pouvez nous suivre sur @wildernessprime. Sinon, notre flux est en dessous.&lt;/p&gt;
+
+&lt;p&gt;&amp;amp; pardon si c&amp;rsquo;est en anglais.&lt;/p&gt;
+
+&lt;a class=&#34;twitter-timeline&#34;
+   data-chrome=&#34;noheader nofooter noborders&#34;
+   href=&#34;https://twitter.com/wildernessprime?ref_src=twsrc%5Etfw&#34;&gt;Updates&lt;/a&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1554135436/twitter-bird.jpg</url></image>
+        </item>
     
         <item>
             <title>Expéditions - En direct </title>
