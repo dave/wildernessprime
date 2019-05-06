@@ -14,7 +14,6 @@ social_posts: true
 social_date: 2019-03-24T10:00:00.000+00:00
 featured: false
 title_has_context: false
-draft: true
 
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553070182/KOV-KB-1109-00-846x846.jpg)I've chosen to take a canister stove - we'll be getting regular resupply packages that will replenish our gas supplies, so a heavy complex liquid fuel stove won't be needed. However, we're still confirming that it'll be possible to get the gas canisters delivered to the last two resupply points in Ringmo and Gamgadhi. We were initially planning to send the resupply packages by internal flight from Kathmandu, but gas canisters aren't allowed on any flights. We're trying to find a solution to this but we may need to swap over to a liquid fuel stove for the last month of the trek.
