@@ -4,8 +4,8 @@ date: 2019-03-27T10:00:00.000+00:00
 publishDate: '2019-03-20T00:00:00.000+00:00'
 slug: gear-clothes
 translationKey: gear-clothes
-title: Gear - Clothes
-description: The clothes I'll be taking on the trek.
+title: Équipement - Vêtement
+description: 'Nos vêtements pour les prochains 130-140 jours. '
 image: "/v1553077828/36515_BALB.jpg"
 hashtags: "#Clothing"
 keywords: []
