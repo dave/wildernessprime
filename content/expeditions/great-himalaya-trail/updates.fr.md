@@ -5,7 +5,8 @@ publishDate: '2019-04-01T10:00:00.000+00:00'
 slug: updates
 translationKey: updates
 title: Mise à jour
-description: We'll be posting regular updates from the trail.
+description: Sur twitter, nous ajouterons chaque jour des comptes rendus de notre
+  journée
 image: "/v1554135436/twitter-bird.jpg"
 keywords: []
 author: dave
