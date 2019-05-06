@@ -14,7 +14,6 @@ featured: false
 social_posts: false
 social_date: 
 title_has_context: false
-draft: true
 
 ---
 ## Vêtements
