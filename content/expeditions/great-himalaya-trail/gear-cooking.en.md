@@ -14,6 +14,7 @@ social_posts: true
 social_date: 2019-03-24T10:00:00.000+00:00
 featured: false
 title_has_context: false
+draft: true
 
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553070182/KOV-KB-1109-00-846x846.jpg)
