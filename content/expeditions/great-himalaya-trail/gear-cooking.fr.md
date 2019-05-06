@@ -14,7 +14,6 @@ featured: false
 social_posts: false
 social_date: 
 title_has_context: false
-draft: true
 
 ---
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553070182/KOV-KB-1109-00-846x846.jpg)On a choisi de prendre un réchaud à cartouche - nous aurons des colis de réapprovisionnement réguliers qui permettront de reconstituer nos réserves de gaz, de sorte qu'un réchaud lourd à combustible liquide ne sera plus nécessaire. Cependant, nous sommes toujours en train de confirmer s'il sera possible de faire livrer les bidons d'essence aux deux derniers points de réapprovisionnement de Ringmo et Gamgadhi. Nous avions initialement prévu d’envoyer les colis de réapprovisionnement par vol intérieur depuis Katmandou, mais les réservoirs d’essence ne sont autorisés sur aucun vol. Nous essayons de trouver une solution à ce problème, mais nous devrons peut-être utiliser un réchaud à combustible liquide pour le dernier mois du trek.
