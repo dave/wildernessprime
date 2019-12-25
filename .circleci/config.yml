@@ -12,7 +12,7 @@ jobs:
       HUGO_BUILD_DIR: ~/hugo/public
       HUGO_DEPLOY_DIR: ~/hugo/deploy
     steps:
-      - run: apk update && apk add git rsync
+      #- run: apk update && apk add git rsync
       - checkout
       - run: git submodule sync && git submodule update --init
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
