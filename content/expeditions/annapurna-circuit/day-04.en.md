@@ -10,7 +10,7 @@ author: dave
 description: Our first day hiking completely off the road, all the way to Dharapani.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551461056/IMG_2423%20%282%29.jpg)
 

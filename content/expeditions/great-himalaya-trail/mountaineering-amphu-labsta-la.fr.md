@@ -14,7 +14,7 @@ draft: true
 title_has_context: false
 ---
 
-{{% model "/models/D031.glb" %}}
+{{< model "/models/D031.glb" >}}
 
 _5,845m, D031_ - Amphu Labsta La is reportedly one of the most dangerous passes in Nepal, and certainly the most technical point on our trek. Climbing a steep icefall will require full climbing safety gear, and the descent is just as tricky with a 30m rappel.
 

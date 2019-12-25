@@ -10,7 +10,7 @@ author: dave
 description: Spectacular scenery on the trail from Chame to Pisang.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 After leaving Chame, we followed the main road for about an hour and a half. Along the way we stumbled upon an apple farm with a small tea shop and an extravagant hotel. It was the most beautiful lodging I’d seen in all of Nepal. The Farmhouse looked like it was straight out of Upstate New York, and reminded me so much of home. The small shop out front had incredible fresh chocolate covered donuts and apple tea. If you want to break up the trek with a bit of luxury, the hotel costs $60 a night for a room.
 

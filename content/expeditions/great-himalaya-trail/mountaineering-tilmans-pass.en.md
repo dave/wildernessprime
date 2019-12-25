@@ -16,7 +16,7 @@ hashtags: "#TilmansPass #Mountaineering"
 title_has_context: false
 
 ---
-{{% model "/models/D061.glb" %}}
+{{< model "/models/D061.glb" >}}
 
 _5,308m, D061_ - Navigation on the approach to Tilman's is reportedly rather difficult. It's less technical than the other passes and lower elevation at just 5,308m. A steep scramble beside an icefall is followed by an crevassed plateau, then a steep scramble down. The exit is a long walk along a glacier with a tricky river crossing at the end.
 

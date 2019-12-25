@@ -33,3 +33,8 @@ params:
   pagetypes:
     - report
     - review
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

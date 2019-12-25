@@ -14,7 +14,7 @@ draft: true
 title_has_context: false
 ---
 
-{{% model "/models/D028.glb" %}}
+{{< model "/models/D028.glb" >}}
 
 _6,180m, D028_ - Sherpani & West Col are two impressive passes connected by a glaciated plateau. The ascent of Sherpani is a tough scramble followed by some easy rock climbing, followed by a 35m rappel down to the plateau. Rockfall from above and crevasses will be a constant danger.
 

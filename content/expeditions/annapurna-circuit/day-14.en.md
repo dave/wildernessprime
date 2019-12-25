@@ -10,7 +10,7 @@ author: dave
 description: We battled gale force winds in the afternoon making our way to Larjung.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 I recommend leaving Marpha at 7:00am to avoid the intense afternoon winds. After walking through town, you can cross over the bridge to get off the main road and onto the trekking trail. That path goes through beautiful apple orchards that reminded me of upstate New York in the fall. On the way, we went by the Tibetan Refugee Camp where many of the shop owners told me they lived. A bit past that is a military base. We walk right through it, following the circuit trail. It’s one of the coolest yet most bizarre things I’ve seen on the trek.
 

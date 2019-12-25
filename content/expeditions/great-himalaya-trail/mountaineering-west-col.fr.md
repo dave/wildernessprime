@@ -14,7 +14,7 @@ draft: true
 title_has_context: false
 ---
 
-{{% model "/models/D029.glb" %}}
+{{< model "/models/D029.glb" >}}
 
 _6,190m, D029_ - The top of West Col is the highest point on the trek at 6,190m, but doesn't involve much climbing from the plateau. However a 200m rappel awaits on the other side. I've read disconcerting reports about the state of the fixed ropes on this section, so extreme care will have to be taken.
 

@@ -10,7 +10,7 @@ author: dave
 description: Switchbacks and bridges as we pass Qunche and Danakyu towards Chame.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 The day starts out back on the main road with a nice gradual incline. There’s a fork in the road, and we took the one going to the right which goes over a bridge to the other side of the river. From there, there’s a steep switchback followed by a small path on the left with a sign for Chame. This section of the trek goes through beautiful corn fields and farm land. You can also see tons of marijuana plants growing like weeds along the pathway. The path descends back to the river and crosses over a bridge connecting with the main road.
 

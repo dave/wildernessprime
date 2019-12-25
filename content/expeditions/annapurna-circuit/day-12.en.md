@@ -10,7 +10,7 @@ author: dave
 description: Kagbeni is a beautiful town, lush green fields against a desert background.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 A friend of mine told me Kagbeni was a beautiful “sleepy town” that I should definitely go see. Most of the trekking route has been catered to tourism, and I was curious to see a town that hadn’t been completely formed around the tourist trail. Since it was halfway to Jomsom, it seemed like an obvious choice to go visit. Plus, there were rumors of a YacDonald’s which was worth walking out of the way for.
 

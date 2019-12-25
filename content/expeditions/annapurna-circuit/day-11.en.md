@@ -10,7 +10,7 @@ author: dave
 description: The highest point of the trek at 5,400m and we're all feeling the altitude.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 We pre ordered our breakfast the night before which included honey porridge at 4:00am and two hard boiled eggs to go. After packing and getting dressed, we ended up starting the hike at 5:00am. The route to High Camp is steep and takes about an hour. There is only one hotel at High Camp, so we stopped there to have a hot tea and change our clothes (I was hot). We spent about a half hour there before heading back out.
 

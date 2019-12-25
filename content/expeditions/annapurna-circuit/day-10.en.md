@@ -11,7 +11,7 @@ description: The trail starts getting really tough as the elevation increases to
   the pass.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 Yak Kharka literally means yak shed, so you’ll see a ton of yaks being herded to the fields beyond the town. On the way to Ledar we passed all the herders heading out in the morning in what felt like the most authentic part of the trek. The hike was easy and takes less than an hour with a gradual incline up 150m (492 feet). To the right is an incredible view of Chulu West.
 

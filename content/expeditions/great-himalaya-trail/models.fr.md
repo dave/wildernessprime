@@ -20,4 +20,4 @@ I've downloaded models for all 115 days to my phone, so while we're on the trek 
 
 Select a day from the itinerary and the model will load below:
 
-{{% models %}}
+{{< models >}}

@@ -3,6 +3,7 @@ type: report
 author: mathilde
 date: 2019-04-06T23:00:00.000+00:00
 publishDate: '2019-04-01T10:00:00.000+00:00'
+expiryDate: 2019-10-01 00:00:00 +0000
 slug: Suivi de notre expédition
 translationKey: tracking
 title: 'En direct '

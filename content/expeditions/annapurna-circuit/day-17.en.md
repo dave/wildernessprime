@@ -11,7 +11,7 @@ description: Easy navigation but an utterly exhausting trail up the never ending
   to Ghorepani, and beautiful Poon Hill.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 The trek from Tatopani to Ghorepani is probably the easiest to navigate. There are signs pointing to Ghorepani at every single intersection and the path is usually made from hand laid stones, making it the obvious route to take. Some people told us it would take 8 hours while others said 5 hours. Honestly, we probably did it in closer to 7 hours without counting stops, but it was a very long and very hot day, so I’d plan for 8 hours at the worst.
 

@@ -11,7 +11,7 @@ description: I'm glad we skipped Jomsom and headed all the way to picturesque to
   of Marpha.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 We originally planned to walk to Jomsom, but upon arriving, opted to keep moving on to Marpha. The road from Kagbeni to Jomsom is a dusty construction zone mess that crosses an empty river bed. It wasn’t especially scenic, and it was insanely windy, which I hear is common in this section of the trek. The side route that we didn’t take went up in elevation quite a bit, and I was still sore from coming down from the pass, so I wanted an easy day.
 

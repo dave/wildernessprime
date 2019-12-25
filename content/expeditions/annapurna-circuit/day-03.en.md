@@ -10,7 +10,7 @@ author: dave
 description: Fabulous Dal Baht and confusing side treks as we continue towards Chamje.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 The trek from Bahundana to Chamje starts off rather easy. There are some markers on the road to follow some side trails, but they lead out of the way and straight uphill. They don’t bypass anything and they don’t offer a view. These side routes end up adding almost an hour to our walk, and we end up hiking for 6 hours.
 

@@ -11,7 +11,7 @@ description: My favourite evening of the whole trek in Yak Kharka, as snow start
   falling.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551464484/IMG_2746%20%281%29.jpg)
 

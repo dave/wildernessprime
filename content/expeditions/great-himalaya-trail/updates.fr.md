@@ -2,6 +2,7 @@
 type: report
 date: 2019-04-07T10:00:00.000+00:00
 publishDate: '2019-04-01T10:00:00.000+00:00'
+expiryDate: 2019-10-01 00:00:00 +0000
 slug: updates
 translationKey: updates
 title: Mise à jour
@@ -21,4 +22,4 @@ Nous n'aurons pas un bon accès Internet pendant une très grande partie de la r
 
 & pardon si c'est en anglais.
 
-{{% tweets %}}
+{{< tweets >}}

@@ -11,7 +11,7 @@ description: A dangerous rock slide hampered our progress on the trail to Tatopa
   ane we were exhausted by the end.
 social_posts: true
 ---
-{{% michelle %}}
+{{< michelle >}}
 
 As said in the previous paragraph, we made the bright decision to do two days of trekking in one. We were still in good spirits when leaving Ghasa. We attempted to take a side trek to the left. After walking pretty far down, we realized that a crane doing roadwork above had pushed giant boulders down the slope, and they had all landed on the footpath that cut across. There are no signs indicating this blockage, and the path is covered by what looks like a landslide. It’s a complete mess and very dangerous, so don’t take this route.
 

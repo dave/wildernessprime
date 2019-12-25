@@ -16,7 +16,7 @@ hashtags: "#TashiLabstaLa #Mountaineering"
 title_has_context: false
 ---
 
-{{% model "/models/D043.glb" %}}
+{{< model "/models/D043.glb" >}}
 
 _5,760m, D043_ - The route over Tashi Labsta La is a rocky scramble with constant danger from rockfall and crevasses. We'll have to be very careful on this section, but it's perhaps less technical than the previous three passes.
 
