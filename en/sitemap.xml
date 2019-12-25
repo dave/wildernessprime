@@ -515,20 +515,6 @@
   </url>
   
   <url>
-    <loc>https://www.wildernessprime.com/reviews/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/reviews/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/reviews/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.wildernessprime.com/socials/instagram/</loc>
   </url>
   
