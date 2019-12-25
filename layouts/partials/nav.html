@@ -43,6 +43,9 @@
     </ul>
     {{ with $data.social }}
     <ul class="icons">
+        {{ with .youtube }}
+        <li><a href="{{ . }}" class="icon fa-youtube-play"><span class="label">Youtube</span></a></li>
+        {{ end }}
         {{ with .twitter }}
         <li><a href="{{ . }}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
         {{ end }}

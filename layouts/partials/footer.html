@@ -6,6 +6,9 @@
         <section>
             <h3>{{ i18n "CONTACT_SOCIAL" . }}</h3>
             <ul class="icons alt">
+                {{ with .youtube}}
+                <li><a href="{{ . }}" class="icon alt fa-youtube-play"><span class="label">Youtube</span></a></li>
+                {{ end }}
                 {{ with .twitter}}
                 <li><a href="{{ . }}" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
                 {{ end }}
@@ -20,9 +23,6 @@
                 {{ end }}
                 <!--{{ with .instagram}}
                 <li><a href="{{ . }}" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-                {{ end }}
-                {{ with .youtube}}
-                <li><a href="{{ . }}" class="icon alt fa-youtube"><span class="label">Youtube</span></a></li>
                 {{ end }}
                 {{ with .flickr}}
                 <li><a href="{{ . }}" class="icon alt fa-flickr"><span class="label">Flickr</span></a></li>
