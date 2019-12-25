@@ -1,10 +1,9 @@
 {{ define "main" }}
-
-	{{ $featured := first 1 (where .Data.Pages ".Params.featured" true) }}
-	{{ $posts := where .Data.Pages ".Params.type" "in" .Site.Params.pagetypes }}
+	{{ $featured := first 1 (where .Site.Pages ".Params.featured" true) }}
+	{{ $posts := where .Site.Pages ".Params.type" "in" .Site.Params.pagetypes }}
 	{{/* 
-		{{ $first := first 1 .Data.Pages }}
-		{{ $highlight := gt (len .Data.Pages) 1 }}
+		{{ $first := first 1 .Site.Pages }}
+		{{ $highlight := gt (len .Site.Pages) 1 }}
 		{{ if $highlight }}
 			{{ $posts = after 1 $posts }}
 		{{ end }} 
