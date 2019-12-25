@@ -10,7 +10,7 @@ keywords: []
 author: dave
 social_posts: true
 title_has_context: true
-featured: true
+featured: false
 hashtags: ''
 
 ---
