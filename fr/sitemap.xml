@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -14,6 +14,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/poubelles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/</loc>
+    <lastmod>2019-04-02T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/"
                 />
   </url>
   
@@ -133,6 +148,21 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/quest-ce-que-la-grande-route-de-l-himalaya/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -177,7 +207,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/fr/authors/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -192,7 +221,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/fr/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -207,7 +235,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/fr/expeditions/</loc>
-    <lastmod>2019-04-02T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -222,7 +249,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/fr/socials/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -237,7 +263,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/fr/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -247,22 +272,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/fr/</loc>
-    <lastmod>2019-04-02T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/"
                 />
   </url>
   
@@ -277,6 +286,20 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.wildernessprime.com/fr/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/fr/reviews/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/reviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/reviews/"
                 />
   </url>
   

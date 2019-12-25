@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -10,6 +10,21 @@
   <url>
     <loc>https://www.wildernessprime.com/expeditions/antarctica/intro/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/"
+                />
   </url>
   
   <url>
@@ -245,6 +260,16 @@
   <url>
     <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/expeditions/great-himalaya-trail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/"
+                />
   </url>
   
   <url>
@@ -445,7 +470,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/authors/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -460,7 +484,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -489,22 +512,32 @@
   
   <url>
     <loc>https://www.wildernessprime.com/socials/facebook/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/reviews/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.wildernessprime.com/fr/reviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wildernessprime.com/reviews/"
+                />
   </url>
   
   <url>
     <loc>https://www.wildernessprime.com/socials/instagram/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.wildernessprime.com/socials/pinterest/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.wildernessprime.com/socials/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -519,7 +552,6 @@
   
   <url>
     <loc>https://www.wildernessprime.com/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -534,28 +566,10 @@
   
   <url>
     <loc>https://www.wildernessprime.com/socials/tumblr/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.wildernessprime.com/socials/twitter/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.wildernessprime.com/</loc>
-    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.wildernessprime.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wildernessprime.com/"
-                />
   </url>
   
 </urlset>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gear Reviews on Wilderness Prime</title>
@@ -6,19 +6,9 @@
     <description>Recent content in Gear Reviews on Wilderness Prime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.wildernessprime.com/reviews/feed.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hyperlite Mountain Gear Ultamid 4</title>
-      <link>https://www.wildernessprime.com/reviews/hgm-ultamid-4/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.wildernessprime.com/reviews/hgm-ultamid-4/</guid>
-      <description>Coming soon.</description>
-    </item>
     
   </channel>
 </rss>
