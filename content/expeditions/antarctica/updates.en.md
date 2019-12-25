@@ -1,6 +1,6 @@
 ---
 type: report
-date: 2019-12-26 10:00:00 +0000
+date: 2019-12-25 10:00:00 +0000
 slug: updates
 title: Updates
 description: I'll be posting regular updates from Antarctica.
@@ -9,7 +9,6 @@ keywords: []
 author: dave
 featured: false
 social_posts: false
-social_date: 2019-12-26 10:00:00 +0000
 hashtags: "#updates"
 title_has_context: false
 ---
