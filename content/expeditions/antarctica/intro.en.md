@@ -3,8 +3,8 @@ type: report
 slug: intro
 translationKey: intro
 date: 2019-12-25 00:00:00 +0000
-title: Intro
-description: A brief introduction to my big adventure for 2020.
+title: Antarctica
+description: Sailing from the southern tip of Argentina to the Antarctic peninsula for a ski-mountaineering expedition.
 image: "/v1550183014/lake-fryxell-in-the-transantarctic-mountains-antarctica_aygmyr.jpg"
 keywords: []
 author: dave
