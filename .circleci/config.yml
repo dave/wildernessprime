@@ -12,7 +12,7 @@ jobs:
       HUGO_BUILD_DIR: ~/hugo/public
       HUGO_DEPLOY_DIR: ~/hugo/deploy
     steps:
-      - run: apt-get update && apt-get add git rsync
+      - run: apt-get update && apt-get install git rsync
       - checkout
       - run: git submodule sync && git submodule update --init
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
