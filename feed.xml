@@ -10,11 +10,38 @@
         <managingEditor>dave@wildernessprime.com (Dave Brophy)</managingEditor>
         <webMaster>dave@wildernessprime.com (Dave Brophy)</webMaster>
         
-        <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2019 11:00:00 +0000</lastBuildDate>
         <atom:link href="https://www.wildernessprime.com/feed.xml" rel="self" type="application/rss+xml" />
         
     
     
+    
+        <item>
+            <title>Antarctica - Tracking</title>
+            <link>https://www.wildernessprime.com/expeditions/antarctica/tracking/</link>
+            <pubDate>Wed, 25 Dec 2019 11:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/antarctica/tracking/</guid>
+            <description>&lt;h1&gt;My satellite tracker will allow you to follow along and watch my progress.&lt;/h1&gt;&lt;p&gt;We set sail December 30th 2019 and will be returning to Argentina on about January 31st 2020. My Garmin InReach satellite tracker will update this map every few minutes. You can send us a short message by clicking the &lt;em&gt;Message&lt;/em&gt; button in the left panel.&lt;/p&gt;
+&lt;iframe src=&#34;https://share.garmin.com/davebrophy&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; style=&#34;width: 100%; height:80vh;&#34;&gt;&lt;/iframe&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1551474016/antarctic-map-1_a4ddgy.jpg</url></image>
+        </item>
+    
+        <item>
+            <title>Antarctica - Updates</title>
+            <link>https://www.wildernessprime.com/expeditions/antarctica/updates/</link>
+            <pubDate>Wed, 25 Dec 2019 10:00:00 +0000</pubDate>
+            <author>dave</author>
+            <guid>https://www.wildernessprime.com/expeditions/antarctica/updates/</guid>
+            <description>&lt;h1&gt;I&#39;ll be posting regular updates from Antarctica.&lt;/h1&gt;&lt;p&gt;I won&#39;t have good internet for the entire expedition. However, my satellite communicator will allow me to tweet from the trail. If you&#39;re a twitter user you can follow &lt;a href=&#34;https://twitter.com/wildernessprime&#34;&gt;@wildernessprime&lt;/a&gt;. If not, the feed is below.&lt;/p&gt;
+&lt;a class=&#34;twitter-timeline&#34;
+   data-chrome=&#34;noheader nofooter noborders&#34;
+   href=&#34;https://twitter.com/wildernessprime?ref_src=twsrc%5Etfw&#34;&gt;Updates&lt;/a&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+</description>
+            <image><url>https://res.cloudinary.com/wildernessprime/image/upload/w_1200,c_fill,g_auto/v1554135436/twitter-bird.jpg</url></image>
+        </item>
     
         <item>
             <title>Antarctica - Antarctica</title>
