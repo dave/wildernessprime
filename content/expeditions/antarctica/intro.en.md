@@ -8,7 +8,8 @@ description: Sailing from the southern tip of Argentina to the Antarctic peninsu
 image: "/v1550183014/lake-fryxell-in-the-transantarctic-mountains-antarctica_aygmyr.jpg"
 keywords: []
 author: dave
-social_posts: false
+social_posts: true
+social_date: 2019-12-27 16:00:00 +0000
 title_has_context: false
 featured: true
 hashtags: ''

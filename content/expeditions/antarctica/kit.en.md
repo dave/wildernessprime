@@ -8,10 +8,11 @@ description: My kit list.
 image: "/v1550183014/alps-and-meters-gear-patrol-full-lead-01_eumiwe.jpg"
 keywords: []
 author: dave
-social_posts: false
+social_posts: true
+social_date: 2019-12-27 20:00:00 +0000
 title_has_context: false
 featured: false
-hashtags: ''
+hashtags: '#Kit #Gear'
 
 ---
 
