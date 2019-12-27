@@ -13,10 +13,8 @@ hashtags: "#Tracking"
 title_has_context: false
 
 ---
-We set sail December 30th 2019 and will be returning to Argentina on about January 31st 2020. My Garmin InReach satellite tracker will update this map every few minutes. 
+We set sail December 30th 2019 and will be returning to Argentina on about January 31st 2020. 
 
-You can send us a short message by clicking the *Message* button.
-
-If you have a Garmin InReach, you can use the Garmin address *dave8@inreach.garmin.com*. 
+My Garmin InReach satellite tracker will update this map every few minutes. If you have a Garmin InReach, you can use the Garmin address *dave8@inreach.garmin.com*. You can send me a short message by clicking the *Message* button.
 
 {{< garmin >}}
