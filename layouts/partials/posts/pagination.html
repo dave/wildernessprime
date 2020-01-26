@@ -7,7 +7,7 @@
                 <a href="{{ $paginator.Prev.URL }}" class="previous"></a>
             {{ end }}
             {{ range $paginator.Pagers }}
-                {{ if lt .PageNumber 10 }}
+                {{ if lt .PageNumber 30 }}
                     <a href="{{ .URL }}" class="page{{ if eq .PageNumber $paginator.PageNumber }} active{{ end }}">{{ .PageNumber }}</a>
                 {{ end }}
             {{ end }}
