@@ -11,7 +11,7 @@ imageRectangle: "/v1553075075/D000-rect_yu2pfa.jpg"
 keywords: []
 author: dave
 featured: true
-social_posts: false
+social_posts: true
 social_date: 2020-01-27 00:00:00 +0000 UTC
 hashtags: "#vlog"
 title_has_context: false
