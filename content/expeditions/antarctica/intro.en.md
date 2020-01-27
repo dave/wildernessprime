@@ -11,7 +11,7 @@ author: dave
 social_posts: true
 social_date: 2019-12-27 16:00:00 +0000
 title_has_context: true
-featured: true
+featured: false
 hashtags: ''
 
 ---
