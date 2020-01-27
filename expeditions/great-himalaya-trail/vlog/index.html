@@ -17,16 +17,16 @@
 	</noscript>
 
 	<title>
-		Models &middot; Wilderness Prime
+		The Great Himalaya Trail vlog. &middot; Wilderness Prime
 	</title>
 	
-	<meta property="og:url" content="https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/" />
+	<meta property="og:url" content="https://www.wildernessprime.com/expeditions/great-himalaya-trail/vlog/" />
 	<meta property="og:type" content="article" />
 	<meta property="fb:app_id" content="408388909949374" />
 	<meta property="og:locale" content="en_GB" />
-	<meta property="og:title" content="Great Himalaya Trail - Models" />
-	<meta property="og:description" content="3D models for each day of the trek." />
-	<meta property="og:image" content="https://res.cloudinary.com/wildernessprime/image/upload/w_1600,h_1200,c_fill,g_auto/v1553679579/models.jpg" />
+	<meta property="og:title" content="Great Himalaya Trail - The Great Himalaya Trail vlog." />
+	<meta property="og:description" content="Every day I made a vlog video of the trek. I&#39;ve finally got them ready to show the world." />
+	<meta property="og:image" content="https://res.cloudinary.com/wildernessprime/image/upload/w_1600,h_1200,c_fill,g_auto/v1553075075/D000_kjrsmq.jpg" />
 	<meta property="og:image:width" content="1600" />
 	<meta property="og:image:height" content="1200" />
 	
@@ -116,7 +116,7 @@
 				<a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/">Great Himalaya Trail</a>
 			</li>
 			<li>
-				Models
+				The Great Himalaya Trail vlog.
 			</li>
 		</ul>
 	</div>
@@ -140,77 +140,16 @@
 	<section class="post">
 		<header class="major">
 			
-			<span class="date">April 5, 2019</span>
+			<span class="date">January 27, 2020</span>
 			
-			<h1>Models</h1>
+			<h1>The Great Himalaya Trail vlog.</h1>
 		</header>
 		
 		
 			<div class="content">
-				<p><a href="https://maps3d.io/">Maps3d.io</a> is an amazing service that easily converts a GPX route into a GLTF format 3D model, using satellite imagery and elevation data. These can be displayed on the web (as below) or in a mobile app.</p>
-<p>I've downloaded models for all 115 days to my phone, so while we're on the trek we should be able to preview the next section in glorious 3D. It makes visualising the route so much easier than looking at a topo map. I've been using the <a href="https://www.vispolygon.com/">glTFShowcase</a> app to view the models on my phone. You can find a <a href="https://www.dropbox.com/sh/cjp3cn26qqxgx6g/AAAyDiNInCspvUKdjmAKPodna?dl=0">Dropbox folder here</a> containing all the models if you want to do the same.</p>
-<p>Select a day from the itinerary and the model will load below:</p>
-<select onchange="changeModel(this)" id="modelSelect"></select>
-<script src="https://preview.babylonjs.com/viewer/babylon.viewer.js"></script>
-<div class="youtube" style="height:75vh;">
-	<div id="babylonViewer"></div>
-</div>
-<script>
-    let sel = document.getElementById("modelSelect");
-	for (let i = 1; i < 116; i++) {
-	    const special = (i == 88 || i == 89);
-	    const count = special ? 2 : 1;
-	    for (let j = 0; j < count; j++) {
-	        var suffix = "";
-	        if (special && j == 0) {
-	            suffix = "n";
-			} else if (special && j == 1) {
-                suffix = "s";
-			}
-            var opt = document.createElement('option');
-            const name = "D"+(i+"").padStart(3, "0")+suffix;
-            opt.appendChild(document.createTextNode(name));
-            opt.value = name;
-            sel.appendChild(opt);
-        }
-	}
-    var items = sel.getElementsByTagName('option');
-    var index = Math.floor(Math.random() * items.length);
-    sel.selectedIndex = index;
-    let name = sel.options[sel.selectedIndex].value;
-
-    let domElement = document.getElementById('babylonViewer');
-
-    let viewer = new BabylonViewer.DefaultViewer(domElement, {
-        scene: {
-            debug: false
-        },
-        camera: {
-            behaviors: {
-                autoRotate: 1
-            }
-        },
-        engine: {
-            antialiasing: true
-        },
-        model: {
-            url: "https://storage.googleapis.com/wildernessprime/models/"+name+".glb"
-        }
-    });
-	
-	function changeModel(sel) {
-	    let name = sel.options[sel.selectedIndex].value;
-        viewer.loadModel({
-            title: name,
-            
-            url: "https://storage.googleapis.com/wildernessprime/models/"+name+".glb",
-        });
-    }
-
-    
-    setTimeout(changeModel(sel), 1000);
-    
-</script>
+				<p>In the summer of 2019 we spent five months hiking the Great Himalaya Trail across Nepal. Every day I made a vlog video of the trek. I've finally got them ready to show the world. Here's the trailer - the vlog episodes start on Saturday. Feel free to subscribe / share. This has been a huge project over the past few months and I'm super happy with the result!</p>
+<p><a href="https://www.youtube.com/watch?v=POHhwrogJ8U&list=PLiM-TFJI81R_X4HUrRDjwSJmK-MpqC1dW">Share this link</a>.</p>
+<iframe class="youtube" src="https://www.youtube.com/embed/POHhwrogJ8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 			</div>
 		
@@ -243,25 +182,9 @@
 	
 	
 	
-		<section class="posts">
-			<article style="margin-left: auto; margin-right: auto;">
-				<header>
-					<span class="date">Next Story</span>
-					<h2><a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/vlog/">The Great Himalaya Trail vlog.</a></h2>
-				</header>
-				<p>Every day I made a vlog video of the trek. I&#39;ve finally got them ready to show the world.</p>
-				
-					<a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/vlog/" class="image fit"><img src="https://res.cloudinary.com/wildernessprime/image/upload/w_800,h_800,c_fill,g_auto/v1553075075/D000_kjrsmq.jpg" alt="" /></a>
-				
-				<ul class="actions">
-					<li><a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/vlog/" class="button">Full Story</a></li>
-				</ul>
-			</article>
-		</section>
-	
 	
 		<div style="text-align: center; padding-top: 30px; padding-bottom: 30px;">
-			Previous Story: <a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/tilmans-pass/">Tilman&#39;s Pass</a>
+			Previous Story: <a href="https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/">Models</a>
 		</div>
 	
 	
