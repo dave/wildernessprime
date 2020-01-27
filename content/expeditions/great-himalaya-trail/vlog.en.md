@@ -7,6 +7,7 @@ translationKey: vlog
 title: The Great Himalaya Trail vlog
 description: Every day I made a vlog video of the trek. I've finally got them ready to show the world.
 image: "/v1553075075/D000_kjrsmq.jpg"
+imageRectangle: "/v1553075075/D000-rect_yu2pfa.jpg"
 keywords: []
 author: dave
 featured: true

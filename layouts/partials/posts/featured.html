@@ -21,8 +21,10 @@
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <p>{{ .Description }}</p>
     </header>
-    {{ if .Params.image }}
-    <a href="{{ .Permalink }}" class="image main"><img src="{{ .Site.Params.imgbase }}/w_1000,h_500,c_fill,g_auto{{ .Params.image }}" alt="" /></a>
+    {{ if .Params.imageRectangle }}
+        <a href="{{ .Permalink }}" class="image main"><img src="{{ .Site.Params.imgbase }}/w_1000,h_500,c_fill,g_auto{{ .Params.imageRectangle }}" alt="" /></a>
+    {{ else if .Params.image }}
+        <a href="{{ .Permalink }}" class="image main"><img src="{{ .Site.Params.imgbase }}/w_1000,h_500,c_fill,g_auto{{ .Params.image }}" alt="" /></a>
     {{ end }}
     <ul class="actions">
         <li><a href="{{ .Permalink }}" class="button big">{{ $data.post.linktext }}</a></li>
