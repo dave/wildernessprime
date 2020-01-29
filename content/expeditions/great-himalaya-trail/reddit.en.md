@@ -6,7 +6,7 @@ slug: reddit
 translationKey: reddit
 title: Reddit AMA
 description: I'm hosting a Reddit AMA.
-image: "/v1553075075/reddit-logo-2436_m7rzki.jpg"
+image: "/v1553075075/reddit_irrz4z.jpg"
 keywords: []
 author: dave
 featured: false
