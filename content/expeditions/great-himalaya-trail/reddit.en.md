@@ -18,5 +18,5 @@ title_has_context: false
 
 I'll be hosting a Reddit AMA about the trek today under my username <a href="https://www.reddit.com/user/davebrophy" target="_blank">davebrophy</a>.
 
-<blockquote class="reddit-card" data-card-created="1580322097"><a href="https://www.reddit.com/r/IAmA/comments/evqpvr/i_hiked_the_great_himalaya_trail_for_154_days/">I hiked the Great Himalaya Trail for 154 days across the highest trails of Nepal. Ask me anything!</a> from <a href="http://www.reddit.com/r/IAmA">r/IAmA</a></blockquote>
+<blockquote class="reddit-card"><a href="https://www.reddit.com/r/IAmA/comments/evqpvr/i_hiked_the_great_himalaya_trail_for_154_days/">I hiked the Great Himalaya Trail for 154 days across the highest trails of Nepal. Ask me anything!</a> from <a href="http://www.reddit.com/r/IAmA">r/IAmA</a></blockquote>
 <script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
