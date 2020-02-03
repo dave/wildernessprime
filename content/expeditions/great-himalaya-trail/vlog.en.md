@@ -6,11 +6,10 @@ slug: vlog
 translationKey: vlog
 title: The Great Himalaya Trail vlog
 description: Every day I made a vlog video of the trek. I've finally got them ready to show the world.
-image: "/v1553075075/D000_kjrsmq.jpg"
-imageRectangle: "/v1553075075/D000-rect_yu2pfa.jpg"
+image: "/v1553075075/T001_jfe0zn.jpg"
 keywords: []
 author: dave
-featured: true
+featured: false
 social_posts: true
 social_date: 2020-01-27 00:00:00 +0000 UTC
 hashtags: "#vlog"
@@ -21,5 +20,5 @@ In the summer of 2019 we spent five months hiking the Great Himalaya Trail acros
 
 <a href="https://www.youtube.com/watch?v=POHhwrogJ8U&list=PLiM-TFJI81R_X4HUrRDjwSJmK-MpqC1dW">Share this link</a>.
 
-<iframe class="youtube" src="https://www.youtube.com/embed/POHhwrogJ8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube75" src="https://www.youtube.com/embed/POHhwrogJ8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
