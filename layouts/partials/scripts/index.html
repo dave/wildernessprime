@@ -5,6 +5,13 @@
 <script src='{{ "assets/js/skel.min.js" | relURL }}'></script>
 <script src='{{ "assets/js/util.js" | relURL }}'></script>
 <script src='{{ "assets/js/main.js" | relURL }}'></script>
+<script src='{{ "assets/js/jquery.fitvids.js" | relURL }}'></script>
+<script>
+    $(document).ready(function(){
+        // Target your .container, .wrapper, .post, etc.
+        $("#main").fitVids();
+    });
+</script>
 <!--<script>
     $("img").each(function (index, element) {
         var $element = $(element);
