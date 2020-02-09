@@ -2461,16 +2461,17 @@
 				width: 100%;
 			}
 
-		.image.main {
-			display: block;
-			margin: 4rem 0;
-			width: 100%;
-		}
+			.image.main {
+				display: block;
+				margin: 4rem 0;
+				width: 100%;
+			}
 
 			.image.main:first-child {
 				margin-top: 0;
 			}
 
+			/*
 			.youtube {
 				height: 100vh;
 				width: 100%;
@@ -2488,6 +2489,7 @@
 				width: 100%;
 				margin-bottom: 30px;
 			}
+			*/
 
 			.fluid-width-video-wrapper {
 				margin-bottom: 30px;
