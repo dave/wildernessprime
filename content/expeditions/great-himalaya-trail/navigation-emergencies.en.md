@@ -26,4 +26,4 @@ My navigation home screen is configured to show me the bearing to the waypoint, 
 
 This method has worked in practise and got me out of a couple of tricky situations in the past. Once on top of the Pigne d'Arolla, descending to Cabane Des Vignettes in low visibility. That descent is notoriously tricky, with cliffs on one side and a serac field on the other. Another time in Iceland in zero visibility and horizontal rain we decided to locate Fimmvörðuháls Mountain Hut using the Garmin. Both times it worked flawlessly.
 
-<iframe class="youtube" src="https://www.youtube.com/embed/lbGWiVMW49c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/lbGWiVMW49c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -30,7 +30,7 @@ One disadvantage of strapping the dry-bags to the sides of the pack is it limits
 
 I'll also be bringing an Hyperlight Mountain Gear Stuff Pack, which I'll be able to attach to the back of my pack in case I need extra volume. The mountaineering sections I may need a bit more space. This is a handy little bag, which at only 117g makes an excellent day pack.
 
-<iframe class="youtube" src="https://www.youtube.com/embed/HMxIWQIjeN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HMxIWQIjeN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="tableizer-container">
 <table class="tableizer-table">

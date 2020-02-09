@@ -32,7 +32,7 @@ Acclimatisation day
 
 Today I hiked from Khangpachen (4,050 m) to Lhonak (4,780 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/AjspmuCvdHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/AjspmuCvdHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 11
@@ -48,7 +48,7 @@ Acclimatisation day
 
 Today I hiked from Lhonak (4,780 m) to Kanchenjunga Base Camp (5,140 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/9ZMzGSCEG5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/9ZMzGSCEG5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 13
@@ -56,7 +56,7 @@ Today I hiked from Lhonak (4,780 m) to Kanchenjunga Base Camp (5,140 m).
 
 Today I hiked from Kanchenjunga Base Camp (5,140 m) to Khangpachen (4,050 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/hPm_dzVlk1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/hPm_dzVlk1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 14
@@ -64,7 +64,7 @@ Today I hiked from Kanchenjunga Base Camp (5,140 m) to Khangpachen (4,050 m).
 
 Today I hiked from Khangpachen (4,050 m) to Ghunsa (3,600 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/gcsrJiPMhg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/gcsrJiPMhg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 15
@@ -80,7 +80,7 @@ Rest day
 
 Today I hiked from Ghunsa (3,600 m) to Kharka (4,160 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/3FMRlDxrMs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/3FMRlDxrMs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 17
@@ -88,7 +88,7 @@ Today I hiked from Ghunsa (3,600 m) to Kharka (4,160 m).
 
 Today I hiked from Kharka (4,160 m) to Langjong Kharka (3,730 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/39ERHaSx49g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/39ERHaSx49g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 18
@@ -96,6 +96,6 @@ Today I hiked from Kharka (4,160 m) to Langjong Kharka (3,730 m).
 
 Today I hiked from Langjong Kharka (3,730 m) to Olangchun Gola (3,430 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/p6EsuXAbAbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/p6EsuXAbAbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

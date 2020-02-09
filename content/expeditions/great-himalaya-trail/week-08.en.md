@@ -24,7 +24,7 @@ This is a weekly summary of the trek from day 61 to 68.
 
 Today we hiked from Dokhang (2,790 m) to Gonggar (1,250 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/InTnIhGbn1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/InTnIhGbn1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 62
@@ -32,7 +32,7 @@ Today we hiked from Dokhang (2,790 m) to Gonggar (1,250 m).
 
 Today we hiked from Gonggar (1,250 m) to Olangdanda (2,040 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/b7YFO5CToos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/b7YFO5CToos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 63
@@ -40,7 +40,7 @@ Today we hiked from Gonggar (1,250 m) to Olangdanda (2,040 m).
 
 Today we hiked from Olangdanda (2,040 m) to Laduk (2,050 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/8doRylwr6cU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/8doRylwr6cU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 64
@@ -48,7 +48,7 @@ Today we hiked from Olangdanda (2,040 m) to Laduk (2,050 m).
 
 Today we hiked from Laduk (2,050 m) to Loting (1,770 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/HUjLH9tvjvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HUjLH9tvjvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 65
@@ -56,7 +56,7 @@ Today we hiked from Laduk (2,050 m) to Loting (1,770 m).
 
 Today we hiked from Loting (1,770 m) to Bigu Gompa (2,520 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/-WgR1CJzDsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-WgR1CJzDsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 66
@@ -72,7 +72,7 @@ Rest day
 
 Today we hiked from Bigu Gompa (2,520 m) to Tinsang Kewa (3,280 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/_j412bYPNF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/_j412bYPNF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 68
@@ -80,6 +80,6 @@ Today we hiked from Bigu Gompa (2,520 m) to Tinsang Kewa (3,280 m).
 
 Today we hiked from Tinsang Kewa (3,280 m) to Mandre (2,060 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/GFqabwd5Jw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/GFqabwd5Jw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

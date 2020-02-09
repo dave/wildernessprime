@@ -24,7 +24,7 @@ This is a weekly summary of the trek from day 37 to 43.
 
 Today we hiked from Makalu Base Camp (4,870 m) to Swiss Base Camp (5,150 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/57hbe-EIWn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/57hbe-EIWn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 38
@@ -32,7 +32,7 @@ Today we hiked from Makalu Base Camp (4,870 m) to Swiss Base Camp (5,150 m).
 
 Today we hiked from Swiss Base Camp (5,150 m) to Sherpani Col High Camp (5,690 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/mYFZSLiRZSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/mYFZSLiRZSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 39
@@ -40,7 +40,7 @@ Today we hiked from Swiss Base Camp (5,150 m) to Sherpani Col High Camp (5,690 m
 
 Today we hiked from Sherpani Col High Camp (5,690 m) to Barnutse Base Camp (5,440 m) via Sherpani Col (6,190 m) and West Col (6,140 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/_yb0PJCsFe4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/_yb0PJCsFe4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 40
@@ -48,7 +48,7 @@ Today we hiked from Sherpani Col High Camp (5,690 m) to Barnutse Base Camp (5,44
 
 Today we hiked from Barnutse Base Camp (5,440 m) to Hunku Khola Camp (5,070 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/NyFhlsCLiVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/NyFhlsCLiVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 41
@@ -56,7 +56,7 @@ Today we hiked from Barnutse Base Camp (5,440 m) to Hunku Khola Camp (5,070 m).
 
 Today we hiked from Hunku Khola Camp (5,070 m) to Amphu Labsta Base Camp (5,530 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/AHYZnfJ_LLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/AHYZnfJ_LLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 42
@@ -64,7 +64,7 @@ Today we hiked from Hunku Khola Camp (5,070 m) to Amphu Labsta Base Camp (5,530 
 
 Today we hiked from Amphu Labsta Base Camp (5,530 m) to Chhukung (4,730 m) via Amphu Labsta (5,850 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/uiwApDAKG0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/uiwApDAKG0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 43
@@ -72,6 +72,6 @@ Today we hiked from Amphu Labsta Base Camp (5,530 m) to Chhukung (4,730 m) via A
 
 Today we hiked from Chhukung (4,730 m) to Dingboche (4,410 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/5S4oU9O40Jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/5S4oU9O40Jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

@@ -17,4 +17,4 @@ social_date:
 ---
 Voici la carte interactive de notre traversée. Vous pourrez utiliser les onglets au dessous pour connaître les détails de chaque journée. 
 
-<iframe class="youtube" src="https://ridewithgps.com/embeds?type=event&defaultShowAll=true&overlay=terrain&eventId=76769&title=Great%20Himalaya%20Trail&metricUnits=true&sampleGraph=true&hideFullLink=1" style="border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=event&defaultShowAll=true&overlay=terrain&eventId=76769&title=Great%20Himalaya%20Trail&metricUnits=true&sampleGraph=true&hideFullLink=1" style="border: none;" scrolling="no"></iframe>

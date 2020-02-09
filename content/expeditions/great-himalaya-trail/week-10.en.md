@@ -24,7 +24,7 @@ This is a weekly summary of the trek from day 77 to 88.
 
 Today we hiked from Tin Pokhari (4,250 m) to High Camp South (4,980 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/-UKM9dI_mMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-UKM9dI_mMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 78
@@ -32,7 +32,7 @@ Today we hiked from Tin Pokhari (4,250 m) to High Camp South (4,980 m).
 
 Today we hiked from High Camp South (4,980 m) to Kharka (4,540 m) via Tilman's Pass (5,310 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/sjUmTpijkxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/sjUmTpijkxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 79
@@ -40,7 +40,7 @@ Today we hiked from High Camp South (4,980 m) to Kharka (4,540 m) via Tilman's P
 
 Today we hiked from Kharka (4,540 m) to Langshisa Kharka (4,120 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/1lSAOfTWwH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/1lSAOfTWwH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 80
@@ -48,7 +48,7 @@ Today we hiked from Kharka (4,540 m) to Langshisa Kharka (4,120 m).
 
 Today we hiked from Langshisa Kharka (4,120 m) to Kyangjin Gompa (3,880 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/N4AyLCkcEKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/N4AyLCkcEKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 81
@@ -64,7 +64,7 @@ Rest day
 
 Today we hiked from Kyangjin Gompa (3,880 m) to Changdam (2,560 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/AsaEERtNiOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/AsaEERtNiOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 83
@@ -72,7 +72,7 @@ Today we hiked from Kyangjin Gompa (3,880 m) to Changdam (2,560 m).
 
 Today we hiked from Changdam (2,560 m) to Syabru Besi (1,500 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/BSuyeFUMqyc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/BSuyeFUMqyc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 84
@@ -112,6 +112,6 @@ Admin day
 
 Today we hiked from Syabru Besi (1,500 m) to Gatlang (2,230 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/vVl3Qv9kDvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/vVl3Qv9kDvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

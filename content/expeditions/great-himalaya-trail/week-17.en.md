@@ -24,7 +24,7 @@ This is a weekly summary of the trek from day 140 to 147.
 
 Today we hiked from Kaitpuchonam Khola (4,020 m) to Takla Khola (3,790 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/zHrEqF_X2iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zHrEqF_X2iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 141
@@ -32,7 +32,7 @@ Today we hiked from Kaitpuchonam Khola (4,020 m) to Takla Khola (3,790 m).
 
 Today we hiked from Takla Khola (3,790 m) to Thajuchaur (4,050 m) via Chyargo La (5,150 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/5V2lKigQ1cY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/5V2lKigQ1cY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 142
@@ -40,7 +40,7 @@ Today we hiked from Takla Khola (3,790 m) to Thajuchaur (4,050 m) via Chyargo La
 
 Today we hiked from Thajuchaur (4,050 m) to Chhewathan (2,250 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/ps7iIKmZArw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ps7iIKmZArw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 143
@@ -48,7 +48,7 @@ Today we hiked from Thajuchaur (4,050 m) to Chhewathan (2,250 m).
 
 Today we hiked from Chhewathan (2,250 m) to Gamgadhi (2,100 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/PmTkw3Vpdj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/PmTkw3Vpdj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 144
@@ -64,7 +64,7 @@ Rest day
 
 Today we hiked from Gamgadhi (2,100 m) to Dharke Khola (2,750 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/ZdqsppgGGZ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ZdqsppgGGZ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 146
@@ -72,7 +72,7 @@ Today we hiked from Gamgadhi (2,100 m) to Dharke Khola (2,750 m).
 
 Today we hiked from Dharke Khola (2,750 m) to Rimi (2,550 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/BBwY2-VmJpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/BBwY2-VmJpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 147
@@ -80,6 +80,6 @@ Today we hiked from Dharke Khola (2,750 m) to Rimi (2,550 m).
 
 Today we hiked from Rimi (2,550 m) to Melcham (2,550 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/bVEtYoZk0zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/bVEtYoZk0zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

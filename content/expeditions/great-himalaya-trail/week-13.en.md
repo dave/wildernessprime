@@ -24,7 +24,7 @@ This is a weekly summary of the trek from day 108 to 115.
 
 Today we hiked from Samdo (3,870 m) to Bimtang (3,590 m) via Larkya La (5,160 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/LfT6s7WWvOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/LfT6s7WWvOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 109
@@ -32,7 +32,7 @@ Today we hiked from Samdo (3,870 m) to Bimtang (3,590 m) via Larkya La (5,160 m)
 
 Today we hiked from Bimtang (3,590 m) to Tilche (2,280 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/Ew1s5IS0o4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Ew1s5IS0o4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 110
@@ -40,7 +40,7 @@ Today we hiked from Bimtang (3,590 m) to Tilche (2,280 m).
 
 Today we hiked from Tilche (2,280 m) to Timang (2,600 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/1yvu6bIR3w8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/1yvu6bIR3w8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 111
@@ -48,7 +48,7 @@ Today we hiked from Tilche (2,280 m) to Timang (2,600 m).
 
 Today we hiked from Timang (2,600 m) to Bratang (2,910 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/4NsGzDPwmg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/4NsGzDPwmg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 112
@@ -56,7 +56,7 @@ Today we hiked from Timang (2,600 m) to Bratang (2,910 m).
 
 Today we hiked from Bratang (2,910 m) to Upper Pisang (3,280 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/RmUXluPd6LY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/RmUXluPd6LY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 113
@@ -64,7 +64,7 @@ Today we hiked from Bratang (2,910 m) to Upper Pisang (3,280 m).
 
 Today we hiked from Upper Pisang (3,280 m) to Manang (3,540 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/CT202zIQkRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/CT202zIQkRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 114
@@ -80,6 +80,6 @@ Rest day
 
 Today we hiked from Manang (3,540 m) to Tilicho Lake Base Camp (4,140 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/0xqMCN7Hx00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0xqMCN7Hx00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

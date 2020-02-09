@@ -20,5 +20,5 @@ In the summer of 2019 we spent five months hiking the Great Himalaya Trail acros
 
 <a href="https://www.youtube.com/watch?v=POHhwrogJ8U&list=PLiM-TFJI81R_X4HUrRDjwSJmK-MpqC1dW">Share this link</a>.
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/POHhwrogJ8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/POHhwrogJ8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

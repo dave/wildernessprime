@@ -15,4 +15,4 @@ title_has_context: false
 ---
 Here's an interactive map of the route. You can use the tabs at the bottom to zoom in to the detail of a single day.
 
-<iframe class="youtube" src="https://ridewithgps.com/embeds?type=event&defaultShowAll=true&overlay=terrain&eventId=76769&title=Great%20Himalaya%20Trail&metricUnits=true&sampleGraph=true&hideFullLink=1" style="border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=event&defaultShowAll=true&overlay=terrain&eventId=76769&title=Great%20Himalaya%20Trail&metricUnits=true&sampleGraph=true&hideFullLink=1" style="border: none;" scrolling="no"></iframe>

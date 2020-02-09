@@ -24,7 +24,7 @@ This is a weekly summary of the trek from day 89 to 98.
 
 Today we hiked from Gatlang (2,230 m) to Somdang (3,260 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/eOtGZB-s0UA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/eOtGZB-s0UA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 90
@@ -32,7 +32,7 @@ Today we hiked from Gatlang (2,230 m) to Somdang (3,260 m).
 
 Today we hiked from Somdang (3,260 m) to Tipling (1,890 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/jh3pgVKMdzg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/jh3pgVKMdzg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 91
@@ -40,7 +40,7 @@ Today we hiked from Somdang (3,260 m) to Tipling (1,890 m).
 
 Today we hiked from Tipling (1,890 m) to Borang (1,540 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/A9r8K-5o-0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/A9r8K-5o-0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 92
@@ -48,7 +48,7 @@ Today we hiked from Tipling (1,890 m) to Borang (1,540 m).
 
 Today we hiked from Borang (1,540 m) to Lapagaon (1,290 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/1ddzooRv-Cg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/1ddzooRv-Cg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 93
@@ -72,7 +72,7 @@ Sick day
 
 Today we hiked from Lapagaon (1,290 m) to Myangal Kharka (2,910 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/9SMSQ-CS7us" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/9SMSQ-CS7us" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 96
@@ -88,7 +88,7 @@ Sick day
 
 Today we hiked from Myangal Kharka (2,910 m) to Dharot (1,480 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/IJiSyas2FJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/IJiSyas2FJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 98
@@ -96,6 +96,6 @@ Today we hiked from Myangal Kharka (2,910 m) to Dharot (1,480 m).
 
 Today we hiked from Dharot (1,480 m) to Kashigaun (1,890 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/QeQeKRvrTBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/QeQeKRvrTBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

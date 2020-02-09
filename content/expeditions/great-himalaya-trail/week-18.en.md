@@ -24,7 +24,7 @@ This is a weekly summary of the trek from day 148 to 154.
 
 Today we hiked from Melcham (2,550 m) to Punkha Khola (2,450 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/CtCG3lDLRGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/CtCG3lDLRGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 149
@@ -32,7 +32,7 @@ Today we hiked from Melcham (2,550 m) to Punkha Khola (2,450 m).
 
 Today we hiked from Punkha Khola (2,450 m) to River Camp (2,970 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/-CbR6OtN4Io" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-CbR6OtN4Io" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 150
@@ -40,7 +40,7 @@ Today we hiked from Punkha Khola (2,450 m) to River Camp (2,970 m).
 
 Today we hiked from River Camp (2,970 m) to Simikot (2,990 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/qfEvWnCPG5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/qfEvWnCPG5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 151
@@ -56,7 +56,7 @@ Rest day
 
 Today we hiked from Simikot (2,990 m) to Salli (2,980 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/rqLcXZS6Jnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/rqLcXZS6Jnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 153
@@ -64,7 +64,7 @@ Today we hiked from Simikot (2,990 m) to Salli (2,980 m).
 
 Today we hiked from Salli (2,980 m) to Yari (3,790 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/gLVD1fM_c94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/gLVD1fM_c94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 154
@@ -72,6 +72,6 @@ Today we hiked from Salli (2,980 m) to Yari (3,790 m).
 
 Today we hiked from Yari (3,790 m) to Hilsa (3,720 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/JVyyUHrKKTA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/JVyyUHrKKTA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

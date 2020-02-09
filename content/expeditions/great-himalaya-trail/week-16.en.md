@@ -24,7 +24,7 @@ This is a weekly summary of the trek from day 132 to 139.
 
 Today we hiked from Phoksundo Khola Camp (3,630 m) to Pass Camp (4,640 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/ahWXUmYsX1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ahWXUmYsX1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 133
@@ -32,7 +32,7 @@ Today we hiked from Phoksundo Khola Camp (3,630 m) to Pass Camp (4,640 m).
 
 Today we hiked from Pass Camp (4,640 m) to Shey Gompa (4,340 m) via Nagdala La (5,350 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/4O1Uivigybw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/4O1Uivigybw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 134
@@ -40,7 +40,7 @@ Today we hiked from Pass Camp (4,640 m) to Shey Gompa (4,340 m) via Nagdala La (
 
 Today we hiked from Shey Gompa (4,340 m) to Bhijer (3,850 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/yp6j2pzMhLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/yp6j2pzMhLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 135
@@ -56,7 +56,7 @@ Rest day
 
 Today we hiked from Bhijer (3,850 m) to Pho (4,090 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/mT772ftT5kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/mT772ftT5kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 137
@@ -64,7 +64,7 @@ Today we hiked from Bhijer (3,850 m) to Pho (4,090 m).
 
 Today we hiked from Pho (4,090 m) to Phung Kharka (4,650 m) via Nyingma Gyanzen La (5,570 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/6Y-K_zIcjws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/6Y-K_zIcjws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 138
@@ -72,7 +72,7 @@ Today we hiked from Pho (4,090 m) to Phung Kharka (4,650 m) via Nyingma Gyanzen 
 
 Today we hiked from Phung Kharka (4,650 m) to Chyandi Khola (4,830 m) via Yala La (5,410 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/MklEMxu65cc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/MklEMxu65cc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Day 139
@@ -80,6 +80,6 @@ Today we hiked from Phung Kharka (4,650 m) to Chyandi Khola (4,830 m) via Yala L
 
 Today we hiked from Chyandi Khola (4,830 m) to Kaitpuchonam Khola (4,020 m).
 
-<iframe class="youtube75" src="https://www.youtube.com/embed/GISnGwKfT-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/GISnGwKfT-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

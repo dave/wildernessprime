@@ -41,4 +41,4 @@ If you'd like to know how I manipulated the GPX files, here's [the source code](
  
 Here's a demo of how to load KML routes into Google Earth, which gives an excellent 3D visualisation:
 
-<iframe class="youtube" src="https://www.youtube.com/embed/aghBgeKEsR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/aghBgeKEsR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

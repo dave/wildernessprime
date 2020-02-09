@@ -16,4 +16,4 @@ hashtags: '#Kit #Gear'
 
 ---
 
-<iframe class="youtube" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbs7GQiw32r1F_7srzng3AfL4QUC0_1KGzltptIBL1P1loGKjNGjOhefcp2c9W8RunKn_TUQsCeLB7/pubhtml?gid=946817410&amp;single=true&amp;widget=true&amp;headers=false&1"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbs7GQiw32r1F_7srzng3AfL4QUC0_1KGzltptIBL1P1loGKjNGjOhefcp2c9W8RunKn_TUQsCeLB7/pubhtml?gid=946817410&amp;single=true&amp;widget=true&amp;headers=false&1"></iframe>
