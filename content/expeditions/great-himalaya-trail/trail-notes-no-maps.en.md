@@ -73,7 +73,7 @@ title_has_context: false
 
 GPS routes for these trail notes are available here: 
 
-* **[GPX ROUTES](https://www.dropbox.com/s/t5l4rkfarzc7taf/routes-v1.kml?dl=1)** (recommended for most apps)  
+* **[GPX ROUTES](https://www.dropbox.com/s/mmjwqwmphh5aih0/routes-v1.gpx?dl=1)** (recommended for most apps)  
 
 I would recommend using the GPX file above if you can, but some apps need KML format:
 
