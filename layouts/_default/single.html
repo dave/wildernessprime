@@ -31,7 +31,7 @@
 	<!-- Links to next / previous in section -->
 	
 	{{ if .NextInSection }}
-		<section class="posts">
+		<section class="posts" id="next-section">
 			<article style="margin-left: auto; margin-right: auto;">
 				<header>
 					<span class="date">{{ $data.post.nexttext }}</span>
@@ -48,7 +48,7 @@
 		</section>
 	{{ end }}
 	{{ if .PrevInSection }}
-		<div style="text-align: center; padding-top: 30px; padding-bottom: 30px;">
+		<div id="prev-section" style="text-align: center; padding-top: 30px; padding-bottom: 30px;">
 			{{ $data.post.prevtext }}: <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
 		</div>
 	{{ end }}
