@@ -1,7 +1,7 @@
 ---
 type: report
-date: 2020-02-19 00:00:00 +0000 UTC
-publishDate: 2020-02-19 00:00:00 +0000 UTC
+date: 2020-02-28 00:00:00 +0000 UTC
+publishDate: 2020-02-28 00:00:00 +0000 UTC
 slug: trail-notes
 translationKey: trail-notes
 title: Trail notes
@@ -11,7 +11,7 @@ keywords: [trail-notes]
 author: dave
 featured: false
 social_posts: false
-social_date: 2020-02-19 00:00:00 +0000 UTC
+social_date: 2020-02-28 00:00:00 +0000 UTC
 hashtags: "#trail-notes"
 title_has_context: false
 ---
@@ -82,7 +82,7 @@ I would recommend using the GPX file above if you can, but some apps need KML fo
 
 
 
-You can find a printable PDF version of this page [here](https://www.dropbox.com/s/9ai7thykucwgv0f/Trail%20notes%20v1.pdf?dl=1).
+You can find a printable PDF version of this page [here](https://www.dropbox.com/s/wu3zgoig7k4q1a6/trail-notes-v1.pdf?dl=1).
 
 You can find a version with the maps removed [here](/expeditions/great-himalaya-trail/trail-notes-no-maps/).
 
