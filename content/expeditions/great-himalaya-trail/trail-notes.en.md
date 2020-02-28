@@ -78,7 +78,7 @@ GPS routes for these trail notes are available here:
 I would recommend using the GPX file above if you can, but some apps need KML format:
 
 * [KML](https://www.dropbox.com/s/t5l4rkfarzc7taf/routes-v1.kml?dl=1) (if gpx files don't work)  
-* [KML](https://www.dropbox.com/s/r9313xifstga5zw/routes-for-maps-me-v1.kml?dl=1) (for the maps.me app - route descriptions aren't visible in maps.me, so I've included a dummy waypoint with the description at the start of each leg)  
+* [KML](https://www.dropbox.com/s/r9313xifstga5zw/routes-for-maps-me-v1.kml?dl=1) (for the maps.me app - route descriptions aren't visible in maps.me, so I've included a waypoint with the description at the start of each leg)  
 
 
 
