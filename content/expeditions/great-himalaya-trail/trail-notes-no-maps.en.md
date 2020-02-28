@@ -82,9 +82,7 @@ I would recommend using the GPX file above if you can, but some apps need KML fo
 
 
 
-You can find a PDF version of this page [here](https://www.dropbox.com/s/7x9rdhh8avonyii/trail-notes-no-maps-v1.pdf?dl=1).
-
-You can find a version with maps [here](/expeditions/great-himalaya-trail/trail-notes/).
+You can find a PDF version of this page [here](https://www.dropbox.com/s/7x9rdhh8avonyii/trail-notes-no-maps-v1.pdf?dl=1), and a version with maps [here](/expeditions/great-himalaya-trail/trail-notes/).
 
 
 
