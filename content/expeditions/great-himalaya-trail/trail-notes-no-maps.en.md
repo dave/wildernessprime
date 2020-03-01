@@ -83,7 +83,7 @@ I would recommend using the GPX file above if you can, but some apps need KML fo
 * [KML](https://www.dropbox.com/s/njwvws6xkttnmfc/routes-v2.kml?dl=1) (if gpx files don't work)  
 * [KML](https://www.dropbox.com/s/wgeh050axbtcp8l/routes-for-maps-me-v2.kml?dl=1) (for the maps.me app - route descriptions aren't visible in maps.me, so I've included a waypoint with the description at the start of each leg)  
 
-You can find a printable PDF version [with maps](https://www.dropbox.com/s/wu3zgoig7k4q1a6/trail-notes-v1.pdf?dl=1) or [with no maps](https://www.dropbox.com/s/7x9rdhh8avonyii/trail-notes-no-maps-v1.pdf?dl=1). 
+You can find a printable PDF version [with maps](https://www.dropbox.com/s/nrqvnx17aazu0ng/trail-notes-v2.pdf?dl=1) or [with no maps](https://www.dropbox.com/s/y64lfst9agl213v/trail-notes-no-maps-v2.pdf?dl=1). 
 
 There are versions of this page [with maps](/expeditions/great-himalaya-trail/trail-notes/) or [with no maps](/expeditions/great-himalaya-trail/trail-notes-no-maps/).
 
