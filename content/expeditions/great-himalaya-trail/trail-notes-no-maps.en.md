@@ -152,7 +152,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 1)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E001.png#elev001)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E001.png#elev001)
 
 </div>
 
@@ -219,7 +219,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 2)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E002.png#elev002)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E002.png#elev002)
 
 </div>
 
@@ -286,7 +286,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 3)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E003.png#elev003)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E003.png#elev003)
 
 </div>
 
@@ -353,7 +353,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 4)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E004.png#elev004)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E004.png#elev004)
 
 </div>
 
@@ -420,7 +420,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 5)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E005.png#elev005)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E005.png#elev005)
 
 </div>
 
@@ -497,7 +497,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 6)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E006.png#elev006)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E006.png#elev006)
 
 </div>
 
@@ -564,7 +564,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 7)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E007.png#elev007)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E007.png#elev007)
 
 </div>
 
@@ -631,7 +631,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 #### Elevation <span class="print-only">(leg 8)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E008.png#elev008)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E008.png#elev008)
 
 </div>
 
@@ -708,7 +708,7 @@ Accommodation: campsite - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 9)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E009.png#elev009)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E009.png#elev009)
 
 </div>
 
@@ -785,7 +785,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 #### Elevation <span class="print-only">(leg 10)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E010.png#elev010)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E010.png#elev010)
 
 </div>
 
@@ -852,7 +852,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 11)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E011.png#elev011)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E011.png#elev011)
 
 </div>
 
@@ -919,7 +919,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 12)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E012.png#elev012)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E012.png#elev012)
 
 </div>
 
@@ -986,7 +986,7 @@ Accommodation: campsite - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 13)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E013.png#elev013)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E013.png#elev013)
 
 </div>
 
@@ -1063,7 +1063,7 @@ Accommodation: shelter - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 14)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E014.png#elev014)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E014.png#elev014)
 
 </div>
 
@@ -1150,7 +1150,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 15)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E015.png#elev015)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E015.png#elev015)
 
 </div>
 
@@ -1217,7 +1217,7 @@ Accommodation: campsite - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 16)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E016.png#elev016)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E016.png#elev016)
 
 </div>
 
@@ -1294,7 +1294,7 @@ Accommodation: homestay - 1/5 (basic)
 
 #### Elevation <span class="print-only">(leg 17)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E017.png#elev017)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E017.png#elev017)
 
 </div>
 
@@ -1361,7 +1361,7 @@ Accommodation: homestay - 1/5 (basic)
 
 #### Elevation <span class="print-only">(leg 18)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E018.png#elev018)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E018.png#elev018)
 
 </div>
 
@@ -1438,7 +1438,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 19)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E019.png#elev019)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E019.png#elev019)
 
 </div>
 
@@ -1505,7 +1505,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 20)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E020.png#elev020)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E020.png#elev020)
 
 </div>
 
@@ -1572,7 +1572,7 @@ Accommodation: campsite - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 21)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E021.png#elev021)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E021.png#elev021)
 
 </div>
 
@@ -1679,7 +1679,7 @@ Accommodation: campsite - (unknown)
 
 #### Elevation <span class="print-only">(leg 22)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E022.png#elev022)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E022.png#elev022)
 
 </div>
 
@@ -1746,7 +1746,7 @@ Accommodation: campsite - (unknown)
 
 #### Elevation <span class="print-only">(leg 23)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E023.png#elev023)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E023.png#elev023)
 
 </div>
 
@@ -1833,7 +1833,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 24)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E024.png#elev024)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E024.png#elev024)
 
 </div>
 
@@ -1900,7 +1900,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 25)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E025.png#elev025)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E025.png#elev025)
 
 </div>
 
@@ -1967,7 +1967,7 @@ Accommodation: campsite - 1/5 (awful)
 
 #### Elevation <span class="print-only">(leg 26)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E026.png#elev026)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E026.png#elev026)
 
 </div>
 
@@ -2034,7 +2034,7 @@ Accommodation: campsite - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 27)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E027.png#elev027)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E027.png#elev027)
 
 </div>
 
@@ -2111,7 +2111,7 @@ Accommodation: campsite - 1/5 (awful)
 
 #### Elevation <span class="print-only">(leg 28)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E028.png#elev028)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E028.png#elev028)
 
 </div>
 
@@ -2188,7 +2188,7 @@ Accommodation: campsite - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 29)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E029.png#elev029)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E029.png#elev029)
 
 </div>
 
@@ -2265,7 +2265,7 @@ Accommodation: campsite - 1/5 (awful)
 
 #### Elevation <span class="print-only">(leg 30)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E030.png#elev030)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E030.png#elev030)
 
 </div>
 
@@ -2342,7 +2342,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 31)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E031.png#elev031)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E031.png#elev031)
 
 </div>
 
@@ -2409,7 +2409,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 32)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E032.png#elev032)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E032.png#elev032)
 
 </div>
 
@@ -2476,7 +2476,7 @@ Accommodation: guesthouse - (unknown)
 
 #### Elevation <span class="print-only">(leg 33)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E033.png#elev033)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E033.png#elev033)
 
 </div>
 
@@ -2553,7 +2553,7 @@ Accommodation: guesthouse - (unknown)
 
 #### Elevation <span class="print-only">(leg 34)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E034.png#elev034)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E034.png#elev034)
 
 </div>
 
@@ -2630,7 +2630,7 @@ Accommodation: guesthouse - (unknown)
 
 #### Elevation <span class="print-only">(leg 35)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E035.png#elev035)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E035.png#elev035)
 
 </div>
 
@@ -2697,7 +2697,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 36)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E036.png#elev036)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E036.png#elev036)
 
 </div>
 
@@ -2774,7 +2774,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 37)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E037.png#elev037)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E037.png#elev037)
 
 </div>
 
@@ -2851,7 +2851,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 38)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E038.png#elev038)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E038.png#elev038)
 
 </div>
 
@@ -2928,7 +2928,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 39)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E039.png#elev039)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E039.png#elev039)
 
 </div>
 
@@ -2995,7 +2995,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 40)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E040.png#elev040)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E040.png#elev040)
 
 </div>
 
@@ -3062,7 +3062,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 41)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E041.png#elev041)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E041.png#elev041)
 
 </div>
 
@@ -3139,7 +3139,7 @@ Accommodation: campsite - 1/5 (awful)
 
 #### Elevation <span class="print-only">(leg 42)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E042.png#elev042)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E042.png#elev042)
 
 </div>
 
@@ -3216,7 +3216,7 @@ Accommodation: campsite - 1/5 (awful)
 
 #### Elevation <span class="print-only">(leg 43)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E043.png#elev043)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E043.png#elev043)
 
 </div>
 
@@ -3283,7 +3283,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 44)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E044.png#elev044)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E044.png#elev044)
 
 </div>
 
@@ -3350,7 +3350,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 45)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E045.png#elev045)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E045.png#elev045)
 
 </div>
 
@@ -3417,7 +3417,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 46)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E046.png#elev046)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E046.png#elev046)
 
 </div>
 
@@ -3484,7 +3484,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 #### Elevation <span class="print-only">(leg 47)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E047.png#elev047)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E047.png#elev047)
 
 </div>
 
@@ -3561,7 +3561,7 @@ Accommodation: homestay - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 48)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E048.png#elev048)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E048.png#elev048)
 
 </div>
 
@@ -3628,7 +3628,7 @@ Accommodation: homestay - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 49)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E049.png#elev049)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E049.png#elev049)
 
 </div>
 
@@ -3695,7 +3695,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 50)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E050.png#elev050)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E050.png#elev050)
 
 </div>
 
@@ -3762,7 +3762,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 51)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E051.png#elev051)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E051.png#elev051)
 
 </div>
 
@@ -3849,7 +3849,7 @@ Accommodation: campsite - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 52)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E052.png#elev052)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E052.png#elev052)
 
 </div>
 
@@ -3936,7 +3936,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 53)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E053.png#elev053)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E053.png#elev053)
 
 </div>
 
@@ -4013,7 +4013,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 54)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E054.png#elev054)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E054.png#elev054)
 
 </div>
 
@@ -4080,7 +4080,7 @@ Accommodation: homestay - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 55)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E055.png#elev055)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E055.png#elev055)
 
 </div>
 
@@ -4147,7 +4147,7 @@ Accommodation: homestay - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 56)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E056.png#elev056)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E056.png#elev056)
 
 </div>
 
@@ -4214,7 +4214,7 @@ Accommodation: homestay - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 57)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E057.png#elev057)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E057.png#elev057)
 
 </div>
 
@@ -4301,7 +4301,7 @@ Accommodation: shelter - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 58)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E058.png#elev058)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E058.png#elev058)
 
 </div>
 
@@ -4368,7 +4368,7 @@ Accommodation: campsite - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 59)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E059.png#elev059)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E059.png#elev059)
 
 </div>
 
@@ -4435,7 +4435,7 @@ Accommodation: campsite - 1/5 (awful)
 
 #### Elevation <span class="print-only">(leg 60)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E060.png#elev060)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E060.png#elev060)
 
 </div>
 
@@ -4512,7 +4512,7 @@ Accommodation: campsite - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 61)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E061.png#elev061)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E061.png#elev061)
 
 </div>
 
@@ -4629,7 +4629,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 62)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E062.png#elev062)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E062.png#elev062)
 
 </div>
 
@@ -4696,7 +4696,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 63)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E063.png#elev063)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E063.png#elev063)
 
 </div>
 
@@ -4763,7 +4763,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 64)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E064.png#elev064)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E064.png#elev064)
 
 </div>
 
@@ -4830,7 +4830,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 65)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E065.png#elev065)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E065.png#elev065)
 
 </div>
 
@@ -4897,7 +4897,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 66)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E066.png#elev066)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E066.png#elev066)
 
 </div>
 
@@ -4974,7 +4974,7 @@ Accommodation: homestay - 1/5 (basic)
 
 #### Elevation <span class="print-only">(leg 67)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E067.png#elev067)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E067.png#elev067)
 
 </div>
 
@@ -5051,7 +5051,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 #### Elevation <span class="print-only">(leg 68)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E068.png#elev068)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E068.png#elev068)
 
 </div>
 
@@ -5138,7 +5138,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 #### Elevation <span class="print-only">(leg 69)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E069.png#elev069)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E069.png#elev069)
 
 </div>
 
@@ -5225,7 +5225,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 70)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E070.png#elev070)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E070.png#elev070)
 
 </div>
 
@@ -5292,7 +5292,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 71)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E071.png#elev071)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E071.png#elev071)
 
 </div>
 
@@ -5359,7 +5359,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 72)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E072.png#elev072)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E072.png#elev072)
 
 </div>
 
@@ -5426,7 +5426,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 73)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E073.png#elev073)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E073.png#elev073)
 
 </div>
 
@@ -5493,7 +5493,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 74)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E074.png#elev074)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E074.png#elev074)
 
 </div>
 
@@ -5570,7 +5570,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 75)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E075.png#elev075)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E075.png#elev075)
 
 </div>
 
@@ -5647,7 +5647,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 76)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E076.png#elev076)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E076.png#elev076)
 
 </div>
 
@@ -5724,7 +5724,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 77)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E077.png#elev077)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E077.png#elev077)
 
 </div>
 
@@ -5801,7 +5801,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 78)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E078.png#elev078)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E078.png#elev078)
 
 </div>
 
@@ -5878,7 +5878,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 79)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E079.png#elev079)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E079.png#elev079)
 
 </div>
 
@@ -5945,7 +5945,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 80)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E080.png#elev080)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E080.png#elev080)
 
 </div>
 
@@ -6012,7 +6012,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 81)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E081.png#elev081)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E081.png#elev081)
 
 </div>
 
@@ -6089,7 +6089,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 82)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E082.png#elev082)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E082.png#elev082)
 
 </div>
 
@@ -6156,7 +6156,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 83)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E083.png#elev083)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E083.png#elev083)
 
 </div>
 
@@ -6223,7 +6223,7 @@ Accommodation: homestay - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 84)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E084.png#elev084)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E084.png#elev084)
 
 </div>
 
@@ -6290,7 +6290,7 @@ Accommodation: shelter - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 85)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E085.png#elev085)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E085.png#elev085)
 
 </div>
 
@@ -6387,7 +6387,7 @@ Accommodation: campsite - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 86)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E086.png#elev086)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E086.png#elev086)
 
 </div>
 
@@ -6554,7 +6554,7 @@ Accommodation: guesthouse - (unknown)
 
 #### Elevation <span class="print-only">(leg 87)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E087.png#elev087)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E087.png#elev087)
 
 </div>
 
@@ -6621,7 +6621,7 @@ Accommodation: campsite - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 88)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E088.png#elev088)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E088.png#elev088)
 
 </div>
 
@@ -6698,7 +6698,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 89)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E089.png#elev089)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E089.png#elev089)
 
 </div>
 
@@ -6775,7 +6775,7 @@ Accommodation: campsite - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 90)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E090.png#elev090)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E090.png#elev090)
 
 </div>
 
@@ -6852,7 +6852,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 91)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E091.png#elev091)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E091.png#elev091)
 
 </div>
 
@@ -6919,7 +6919,7 @@ Accommodation: campsite - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 92)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E092.png#elev092)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E092.png#elev092)
 
 </div>
 
@@ -6996,7 +6996,7 @@ Accommodation: campsite - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 93)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E093.png#elev093)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E093.png#elev093)
 
 </div>
 
@@ -7073,7 +7073,7 @@ Accommodation: shelter - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 94)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E094.png#elev094)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E094.png#elev094)
 
 </div>
 
@@ -7140,7 +7140,7 @@ Accommodation: homestay - 1/5 (basic)
 
 #### Elevation <span class="print-only">(leg 95)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E095.png#elev095)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E095.png#elev095)
 
 </div>
 
@@ -7207,7 +7207,7 @@ Accommodation: homestay - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 96)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E096.png#elev096)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E096.png#elev096)
 
 </div>
 
@@ -7304,7 +7304,7 @@ Accommodation: campsite - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 97)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E097.png#elev097)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E097.png#elev097)
 
 </div>
 
@@ -7391,7 +7391,7 @@ Accommodation: campsite - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 98)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E098.png#elev098)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E098.png#elev098)
 
 </div>
 
@@ -7498,7 +7498,7 @@ Accommodation: campsite - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 99)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E099.png#elev099)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E099.png#elev099)
 
 </div>
 
@@ -7575,7 +7575,7 @@ Accommodation: campsite - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 100)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E100.png#elev100)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E100.png#elev100)
 
 </div>
 
@@ -7642,7 +7642,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 101)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E101.png#elev101)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E101.png#elev101)
 
 </div>
 
@@ -7729,7 +7729,7 @@ Accommodation: homestay - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 102)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E102.png#elev102)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E102.png#elev102)
 
 </div>
 
@@ -7796,7 +7796,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 103)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E103.png#elev103)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E103.png#elev103)
 
 </div>
 
@@ -7863,7 +7863,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 104)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E104.png#elev104)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E104.png#elev104)
 
 </div>
 
@@ -7940,7 +7940,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 105)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E105.png#elev105)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E105.png#elev105)
 
 </div>
 
@@ -8007,7 +8007,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 106)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E106.png#elev106)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E106.png#elev106)
 
 </div>
 
@@ -8084,7 +8084,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 107)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E107.png#elev107)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E107.png#elev107)
 
 </div>
 
@@ -8151,7 +8151,7 @@ Accommodation: campsite - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 108)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E108.png#elev108)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E108.png#elev108)
 
 </div>
 
@@ -8218,7 +8218,7 @@ Accommodation: homestay - 1/5 (basic)
 
 #### Elevation <span class="print-only">(leg 109)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E109.png#elev109)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E109.png#elev109)
 
 </div>
 
@@ -8285,7 +8285,7 @@ Accommodation: campsite - 1/5 (awful)
 
 #### Elevation <span class="print-only">(leg 110)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E110.png#elev110)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E110.png#elev110)
 
 </div>
 
@@ -8352,7 +8352,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 #### Elevation <span class="print-only">(leg 111)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E111.png#elev111)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E111.png#elev111)
 
 </div>
 
@@ -8429,7 +8429,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 112)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E112.png#elev112)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E112.png#elev112)
 
 </div>
 
@@ -8506,7 +8506,7 @@ Accommodation: homestay - 2/5 (below average)
 
 #### Elevation <span class="print-only">(leg 113)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E113.png#elev113)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E113.png#elev113)
 
 </div>
 
@@ -8573,7 +8573,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 #### Elevation <span class="print-only">(leg 114)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E114.png#elev114)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E114.png#elev114)
 
 </div>
 
@@ -8640,7 +8640,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 #### Elevation <span class="print-only">(leg 115)</span>
 
-![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E115.png#elev115)
+![](https://storage.googleapis.com/wilderness-prime-static/elev2c/E115.png#elev115)
 
 </div>
 
