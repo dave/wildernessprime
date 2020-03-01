@@ -61,10 +61,13 @@ title_has_context: false
 		page-break-inside: avoid;
 	}
 	.print-only {
-		display: block;
+		display: initial;
 	}
 	.no-print {
 		display: none;
+	}
+	img[src*="#elev028"] {
+	   max-width: 80%;
 	}
 }
 </style>
@@ -73,12 +76,12 @@ title_has_context: false
 
 GPS routes for these trail notes are available here: 
 
-* **[GPX ROUTES](https://www.dropbox.com/s/mmjwqwmphh5aih0/routes-v1.gpx?dl=1)** (recommended for most apps)  
+* **[GPX ROUTES](https://www.dropbox.com/s/jx1zx47kukijglj/routes-v2.gpx?dl=1)** (recommended for most apps)  
 
 I would recommend using the GPX file above if you can, but some apps need KML format:
 
-* [KML](https://www.dropbox.com/s/t5l4rkfarzc7taf/routes-v1.kml?dl=1) (if gpx files don't work)  
-* [KML](https://www.dropbox.com/s/r9313xifstga5zw/routes-for-maps-me-v1.kml?dl=1) (for the maps.me app - route descriptions aren't visible in maps.me, so I've included a waypoint with the description at the start of each leg)  
+* [KML](https://www.dropbox.com/s/njwvws6xkttnmfc/routes-v2.kml?dl=1) (if gpx files don't work)  
+* [KML](https://www.dropbox.com/s/wgeh050axbtcp8l/routes-for-maps-me-v2.kml?dl=1) (for the maps.me app - route descriptions aren't visible in maps.me, so I've included a waypoint with the description at the start of each leg)  
 
 You can find a printable PDF version [with maps](https://www.dropbox.com/s/wu3zgoig7k4q1a6/trail-notes-v1.pdf?dl=1) or [with no maps](https://www.dropbox.com/s/7x9rdhh8avonyii/trail-notes-no-maps-v1.pdf?dl=1). 
 
@@ -90,8 +93,6 @@ There are versions of this page [with maps](/expeditions/great-himalaya-trail/tr
 
 
 
- <div class="no-page-break"> 
-
 <div class="no-page-break">
 
 ## Leg 1: Taplejung to Phurumbu
@@ -102,7 +103,9 @@ Easy hike along along dirt road.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 1)</span>
 
 
 
@@ -114,11 +117,27 @@ Easy hike along along dirt road.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 1)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 1)</span>
 
 |   |   |  |
 | - | - |- |
@@ -127,21 +146,19 @@ Easy hike along along dirt road.
 <!--| Start / end |  2,410 / 1,680 m |  7,910 / 5,500 ft |
 | Top / bottom |  2,420 / 1,680 m  |  7,940 / 5,500 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 1)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E001.png#elev001)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -153,7 +170,9 @@ Easy hike along along dirt road.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 2)</span>
 
 
 
@@ -165,11 +184,27 @@ Easy hike along along dirt road.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 2)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 2)</span>
 
 |   |   |  |
 | - | - |- |
@@ -178,21 +213,19 @@ Easy hike along along dirt road.
 <!--| Start / end |  1,670 / 1,230 m |  5,480 / 4,030 ft |
 | Top / bottom |  1,710 / 1,220 m  |  5,610 / 4,010 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 2)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E002.png#elev002)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -204,7 +237,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 3)</span>
 
 
 
@@ -216,11 +251,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 3)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 3)</span>
 
 |   |   |  |
 | - | - |- |
@@ -229,21 +280,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  1,230 / 1,570 m |  4,020 / 5,160 ft |
 | Top / bottom |  1,610 / 1,230 m  |  5,290 / 4,020 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 3)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E003.png#elev003)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -255,7 +304,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 4)</span>
 
 
 
@@ -267,11 +318,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 4)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 4)</span>
 
 |   |   |  |
 | - | - |- |
@@ -280,21 +347,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  1,570 / 2,400 m |  5,160 / 7,860 ft |
 | Top / bottom |  2,410 / 1,540 m  |  7,900 / 5,050 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 4)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E004.png#elev004)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -306,7 +371,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 5)</span>
 
 
 
@@ -318,11 +385,27 @@ Simple hike along along an easy to follow trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 5)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 5)</span>
 
 |   |   |  |
 | - | - |- |
@@ -331,21 +414,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  2,390 / 2,710 m |  7,850 / 8,890 ft |
 | Top / bottom |  2,710 / 2,370 m  |  8,890 / 7,790 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 5)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E005.png#elev005)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -357,7 +438,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 6)</span>
 
 
 
@@ -366,6 +449,12 @@ Simple hike along along an easy to follow trail.
 **L006 Phale (3,250 m / 10,600 ft)**: The small village of Phale would make a great option for lunch or a homestay. I heard great things about the food.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -379,9 +468,21 @@ Simple hike along along an easy to follow trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 6)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 6)</span>
 
 |   |   |  |
 | - | - |- |
@@ -390,21 +491,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  2,710 / 3,420 m |  8,890 / 11,200 ft |
 | Top / bottom |  3,430 / 2,670 m  |  11,300 / 8,750 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 6)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E006.png#elev006)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -416,7 +515,9 @@ Trail was occasionally tricky to follow as it traversed landslide areas.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 7)</span>
 
 
 
@@ -428,11 +529,27 @@ Trail was occasionally tricky to follow as it traversed landslide areas.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 7)</span>
+
+Trail: 3/5 (average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 7)</span>
 
 |   |   |  |
 | - | - |- |
@@ -441,21 +558,19 @@ Trail was occasionally tricky to follow as it traversed landslide areas.
 <!--| Start / end |  3,420 / 4,080 m |  11,200 / 13,400 ft |
 | Top / bottom |  4,090 / 3,420 m  |  13,400 / 11,200 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 7)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E007.png#elev007)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -467,7 +582,9 @@ Trail was usually easy to follow with a few tricky areas. I made a mistake and e
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 8)</span>
 
 
 
@@ -479,11 +596,27 @@ Trail was usually easy to follow with a few tricky areas. I made a mistake and e
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 8)</span>
+
+Trail: 2/5 (below average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 1/5 (basic)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 8)</span>
 
 |   |   |  |
 | - | - |- |
@@ -492,21 +625,19 @@ Trail was usually easy to follow with a few tricky areas. I made a mistake and e
 <!--| Start / end |  4,080 / 4,750 m |  13,400 / 15,600 ft |
 | Top / bottom |  4,760 / 4,080 m  |  15,600 / 13,400 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 8)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E008.png#elev008)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -518,7 +649,9 @@ Trail was tricky to follow with a couple of large new landslides which meant len
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 9)</span>
 
 
 
@@ -527,6 +660,12 @@ Trail was tricky to follow with a couple of large new landslides which meant len
 **L009 Landslide (5,060 m / 16,600 ft)**: This huge landslide had recently blocked the path (as of spring 2019). A lengthy detour was needed to find a safe place to cross. The route has been updated to show my detour.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -540,9 +679,21 @@ Trail was tricky to follow with a couple of large new landslides which meant len
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 9)</span>
+
+Trail: 2/5 (below average)  
+Route: 3/5 (average)  
+Accommodation: campsite - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 9)</span>
 
 |   |   |  |
 | - | - |- |
@@ -551,21 +702,19 @@ Trail was tricky to follow with a couple of large new landslides which meant len
 <!--| Start / end |  4,760 / 5,140 m |  15,600 / 16,900 ft |
 | Top / bottom |  5,150 / 4,750 m  |  16,900 / 15,600 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 3/5 (average)  
-Accommodation: campsite - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 9)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E009.png#elev009)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -577,7 +726,9 @@ This is the reverse of leg 9. I hiked from base camp all the way to Kangpachen i
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 10)</span>
 
 
 
@@ -586,6 +737,12 @@ This is the reverse of leg 9. I hiked from base camp all the way to Kangpachen i
 **L010 Landslide (5,070 m / 16,600 ft)**: See leg 9
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -599,9 +756,21 @@ This is the reverse of leg 9. I hiked from base camp all the way to Kangpachen i
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 10)</span>
+
+Trail: 2/5 (below average)  
+Route: 3/5 (average)  
+Accommodation: guesthouse - 1/5 (basic)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 10)</span>
 
 |   |   |  |
 | - | - |- |
@@ -610,21 +779,19 @@ This is the reverse of leg 9. I hiked from base camp all the way to Kangpachen i
 <!--| Start / end |  5,130 / 4,760 m |  16,800 / 15,600 ft |
 | Top / bottom |  5,150 / 4,750 m  |  16,900 / 15,600 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 3/5 (average)  
-Accommodation: guesthouse - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 10)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E010.png#elev010)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -636,7 +803,9 @@ This is the reverse of leg 8.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 11)</span>
 
 
 
@@ -648,11 +817,27 @@ This is the reverse of leg 8.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 11)</span>
+
+Trail: 2/5 (below average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 11)</span>
 
 |   |   |  |
 | - | - |- |
@@ -661,21 +846,19 @@ This is the reverse of leg 8.
 <!--| Start / end |  4,760 / 4,090 m |  15,600 / 13,400 ft |
 | Top / bottom |  4,760 / 4,090 m  |  15,600 / 13,400 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 11)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E011.png#elev011)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -687,7 +870,9 @@ This is the reverse of leg 7.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 12)</span>
 
 
 
@@ -699,11 +884,27 @@ This is the reverse of leg 7.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 12)</span>
+
+Trail: 3/5 (average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 12)</span>
 
 |   |   |  |
 | - | - |- |
@@ -712,21 +913,19 @@ This is the reverse of leg 7.
 <!--| Start / end |  4,100 / 3,420 m |  13,400 / 11,200 ft |
 | Top / bottom |  4,100 / 3,420 m  |  13,400 / 11,200 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 12)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E012.png#elev012)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -738,7 +937,9 @@ The trail was tricky trail to follow.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 13)</span>
 
 
 
@@ -750,11 +951,27 @@ The trail was tricky trail to follow.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 13)</span>
+
+Trail: 2/5 (below average)  
+Route: 4/5 (above average)  
+Accommodation: campsite - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 13)</span>
 
 |   |   |  |
 | - | - |- |
@@ -763,21 +980,19 @@ The trail was tricky trail to follow.
 <!--| Start / end |  3,420 / 4,170 m |  11,200 / 13,700 ft |
 | Top / bottom |  4,170 / 3,340 m  |  13,700 / 11,000 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 4/5 (above average)  
-Accommodation: campsite - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 13)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E013.png#elev013)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -789,7 +1004,9 @@ Trail was almost non existent and obscured with snow for much of the day. Howeve
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 14)</span>
 
 
 
@@ -798,6 +1015,12 @@ Trail was almost non existent and obscured with snow for much of the day. Howeve
 **L014 Nango La (4,770 m / 15,700 ft)**: The first high pass of the trek.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -811,9 +1034,21 @@ Trail was almost non existent and obscured with snow for much of the day. Howeve
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 14)</span>
+
+Trail: 1/5 (major problems)  
+Route: 4/5 (above average)  
+Accommodation: shelter - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 14)</span>
 
 |   |   |  |
 | - | - |- |
@@ -822,21 +1057,19 @@ Trail was almost non existent and obscured with snow for much of the day. Howeve
 <!--| Start / end |  4,160 / 3,740 m |  13,700 / 12,300 ft |
 | Top / bottom |  4,770 / 3,740 m  |  15,700 / 12,300 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 4/5 (above average)  
-Accommodation: shelter - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 14)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E014.png#elev014)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -848,7 +1081,9 @@ Tricky trail to follow, especially the first half before the new bridge. I suspe
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 15)</span>
 
 
 
@@ -860,11 +1095,19 @@ Tricky trail to follow, especially the first half before the new bridge. I suspe
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L015 Bridge (3,220 m / 10,600 ft)**: This is the new bridge over the Yangma Khola (as of spring 2019). After the bridge, the trail follows the standard route shown on digital / paper maps.
 
 </div>
+
+
 
 
 
@@ -878,9 +1121,21 @@ Tricky trail to follow, especially the first half before the new bridge. I suspe
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 15)</span>
+
+Trail: 2/5 (below average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 15)</span>
 
 |   |   |  |
 | - | - |- |
@@ -889,21 +1144,19 @@ Tricky trail to follow, especially the first half before the new bridge. I suspe
 <!--| Start / end |  3,740 / 3,190 m |  12,300 / 10,500 ft |
 | Top / bottom |  3,760 / 2,750 m  |  12,300 / 9,030 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 15)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E015.png#elev015)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -915,7 +1168,9 @@ After a simple section along a dirt road, the trail became much more difficult t
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 16)</span>
 
 
 
@@ -927,11 +1182,27 @@ After a simple section along a dirt road, the trail became much more difficult t
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 16)</span>
+
+Trail: 2/5 (below average)  
+Route: 2/5 (below average)  
+Accommodation: campsite - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 16)</span>
 
 |   |   |  |
 | - | - |- |
@@ -940,21 +1211,19 @@ After a simple section along a dirt road, the trail became much more difficult t
 <!--| Start / end |  3,190 / 4,850 m |  10,500 / 15,900 ft |
 | Top / bottom |  4,850 / 3,190 m  |  15,900 / 10,500 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 2/5 (below average)  
-Accommodation: campsite - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 16)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E016.png#elev016)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -966,7 +1235,9 @@ In the upper elevations the trail was completely obscured by deep snow, but I be
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 17)</span>
 
 
 
@@ -975,6 +1246,12 @@ In the upper elevations the trail was completely obscured by deep snow, but I be
 **L017 Lumbha Sumbha (5,150 m / 16,900 ft)**: The Lumbha Sumbha pass is really two passes joined by a steep traverse. This is the final pass before the descent towards Thudam.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -988,9 +1265,21 @@ In the upper elevations the trail was completely obscured by deep snow, but I be
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 17)</span>
+
+Trail: 2/5 (below average)  
+Route: 2/5 (below average)  
+Accommodation: homestay - 1/5 (basic)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 17)</span>
 
 |   |   |  |
 | - | - |- |
@@ -999,21 +1288,19 @@ In the upper elevations the trail was completely obscured by deep snow, but I be
 <!--| Start / end |  4,850 / 3,550 m |  15,900 / 11,700 ft |
 | Top / bottom |  5,160 / 3,550 m  |  16,900 / 11,700 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 2/5 (below average)  
-Accommodation: homestay - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 17)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E017.png#elev017)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1025,7 +1312,9 @@ The trail traverses a steep hillside, and rather dangerous in places. However, n
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 18)</span>
 
 
 
@@ -1037,11 +1326,27 @@ The trail traverses a steep hillside, and rather dangerous in places. However, n
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 18)</span>
+
+Trail: 2/5 (below average)  
+Route: 3/5 (average)  
+Accommodation: homestay - 1/5 (basic)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 18)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1050,21 +1355,19 @@ The trail traverses a steep hillside, and rather dangerous in places. However, n
 <!--| Start / end |  3,560 / 2,830 m |  11,700 / 9,280 ft |
 | Top / bottom |  3,560 / 2,830 m  |  11,700 / 9,270 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 3/5 (average)  
-Accommodation: homestay - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 18)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E018.png#elev018)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1076,7 +1379,9 @@ The trail was relatively well maintained and easy to follow.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 19)</span>
 
 
 
@@ -1085,6 +1390,12 @@ The trail was relatively well maintained and easy to follow.
 **L019 Chyamtang (2,230 m / 7,320 ft)**: Chyamtang is a large village and is the recommended overnight stop in the guidebook and paper maps, however despite some searching I didn't find a guesthouse. I was directed to Lingham which is a couple of hours further and has an excellent guesthouse.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -1098,9 +1409,21 @@ The trail was relatively well maintained and easy to follow.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 19)</span>
+
+Trail: 4/5 (above average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 19)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1109,21 +1432,19 @@ The trail was relatively well maintained and easy to follow.
 <!--| Start / end |  2,830 / 2,190 m |  9,280 / 7,170 ft |
 | Top / bottom |  2,860 / 1,780 m  |  9,380 / 5,850 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 19)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E019.png#elev019)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1135,7 +1456,9 @@ The trail was mostly well maintained and easy to follow.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 20)</span>
 
 
 
@@ -1147,11 +1470,27 @@ The trail was mostly well maintained and easy to follow.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 20)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 20)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1160,21 +1499,19 @@ The trail was mostly well maintained and easy to follow.
 <!--| Start / end |  2,200 / 2,330 m |  7,220 / 7,630 ft |
 | Top / bottom |  2,330 / 2,010 m  |  7,630 / 6,580 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 20)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E020.png#elev020)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1186,7 +1523,9 @@ The trail was tricky to follow, and obscured by snow at higher elevations. The u
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 21)</span>
 
 
 
@@ -1198,11 +1537,27 @@ The trail was tricky to follow, and obscured by snow at higher elevations. The u
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 21)</span>
+
+Trail: 2/5 (below average)  
+Route: 3/5 (average)  
+Accommodation: campsite - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 21)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1211,21 +1566,19 @@ The trail was tricky to follow, and obscured by snow at higher elevations. The u
 <!--| Start / end |  2,340 / 3,960 m |  7,670 / 13,000 ft |
 | Top / bottom |  4,020 / 2,340 m  |  13,200 / 7,670 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 3/5 (average)  
-Accommodation: campsite - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 21)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E021.png#elev021)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1237,7 +1590,9 @@ The guidebook explains how to find a bridge over the Kholakharka Khola, but desp
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 22)</span>
 
 
 
@@ -1249,6 +1604,12 @@ The guidebook explains how to find a bridge over the Kholakharka Khola, but desp
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L022 Dhungge Khola (3,620 m / 11,900 ft)**: The bridge over the Dhungge Khola was just two planks of wood (spring 2019). The guidebook mentions it is often washed away.
@@ -1257,11 +1618,15 @@ The guidebook explains how to find a bridge over the Kholakharka Khola, but desp
 
 
 
+
+
 <div class="no-page-break">
 
 **L022 Kholakharka Khola (3,010 m / 9,860 ft)**: The guidebook explains how to find a bridge over the Kholakharka Khola that is located somewhere around this waypoint. However despite hours of searching, I could not find the bridge. The route in the GPX file after this point is just copied from the paper maps, so should not be relied upon.
 
 </div>
+
+
 
 
 
@@ -1277,7 +1642,29 @@ The guidebook explains how to find a bridge over the Kholakharka Khola, but desp
 
 <div class="no-page-break">
 
-#### Stats
+**L022 Cave Camp (3,120 m / 10,200 ft)**: I skipped this section, so the location of this campsite is approximate and copied from the paper maps.
+
+</div>
+
+
+
+
+
+
+
+<div class="no-page-break">
+
+#### Ratings <span class="print-only">(leg 22)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - (unknown)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 22)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1286,21 +1673,19 @@ The guidebook explains how to find a bridge over the Kholakharka Khola, but desp
 <!--| Start / end |  3,960 / 3,120 m |  13,000 / 10,200 ft |
 | Top / bottom |  4,220 / 2,870 m  |  13,800 / 9,400 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - (unknown)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 22)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E022.png#elev022)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1312,7 +1697,9 @@ I skipped this section. The route for this leg is just copied from the paper map
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 23)</span>
 
 
 
@@ -1324,11 +1711,27 @@ I skipped this section. The route for this leg is just copied from the paper map
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 23)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - (unknown)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 23)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1337,21 +1740,19 @@ I skipped this section. The route for this leg is just copied from the paper map
 <!--| Start / end |  3,140 / 4,130 m |  10,300 / 13,500 ft |
 | Top / bottom |  4,600 / 3,140 m  |  15,100 / 10,300 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - (unknown)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 23)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E023.png#elev023)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1363,7 +1764,9 @@ The helicopter dropped me at Kongma Danda which is on the Makalu Base Camp trail
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 24)</span>
 
 
 
@@ -1375,11 +1778,19 @@ The helicopter dropped me at Kongma Danda which is on the Makalu Base Camp trail
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L024 Yangla Kharka (3,760 m / 12,300 ft)**: We stayed overnight in a basic guesthouse at Yangla Kharka, and although this isn't in the itinerary as an overnight stop it is an option. 
 
 </div>
+
+
 
 
 
@@ -1393,9 +1804,21 @@ The helicopter dropped me at Kongma Danda which is on the Makalu Base Camp trail
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 24)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 24)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1404,21 +1827,19 @@ The helicopter dropped me at Kongma Danda which is on the Makalu Base Camp trail
 <!--| Start / end |  4,120 / 4,450 m |  13,500 / 14,600 ft |
 | Top / bottom |  4,450 / 3,480 m  |  14,600 / 11,400 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 24)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E024.png#elev024)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1430,7 +1851,9 @@ The trail was reasonably easy to follow.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 25)</span>
 
 
 
@@ -1442,11 +1865,27 @@ The trail was reasonably easy to follow.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 25)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 25)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1455,21 +1894,19 @@ The trail was reasonably easy to follow.
 <!--| Start / end |  4,450 / 4,840 m |  14,600 / 15,900 ft |
 | Top / bottom |  4,900 / 4,450 m  |  16,100 / 14,600 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 25)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E025.png#elev025)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1481,7 +1918,9 @@ The trail was tricky to follow. For some sections we were scrambling over glacia
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 26)</span>
 
 
 
@@ -1493,11 +1932,27 @@ The trail was tricky to follow. For some sections we were scrambling over glacia
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 26)</span>
+
+Trail: 1/5 (major problems)  
+Route: 2/5 (below average)  
+Accommodation: campsite - 1/5 (awful)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 26)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1506,21 +1961,19 @@ The trail was tricky to follow. For some sections we were scrambling over glacia
 <!--| Start / end |  4,840 / 5,200 m |  15,900 / 17,100 ft |
 | Top / bottom |  5,220 / 4,840 m  |  17,100 / 15,900 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 2/5 (below average)  
-Accommodation: campsite - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 26)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E026.png#elev026)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1532,7 +1985,9 @@ The route follows steep glacial moraine all day. Very difficult and dangerous, s
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 27)</span>
 
 
 
@@ -1544,11 +1999,27 @@ The route follows steep glacial moraine all day. Very difficult and dangerous, s
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 27)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 27)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1557,21 +2028,19 @@ The route follows steep glacial moraine all day. Very difficult and dangerous, s
 <!--| Start / end |  5,200 / 5,700 m |  17,100 / 18,700 ft |
 | Top / bottom |  5,700 / 5,190 m  |  18,700 / 17,000 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 27)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E027.png#elev027)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1583,7 +2052,9 @@ The route is on crevassed, glaciated terrain all day. The safest route across th
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 28)</span>
 
 
 
@@ -1592,6 +2063,12 @@ The route is on crevassed, glaciated terrain all day. The safest route across th
 **L028 Sherpani Col (6,160 m / 20,200 ft)**: Crossing Sherpani Col involves a 100m climb, then a 100m down climb on the other side. We were able to clip into a fixed safety wire for the climb and descent, but a fall would still be extremely dangerous. At the bottom of the down-climb there was a small bergschrund before we reached the crevassed glacial plateau that separates Sherpani Col and West Col.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -1605,9 +2082,21 @@ The route is on crevassed, glaciated terrain all day. The safest route across th
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 28)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 1/5 (awful)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 28)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1616,21 +2105,19 @@ The route is on crevassed, glaciated terrain all day. The safest route across th
 <!--| Start / end |  5,700 / 6,110 m |  18,700 / 20,100 ft |
 | Top / bottom |  6,160 / 5,700 m  |  20,200 / 18,700 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 28)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E028.png#elev028)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1642,7 +2129,9 @@ The route is on crevassed, glaciated terrain all day. The safest route across th
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 29)</span>
 
 
 
@@ -1651,6 +2140,12 @@ The route is on crevassed, glaciated terrain all day. The safest route across th
 **L029 West Col (6,120 m / 20,100 ft)**: Crossing West Col involves a short 20m climb, then a 200m rappel down over vertical rocks and blue ice. Make sure you bring a 200m rope for the rappel and do not rely on ropes left behind by previous teams, which are often unsafe.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -1664,9 +2159,21 @@ The route is on crevassed, glaciated terrain all day. The safest route across th
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 29)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 29)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1675,21 +2182,19 @@ The route is on crevassed, glaciated terrain all day. The safest route across th
 <!--| Start / end |  6,110 / 5,440 m |  20,100 / 17,800 ft |
 | Top / bottom |  6,130 / 5,430 m  |  20,100 / 17,800 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 29)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E029.png#elev029)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1701,7 +2206,9 @@ We didn't hike most of this leg, having followed a different path, so the rating
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 30)</span>
 
 
 
@@ -1710,6 +2217,12 @@ We didn't hike most of this leg, having followed a different path, so the rating
 **L030 Rejoin (5,470 m / 17,900 ft)**: One of our party fell ill, so we took an extra rest day at a lower camp sitge, and an alternative route from Barnutse Base Camp to Amphu Labsta Base Camp. We rejoined the trail at this waypoint. The route before this is marked as a trail on digital maps, but we didn't actually hike it.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -1723,9 +2236,21 @@ We didn't hike most of this leg, having followed a different path, so the rating
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 30)</span>
+
+Trail: 2/5 (below average)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 1/5 (awful)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 30)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1734,21 +2259,19 @@ We didn't hike most of this leg, having followed a different path, so the rating
 <!--| Start / end |  5,440 / 5,510 m |  17,800 / 18,100 ft |
 | Top / bottom |  5,510 / 5,350 m  |  18,100 / 17,600 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 30)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E030.png#elev030)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1760,7 +2283,9 @@ Amphu Labsta is one of the most dangerous passes in Nepal, and the route climbs 
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 31)</span>
 
 
 
@@ -1769,6 +2294,12 @@ Amphu Labsta is one of the most dangerous passes in Nepal, and the route climbs 
 **L031 Amphu Labsta (5,830 m / 19,100 ft)**: The access to Amphu Labsta is via a huge ice fall, with platforms of snow and ice to navigate. Our route differs significantly from that marked on digital maps, but I'm sure the safest route is different every year. Parts of the ascent we were able to clip into a safety wire, but there were parts where it was hidden under impenetrable ice. After the pass a 30m rappel is needed. The hike down into the basin below is extremely dangerous, with very loose rocks on a high gradient. 
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -1782,9 +2313,21 @@ Amphu Labsta is one of the most dangerous passes in Nepal, and the route climbs 
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 31)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 31)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1793,21 +2336,19 @@ Amphu Labsta is one of the most dangerous passes in Nepal, and the route climbs 
 <!--| Start / end |  5,520 / 4,730 m |  18,100 / 15,500 ft |
 | Top / bottom |  5,830 / 4,730 m  |  19,100 / 15,500 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 31)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E031.png#elev031)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1819,7 +2360,9 @@ The trail was well maintained and easy to follow.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 32)</span>
 
 
 
@@ -1831,11 +2374,27 @@ The trail was well maintained and easy to follow.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 32)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 32)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1844,21 +2403,19 @@ The trail was well maintained and easy to follow.
 <!--| Start / end |  4,730 / 4,350 m |  15,500 / 14,300 ft |
 | Top / bottom |  4,730 / 4,350 m  |  15,500 / 14,300 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 32)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E032.png#elev032)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1870,7 +2427,9 @@ We skipped the Everest Base Camp side-trek and hiked directly to Dzongla (leg 36
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 33)</span>
 
 
 
@@ -1882,11 +2441,27 @@ We skipped the Everest Base Camp side-trek and hiked directly to Dzongla (leg 36
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 33)</span>
+
+Trail: (unknown)  
+Route: (unknown)  
+Accommodation: guesthouse - (unknown)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 33)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1895,21 +2470,19 @@ We skipped the Everest Base Camp side-trek and hiked directly to Dzongla (leg 36
 <!--| Start / end |  4,350 / 4,930 m |  14,300 / 16,200 ft |
 | Top / bottom |  4,930 / 4,330 m  |  16,200 / 14,200 ft |-->
 
-#### Ratings
-
-Trail: (unknown)  
-Route: (unknown)  
-Accommodation: guesthouse - (unknown)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 33)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E033.png#elev033)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1921,7 +2494,23 @@ See leg 33
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 34)</span>
+
+
+
+<div class="no-page-break">
+
+**L034 Kala Patthar (5,580 m / 18,300 ft)**: We skipped this section, but Kala Patthar is a popular viewpoint of the Everest mountain range.
+
+</div>
+
+
+
+</div>
+
+
 
 
 
@@ -1935,9 +2524,21 @@ See leg 33
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 34)</span>
+
+Trail: (unknown)  
+Route: (unknown)  
+Accommodation: guesthouse - (unknown)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 34)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1946,21 +2547,19 @@ See leg 33
 <!--| Start / end |  4,920 / 5,160 m |  16,200 / 16,900 ft |
 | Top / bottom |  5,580 / 4,920 m  |  18,300 / 16,100 ft |-->
 
-#### Ratings
-
-Trail: (unknown)  
-Route: (unknown)  
-Accommodation: guesthouse - (unknown)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 34)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E034.png#elev034)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -1972,7 +2571,23 @@ See leg 33
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 35)</span>
+
+
+
+<div class="no-page-break">
+
+**L035 Everest Base Camp (5,320 m / 17,400 ft)**: We skipped this section, but Everest Base Camp is a popular tourist attraction.
+
+</div>
+
+
+
+</div>
+
+
 
 
 
@@ -1986,9 +2601,21 @@ See leg 33
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 35)</span>
+
+Trail: (unknown)  
+Route: (unknown)  
+Accommodation: guesthouse - (unknown)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 35)</span>
 
 |   |   |  |
 | - | - |- |
@@ -1997,21 +2624,19 @@ See leg 33
 <!--| Start / end |  5,170 / 4,920 m |  16,900 / 16,100 ft |
 | Top / bottom |  5,330 / 4,920 m  |  17,500 / 16,100 ft |-->
 
-#### Ratings
-
-Trail: (unknown)  
-Route: (unknown)  
-Accommodation: guesthouse - (unknown)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 35)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E035.png#elev035)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2023,7 +2648,9 @@ The trail was well maintained and easy to follow.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 36)</span>
 
 
 
@@ -2035,11 +2662,27 @@ The trail was well maintained and easy to follow.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 36)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 36)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2048,21 +2691,19 @@ The trail was well maintained and easy to follow.
 <!--| Start / end |  4,920 / 4,830 m |  16,100 / 15,800 ft |
 | Top / bottom |  4,920 / 4,740 m  |  16,100 / 15,600 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 36)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E036.png#elev036)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2074,7 +2715,9 @@ The trail was tricky to follow and sometimes obscured by snow in the higher elev
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 37)</span>
 
 
 
@@ -2083,6 +2726,12 @@ The trail was tricky to follow and sometimes obscured by snow in the higher elev
 **L037 Cho La (5,370 m / 17,600 ft)**: The approach to Cho La involved some scrambling and a short hike across a relatively flat section of glacier. It was free of crevasses and crampons were not needed when we crossed, however if conditions were bad this section could be problematic. The descent on the other side was steep, but a safety cable was fixed on the dangerous sections.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -2096,9 +2745,21 @@ The trail was tricky to follow and sometimes obscured by snow in the higher elev
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 37)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 37)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2107,21 +2768,19 @@ The trail was tricky to follow and sometimes obscured by snow in the higher elev
 <!--| Start / end |  4,830 / 4,680 m |  15,800 / 15,400 ft |
 | Top / bottom |  5,370 / 4,680 m  |  17,600 / 15,300 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 37)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E037.png#elev037)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2133,7 +2792,9 @@ The trail crosses an enormous glacier, which is constantly eroding and changing.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 38)</span>
 
 
 
@@ -2142,6 +2803,12 @@ The trail crosses an enormous glacier, which is constantly eroding and changing.
 **L038 Gokyo (4,760 m / 15,600 ft)**: We stayed at an excellent, but very expensive guesthouse in Gokyo.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -2155,9 +2822,21 @@ The trail crosses an enormous glacier, which is constantly eroding and changing.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 38)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 38)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2166,21 +2845,19 @@ The trail crosses an enormous glacier, which is constantly eroding and changing.
 <!--| Start / end |  4,690 / 4,760 m |  15,400 / 15,600 ft |
 | Top / bottom |  5,340 / 4,690 m  |  17,500 / 15,400 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 38)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E038.png#elev038)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2192,7 +2869,9 @@ The trail was mostly easy to follow, becoming tricky in the higher elevations on
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 39)</span>
 
 
 
@@ -2201,6 +2880,12 @@ The trail was mostly easy to follow, becoming tricky in the higher elevations on
 **L039 Renjo La (5,390 m / 17,700 ft)**: The approach to Renjo La was a relatively easy hike - not as technical as Cho La. The down climb on the other side was very steep but the trail was a very well maintained stone steps which made descending easy. If snow obscures the path, this down climb could become very dangerous.  
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -2214,9 +2899,21 @@ The trail was mostly easy to follow, becoming tricky in the higher elevations on
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 39)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 39)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2225,21 +2922,19 @@ The trail was mostly easy to follow, becoming tricky in the higher elevations on
 <!--| Start / end |  4,750 / 4,360 m |  15,600 / 14,300 ft |
 | Top / bottom |  5,390 / 4,340 m  |  17,700 / 14,200 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 39)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E039.png#elev039)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2251,7 +2946,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 40)</span>
 
 
 
@@ -2263,11 +2960,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 40)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 40)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2276,21 +2989,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  4,360 / 3,790 m |  14,300 / 12,400 ft |
 | Top / bottom |  4,370 / 3,790 m  |  14,300 / 12,400 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 40)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E040.png#elev040)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2302,7 +3013,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 41)</span>
 
 
 
@@ -2314,11 +3027,27 @@ Simple hike along along an easy to follow trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 41)</span>
+
+Trail: 4/5 (above average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 41)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2327,21 +3056,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  3,790 / 4,310 m |  12,400 / 14,100 ft |
 | Top / bottom |  4,310 / 3,790 m  |  14,100 / 12,400 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 41)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E041.png#elev041)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2353,7 +3080,9 @@ The trail started off easy to follow, but because progressively harder as the da
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 42)</span>
 
 
 
@@ -2362,6 +3091,12 @@ The trail started off easy to follow, but because progressively harder as the da
 **L042 Shelter (4,870 m / 16,000 ft)**: This is a nice, clean shelter. It seems to be relatively new as of spring 2019.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -2375,9 +3110,21 @@ The trail started off easy to follow, but because progressively harder as the da
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 42)</span>
+
+Trail: 2/5 (below average)  
+Route: 4/5 (above average)  
+Accommodation: campsite - 1/5 (awful)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 42)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2386,21 +3133,19 @@ The trail started off easy to follow, but because progressively harder as the da
 <!--| Start / end |  4,310 / 5,220 m |  14,100 / 17,100 ft |
 | Top / bottom |  5,220 / 4,310 m  |  17,100 / 14,100 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 4/5 (above average)  
-Accommodation: campsite - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 42)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E042.png#elev042)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2412,7 +3157,9 @@ The route is on crevassed, glaciated terrain for most of the day. Although not a
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 43)</span>
 
 
 
@@ -2421,6 +3168,12 @@ The route is on crevassed, glaciated terrain for most of the day. Although not a
 **L043 Tashi Labsta (5,770 m / 18,900 ft)**: The approach to Tashi Labsta is up a huge steep pile of glacial moraine with constant danger of rocks slipping. We then climbed a very steep snow bank, which required ropes and crampons. The final section across the glacier and up to the pass was under cliffs with constant danger of rock fall from above. The first half of the descent down from the pass was extremely difficult, following the glacier with many crevasses to cross. The final part of the descent was even worse where we had to climb down a stream gully with water splashing all over us.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -2434,9 +3187,21 @@ The route is on crevassed, glaciated terrain for most of the day. Although not a
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 43)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 1/5 (awful)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 43)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2445,21 +3210,19 @@ The route is on crevassed, glaciated terrain for most of the day. Although not a
 <!--| Start / end |  5,210 / 4,880 m |  17,100 / 16,000 ft |
 | Top / bottom |  5,770 / 4,880 m  |  18,900 / 16,000 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 43)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E043.png#elev043)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2471,7 +3234,9 @@ The first half of this leg follows the glacier, a huge boulder field. An altoget
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 44)</span>
 
 
 
@@ -2483,11 +3248,27 @@ The first half of this leg follows the glacier, a huge boulder field. An altoget
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 44)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 44)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2496,21 +3277,19 @@ The first half of this leg follows the glacier, a huge boulder field. An altoget
 <!--| Start / end |  4,880 / 4,180 m |  16,000 / 13,700 ft |
 | Top / bottom |  4,890 / 4,170 m  |  16,000 / 13,700 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 44)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E044.png#elev044)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2522,7 +3301,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 45)</span>
 
 
 
@@ -2534,11 +3315,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 45)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 45)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2547,21 +3344,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  4,180 / 3,710 m |  13,700 / 12,200 ft |
 | Top / bottom |  4,180 / 3,710 m  |  13,700 / 12,200 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 45)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E045.png#elev045)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2573,7 +3368,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 46)</span>
 
 
 
@@ -2585,11 +3382,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 46)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 46)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2598,21 +3411,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  3,710 / 2,790 m |  12,200 / 9,150 ft |
 | Top / bottom |  3,710 / 2,790 m  |  12,200 / 9,150 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 46)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E046.png#elev046)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2624,7 +3435,9 @@ Easy hike along along well maintained trail. The rating is for the guesthouse we
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 47)</span>
 
 
 
@@ -2636,11 +3449,27 @@ Easy hike along along well maintained trail. The rating is for the guesthouse we
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 47)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 1/5 (basic)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 47)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2649,21 +3478,19 @@ Easy hike along along well maintained trail. The rating is for the guesthouse we
 <!--| Start / end |  2,790 / 2,000 m |  9,150 / 6,550 ft |
 | Top / bottom |  2,860 / 2,000 m  |  9,390 / 6,550 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 47)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E047.png#elev047)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2675,7 +3502,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 48)</span>
 
 
 
@@ -2684,6 +3513,12 @@ Easy hike along along well maintained trail.
 **L048 Gonggar (1,280 m / 4,180 ft)**: We skipped Simigaon the previous day and spent the night at a very basic guesthouse Gonggar, which was a miserable place. It's the base station for a major hydroelectric project, so full of lorries, and much lower so very hot and humid. I would recommend staying at Simigaon.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -2697,9 +3532,21 @@ Easy hike along along well maintained trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 48)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: homestay - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 48)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2708,21 +3555,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  1,990 / 1,980 m |  6,540 / 6,490 ft |
 | Top / bottom |  2,040 / 1,270 m  |  6,680 / 4,150 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: homestay - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 48)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E048.png#elev048)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2734,7 +3579,9 @@ Easy hike along along a dirt road.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 49)</span>
 
 
 
@@ -2746,11 +3593,27 @@ Easy hike along along a dirt road.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 49)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: homestay - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 49)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2759,21 +3622,19 @@ Easy hike along along a dirt road.
 <!--| Start / end |  1,990 / 2,050 m |  6,520 / 6,720 ft |
 | Top / bottom |  2,050 / 1,840 m  |  6,730 / 6,030 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: homestay - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 49)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E049.png#elev049)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2785,7 +3646,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 50)</span>
 
 
 
@@ -2797,11 +3660,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 50)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 50)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2810,21 +3689,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  2,050 / 1,770 m |  6,720 / 5,790 ft |
 | Top / bottom |  2,050 / 1,660 m  |  6,740 / 5,460 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 50)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E050.png#elev050)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2836,7 +3713,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 51)</span>
 
 
 
@@ -2848,11 +3727,27 @@ Simple hike along along an easy to follow trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 51)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 51)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2861,21 +3756,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  1,770 / 2,500 m |  5,810 / 8,210 ft |
 | Top / bottom |  2,500 / 1,750 m  |  8,210 / 5,740 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 51)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E051.png#elev051)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2887,7 +3780,9 @@ A tricky trail to follow, especially around the River waypoint.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 52)</span>
 
 
 
@@ -2899,11 +3794,19 @@ A tricky trail to follow, especially around the River waypoint.
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L052 River (2,490 m / 8,160 ft)**: We bushwhacked up a river valley for an hour here. I suspect that this was not needed, and the road maybe joins up. However looking at satellite pictures of the area is inconclusive.
 
 </div>
+
+
 
 
 
@@ -2917,9 +3820,21 @@ A tricky trail to follow, especially around the River waypoint.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 52)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 52)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2928,21 +3843,19 @@ A tricky trail to follow, especially around the River waypoint.
 <!--| Start / end |  2,510 / 3,280 m |  8,220 / 10,800 ft |
 | Top / bottom |  3,280 / 2,160 m  |  10,800 / 7,100 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 52)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E052.png#elev052)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -2954,7 +3867,9 @@ The first part of this leg was a very dangerous traverse across a steep hillside
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 53)</span>
 
 
 
@@ -2966,11 +3881,19 @@ The first part of this leg was a very dangerous traverse across a steep hillside
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L053 Madre (2,080 m / 6,830 ft)**: We stayed at a basic guesthouse in Madre, which was the result of a major navigational blunder. I would recommend trying to stick to the route and find Sano Jyandan.
 
 </div>
+
+
 
 
 
@@ -2984,9 +3907,21 @@ The first part of this leg was a very dangerous traverse across a steep hillside
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 53)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 53)</span>
 
 |   |   |  |
 | - | - |- |
@@ -2995,21 +3930,19 @@ The first part of this leg was a very dangerous traverse across a steep hillside
 <!--| Start / end |  3,290 / 2,920 m |  10,800 / 9,560 ft |
 | Top / bottom |  3,360 / 2,920 m  |  11,000 / 9,560 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 53)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E053.png#elev053)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3021,7 +3954,9 @@ Our navigational blunder from the previous day meant we skipped most of this leg
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 54)</span>
 
 
 
@@ -3030,6 +3965,12 @@ Our navigational blunder from the previous day meant we skipped most of this leg
 **L054 Rejoin (2,100 m / 6,900 ft)**: We rejoined the route at this waypoint. The route in the GPX file before this point is just copied from the paper maps, so should not be relied upon.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -3043,9 +3984,21 @@ Our navigational blunder from the previous day meant we skipped most of this leg
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 54)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 54)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3054,21 +4007,19 @@ Our navigational blunder from the previous day meant we skipped most of this leg
 <!--| Start / end |  2,920 / 1,210 m |  9,560 / 3,970 ft |
 | Top / bottom |  2,950 / 1,170 m  |  9,680 / 3,850 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 54)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E054.png#elev054)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3080,7 +4031,9 @@ Easy hike along along a dirt road. Note that the paper maps any other itinerarie
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 55)</span>
 
 
 
@@ -3092,11 +4045,27 @@ Easy hike along along a dirt road. Note that the paper maps any other itinerarie
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 55)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: homestay - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 55)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3105,21 +4074,19 @@ Easy hike along along a dirt road. Note that the paper maps any other itinerarie
 <!--| Start / end |  1,220 / 2,570 m |  4,000 / 8,420 ft |
 | Top / bottom |  2,570 / 1,220 m  |  8,440 / 3,990 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: homestay - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 55)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E055.png#elev055)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3131,7 +4098,9 @@ The trail was very tricky to follow, with frequent sections of bushwhacking.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 56)</span>
 
 
 
@@ -3143,11 +4112,27 @@ The trail was very tricky to follow, with frequent sections of bushwhacking.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 56)</span>
+
+Trail: 2/5 (below average)  
+Route: 2/5 (below average)  
+Accommodation: homestay - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 56)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3156,21 +4141,19 @@ The trail was very tricky to follow, with frequent sections of bushwhacking.
 <!--| Start / end |  2,580 / 2,520 m |  8,470 / 8,260 ft |
 | Top / bottom |  3,060 / 2,520 m  |  10,000 / 8,260 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 2/5 (below average)  
-Accommodation: homestay - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 56)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E056.png#elev056)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3182,7 +4165,9 @@ The trail was reasonably easy to follow. We spent considerable effort trying to 
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 57)</span>
 
 
 
@@ -3194,11 +4179,27 @@ The trail was reasonably easy to follow. We spent considerable effort trying to 
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 57)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: homestay - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 57)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3207,21 +4208,19 @@ The trail was reasonably easy to follow. We spent considerable effort trying to 
 <!--| Start / end |  2,500 / 2,220 m |  8,190 / 7,280 ft |
 | Top / bottom |  2,500 / 1,850 m  |  8,210 / 6,050 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: homestay - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 57)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E057.png#elev057)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3233,7 +4232,9 @@ The trail was reasonably easy to follow.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 58)</span>
 
 
 
@@ -3245,11 +4246,19 @@ The trail was reasonably easy to follow.
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L058 Kharka (3,970 m / 13,000 ft)**: We actually split this leg over two days and camped at a nice flat kharka here. This made the second day very short so I would recommend pushing on to Panch Pokhari.
 
 </div>
+
+
 
 
 
@@ -3263,9 +4272,21 @@ The trail was reasonably easy to follow.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 58)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: shelter - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 58)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3274,21 +4295,19 @@ The trail was reasonably easy to follow.
 <!--| Start / end |  2,190 / 4,060 m |  7,180 / 13,300 ft |
 | Top / bottom |  4,160 / 2,120 m  |  13,600 / 6,940 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: shelter - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 58)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E058.png#elev058)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3300,7 +4319,9 @@ The trail was tricky to follow at times, but the route is correct and the terrai
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 59)</span>
 
 
 
@@ -3312,11 +4333,27 @@ The trail was tricky to follow at times, but the route is correct and the terrai
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 59)</span>
+
+Trail: 2/5 (below average)  
+Route: 4/5 (above average)  
+Accommodation: campsite - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 59)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3325,21 +4362,19 @@ The trail was tricky to follow at times, but the route is correct and the terrai
 <!--| Start / end |  4,060 / 4,180 m |  13,300 / 13,700 ft |
 | Top / bottom |  4,400 / 3,930 m  |  14,400 / 12,900 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 4/5 (above average)  
-Accommodation: campsite - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 59)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E059.png#elev059)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3351,7 +4386,9 @@ The trail follows the glacier up to Tillmans Pass, and involves scrambling over 
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 60)</span>
 
 
 
@@ -3363,11 +4400,27 @@ The trail follows the glacier up to Tillmans Pass, and involves scrambling over 
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 60)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 1/5 (awful)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 60)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3376,21 +4429,19 @@ The trail follows the glacier up to Tillmans Pass, and involves scrambling over 
 <!--| Start / end |  4,170 / 4,960 m |  13,700 / 16,300 ft |
 | Top / bottom |  4,970 / 4,150 m  |  16,300 / 13,600 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 60)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E060.png#elev060)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3402,7 +4453,9 @@ The route crosses crevassed, glaciated terrain. Although not as technical as Tas
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 61)</span>
 
 
 
@@ -3411,6 +4464,12 @@ The route crosses crevassed, glaciated terrain. Although not as technical as Tas
 **L061 Tilman's Pass (5,300 m / 17,400 ft)**: The approach to Tilman's Pass is up a steep icy glacial slope. When we crossed, crampons and ice axe were sufficient for safety but if conditions were different, ropes may have been needed. The descent was less steep but again if conditions were worse it could be more tricky.  
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -3424,9 +4483,21 @@ The route crosses crevassed, glaciated terrain. Although not as technical as Tas
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 61)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 61)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3435,21 +4506,19 @@ The route crosses crevassed, glaciated terrain. Although not as technical as Tas
 <!--| Start / end |  4,960 / 4,550 m |  16,300 / 14,900 ft |
 | Top / bottom |  5,320 / 4,540 m  |  17,400 / 14,900 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 61)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E061.png#elev061)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3461,7 +4530,9 @@ We had major problems here. The route before the Langtang Khola crossing is very
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 62)</span>
 
 
 
@@ -3473,11 +4544,19 @@ We had major problems here. The route before the Langtang Khola crossing is very
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L062 Bridge (4,120 m / 13,500 ft)**: There was a bridge over the Langtang Khola here (spring 2019).
 
 </div>
+
+
 
 
 
@@ -3489,6 +4568,8 @@ We had major problems here. The route before the Langtang Khola crossing is very
 
 
 
+
+
 <div class="no-page-break">
 
 **L062 Langtang Khola (4,090 m / 13,400 ft)**: The Langtang Khola is a large river that flows down the Langtang valley. The only bridge we found over this river was to the east of the confluence with the Langshisha Khola.
@@ -3497,11 +4578,15 @@ We had major problems here. The route before the Langtang Khola crossing is very
 
 
 
+
+
 <div class="no-page-break">
 
 **L062 Langshisha Kharka (4,130 m / 13,600 ft)**: We camped here overnight. I would not recommend going here.
 
 </div>
+
+
 
 
 
@@ -3515,9 +4600,21 @@ We had major problems here. The route before the Langtang Khola crossing is very
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 62)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 62)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3526,21 +4623,19 @@ We had major problems here. The route before the Langtang Khola crossing is very
 <!--| Start / end |  4,550 / 3,870 m |  14,900 / 12,700 ft |
 | Top / bottom |  4,550 / 3,830 m  |  14,900 / 12,500 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 62)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E062.png#elev062)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3552,7 +4647,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 63)</span>
 
 
 
@@ -3564,11 +4661,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 63)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 63)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3577,21 +4690,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  3,860 / 2,470 m |  12,700 / 8,100 ft |
 | Top / bottom |  3,870 / 2,470 m  |  12,700 / 8,100 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 63)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E063.png#elev063)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3603,7 +4714,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 64)</span>
 
 
 
@@ -3615,11 +4728,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 64)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 64)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3628,21 +4757,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  2,470 / 1,460 m |  8,100 / 4,790 ft |
 | Top / bottom |  2,520 / 1,430 m  |  8,270 / 4,700 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 64)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E064.png#elev064)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3654,7 +4781,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 65)</span>
 
 
 
@@ -3666,11 +4795,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 65)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 65)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3679,21 +4824,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  1,450 / 2,290 m |  4,740 / 7,500 ft |
 | Top / bottom |  2,400 / 1,440 m  |  7,890 / 4,710 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 65)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E065.png#elev065)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3705,7 +4848,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 66)</span>
 
 
 
@@ -3717,11 +4862,27 @@ Simple hike along along an easy to follow trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 66)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 66)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3730,21 +4891,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  2,310 / 3,270 m |  7,580 / 10,700 ft |
 | Top / bottom |  3,730 / 2,310 m  |  12,300 / 7,580 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 66)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E066.png#elev066)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3756,7 +4915,9 @@ Take care to find where the footpath diverges from the road. We made a navigatio
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 67)</span>
 
 
 
@@ -3765,6 +4926,12 @@ Take care to find where the footpath diverges from the road. We made a navigatio
 **L067 Footpath (3,780 m / 12,400 ft)**: This is approximately where the footpath diverges from the road. Take care to find the footpath.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -3778,9 +4945,21 @@ Take care to find where the footpath diverges from the road. We made a navigatio
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 67)</span>
+
+Trail: 3/5 (average)  
+Route: 1/5 (major problems)  
+Accommodation: homestay - 1/5 (basic)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 67)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3789,21 +4968,19 @@ Take care to find where the footpath diverges from the road. We made a navigatio
 <!--| Start / end |  3,280 / 2,050 m |  10,800 / 6,730 ft |
 | Top / bottom |  3,900 / 2,050 m  |  12,800 / 6,730 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 1/5 (major problems)  
-Accommodation: homestay - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 67)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E067.png#elev067)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3815,7 +4992,9 @@ Heavy rain in the afternoon meant we split this leg over two days and stayed ove
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 68)</span>
 
 
 
@@ -3824,6 +5003,12 @@ Heavy rain in the afternoon meant we split this leg over two days and stayed ove
 **L068 Borang (1,580 m / 5,190 ft)**: Although not on the itinerary, we stayed overnight in a nice guesthouse in Borang.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -3837,9 +5022,21 @@ Heavy rain in the afternoon meant we split this leg over two days and stayed ove
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 68)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 1/5 (basic)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 68)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3848,21 +5045,19 @@ Heavy rain in the afternoon meant we split this leg over two days and stayed ove
 <!--| Start / end |  2,050 / 1,850 m |  6,720 / 6,080 ft |
 | Top / bottom |  2,060 / 1,200 m  |  6,750 / 3,920 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 68)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E068.png#elev068)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3874,7 +5069,9 @@ We stopped early and stayed the night in a barn at Myangal Kharka because we wer
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 69)</span>
 
 
 
@@ -3886,11 +5083,19 @@ We stopped early and stayed the night in a barn at Myangal Kharka because we wer
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L069 Nauban Kharka (2,000 m / 6,550 ft)**: Our original itinerary takes a more direct route via Nauban Kharka, but we could not find this trail on the ground, so never made it here. Note this is just the approximate location copied from the paper maps.
 
 </div>
+
+
 
 
 
@@ -3904,9 +5109,21 @@ We stopped early and stayed the night in a barn at Myangal Kharka because we wer
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 69)</span>
+
+Trail: 2/5 (below average)  
+Route: 1/5 (major problems)  
+Accommodation: guesthouse - 1/5 (basic)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 69)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3915,21 +5132,19 @@ We stopped early and stayed the night in a barn at Myangal Kharka because we wer
 <!--| Start / end |  1,850 / 1,550 m |  6,080 / 5,080 ft |
 | Top / bottom |  2,990 / 1,530 m  |  9,800 / 5,010 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 1/5 (major problems)  
-Accommodation: guesthouse - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 69)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E069.png#elev069)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -3941,7 +5156,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 70)</span>
 
 
 
@@ -3953,11 +5170,19 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L070 Machhakhola (840 m / 2,760 ft)**: Our original itinerary descends directly to Machhakhola, but we were warned by the locals that the trail is dangerous. I've updated the route to end at Khorlabesi which takes a relatively good trail.
 
 </div>
+
+
 
 
 
@@ -3971,9 +5196,21 @@ Easy hike along along well maintained trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 70)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 70)</span>
 
 |   |   |  |
 | - | - |- |
@@ -3982,21 +5219,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  1,550 / 890 m |  5,080 / 2,910 ft |
 | Top / bottom |  2,030 / 860 m  |  6,650 / 2,810 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 70)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E070.png#elev070)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4008,7 +5243,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 71)</span>
 
 
 
@@ -4020,11 +5257,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 71)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 71)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4033,21 +5286,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  890 / 1,330 m |  2,910 / 4,370 ft |
 | Top / bottom |  1,580 / 870 m  |  5,190 / 2,840 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 71)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E071.png#elev071)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4059,7 +5310,9 @@ Easy hike along along well maintained trail. Note that the elevation profile of 
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 72)</span>
 
 
 
@@ -4071,11 +5324,27 @@ Easy hike along along well maintained trail. Note that the elevation profile of 
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 72)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 72)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4084,21 +5353,19 @@ Easy hike along along well maintained trail. Note that the elevation profile of 
 <!--| Start / end |  1,340 / 1,880 m |  4,380 / 6,170 ft |
 | Top / bottom |  2,170 / 1,310 m  |  7,120 / 4,290 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 72)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E072.png#elev072)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4110,7 +5377,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 73)</span>
 
 
 
@@ -4122,11 +5391,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 73)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 73)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4135,21 +5420,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  1,900 / 2,610 m |  6,240 / 8,580 ft |
 | Top / bottom |  2,690 / 1,840 m  |  8,830 / 6,040 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 73)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E073.png#elev073)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4161,7 +5444,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 74)</span>
 
 
 
@@ -4173,11 +5458,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 74)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 74)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4186,21 +5487,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  2,610 / 3,510 m |  8,550 / 11,500 ft |
 | Top / bottom |  3,570 / 2,590 m  |  11,700 / 8,500 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 74)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E074.png#elev074)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4212,7 +5511,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 75)</span>
 
 
 
@@ -4221,6 +5522,12 @@ Easy hike along along well maintained trail.
 **L075 Samdo (3,860 m / 12,700 ft)**: We stayed overnight at a basic guesthouse in Samdo.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -4234,9 +5541,21 @@ Easy hike along along well maintained trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 75)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 75)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4245,21 +5564,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  3,510 / 4,480 m |  11,500 / 14,700 ft |
 | Top / bottom |  4,480 / 3,510 m  |  14,700 / 11,500 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 75)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E075.png#elev075)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4271,7 +5588,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 76)</span>
 
 
 
@@ -4280,6 +5599,12 @@ Simple hike along along an easy to follow trail.
 **L076 Larkya La (5,140 m / 16,900 ft)**: One of the easiest high passes of the trek. The trail was easy to follow and not steep.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -4293,9 +5618,21 @@ Simple hike along along an easy to follow trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 76)</span>
+
+Trail: 3/5 (average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 76)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4304,21 +5641,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  4,470 / 3,700 m |  14,700 / 12,200 ft |
 | Top / bottom |  5,150 / 3,700 m  |  16,900 / 12,200 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 76)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E076.png#elev076)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4330,7 +5665,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 77)</span>
 
 
 
@@ -4339,6 +5676,12 @@ Easy hike along along well maintained trail.
 **L077 Tilche (2,260 m / 7,420 ft)**: We stayed overnight at an excellent guesthouse in Tilche.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -4352,9 +5695,21 @@ Easy hike along along well maintained trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 77)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 77)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4363,21 +5718,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  3,700 / 1,880 m |  12,200 / 6,180 ft |
 | Top / bottom |  3,720 / 1,880 m  |  12,200 / 6,170 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 77)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E077.png#elev077)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4389,7 +5742,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 78)</span>
 
 
 
@@ -4398,6 +5753,12 @@ Easy hike along along well maintained trail.
 **L078 Timang (2,600 m / 8,540 ft)**: We stayed overnight at an excellent guesthouse in Timang.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -4411,9 +5772,21 @@ Easy hike along along well maintained trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 78)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 78)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4422,21 +5795,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  1,890 / 2,670 m |  6,180 / 8,760 ft |
 | Top / bottom |  2,750 / 1,890 m  |  9,010 / 6,180 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 78)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E078.png#elev078)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4448,7 +5819,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 79)</span>
 
 
 
@@ -4457,6 +5830,12 @@ Easy hike along along well maintained trail.
 **L079 Bratang (3,800 m / 12,500 ft)**: We stayed overnight at an excellent, but very expensive guesthouse in Bratang.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -4470,9 +5849,21 @@ Easy hike along along well maintained trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 79)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 79)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4481,21 +5872,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  2,670 / 3,300 m |  8,760 / 10,800 ft |
 | Top / bottom |  3,880 / 1,770 m  |  12,700 / 5,810 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 79)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E079.png#elev079)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4507,7 +5896,9 @@ Easy hike along along well maintained trail. We did an alternative route from th
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 80)</span>
 
 
 
@@ -4519,11 +5910,27 @@ Easy hike along along well maintained trail. We did an alternative route from th
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 80)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 80)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4532,21 +5939,19 @@ Easy hike along along well maintained trail. We did an alternative route from th
 <!--| Start / end |  3,310 / 3,550 m |  10,900 / 11,600 ft |
 | Top / bottom |  3,810 / 3,280 m  |  12,500 / 10,800 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 80)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E080.png#elev080)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4558,7 +5963,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 81)</span>
 
 
 
@@ -4570,11 +5977,27 @@ Simple hike along along an easy to follow trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 81)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 81)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4583,21 +6006,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  3,550 / 4,540 m |  11,600 / 14,900 ft |
 | Top / bottom |  4,540 / 3,550 m  |  14,900 / 11,600 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 81)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E081.png#elev081)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4609,7 +6030,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 82)</span>
 
 
 
@@ -4618,6 +6041,12 @@ Simple hike along along an easy to follow trail.
 **L082 Thorong La (5,410 m / 17,800 ft)**: We didn't hike this section on our GHT trek, but have both hiked it before. The trail over Thorong La is relatively well maintained and easy to follow.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -4631,9 +6060,21 @@ Simple hike along along an easy to follow trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 82)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 82)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4642,21 +6083,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  4,530 / 3,750 m |  14,900 / 12,300 ft |
 | Top / bottom |  5,410 / 3,720 m  |  17,800 / 12,200 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 82)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E082.png#elev082)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4668,7 +6107,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 83)</span>
 
 
 
@@ -4680,11 +6121,27 @@ Simple hike along along an easy to follow trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 83)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 83)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4693,21 +6150,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  3,750 / 2,850 m |  12,300 / 9,340 ft |
 | Top / bottom |  3,750 / 2,840 m  |  12,300 / 9,300 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 83)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E083.png#elev083)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4719,7 +6174,9 @@ The trail was occasionally tricky to follow. Be aware that from here onwards for
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 84)</span>
 
 
 
@@ -4731,11 +6188,27 @@ The trail was occasionally tricky to follow. Be aware that from here onwards for
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 84)</span>
+
+Trail: 2/5 (below average)  
+Route: 4/5 (above average)  
+Accommodation: homestay - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 84)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4744,21 +6217,19 @@ The trail was occasionally tricky to follow. Be aware that from here onwards for
 <!--| Start / end |  2,910 / 3,780 m |  9,550 / 12,400 ft |
 | Top / bottom |  4,490 / 2,850 m  |  14,700 / 9,360 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 4/5 (above average)  
-Accommodation: homestay - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 84)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E084.png#elev084)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4770,7 +6241,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 85)</span>
 
 
 
@@ -4782,11 +6255,27 @@ Simple hike along along an easy to follow trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 85)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: shelter - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 85)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4795,21 +6284,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  3,790 / 4,250 m |  12,400 / 13,900 ft |
 | Top / bottom |  4,250 / 3,660 m  |  13,900 / 12,000 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: shelter - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 85)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E085.png#elev085)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4821,7 +6308,9 @@ Very tricky to follow trail, which was steep with slippery crumbling slate fragm
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 86)</span>
 
 
 
@@ -4833,6 +6322,12 @@ Very tricky to follow trail, which was steep with slippery crumbling slate fragm
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L086 Jungben La (5,550 m / 18,200 ft)**: From the river a very easy 400m ascent up a gravel slope leads to Jungben La.
@@ -4841,11 +6336,15 @@ Very tricky to follow trail, which was steep with slippery crumbling slate fragm
 
 
 
+
+
 <div class="no-page-break">
 
 **L086 Niwas La (5,140 m / 16,900 ft)**: When approaching from the east, Niwas La has no real ascent, and the only real indication you've reached it is a pile of rocks with prayer flags.
 
 </div>
+
+
 
 
 
@@ -4859,9 +6358,21 @@ Very tricky to follow trail, which was steep with slippery crumbling slate fragm
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 86)</span>
+
+Trail: 2/5 (below average)  
+Route: 2/5 (below average)  
+Accommodation: campsite - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 86)</span>
 
 |   |   |  |
 | - | - |- |
@@ -4870,21 +6381,19 @@ Very tricky to follow trail, which was steep with slippery crumbling slate fragm
 <!--| Start / end |  4,250 / 4,970 m |  13,900 / 16,300 ft |
 | Top / bottom |  5,550 / 4,250 m  |  18,200 / 13,900 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 2/5 (below average)  
-Accommodation: campsite - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 86)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E086.png#elev086)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -4896,7 +6405,9 @@ We had a huge problem here. The trail on the east side of the Thansan Khola was 
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 87)</span>
 
 
 
@@ -4908,11 +6419,19 @@ We had a huge problem here. The trail on the east side of the Thansan Khola was 
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L087 Cross (4,760 m / 15,600 ft)**: The Thansan Khola is shallow at this point and we easily crossed (August 15th). My recommendation is to cross here to the west side and continue to Chharka Bhot this way. Note we didn't hike this way, so the route is only approximate and you may need to cross the river again before reaching Chharka Bhot.
 
 </div>
+
+
 
 
 
@@ -4924,11 +6443,15 @@ We had a huge problem here. The trail on the east side of the Thansan Khola was 
 
 
 
+
+
 <div class="no-page-break">
 
 **L087 Norbulung (4,760 m / 15,600 ft)**: We stayed overnight at a nice flat grassy campsite.
 
 </div>
+
+
 
 
 
@@ -4940,11 +6463,15 @@ We had a huge problem here. The trail on the east side of the Thansan Khola was 
 
 
 
+
+
 <div class="no-page-break">
 
 **L087 Yalku Khola (4,850 m / 15,900 ft)**: We made a bad decision to follow the Yalku Khola upstream trying to find an alternative route to Chharka Bhot.
 
 </div>
+
+
 
 
 
@@ -4956,11 +6483,15 @@ We had a huge problem here. The trail on the east side of the Thansan Khola was 
 
 
 
+
+
 <div class="no-page-break">
 
 **L087 Chap Chu East (4,260 m / 14,000 ft)**: This is on the opposite side of the river to Chap Chu, and we found no safe way to cross.
 
 </div>
+
+
 
 
 
@@ -4972,11 +6503,15 @@ We had a huge problem here. The trail on the east side of the Thansan Khola was 
 
 
 
+
+
 <div class="no-page-break">
 
 **L087 Thinmer (4,050 m / 13,300 ft)**: The path we followed south from Sinjik to Thinmer was extremely dangerous and I would not repeat it. Thinmer is a small village and we stayed overnight in basic homestay. There is a bridge over the Bharbun Khola at Thinmer and the trail leading north towards Chap Chu on the west side is safe and well maintained.
 
 </div>
+
+
 
 
 
@@ -4990,9 +6525,21 @@ We had a huge problem here. The trail on the east side of the Thansan Khola was 
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 87)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: guesthouse - (unknown)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 87)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5001,21 +6548,19 @@ We had a huge problem here. The trail on the east side of the Thansan Khola was 
 <!--| Start / end |  4,970 / 4,300 m |  16,300 / 14,100 ft |
 | Top / bottom |  4,970 / 4,300 m  |  16,300 / 14,100 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: guesthouse - (unknown)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 87)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E087.png#elev087)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5027,7 +6572,9 @@ Extreme care should be taken if hiking this route from Chharka Bhot to Chap Chu.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 88)</span>
 
 
 
@@ -5039,11 +6586,27 @@ Extreme care should be taken if hiking this route from Chharka Bhot to Chap Chu.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 88)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 88)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5052,21 +6615,19 @@ Extreme care should be taken if hiking this route from Chharka Bhot to Chap Chu.
 <!--| Start / end |  4,310 / 4,340 m |  14,100 / 14,200 ft |
 | Top / bottom |  4,410 / 4,140 m  |  14,500 / 13,600 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 88)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E088.png#elev088)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5078,7 +6639,9 @@ The first half of this leg was extremely tricky, and required long sections of b
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 89)</span>
 
 
 
@@ -5087,6 +6650,12 @@ The first half of this leg was extremely tricky, and required long sections of b
 **L089 Chan La (5,380 m / 17,600 ft)**: The ascent to Chan La was relatively easy. The slope leading to the pass was steep gravel but the trail was well worn and provided good footing. Again on the descent the trail proved easy to follow and stable underfoot.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -5100,9 +6669,21 @@ The first half of this leg was extremely tricky, and required long sections of b
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 89)</span>
+
+Trail: 2/5 (below average)  
+Route: 2/5 (below average)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 89)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5111,21 +6692,19 @@ The first half of this leg was extremely tricky, and required long sections of b
 <!--| Start / end |  4,340 / 4,090 m |  14,200 / 13,400 ft |
 | Top / bottom |  5,380 / 4,080 m  |  17,600 / 13,400 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 2/5 (below average)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 89)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E089.png#elev089)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5137,7 +6716,9 @@ The trail out of Dho Tarap was a very easy hike along along a well maintained tr
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 90)</span>
 
 
 
@@ -5146,6 +6727,12 @@ The trail out of Dho Tarap was a very easy hike along along a well maintained tr
 **L090 Numa La (5,310 m / 17,400 ft)**: The ascent to Numa La was relatively easy. The trail on the ground was tenuous and not well marked, but the terrain was open and easy to traverse.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -5159,9 +6746,21 @@ The trail out of Dho Tarap was a very easy hike along along a well maintained tr
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 90)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: campsite - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 90)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5170,21 +6769,19 @@ The trail out of Dho Tarap was a very easy hike along along a well maintained tr
 <!--| Start / end |  4,090 / 4,480 m |  13,400 / 14,700 ft |
 | Top / bottom |  5,310 / 4,090 m  |  17,400 / 13,400 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: campsite - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 90)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E090.png#elev090)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5196,7 +6793,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 91)</span>
 
 
 
@@ -5205,6 +6804,12 @@ Simple hike along along an easy to follow trail.
 **L091 Baga La (5,170 m / 16,900 ft)**: The crossing of Baga La receives plenty of foot traffic from regular trips by pack animals, so was well trodden and easy to follow.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -5218,9 +6823,21 @@ Simple hike along along an easy to follow trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 91)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 91)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5229,21 +6846,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  4,480 / 3,630 m |  14,700 / 11,900 ft |
 | Top / bottom |  5,170 / 3,580 m  |  16,900 / 11,700 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 91)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E091.png#elev091)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5255,7 +6870,9 @@ Simple hike along along an easy to follow trail along the edge of the utterly sp
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 92)</span>
 
 
 
@@ -5267,11 +6884,27 @@ Simple hike along along an easy to follow trail along the edge of the utterly sp
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 92)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: campsite - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 92)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5280,21 +6913,19 @@ Simple hike along along an easy to follow trail along the edge of the utterly sp
 <!--| Start / end |  3,630 / 3,620 m |  11,900 / 11,900 ft |
 | Top / bottom |  4,090 / 3,610 m  |  13,400 / 11,800 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: campsite - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 92)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E092.png#elev092)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5306,7 +6937,9 @@ The first half of this leg was a very easy hike up a wide flat river valley alon
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 93)</span>
 
 
 
@@ -5315,6 +6948,12 @@ The first half of this leg was a very easy hike up a wide flat river valley alon
 **L093 Gorge (3,740 m / 12,300 ft)**: This is the start of a very tricky steep gorge with scrambling and many tricky river crossings.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -5328,9 +6967,21 @@ The first half of this leg was a very easy hike up a wide flat river valley alon
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 93)</span>
+
+Trail: 1/5 (major problems)  
+Route: 4/5 (above average)  
+Accommodation: campsite - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 93)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5339,21 +6990,19 @@ The first half of this leg was a very easy hike up a wide flat river valley alon
 <!--| Start / end |  3,620 / 4,640 m |  11,900 / 15,200 ft |
 | Top / bottom |  4,640 / 3,620 m  |  15,200 / 11,900 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 4/5 (above average)  
-Accommodation: campsite - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 93)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E093.png#elev093)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5365,7 +7014,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 94)</span>
 
 
 
@@ -5374,6 +7025,12 @@ Simple hike along along an easy to follow trail.
 **L094 Nagdalo La (5,340 m / 17,500 ft)**: The ascent was relatively easy and not particularly steep. On the descent, after a short steep section at the top, the trail was well marked and easy to follow.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -5387,9 +7044,21 @@ Simple hike along along an easy to follow trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 94)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: shelter - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 94)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5398,21 +7067,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  4,640 / 4,320 m |  15,200 / 14,200 ft |
 | Top / bottom |  5,350 / 4,320 m  |  17,500 / 14,200 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: shelter - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 94)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E094.png#elev094)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5424,7 +7091,9 @@ Simple hike along along an easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 95)</span>
 
 
 
@@ -5436,11 +7105,27 @@ Simple hike along along an easy to follow trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 95)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: homestay - 1/5 (basic)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 95)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5449,21 +7134,19 @@ Simple hike along along an easy to follow trail.
 <!--| Start / end |  4,320 / 3,860 m |  14,200 / 12,600 ft |
 | Top / bottom |  4,860 / 3,850 m  |  16,000 / 12,600 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: homestay - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 95)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E095.png#elev095)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5475,7 +7158,9 @@ The trail was well marked and easy to follow, but very steep and perilous in pla
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 96)</span>
 
 
 
@@ -5487,11 +7172,27 @@ The trail was well marked and easy to follow, but very steep and perilous in pla
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 96)</span>
+
+Trail: 2/5 (below average)  
+Route: 4/5 (above average)  
+Accommodation: homestay - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 96)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5500,21 +7201,19 @@ The trail was well marked and easy to follow, but very steep and perilous in pla
 <!--| Start / end |  3,850 / 4,090 m |  12,600 / 13,400 ft |
 | Top / bottom |  4,800 / 3,400 m  |  15,700 / 11,100 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 4/5 (above average)  
-Accommodation: homestay - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 96)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E096.png#elev096)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5526,7 +7225,9 @@ I believe we made a navigational error when departing Pho. We headed approximate
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 97)</span>
 
 
 
@@ -5538,6 +7239,12 @@ I believe we made a navigational error when departing Pho. We headed approximate
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L097 Gyanzen La (5,530 m / 18,100 ft)**: The ascent to the pass, and the descent on the other side is relatively well trodden and easy to follow.
@@ -5546,11 +7253,15 @@ I believe we made a navigational error when departing Pho. We headed approximate
 
 
 
+
+
 <div class="no-page-break">
 
 **L097 Descent (5,410 m / 17,800 ft)**: Watch out for this waypoint, which marks where the trail leaves the ridge and descends into the valley to the north. It may be easy to miss if conditions aren't perfect.
 
 </div>
+
+
 
 
 
@@ -5564,9 +7275,21 @@ I believe we made a navigational error when departing Pho. We headed approximate
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 97)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 97)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5575,21 +7298,19 @@ I believe we made a navigational error when departing Pho. We headed approximate
 <!--| Start / end |  4,090 / 4,530 m |  13,400 / 14,800 ft |
 | Top / bottom |  5,540 / 4,090 m  |  18,200 / 13,400 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 97)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E097.png#elev097)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5601,7 +7322,9 @@ Simple hike along along an easy to follow trail, with a tricky point on the asce
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 98)</span>
 
 
 
@@ -5613,11 +7336,19 @@ Simple hike along along an easy to follow trail, with a tricky point on the asce
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L098 Yala La (5,400 m / 17,700 ft)**: After we found the trail, the rest of the ascent and the descent on the other side of Yala La was relatively well trodden and easy to follow.
 
 </div>
+
+
 
 
 
@@ -5631,9 +7362,21 @@ Simple hike along along an easy to follow trail, with a tricky point on the asce
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 98)</span>
+
+Trail: 3/5 (average)  
+Route: 2/5 (below average)  
+Accommodation: campsite - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 98)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5642,21 +7385,19 @@ Simple hike along along an easy to follow trail, with a tricky point on the asce
 <!--| Start / end |  4,530 / 4,700 m |  14,800 / 15,400 ft |
 | Top / bottom |  5,400 / 4,530 m  |  17,700 / 14,800 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 2/5 (below average)  
-Accommodation: campsite - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 98)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E098.png#elev098)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5668,7 +7409,9 @@ We made a string of bad decisions today that resulted in the most dangerous situ
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 99)</span>
 
 
 
@@ -5680,11 +7423,19 @@ We made a string of bad decisions today that resulted in the most dangerous situ
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L099 Warning (4,460 m / 14,600 ft)**: If you find yourself still following close to the river bank at this waypoint, I would highly recommend backtracking and trying to find the trail further up the hillside to the north.
 
 </div>
+
+
 
 
 
@@ -5696,11 +7447,15 @@ We made a string of bad decisions today that resulted in the most dangerous situ
 
 
 
+
+
 <div class="no-page-break">
 
 **L099 Kaitpuchonam Khola (4,170 m / 13,700 ft)**: We camped here in a cramped campsite directly after a small bridge over the Kaitpuchonam Khola river.
 
 </div>
+
+
 
 
 
@@ -5714,9 +7469,21 @@ We made a string of bad decisions today that resulted in the most dangerous situ
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 99)</span>
+
+Trail: 1/5 (major problems)  
+Route: 1/5 (major problems)  
+Accommodation: campsite - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 99)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5725,21 +7492,19 @@ We made a string of bad decisions today that resulted in the most dangerous situ
 <!--| Start / end |  4,700 / 3,750 m |  15,400 / 12,300 ft |
 | Top / bottom |  4,730 / 3,710 m  |  15,500 / 12,200 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 1/5 (major problems)  
-Accommodation: campsite - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 99)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E099.png#elev099)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5751,7 +7516,9 @@ The first part of the trail in the forest was occasionally tricky to follow. Abo
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 100)</span>
 
 
 
@@ -5760,6 +7527,12 @@ The first part of the trail in the forest was occasionally tricky to follow. Abo
 **L100 Chyargo La (5,130 m / 16,800 ft)**: The Chyargo La pass was relatively easy, with the trail on the ascent and descent being relatively easy to follow.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -5773,9 +7546,21 @@ The first part of the trail in the forest was occasionally tricky to follow. Abo
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 100)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: campsite - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 100)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5784,21 +7569,19 @@ The first part of the trail in the forest was occasionally tricky to follow. Abo
 <!--| Start / end |  3,750 / 4,050 m |  12,300 / 13,300 ft |
 | Top / bottom |  5,130 / 3,750 m  |  16,800 / 12,300 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: campsite - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 100)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E100.png#elev100)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5810,7 +7593,9 @@ The trail was reasonably easy to follow, but several sections were more tricky, 
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 101)</span>
 
 
 
@@ -5822,11 +7607,27 @@ The trail was reasonably easy to follow, but several sections were more tricky, 
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 101)</span>
+
+Trail: 2/5 (below average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 101)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5835,21 +7636,19 @@ The trail was reasonably easy to follow, but several sections were more tricky, 
 <!--| Start / end |  4,040 / 2,910 m |  13,300 / 9,550 ft |
 | Top / bottom |  4,040 / 2,910 m  |  13,300 / 9,540 ft |-->
 
-#### Ratings
-
-Trail: 2/5 (below average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 101)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E101.png#elev101)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5861,7 +7660,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 102)</span>
 
 
 
@@ -5873,11 +7674,19 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 <div class="no-page-break">
 
 **L102 Chhewathan (2,240 m / 7,350 ft)**: We stayed overnight at a basic guesthouse in Chhewathan, which is a small village on a dirt road with shops.
 
 </div>
+
+
 
 
 
@@ -5891,9 +7700,21 @@ Easy hike along along well maintained trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 102)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: homestay - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 102)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5902,21 +7723,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  2,910 / 2,230 m |  9,550 / 7,320 ft |
 | Top / bottom |  2,980 / 2,100 m  |  9,790 / 6,880 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: homestay - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 102)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E102.png#elev102)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5928,7 +7747,9 @@ Easy hike along along dirt road.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 103)</span>
 
 
 
@@ -5940,11 +7761,27 @@ Easy hike along along dirt road.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 103)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 103)</span>
 
 |   |   |  |
 | - | - |- |
@@ -5953,21 +7790,19 @@ Easy hike along along dirt road.
 <!--| Start / end |  2,230 / 2,130 m |  7,320 / 6,970 ft |
 | Top / bottom |  2,240 / 1,770 m  |  7,360 / 5,810 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 103)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E103.png#elev103)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -5979,7 +7814,9 @@ We skipped the Rara Lake side trek, but I believe the trail is relatively major 
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 104)</span>
 
 
 
@@ -5991,11 +7828,27 @@ We skipped the Rara Lake side trek, but I believe the trail is relatively major 
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 104)</span>
+
+Trail: 4/5 (above average)  
+Route: 4/5 (above average)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 104)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6004,21 +7857,19 @@ We skipped the Rara Lake side trek, but I believe the trail is relatively major 
 <!--| Start / end |  2,120 / 3,000 m |  6,950 / 9,830 ft |
 | Top / bottom |  3,070 / 2,120 m  |  10,100 / 6,950 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 4/5 (above average)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 104)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E104.png#elev104)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6030,7 +7881,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 105)</span>
 
 
 
@@ -6039,6 +7892,12 @@ Easy hike along along well maintained trail.
 **L105 Bam (2,650 m / 8,690 ft)**: Some itineraries recommend an overnight stop here in Bam, but when we passed through it was a very basic looking village. We continued to Dharke Khola where we found a guesthouse, and I have adjusted the route to skip Bam.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -6052,9 +7911,21 @@ Easy hike along along well maintained trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 105)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 105)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6063,21 +7934,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  3,000 / 2,740 m |  9,830 / 8,990 ft |
 | Top / bottom |  3,070 / 1,740 m  |  10,100 / 5,710 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 105)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E105.png#elev105)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6089,7 +7958,9 @@ The dirt road has many long switchbacks, with steep footpaths that shortcut betw
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 106)</span>
 
 
 
@@ -6101,11 +7972,27 @@ The dirt road has many long switchbacks, with steep footpaths that shortcut betw
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 106)</span>
+
+Trail: 1/5 (major problems)  
+Route: 2/5 (below average)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 106)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6114,21 +8001,19 @@ The dirt road has many long switchbacks, with steep footpaths that shortcut betw
 <!--| Start / end |  2,740 / 2,540 m |  8,980 / 8,340 ft |
 | Top / bottom |  3,580 / 2,450 m  |  11,800 / 8,020 ft |-->
 
-#### Ratings
-
-Trail: 1/5 (major problems)  
-Route: 2/5 (below average)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 106)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E106.png#elev106)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6140,7 +8025,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 107)</span>
 
 
 
@@ -6149,6 +8036,12 @@ Easy hike along along well maintained trail.
 **L107 Piplan (1,730 m / 5,670 ft)**: Some itineraries recommend an overnight stop here in Piplan, and it would be a reasonable option. We stopped for a rest here and it looked like a large village with a basic guesthouse and some shops.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -6162,9 +8055,21 @@ Easy hike along along well maintained trail.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 107)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 107)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6173,21 +8078,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  2,540 / 2,630 m |  8,320 / 8,620 ft |
 | Top / bottom |  2,630 / 1,640 m  |  8,620 / 5,370 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 107)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E107.png#elev107)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6199,7 +8102,9 @@ Easy hike along along well maintained trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 108)</span>
 
 
 
@@ -6211,11 +8116,27 @@ Easy hike along along well maintained trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 108)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: campsite - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 108)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6224,21 +8145,19 @@ Easy hike along along well maintained trail.
 <!--| Start / end |  2,630 / 3,190 m |  8,620 / 10,500 ft |
 | Top / bottom |  3,190 / 2,510 m  |  10,500 / 8,230 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: campsite - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 108)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E108.png#elev108)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6250,7 +8169,9 @@ Take care to follow the route carefully when leaving Apsia Lek. The correct trai
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 109)</span>
 
 
 
@@ -6262,11 +8183,27 @@ Take care to follow the route carefully when leaving Apsia Lek. The correct trai
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 109)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: homestay - 1/5 (basic)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 109)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6275,21 +8212,19 @@ Take care to follow the route carefully when leaving Apsia Lek. The correct trai
 <!--| Start / end |  3,190 / 2,460 m |  10,500 / 8,080 ft |
 | Top / bottom |  3,220 / 2,450 m  |  10,600 / 8,020 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: homestay - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 109)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E109.png#elev109)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6301,7 +8236,9 @@ Simple hike along along a reasonably easy to follow trail.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 110)</span>
 
 
 
@@ -6313,11 +8250,27 @@ Simple hike along along a reasonably easy to follow trail.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 110)</span>
+
+Trail: 3/5 (average)  
+Route: 4/5 (above average)  
+Accommodation: campsite - 1/5 (awful)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 110)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6326,21 +8279,19 @@ Simple hike along along a reasonably easy to follow trail.
 <!--| Start / end |  2,460 / 2,990 m |  8,060 / 9,810 ft |
 | Top / bottom |  4,030 / 2,450 m  |  13,200 / 8,020 ft |-->
 
-#### Ratings
-
-Trail: 3/5 (average)  
-Route: 4/5 (above average)  
-Accommodation: campsite - 1/5 (awful)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 110)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E110.png#elev110)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6352,7 +8303,9 @@ Easy hike along along a well maintained trail / dirt road.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 111)</span>
 
 
 
@@ -6364,11 +8317,27 @@ Easy hike along along a well maintained trail / dirt road.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 111)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 5/5 (excellent)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 111)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6377,21 +8346,19 @@ Easy hike along along a well maintained trail / dirt road.
 <!--| Start / end |  2,990 / 2,990 m |  9,800 / 9,790 ft |
 | Top / bottom |  3,020 / 2,080 m  |  9,920 / 6,830 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 5/5 (excellent)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 111)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E111.png#elev111)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6403,7 +8370,9 @@ Easy hike along along a well maintained trail / dirt road.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 112)</span>
 
 
 
@@ -6412,6 +8381,12 @@ Easy hike along along a well maintained trail / dirt road.
 **L112 Kermi (2,900 m / 9,500 ft)**: Some itineraries recommend an overnight stop here in Kermi, but it didn't look like there were any guesthouses here. We continued hiking to Sali, and I have adjusted the route to skip Kermi.
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -6425,9 +8400,21 @@ Easy hike along along a well maintained trail / dirt road.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 112)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 112)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6436,21 +8423,19 @@ Easy hike along along a well maintained trail / dirt road.
 <!--| Start / end |  2,980 / 2,970 m |  9,790 / 9,750 ft |
 | Top / bottom |  3,260 / 2,320 m  |  10,700 / 7,610 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 112)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E112.png#elev112)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6462,7 +8447,9 @@ Easy hike along along a well maintained trail / dirt road.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 113)</span>
 
 
 
@@ -6471,6 +8458,12 @@ Easy hike along along a well maintained trail / dirt road.
 **L113 Gompa (3,180 m / 10,400 ft)**: We hiked up to the monastery and village at this waypoint, but could find no lodgings. Camping would be an option here but we left our tent in Simikot, so we backtracked all the way back down to the bridge. 
 
 </div>
+
+
+
+</div>
+
+
 
 
 
@@ -6484,9 +8477,21 @@ Easy hike along along a well maintained trail / dirt road.
 
 
 
+
+
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 113)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: homestay - 2/5 (below average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 113)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6495,21 +8500,19 @@ Easy hike along along a well maintained trail / dirt road.
 <!--| Start / end |  2,970 / 3,000 m |  9,750 / 9,840 ft |
 | Top / bottom |  3,130 / 2,870 m  |  10,300 / 9,410 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: homestay - 2/5 (below average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 113)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E113.png#elev113)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6521,7 +8524,9 @@ Easy hike along along a dirt road.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 114)</span>
 
 
 
@@ -6533,11 +8538,27 @@ Easy hike along along a dirt road.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 114)</span>
+
+Trail: 5/5 (excellent)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 3/5 (average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 114)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6546,21 +8567,19 @@ Easy hike along along a dirt road.
 <!--| Start / end |  3,000 / 3,780 m |  9,840 / 12,400 ft |
 | Top / bottom |  3,780 / 3,000 m  |  12,400 / 9,840 ft |-->
 
-#### Ratings
-
-Trail: 5/5 (excellent)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 3/5 (average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 114)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E114.png#elev114)
+
+</div>
 
 
 
 
-
- <div class="no-page-break"> 
 
 <div class="no-page-break">
 
@@ -6572,7 +8591,9 @@ Easy hike along along a well maintained trail / dirt road.
 
 
 
-#### Waypoints
+<div class="no-page-break">
+
+#### Waypoints <span class="print-only">(leg 115)</span>
 
 
 
@@ -6584,11 +8605,27 @@ Easy hike along along a well maintained trail / dirt road.
 
 
 
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
-#### Stats
+#### Ratings <span class="print-only">(leg 115)</span>
+
+Trail: 4/5 (above average)  
+Route: 5/5 (excellent)  
+Accommodation: guesthouse - 4/5 (above average)  
+
+</div>
+
+<div class="no-page-break">
+
+#### Stats <span class="print-only">(leg 115)</span>
 
 |   |   |  |
 | - | - |- |
@@ -6597,15 +8634,15 @@ Easy hike along along a well maintained trail / dirt road.
 <!--| Start / end |  3,780 / 3,630 m |  12,400 / 11,900 ft |
 | Top / bottom |  4,550 / 3,630 m  |  14,900 / 11,900 ft |-->
 
-#### Ratings
-
-Trail: 4/5 (above average)  
-Route: 5/5 (excellent)  
-Accommodation: guesthouse - 4/5 (above average)  
-	
 </div>
 
- </div> 
+<div class="no-page-break">
+
+#### Elevation <span class="print-only">(leg 115)</span>
+
+![](https://storage.googleapis.com/wilderness-prime-static/elev2a/E115.png#elev115)
+
+</div>
 
 
 
