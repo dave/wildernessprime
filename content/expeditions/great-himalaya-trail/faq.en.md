@@ -71,7 +71,7 @@ I would recommend using several essential navigation sources:
 My trail notes can be printed with or without the summary maps. I'd recommend printing them [without maps](https://www.wildernessprime.com/expeditions/great-himalaya-trail/trail-notes-no-maps/), because the maps included with the trail notes aren't great. Printing them without maps and double sided will run to 43 pages.
 
 **Maps.me app**
-This doesn't have topo maps but for 90% of the route it's all you need. Import my special KML file to get the route and waypoints. The offline maps are very quick to download all the maps for the whole of Nepal in maps.me. 
+This doesn't have topo maps but for 90% of the route it's all you need. Import my special KML file to get the route and waypoints. The offline maps are very quick to download, and you can download all the maps for the whole of Nepal. 
 
 **Gaia GPS app**
 For the 10% of the route where maps.me isn't useful, you'll need a topographic map. I would highly recommend Gaia GPS... I didn't actually discover Gaia until after our trek finished, but it is far easier to use than the alternatives. Import my standard GPX file to get the route and waypoints. There's two sets of offline maps I'd recommend:
