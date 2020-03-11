@@ -1,3 +1,21 @@
+---
+type: report
+date: 2020-03-08 00:00:00 +0000 UTC
+publishDate: 2020-03-08 00:00:00 +0000 UTC
+slug: faq
+translationKey: faq
+title: Frequently Asked Questions
+description: Questions I've been asked many times by people preparing for the trek.
+image: "/v1553075075/PinClipart.com_spinal-clip-art_979766_ma0xdp.jpg"
+keywords: [faq]
+author: dave
+featured: false
+social_posts: false
+social_date: 2020-03-08 00:00:00 +0000 UTC
+hashtags: "#faq"
+title_has_context: false
+---
+
 #### Safety
 First a quick note about safety. The Great Himalaya Trail is a dangerous undertaking, with sections where one trip or wrong footstep can be fatal. Towards the end of our thru-hike we got in touch with a girl named Milena Piasecka from Poland. We gave her advice on various subjects as she planned here GHT, and she started just as we were finishing. A couple of months later, in the Everest region, she was tragically killed in a fall. There were sections where this could have happened virtually every day. All it takes is a loss of concentration or a wrong turn. Be very aware of this when contemplating the Great Himalaya Trail.
 
@@ -87,9 +105,9 @@ This is a very approximate cost, for two people in USD:
 
 |   |   |   | 
 |---|---|---|
-| Logistics | $3,000 | 8 resupply packages brought from Kathmandu to points along the trail |
-| Mountaineering guide | $2,000 | We met the guide to assist us over the five technical passes, but the rest of the trek we hiked solo |
-| Permits | $1,600 | Including $500 for a week per person in the Upper Dolpa region |
+| Logistics | $3,000 | Resupply packages brought from Kathmandu to 8 points along the trail |
+| Mountaineering guide | $2,000 | To assist us over the five technical passes |
+| Permits | $1,600 | Including $500  per person for a week in the Upper Dolpa region |
 | Food | $2,000 | Backpacking food brought with us from the UK |
 | Spending money | $6,000 | To cover guest houses and food along the trek |
 | Helicopter rescue | $3,500 | Oops |
