@@ -68,7 +68,7 @@ We started in mid April. This means we have to trek through monsoon. This isn't 
 I would recommend using several essential navigation sources:
 
 **Trail notes**
-My trail notes can be printed with or without the summary maps. I'd recommend printing them without maps, because the maps included with the trail notes aren't great. Printing them without maps and double sided will run to 43 pages.
+My trail notes can be printed with or without the summary maps. I'd recommend printing them [without maps](https://www.wildernessprime.com/expeditions/great-himalaya-trail/trail-notes-no-maps/), because the maps included with the trail notes aren't great. Printing them without maps and double sided will run to 43 pages.
 
 **Maps.me app**
 This doesn't have topo maps but for 90% of the route it's all you need. Import my special KML file to get the route and waypoints. The offline maps are very quick to download all the maps for the whole of Nepal in maps.me. 
