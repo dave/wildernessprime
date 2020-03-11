@@ -119,4 +119,11 @@ We definitely could have saved money by:
 * Not having a helicopter rescue (duh).  
 * Budgeting more on food / accommodation during the trek.
 
+#### What tent would you recommend?
+We used a Hyperlight Mountain Gear Ultamid 4, which is a four season DCF (Dyneema Composite Fabric) pyramid tent that you erect with a single central pole (we used two hiking poles joined together with special rubber clips). Apart from a problem with the zip, it performed really well. The tent is just a pyramid of material with no inner, so we also used the full-size inner tent insert which gives you bug net and a waterproof bathtub floor. The only real downside was the space needed to set up. However, once it's set up, it's a palace for two people inside. One thing to remember is that in 80% of the campsites you won't be able to get pegs in the ground. Attaching a longer piece of cord to all the pegging points is essential, so you can wrap it around rocks. I recommend at least one meter of extra cord wherever you have a pegging point. I used [this](https://www.amazon.co.uk/gp/product/B00Q9IHL0O).
 
+#### What about travel insurance?
+The travel insurance business is highly regional, so I can only speak for companies that cover UK residents. I searched for days for a policy that would cover mountaineering above 6000m, and the only one that I found was from [the BMC](https://www.thebmc.co.uk/modules/insurance/Default.aspx) (their "alpine and ski" cover level). Not cheap, but nothing we did on the trek was excluded by their policy wording or small print. If I remember correctly, the only other option was [Dogtag](https://www.dogtag.co.uk/) but they were even more expensive.
+
+#### More reading
+I did a Reddit AMA - it's worth a read because I answered a bunch more questions, [here](https://www.reddit.com/r/IAmA/comments/evqpvr/i_hiked_the_great_himalaya_trail_for_154_days/) and [here](https://www.reddit.com/r/Ultralight/comments/evr80y/i_hiked_the_great_himalaya_trail_for_154_days/).
