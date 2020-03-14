@@ -1859,21 +1859,50 @@
 		padding: 1.5rem;
 	}
 
-		.box > :last-child,
-		.box > :last-child > :last-child,
-		.box > :last-child > :last-child > :last-child {
-			margin-bottom: 0;
-		}
+	.box > :last-child,
+	.box > :last-child > :last-child,
+	.box > :last-child > :last-child > :last-child {
+		margin-bottom: 0;
+	}
 
-		.box.alt {
-			border: 0;
-			border-radius: 0;
-			padding: 0;
-		}
+	.box.alt {
+		border: 0;
+		border-radius: 0;
+		padding: 0;
+	}
 
 	.box {
 		border-color: #eeeeee;
 	}
+
+/* Card */
+
+.card {
+	border: solid 2px;
+	margin-bottom: 2rem;
+	padding: 1.5rem;
+
+	background-color: #d9edf7;
+	border-color: #bcdff1;
+	color: #31708f;
+	border-radius: .25rem;
+}
+
+.card h1, .card h2, .card h3, .card h4, .card h5, .card h6, .card a {
+	color: #31708f;
+}
+
+.card > :last-child,
+.card > :last-child > :last-child,
+.card > :last-child > :last-child > :last-child {
+	margin-bottom: 0;
+}
+
+.card.alt {
+	border: 0;
+	border-radius: 0;
+	padding: 0;
+}
 
 /* Button */
 
