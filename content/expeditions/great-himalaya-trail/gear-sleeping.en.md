@@ -14,6 +14,17 @@ social_posts: true
 social_date: 2019-03-23 10:00:00 +0000
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+Our sleep system worked extremely well. We used the Feathered Friends Snowbunting sleeping bags for the first sections, 
+and as the temperature increased we swapped to the much lighter Zpacks bags. We didn't get much use out of the Evazote 
+foam pads, so sent these hope at the first resupply point.
+
+{{% /card %}}
+
+
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553069153/snowbunting.jpg)
 
 I had initially intended to use my Zpacks 20F (-7C) sleeping bags, augmented with down jacket and pants. However, after working out the overnight temperatures we'll be facing (as low as -20C) I changed my mind and we'll be taking my Feathered Friends Snowbunting 0F (-17C) sleeping bags. They're not particularly lightweight at around 1.3kg, and don't pack down very small. We'll take both models to Nepal and possible swap to the lighter ones for the warmer sections. I may still take my lighter sleeping bag for the first section where I'm hiking solo.

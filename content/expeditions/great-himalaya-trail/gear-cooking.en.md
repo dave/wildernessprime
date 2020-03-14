@@ -16,6 +16,17 @@ featured: false
 title_has_context: false
 
 ---
+
+{{% card %}}
+
+#### Post trail update
+
+Our cooking system worked pretty well. One problem was that the Kovea Spider stove was tricky to keep alight with even 
+the slightest wind, so I would probably swap for a more windproof stove if I was to do the trek again. It never got 
+cold enough that we had to invert the canister.
+
+{{% /card %}}
+
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553070182/KOV-KB-1109-00-846x846.jpg)I've chosen to take a canister stove - we'll be getting regular resupply packages that will replenish our gas supplies, so a heavy complex liquid fuel stove won't be needed. However, we're still confirming that it'll be possible to get the gas canisters delivered to the last two resupply points in Ringmo and Gamgadhi. We were initially planning to send the resupply packages by internal flight from Kathmandu, but gas canisters aren't allowed on any flights. We're trying to find a solution to this but we may need to swap over to a liquid fuel stove for the last month of the trek.
 
 I chose the Kovea Spider - well built and very lightweight for a remote canister stove. The remote canister and pre-burner allows the canister to be inverted feeding liquid directly to the stove. The liquid fuel passes through the preheater loop which vaporizes is before burning. This allows the stove to operate at lower temperatures than normal canister stoves. The titanium wind break from Scramble is custom made for this stove and weighs only 25g. Unfortunately the normal storage method of curling it up inside your pot doesn't work for us because we will be using the pot to make protein shake for lunch, so I've had to make a cardboard sheath that will protect the rest of our pack contents from the razor sharp titanium.

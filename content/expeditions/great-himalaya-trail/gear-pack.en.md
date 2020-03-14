@@ -14,6 +14,16 @@ social_posts: true
 social_date: 2019-03-21 10:00:00 +0000
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+The Arc Blast is a great pack, but never designed for more than about 10kg. We were regularly carrying loads of 20kg, 
+and the hip belt was extremely uncomfortable. I had bruises on my hips for several months after the end of the trek.
+
+{{% /card %}}
+
+
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553066808/arc-azure-angle-l.jpg)
 
 I'll be using the ZPacks Arc Blast. This is my third Arc Blast and without a doubt my favourite ever pack. The feather light 605g combined with the amazing load isolation is an unbeatable combination. However, for this trek it has proved difficult. It's the main compartment of the pack is only 42L, and with 10 days of food, a winter sleeping bag, half the tent and some group gear it's completely full.

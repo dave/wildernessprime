@@ -14,6 +14,17 @@ hashtags: "@colourgraphics #Navigation"
 title_has_context: false
 
 ---
+
+{{% card %}}
+
+#### Post trail update
+
+This page is out of date. After the trek I created a comprehensive set of trail notes that can be downloaded as a PDF 
+for printing. I would recommend using these instead of the flashcards detailed below, which were often rather out of 
+date. See the [Trail Notes page](/expeditions/great-himalaya-trail/trail-notes/).
+
+{{% /card %}}
+
 Robin's guide book is excellent, but not organised optimally for a thru-hike of the GHT. I created a set of flashcards, one for each day of our itinerary. They are intended to be printed on A5, double sided. Included in each page is:
 
 * The description from Robin's guide book.

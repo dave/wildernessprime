@@ -14,6 +14,14 @@ social_posts: true
 social_date: 2019-03-27 10:00:00 +0000
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+Our clothes worked pretty well throughout the trek.
+
+{{% /card %}}
+
 ## Clothes
 
 I'll take a single change of underwear and long-sleeve t-shirt - both Icebreaker merino wool. I'll take a pair of Darn Tough socks for the warmer sections and a warmer pair of Smartwool socks for the cold sections. The boots I'll be using aren't particularly warm so I'll need the extra insulation.

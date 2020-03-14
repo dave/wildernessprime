@@ -16,6 +16,14 @@ hashtags: "#SherpaniCol #Mountaineering"
 title_has_context: false
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+See the [Trail Notes](/expeditions/great-himalaya-trail/trail-notes/) page or [this Google sheet](https://docs.google.com/spreadsheets/d/14x_OJ4mJNoHuj1LnYnyGULdE3P9kG6CwOdY1t0sv_H8/edit) for an updated description of this leg.
+
+{{% /card %}}
+
 {{< model "/models/D028.glb" >}}
 
 _6,180m, D028_ - Sherpani & West Col are two impressive passes connected by a glaciated plateau. The ascent of Sherpani is a tough scramble followed by some easy rock climbing, followed by a 35m rappel down to the plateau. Rockfall from above and crevasses will be a constant danger.

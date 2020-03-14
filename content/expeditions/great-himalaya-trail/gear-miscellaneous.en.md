@@ -14,6 +14,19 @@ social_posts: true
 social_date: 2019-03-26 10:00:00 +0000
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+We had major problems with solar panels. The Suntactics S5-Lite was underpowered and almost completely useless. We 
+switched to using the 21W panels at one of the early resupply points, however these also caused problems. See the FAQ: 
+[Power](/expeditions/great-himalaya-trail/faq/#power).
+
+Many of the water sources along the trek are silty and would clog a filter, so we switched to using chlorine tablets at 
+the first resupply point and continued like this for the rest of the trek.
+
+{{% /card %}}
+
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553075263/panel-cropped.jpg)
 
 We'll be taking a Suntactics S5-Lite solar panel, and an Anker 13,000 mAh power bank. This is rather an unknown for me - I've never done a trek that relied on solar charging before. During the Annapurna Circuit last year, it was quite common to have power provided in the tea houses, but I've heard this isn't the case for much of the country. I'd like to be as self-sufficient as possible so the solar panel is a necessity.

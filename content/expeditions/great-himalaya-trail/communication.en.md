@@ -16,6 +16,14 @@ hashtags: "@Garmin #InReach"
 title_has_context: false
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+My InReach Mini worked flawlessly throughout the trek and should be considered absolutely essential. 
+
+{{% /card %}}
+
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553075075/garmin-inreach-mini.jpg)
 
 We'll be using a Garmin InReach Mini for communicating with the outside world during the trek. It uses the Iridium satellite network to allow two-way short message communication anywhere in the world, even when far away from a mobile network. It has several useful features:

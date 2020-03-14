@@ -16,6 +16,14 @@ hashtags: "#WestCol #Mountaineering"
 title_has_context: false
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+See the [Trail Notes](/expeditions/great-himalaya-trail/trail-notes/) page or [this Google sheet](https://docs.google.com/spreadsheets/d/14x_OJ4mJNoHuj1LnYnyGULdE3P9kG6CwOdY1t0sv_H8/edit) for an updated description of this leg.
+
+{{% /card %}}
+
 {{< model "/models/D029.glb" >}}
 
 _6,190m, D029_ - The top of West Col is the highest point on the trek at 6,190m, but doesn't involve much climbing from the plateau. However a 200m rappel awaits on the other side. I've read disconcerting reports about the state of the fixed ropes on this section, so extreme care will have to be taken.

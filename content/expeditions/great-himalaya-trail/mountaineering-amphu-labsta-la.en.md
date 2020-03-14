@@ -16,6 +16,14 @@ hashtags: "#AmphuLabstaLa #Mountaineering"
 title_has_context: false
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+See the [Trail Notes](/expeditions/great-himalaya-trail/trail-notes/) page or [this Google sheet](https://docs.google.com/spreadsheets/d/14x_OJ4mJNoHuj1LnYnyGULdE3P9kG6CwOdY1t0sv_H8/edit) for an updated description of this leg.
+
+{{% /card %}}
+
 {{< model "/models/D031.glb" >}}
 
 _5,845m, D031_ - Amphu Labsta La is reportedly one of the most dangerous passes in Nepal, and certainly the most technical point on our trek. Climbing a steep icefall will require full climbing safety gear, and the descent is just as tricky with a 30m rappel.

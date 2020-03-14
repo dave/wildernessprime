@@ -14,6 +14,16 @@ social_posts: true
 social_date: 2019-03-22 10:00:00 +0000
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+We had a problem with the zip of our tent, but overall it performed well. The downside of a large tent like this is 
+that it needs a lot of space to set up. There were several campsites where we needed to take extra time to scout out a
+sufficiently large spot to erect it.
+
+{{% /card %}}
+
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553069212/20170825_092334.jpg)
 
 We'll be sleeping in a Hyperlite Mountain Gear Ultamid 4, which is a extremely sturdy four-season pyramid tent made of ultra light DCF fabric. The outer tent is as basic as you can imagine - just a four-sided pyramid of single-layer DCF with nothing else. No floor, no inner tent, no bug protection. In the high mountains you don't really need an inner tent - a lightweight plastic ground sheet will do just fine. However in the lower elevations where bugs and torrential rain become a problem, an insert is advisable. We'll be taking the Hyperlite Mountain Gear Insert with DCF11 floor. This gives us full protection from bugs and a nice high bathtub floor that should keep us dry even in the most torrential monsoon rain.

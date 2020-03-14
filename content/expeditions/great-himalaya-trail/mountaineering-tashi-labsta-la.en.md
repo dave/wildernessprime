@@ -16,6 +16,14 @@ hashtags: "#TashiLabstaLa #Mountaineering"
 title_has_context: false
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+See the [Trail Notes](/expeditions/great-himalaya-trail/trail-notes/) page or [this Google sheet](https://docs.google.com/spreadsheets/d/14x_OJ4mJNoHuj1LnYnyGULdE3P9kG6CwOdY1t0sv_H8/edit) for an updated description of this leg.
+
+{{% /card %}}
+
 {{< model "/models/D043.glb" >}}
 
 _5,760m, D043_ - The route over Tashi Labsta La is a rocky scramble with constant danger from rockfall and crevasses. We'll have to be very careful on this section, but it's perhaps less technical than the previous three passes.

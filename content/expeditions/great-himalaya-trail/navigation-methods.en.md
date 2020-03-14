@@ -14,6 +14,15 @@ hashtags: "#Navigation"
 title_has_context: false
 
 ---
+
+{{% card %}}
+
+#### Post trail update
+
+This page is out of date. For my latest recommendation on navigation methods, see the FAQ: [What navigational sources would you recommend?](/expeditions/great-himalaya-trail/faq/#what-navigational-sources-would-you-recommend).
+
+{{% /card %}}
+
 Navigating with the aid of digital topo maps is a game changer for unsupported trekking. However, extreme care must be taken because digital devices often fail in the field. We will be using several backups to mitigate this:
 
 * My iPhone with topo mapping, offline maps and GPX route (see [Navigation - Apps](/expeditions/great-himalaya-trail/navigation-apps/) article).

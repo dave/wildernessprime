@@ -16,6 +16,15 @@ hashtags: "#Plastic #Trash"
 title_has_context: false
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+We managed to ship all out trash back to Kathmandu, however the cost of shipping it out of the country was 
+prohibitively expensive so we disposed of it in Kathmandu. 
+
+{{% /card %}}
+
 As our backpacking food arrived I've been getting more and more concerned about the amount of plastic trash we'll be generating. The remote regions of Nepal have very limited rubbish disposal facilities, and plastic trash is often dumped. I was constantly depressed by the trash littering the trails when I hiked the Annapurna Circuit last year. So I'm going to make a pledge.
 
 ## Our pledge

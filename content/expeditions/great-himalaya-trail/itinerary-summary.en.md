@@ -14,6 +14,15 @@ hashtags: ''
 title_has_context: false
 
 ---
+
+{{% card %}}
+
+#### Post trail update
+
+This page is out of date. See the [Trail Notes](/expeditions/great-himalaya-trail/trail-notes/) page or [this Google sheet](https://docs.google.com/spreadsheets/d/14x_OJ4mJNoHuj1LnYnyGULdE3P9kG6CwOdY1t0sv_H8/edit) for the updated itinerary.
+
+{{% /card %}}
+
 In any trek it's important to get an idea of the approximate itinerary. Of course, on a long trek like this the exact route will need to be flexible, but I'll plan the intended route and the maps and guide book will provide alternates when we need them. The alternates are almost certainly going to take us south and down hill where services and accommodation are more usually more plentiful.
 
 There are several companies that trek the Great Himalaya Trail fully supported... these operations take a handful of customers accompanied by an army of guides and porters. Some of them conveniently publish their daily itinerary, and this made a great start in my planning.

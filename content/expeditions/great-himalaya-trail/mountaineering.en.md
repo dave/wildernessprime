@@ -16,6 +16,15 @@ hashtags: "#Mountaineering"
 title_has_context: false
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+You can read more about the mountaineering sections on the [Trail Notes page](/expeditions/great-himalaya-trail/trail-notes/). 
+Also check out the FAQ: [What are the most difficult / technical parts?](/expeditions/great-himalaya-trail/faq/#what-are-the-most-difficult--technical-parts). 
+
+{{% /card %}}
+
 The route has five passes that require moderate mountaineering skills and equipment. You can read more about the gear we'll be using on these sections on the [Gear - Mountaineering](/expeditions/great-himalaya-trail/gear-mountaineering/) page.
 
 We'll be enlisting the services of a mountaineering guide to assist us over these five sections - [Sherpani Col](/expeditions/great-himalaya-trail/sherpani-col/), [West Col](/expeditions/great-himalaya-trail/west-col/), [Amphu Labsta La](/expeditions/great-himalaya-trail/amphu-labsta-la/), [Tashi Labsta La](/expeditions/great-himalaya-trail/tashi-labsta-la/) and [Tilman's Pass](/expeditions/great-himalaya-trail/tilmans-pass/). 

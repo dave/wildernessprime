@@ -14,6 +14,17 @@ hashtags: "#Navigation #GPS #GPX #KML"
 title_has_context: false
 
 ---
+
+{{% card %}}
+
+#### Post trail update
+
+This page is out of date. After the trek I updated and improved my GPX route files, and I would recommend using the 
+latest version as your primary navigation route. You can download the GPX files on the [Trail Notes page](/expeditions/great-himalaya-trail/trail-notes/). 
+Also see the FAQ: [What navigational sources would you recommend?](/expeditions/great-himalaya-trail/faq/#what-navigational-sources-would-you-recommend). 
+
+{{% /card %}}
+
 ViewRanger will provide topo maps of the entire trekking area, but these would be of limited use without the route highlighted. The GHT is infrequently trekked, so there's relatively few digital resources available. For the more popular ares, the ViewRanger topo maps often include footpaths - but for much of the trek there is nothing plotted on the map.
 
 I've tried to bring all the available GPS resources together in this section:

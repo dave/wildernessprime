@@ -10,6 +10,21 @@ keywords: []
 author: dave
 social_posts: true
 ---
+
+{{% card %}}
+
+#### Post trail update
+
+This page is out of date. Prior to the trek we had no idea where we would be able to resupply with food that could be 
+prepared with a backpacking stove, so we assumed we would never resupply along the trek. This meant we were carrying 
+far too much food for much of the trek. See the FAQ: [When can you resupply with camping food along the route](/expeditions/great-himalaya-trail/faq/#when-can-you-resupply-with-camping-food-along-the-route).
+
+Take a look at the [trail notes Google sheet](https://docs.google.com/spreadsheets/d/14x_OJ4mJNoHuj1LnYnyGULdE3P9kG6CwOdY1t0sv_H8/edit), 
+and the "Lodge" column - most of the villages with "G" (guesthouse) in this column should be able to sell you noodles. 
+With this information, I believe we could have significantly reduced the amount of food we would need to carry.
+
+{{% /card %}}
+
 Our general food strategy is to eat freshly cooked local food wherever possible, and not to reply on buying unprepared food along the trail that we cook later. Remote villages often will have nothing to sell apart from perhaps rice, flour and lentils - not exactly calorie dense or backpacking stove compatible. In order to ensure we have enough food between resupply points, I've attempted to estimate where we'll be able to eat local food. When we're eating local food we're not using our rations.
 
 Our resupply points were picked by juggling a few variables:

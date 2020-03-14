@@ -14,6 +14,15 @@ hashtags: "@viewranger @footpathapp @maps_me"
 title_has_context: false
 
 ---
+
+{{% card %}}
+
+#### Post trail update
+
+This page is out of date. For my latest recommendation on navigation apps, see the FAQ: [What navigational sources would you recommend?](/expeditions/great-himalaya-trail/faq/#what-navigational-sources-would-you-recommend).
+
+{{% /card %}}
+
 Unfortunately I've not yet found an app that has all the features I need for navigating a long trek like the Great Himalaya Trail, so I'll be using these three apps in combination:
 
 ## ViewRanger

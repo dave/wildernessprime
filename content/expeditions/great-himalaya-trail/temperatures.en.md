@@ -16,6 +16,14 @@ hashtags: "#Temperatures #Freezing"
 title_has_context: false
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+These temperatures worked pretty well as a very rough estimate. See the FAQ: [What's the temperature like?](/expeditions/great-himalaya-trail/faq/#whats-the-temperature-like).
+
+{{% /card %}}
+
 It's possible to work out the approximate temperatures on the trail by taking the average monthly temperatures in Kathmandu at 1,400m, and using the adiabatic lapse rate of 9.8C per km. This gives us a very approximate estimate of the temperature we'll be experiencing on the trail.
 
 The results show we'll be expecting a rather chilly -20C on some nights, but daytime temperatures rarely dip below freezing.

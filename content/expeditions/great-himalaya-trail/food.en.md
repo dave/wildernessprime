@@ -14,6 +14,16 @@ hashtags: "#Food #DalBhat"
 title_has_context: false
 
 ---
+
+{{% card %}}
+
+#### Post trail update
+
+With hindsight I would have taken less camping food. See the [Itinerary - Resupply](/expeditions/great-himalaya-trail/itinerary-resupply/) 
+page for more information. 
+
+{{% /card %}}
+
 We will eat as much freshly prepared food as we can. Dal Bhat is delicious and we want to support the local economy as much as possible. However, we'll only have access to locally prepared food on about half the 115 days in the itinerary. The rest of the food we'll have to take with us. We would love to be able to resupply at shops along the route, but the remote villages rarely sell backpacking compatible food. It's not really possible to cook lentils and rice on a backpacking stove.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551710343/IMG_2289.jpg)

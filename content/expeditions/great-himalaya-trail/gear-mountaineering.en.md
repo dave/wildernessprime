@@ -14,6 +14,20 @@ social_posts: true
 social_date: 2019-03-25 10:00:00 +0000
 ---
 
+{{% card %}}
+
+#### Post trail update
+
+I hugely regret not taking my crampons and ice axe on the first section (from Kanchenjunga Base Camp to Makalu Base 
+Camp). The first few high sections (Nango La, Lumbha Sumbha, Molun Pokhari) were all extremely dangerous without 
+crampons.
+
+Our mountaineering gear all worked extremely well, however I think we were lucky that our Petzl Leopard crampons lasted 
+the whole trek. The Dyneema cord joining the front and back of the crampons together was badly worn from walking across 
+rocks, and could have snapped at any time.
+
+{{% /card %}}
+
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1553073044/leopard.jpg)
 
 I've chosen the lightest mountaineering gear available. Although we'll only be using it for five days, we'll be carrying it for several weeks of hiking, so weight is critical.

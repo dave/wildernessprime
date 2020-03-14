@@ -16,6 +16,15 @@ hashtags: "#TilmansPass #Mountaineering"
 title_has_context: false
 
 ---
+
+{{% card %}}
+
+#### Post trail update
+
+See the [Trail Notes](/expeditions/great-himalaya-trail/trail-notes/) page or [this Google sheet](https://docs.google.com/spreadsheets/d/14x_OJ4mJNoHuj1LnYnyGULdE3P9kG6CwOdY1t0sv_H8/edit) for an updated description of this leg.
+
+{{% /card %}}
+
 {{< model "/models/D061.glb" >}}
 
 _5,308m, D061_ - Navigation on the approach to Tilman's is reportedly rather difficult. It's less technical than the other passes and lower elevation at just 5,308m. A steep scramble beside an icefall is followed by an crevassed plateau, then a steep scramble down. The exit is a long walk along a glacier with a tricky river crossing at the end.
