@@ -70,6 +70,9 @@ I would recommend using several essential navigation sources:
 **Trail notes**
 My trail notes can be printed with or without the summary maps. I'd recommend printing them [without maps](https://www.wildernessprime.com/expeditions/great-himalaya-trail/trail-notes-no-maps/), because the maps included with the trail notes aren't great. Printing them without maps and double sided will run to 43 pages.
 
+**My GPS routes**
+After the trek I updated and improved my GPX route files, and I would recommend using the latest version as your primary navigation route. You can download the GPX files on the [GPS routes page](/expeditions/great-himalaya-trail/gps-routes/).
+
 **Maps.me app**
 This doesn't have topo maps but for 90% of the route it's all you need. Import my special KML file to get the route and waypoints. The offline maps are very quick to download, and you can download all the maps for the whole of Nepal. 
 
