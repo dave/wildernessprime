@@ -8,9 +8,11 @@ languages:
   en:
     languageName: EN
     weight: 1
-#  fr:
-#    languageName: FR
-#    weight: 2
+  fr:
+    languageName: FR
+    weight: 2
+
+disableLanguages: ["fr"]
 
 taxonomies:
   category: categories
