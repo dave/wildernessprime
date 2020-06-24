@@ -1,18 +1,1199 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://www.wildernessprime.com/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-06-24T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://www.wildernessprime.com/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2019-04-02T10:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/planning/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/faq/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gps-routes/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/trail-notes/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/trail-notes-no-maps/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/reddit/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/vlog/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/antarctica/kit/</loc>
+    <lastmod>2019-12-26T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/antarctica/tracking/</loc>
+    <lastmod>2019-12-25T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/antarctica/updates/</loc>
+    <lastmod>2019-12-25T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/antarctica/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/antarctica/intro/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-18/</loc>
+    <lastmod>2019-09-15T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-154/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-153/</loc>
+    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-152/</loc>
+    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-150/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-149/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-148/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-17/</loc>
+    <lastmod>2019-09-08T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-147/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-146/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-145/</loc>
+    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-143/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-142/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-141/</loc>
+    <lastmod>2019-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-140/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-16/</loc>
+    <lastmod>2019-08-31T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-139/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-138/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-137/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-136/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-134/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-133/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-132/</loc>
+    <lastmod>2019-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-15/</loc>
+    <lastmod>2019-08-23T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-131/</loc>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-130/</loc>
+    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-129/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-127/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-126/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-125/</loc>
+    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-124/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-14/</loc>
+    <lastmod>2019-08-15T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-123/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-122/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-121/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-120/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-118/</loc>
+    <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-117/</loc>
+    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-116/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-13/</loc>
+    <lastmod>2019-08-07T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-115/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-113/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-112/</loc>
+    <lastmod>2019-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-111/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-110/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-109/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-108/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-12/</loc>
+    <lastmod>2019-07-30T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-107/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-106/</loc>
+    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-105/</loc>
+    <lastmod>2019-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-104/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-103/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-101/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-100/</loc>
+    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-11/</loc>
+    <lastmod>2019-07-21T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-098/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-097/</loc>
+    <lastmod>2019-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-095/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-092/</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-091/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-090/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-089/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-10/</loc>
+    <lastmod>2019-07-11T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-088/</loc>
+    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-083/</loc>
+    <lastmod>2019-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-082/</loc>
+    <lastmod>2019-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-080/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-079/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-078/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-077/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-09/</loc>
+    <lastmod>2019-06-29T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-076/</loc>
+    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-075/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-074/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-073/</loc>
+    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-072/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-071/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-069/</loc>
+    <lastmod>2019-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-08/</loc>
+    <lastmod>2019-06-21T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-068/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-067/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-065/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-064/</loc>
+    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-063/</loc>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-062/</loc>
+    <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-061/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-07/</loc>
+    <lastmod>2019-06-13T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-060/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-058/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-057/</loc>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-056/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-055/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-054/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-053/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-06/</loc>
+    <lastmod>2019-06-04T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-051/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-050/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-049/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-048/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-047/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-046/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-045/</loc>
+    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-05/</loc>
+    <lastmod>2019-05-27T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-043/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-042/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-041/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-040/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-039/</loc>
+    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-038/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-037/</loc>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-04/</loc>
+    <lastmod>2019-05-20T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-036/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-034/</loc>
+    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-033/</loc>
+    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-032/</loc>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-031/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-030/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-029/</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-03/</loc>
+    <lastmod>2019-05-12T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-028/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-027/</loc>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-025/</loc>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-024/</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-023/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-022/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-021/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-02/</loc>
+    <lastmod>2019-05-02T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-018/</loc>
+    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-017/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-016/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-014/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-013/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-012/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-010/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/week-01/</loc>
+    <lastmod>2019-04-22T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-008/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-007/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-005/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-004/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-003/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-002/</loc>
+    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/day-001/</loc>
+    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/models/</loc>
+    <lastmod>2019-04-05T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tilmans-pass/</loc>
+    <lastmod>2019-04-05T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/tashi-labsta-la/</loc>
+    <lastmod>2019-04-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/amphu-labsta-la/</loc>
+    <lastmod>2019-04-04T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/west-col/</loc>
+    <lastmod>2019-04-04T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/sherpani-col/</loc>
+    <lastmod>2019-04-04T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/mountaineering/</loc>
+    <lastmod>2019-04-03T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/poubelles/</loc>
+    <lastmod>2019-04-02T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/trash/</loc>
+    <lastmod>2019-04-02T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/communication/</loc>
+    <lastmod>2019-04-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/communication/</loc>
+    <lastmod>2019-04-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/temperatures/</loc>
+    <lastmod>2019-03-31T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/sponsors-rxbars/</loc>
+    <lastmod>2019-03-30T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/sponsors-expedition-foods/</loc>
+    <lastmod>2019-03-29T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/sponsors-fbomb/</loc>
+    <lastmod>2019-03-28T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gear-clothes/</loc>
+    <lastmod>2019-03-27T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gear-clothes/</loc>
+    <lastmod>2019-03-27T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gear-miscellaneous/</loc>
+    <lastmod>2019-03-26T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gear-mountaineering/</loc>
+    <lastmod>2019-03-25T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gear-cooking/</loc>
+    <lastmod>2019-03-24T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gear-cooking/</loc>
+    <lastmod>2019-03-24T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gear-sleeping/</loc>
+    <lastmod>2019-03-23T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gear-camping/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gear-camping/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/gear-pack/</loc>
+    <lastmod>2019-03-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/m%C3%A9thodes-de-navigation/</loc>
+    <lastmod>2019-03-11T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/carte-interactive/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/interactive-map/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/food/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/nourriture/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/navigation-apps/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/navigation-emergencies/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/navigation-flashcards/</loc>
+    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/navigation-gps/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/navigation-methods/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/itinerary-resupply/</loc>
+    <lastmod>2019-02-20T12:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/itineraire-reapprovisionnement/</loc>
+    <lastmod>2019-02-20T12:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/itinerary-summary/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/navigation-sources/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/navigation-sources/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/quest-ce-que-la-grande-route-de-l-himalaya/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/great-himalaya-trail/what-is-the-great-himalaya-trail/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-8-trient-champex/</loc>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-7-les-houches-chamonix/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-6-mottets-contamines/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-5-la-fouly-courmayeur/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-4-verbier-champex/</loc>
+    <lastmod>2018-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-3-dix-prafleuri/</loc>
+    <lastmod>2018-09-12T16:47:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-2-moiry/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/part-1-zermatt/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/summer-haute-route-2018/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-17-ghorepani/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-16-tatopani/</loc>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-15-ghasa/</loc>
+    <lastmod>2018-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-14-larjung/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-13-marpha/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-12-kagbeni/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-11-muktinath/</loc>
+    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-10-thorung-phedi/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-9-yak-kharka/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-8-manang/</loc>
+    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-7-braka/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-6-pisang/</loc>
+    <lastmod>2018-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-5-chame/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-4-dharapani/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-3-chamje/</loc>
+    <lastmod>2018-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-2-bahundanda/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/day-1-bhulbhule/</loc>
+    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/annapurna-circuit/</loc>
+    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/authors/dave/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/authors/dave.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/authors/mathilde/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/authors/mathilde.fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/facebook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/instagram/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/pinterest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/tumblr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/socials/twitter/</loc>
+  </url>
+  
+</urlset>
