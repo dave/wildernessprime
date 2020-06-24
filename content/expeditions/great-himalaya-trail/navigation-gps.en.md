@@ -20,7 +20,7 @@ title_has_context: false
 #### Post trail update
 
 This page is out of date. After the trek I updated and improved my GPX route files, and I would recommend using the 
-latest version as your primary navigation route. You can download the GPX files on the [Trail Notes page](/expeditions/great-himalaya-trail/trail-notes/). 
+latest version as your primary navigation route. You can download the GPX files on the [GPS routes page](/expeditions/great-himalaya-trail/gps-routes/). 
 Also see the FAQ: [What navigational sources would you recommend?](/expeditions/great-himalaya-trail/faq/#what-navigational-sources-would-you-recommend). 
 
 {{% /card %}}
