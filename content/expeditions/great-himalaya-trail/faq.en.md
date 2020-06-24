@@ -73,14 +73,8 @@ My trail notes can be printed with or without the summary maps. I'd recommend pr
 **My GPS routes**
 After the trek I updated and improved my GPX route files, and I would recommend using the latest version as your primary navigation route. You can download the GPX files on the [GPS routes page](/expeditions/great-himalaya-trail/gps-routes/).
 
-**Maps.me app**
-This doesn't have topo maps but for 90% of the route it's all you need. Import my special KML file to get the route and waypoints. The offline maps are very quick to download, and you can download all the maps for the whole of Nepal. 
-
-**Gaia GPS app**
-For the 10% of the route where maps.me isn't useful, you'll need a topographic map. I would highly recommend Gaia GPS... I didn't actually discover Gaia until after our trek finished, but it is far easier to use than the alternatives. Import my standard GPX file to get the route and waypoints. There's two sets of offline maps I'd recommend:
-
-* Gaia Topo offline maps is essential, and very quick to download for the entire route. Choose the highest zoom level in the download page.  
-* World Imagery offline satellite images. If you have time and space on your phone, I would highly recommend downloading satellite images for the entire route. I only downloaded these for about a quarter of the route, and it was very helpful when recently built roads were missing from the topo maps. It will take many hours to download the images for the entire route because each leg will have to be downloaded separately because of Gaia's limit on the number of tiles per download, but I'd highly recommend investing the time.
+**Maps.me and Gaia GPS apps**
+See the [GPS routes page](/expeditions/great-himalaya-trail/gps-routes/) for more information about my navigation app recommendations.
 
 **Paper maps**
 Robin Boustead created the definitive set of ten maps for the GHT and they are still very useful today. They are available as paper or high-res digital files [at Robin's shop](https://www.greathimalayatrail.com/shop/). Note that the digital files aren't geo-coded so can't be imported into mapping apps - this is a real shame because they are excellent. Also note that the paper maps ship from Nepal, and can take several weeks to arrive. We had the paper maps for each section brought with our resupply packages, since carrying 10 printed maps for the entire trek would be rather heavy. 
