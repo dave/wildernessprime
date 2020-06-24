@@ -67,16 +67,16 @@ We started in mid April. This means we have to trek through monsoon. This isn't 
 #### What navigational sources would you recommend?
 I would recommend using several essential navigation sources:
 
-**Trail notes**
+**Trail notes**  
 My trail notes can be printed with or without the summary maps. I'd recommend printing them [without maps](https://www.wildernessprime.com/expeditions/great-himalaya-trail/trail-notes-no-maps/), because the maps included with the trail notes aren't great. Printing them without maps and double sided will run to 43 pages.
 
-**My GPS routes**
+**My GPS routes**  
 After the trek I updated and improved my GPX route files, and I would recommend using the latest version as your primary navigation route. You can download the GPX files on the [GPS routes page](/expeditions/great-himalaya-trail/gps-routes/).
 
-**Maps.me and Gaia GPS apps**
+**Maps.me and Gaia GPS apps**  
 See the [GPS routes page](/expeditions/great-himalaya-trail/gps-routes/) for more information about my navigation app recommendations.
 
-**Paper maps**
+**Paper maps**  
 Robin Boustead created the definitive set of ten maps for the GHT and they are still very useful today. They are available as paper or high-res digital files [at Robin's shop](https://www.greathimalayatrail.com/shop/). Note that the digital files aren't geo-coded so can't be imported into mapping apps - this is a real shame because they are excellent. Also note that the paper maps ship from Nepal, and can take several weeks to arrive. We had the paper maps for each section brought with our resupply packages, since carrying 10 printed maps for the entire trek would be rather heavy. 
 
 #### Communications
