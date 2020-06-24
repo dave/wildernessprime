@@ -74,14 +74,7 @@ title_has_context: false
 
 <div class="no-print">
 
-GPS routes for these trail notes are available here: 
-
-* **[GPX ROUTES](https://www.dropbox.com/s/2gnn6isfuq63syq/routes-v3.gpx?dl=1)** (recommended for most apps)  
-
-I would recommend using the GPX file above if you can, but some apps need KML format:
-
-* [KML](https://www.dropbox.com/s/ndw8kplfp6yrlui/routes-v3.kml?dl=1) (if gpx files don't work)  
-* [KML](https://www.dropbox.com/s/7uzulf1chxtat7j/routes-for-maps-me-v3.kml?dl=1) (for the maps.me app - route descriptions aren't visible in maps.me, so I've included a waypoint with the description at the start of each leg)  
+GPS routes for these trail notes are [available here](/expeditions/great-himalaya-trail/gps-routes/).
 
 You can find a printable PDF version [with maps](https://www.dropbox.com/s/elstjct83yw8hxf/trail-notes-v3.pdf?dl=1) or [with no maps](https://www.dropbox.com/s/sn5iwgh20641dgi/trail-notes-no-maps-v3.pdf?dl=1). 
 
