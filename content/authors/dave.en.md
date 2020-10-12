@@ -4,5 +4,5 @@ biography = "After creating a couple of startups, I spent five years working rem
 description = "Normally a software engineer, recently I've been spending a bit more time in nature."
 image = "/v1550934174/war-memorial.jpg"
 name = "Dave"
-contact = "https://www.facebook.com/dbrophy"
+contact = "mailto:dave@brophy.uk"
 +++
