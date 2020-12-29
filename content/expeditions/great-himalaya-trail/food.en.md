@@ -28,7 +28,7 @@ We will eat as much freshly prepared food as we can. Dal Bhat is delicious and w
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551710343/IMG_2289.jpg)
 
-Our logistics partner [Mactrek](http://www.mactreks.com/) will be arranging several supply packages to be delivered to us at [various points](/expeditions/great-himalaya-trail/itinerary-resupply/) along the route, but we'll have to carry ten days of food at several points. Calorie density is essential, and ease of preparation is also important.
+Our logistics partner [Mactrek](mailto:mactrek@gmail.com) will be arranging several supply packages to be delivered to us at [various points](/expeditions/great-himalaya-trail/itinerary-resupply/) along the route, but we'll have to carry ten days of food at several points. Calorie density is essential, and ease of preparation is also important.
 
 ## Breakfast
 

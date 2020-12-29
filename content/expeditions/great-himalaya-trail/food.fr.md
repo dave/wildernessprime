@@ -15,7 +15,7 @@ Bien entendu, nous aimerions manger le plus possible de nourriture fraîchement 
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551710343/IMG_2289.jpg)
 
-C'est [MacTrek](http://www.mactreks.com/), notre superbe équipe de logistique, qui assurera la livraison de nos paquets qui nous serons livrés à [plusieurs points](/expeditions/great-himalaya-trail/itinerary-resupply/) tout au long de notre périple. Dans la majorité des cas, nous serons tout de même contraints de transporter avec nous jusqu'à 10 jours de rations de nourriture. La densité calorique est essentielle et la facilité de préparation est également importante.
+C'est [MacTrek](mailto:mactrek@gmail.com), notre superbe équipe de logistique, qui assurera la livraison de nos paquets qui nous serons livrés à [plusieurs points](/expeditions/great-himalaya-trail/itinerary-resupply/) tout au long de notre périple. Dans la majorité des cas, nous serons tout de même contraints de transporter avec nous jusqu'à 10 jours de rations de nourriture. La densité calorique est essentielle et la facilité de préparation est également importante.
 
 ## Petit Déjeuner
 

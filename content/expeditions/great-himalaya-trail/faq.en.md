@@ -35,7 +35,7 @@ Finding a guide that will take you over Tilman's Pass is rather more difficult t
 I started in the east in mid-April, and hugely regret not taking my crampons and ice axe. The first few high sections (Nango La, Lumbha Sumbha, Molun Pokhari) were all extremely dangerous without crampons. I would probably recommend always having crampons at the ready, but we sent ours home at the Syabru Besi resupply point (mid-July) and didn't need them for the rest of the trek.
 
 #### How did you organise resupply / guides / logistics / permits
-We used a trekking company called [Mactrek](http://www.mactreks.com/) who specialise in this sort of logistical assistance. Our point of contact, Narayan, totally understood that we wanted to use the minimum amount of on-trail assistance, and helped us with: 
+We used a trekking company called [Mactrek](mailto:mactrek@gmail.com) who specialise in this sort of logistical assistance. Our point of contact, Narayan, totally understood that we wanted to use the minimum amount of on-trail assistance, and helped us with: 
 
 * Advice for the pre-trek planning.  
 * A porter for the resupply points.  
@@ -44,7 +44,7 @@ We used a trekking company called [Mactrek](http://www.mactreks.com/) who specia
 * Advice and emergency assistance (e.g. booking my helicopter rescue).  
 
 #### What about permits?
-Depending on your exact route you'll need a bunch of permits. Some of these can only be arranged in Kathmandu and have specific dates, so these had to be arranged while we were on the trek and delivered by the resupply porter. Narayan at [Mactrek](http://www.mactreks.com/) will be able to take a look at your itinerary and let you know which permits are required.
+Depending on your exact route you'll need a bunch of permits. Some of these can only be arranged in Kathmandu and have specific dates, so these had to be arranged while we were on the trek and delivered by the resupply porter. Narayan at [Mactrek](mailto:mactrek@gmail.com) will be able to take a look at your itinerary and let you know which permits are required.
 
 #### Do we really need the $500 USD Upper Dolpa permit?
 If you follow my itinerary, you do. I would highly recommend it too, because that had some of the most spectacular scenery of the entire trek. We were never actually stopped at any checkpoints when leaving Kagbeni (I think we just got lucky), but I would always recommend having the correct permits.
