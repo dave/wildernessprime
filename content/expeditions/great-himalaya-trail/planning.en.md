@@ -24,7 +24,7 @@ hiked the Nepal section from Kanchenjunga (on the Indian border in the East) to 
 in the West).
 
 The concept of the high route is that it follows the highest feasible continuous route across the 
-country, averaging 3,750m (12,000ft) of elevation, with several passes reaching 6,200m (20,300ft). 
+country, averaging 3,750m (12,000ft) of elevation, with passes reaching 6,200m (20,300ft). 
 In total 1,400km (870 miles) over 115 days of hiking, with 240,000m (800,000ft) of elevation change - 
 that's an average of 2,000m (6,500ft) per day. Including rest days, we completed the trek in 154 days.
 
