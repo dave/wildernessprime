@@ -90,7 +90,7 @@ There are versions of this page [with maps](/expeditions/great-himalaya-trail/tr
 
 ## Leg 1: Taplejung to Phurumbu
 
-Easy hike along along dirt road.
+Easy hike along a dirt road.
 
 </div>
 
@@ -157,7 +157,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 ## Leg 2: Phurumbu to Chiruwa
 
-Easy hike along along dirt road.
+Easy hike along a dirt road.
 
 </div>
 
@@ -224,7 +224,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 ## Leg 3: Chiruwa to Sukethum
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -291,7 +291,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 4: Sukethum to Amjilosa
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -358,7 +358,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 ## Leg 5: Amjilosa to Gyabla
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -425,7 +425,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 ## Leg 6: Gyabla to Ghunsa
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -636,7 +636,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 ## Leg 9: Lhonak to Pangpema
 
-Trail was tricky to follow with a couple of large new landslides which meant lengthy diversions to find safe places to cross, and scrambling.
+Trail was tricky to follow with a couple of large new landslides which meant lengthy diversions to find safe places to cross, and scrambling. Update from Kate (summer 2022): "The recent landslides Dave went through are fine"
 
 </div>
 
@@ -1068,7 +1068,7 @@ Accommodation: shelter - 5/5 (excellent)
 
 ## Leg 15: Yangjong Kharka to Olangchun Gola
 
-Tricky trail to follow, especially the first half before the new bridge. I suspect this trial will be changing regularly, because it was relatively new (spring 2019).
+Tricky trail to follow, especially the first half before the new bridge. I suspect this trial will be changing regularly, because it was relatively new (spring 2019). Update from Kate (summer 2022): "Deviation - the new trail Dave took is no longer visible. We took the old trail further north. Very overgrown and difficult to follow. The 'new' bridge is still there, but we could not find any trail on the east side of the river. Bridge on the route I took is further upstream than the river crossing shown on GPS." I've added a new waypoint "North Bridge" showing where Kate found the bridge.
 
 </div>
 
@@ -1097,6 +1097,16 @@ Tricky trail to follow, especially the first half before the new bridge. I suspe
 <div class="no-page-break">
 
 **L015 Bridge (3,220 m / 10,600 ft)**: This is the new bridge over the Yangma Khola (as of spring 2019). After the bridge, the trail follows the standard route shown on digital / paper maps.
+
+</div>
+
+
+
+
+
+<div class="no-page-break">
+
+**L015 North Bridge (3,390 m / 11,100 ft)**: This is a new bridge that Kate found (summer 2022).
 
 </div>
 
@@ -2953,7 +2963,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 ## Leg 40: Lumde to Thame
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -3020,7 +3030,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 ## Leg 41: Thame to Thyangbo
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -3308,7 +3318,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 45: Na to Beding
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -3375,7 +3385,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 ## Leg 46: Beding to Dokhang
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -3442,7 +3452,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 47: Dokhang to Simigaon
 
-Easy hike along along well maintained trail. The rating is for the guesthouse we stayed in at Gonggar. Guesthouses in Simigaon may well be better.
+Easy hike along a well maintained trail. The rating is for the guesthouse we stayed in at Gonggar. Guesthouses in Simigaon may well be better.
 
 </div>
 
@@ -3509,7 +3519,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 ## Leg 48: Simigaon to Orangdanda
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -3586,7 +3596,7 @@ Accommodation: homestay - 2/5 (below average)
 
 ## Leg 49: Orangdanda to Laduk
 
-Easy hike along along a dirt road.
+Easy hike along a dirt road.
 
 </div>
 
@@ -3653,7 +3663,7 @@ Accommodation: homestay - 2/5 (below average)
 
 ## Leg 50: Laduk to Loting
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -3720,7 +3730,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 ## Leg 51: Loting to Bigu Gompa
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -4048,7 +4058,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 ## Leg 55: Last Resort to Chagam
 
-Easy hike along along a dirt road. Note that the paper maps any other itineraries take a higher path via Shotang Kharka towards Kyansin. We took the lower route which seemed like a better trail via Chagam. The adventurous among you may try following the paper maps via Shotang Kharka.
+Easy hike along a dirt road. Note that the paper maps any other itineraries take a higher path via Shotang Kharka towards Kyansin. We took the lower route which seemed like a better trail via Chagam. The adventurous among you may try following the paper maps via Shotang Kharka.
 
 </div>
 
@@ -4664,7 +4674,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 63: Kyangjin Gompa to Changdam
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -4731,7 +4741,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 ## Leg 64: Changdam to Syabru Besi
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -4798,7 +4808,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 ## Leg 65: Syabru Besi to Gatlang
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -4865,7 +4875,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 ## Leg 66: Gatlang to Somdang
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -5173,7 +5183,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 ## Leg 70: Dharot to Khorlabesi
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -5260,7 +5270,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 ## Leg 71: Khorlabesi to Jagat
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -5327,7 +5337,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 72: Jagat to Deng
 
-Easy hike along along well maintained trail. Note that the elevation profile of the GPX route is not accurate today. The trail follows a smooth gradient all day without the large climb and descent shown at the end.
+Easy hike along a well maintained trail. Note that the elevation profile of the GPX route is not accurate today. The trail follows a smooth gradient all day without the large climb and descent shown at the end.
 
 </div>
 
@@ -5394,7 +5404,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 ## Leg 73: Deng to Namrung
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -5461,7 +5471,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 ## Leg 74: Namrung to Sama
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -5528,7 +5538,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 ## Leg 75: Sama to Dharmasala
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -5605,7 +5615,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 ## Leg 76: Dharmasala to Bimtang
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -5682,7 +5692,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 77: Bimtang to Dharapani
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail. Update from Kate (summer 2022): "Bridge at Dharapani is out. Have to continue approx 1 km upstream on road for bridge."
 
 </div>
 
@@ -5759,7 +5769,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 ## Leg 78: Dharapani to Chame
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -5836,7 +5846,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 79: Chame to Upper Pisang
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -5913,7 +5923,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 80: Upper Pisang to Manang
 
-Easy hike along along well maintained trail. We did an alternative route from the section from Manang to Kagbeni. We had both hiked the standard route via Thorong La before, so instead we hiked to Tilicho Lake and over Mesokanto La to Jomson and on to Kagbeni. This is an excellent option if you want a more remote route. It involves two nights of camping and some tricky to follow trails. I will include trail notes for this option at the end.
+Easy hike along a well maintained trail. We did an alternative route from the section from Manang to Kagbeni. We had both hiked the standard route via Thorong La before, so instead we hiked to Tilicho Lake and over Mesokanto La to Jomson and on to Kagbeni. This is an excellent option if you want a more remote route. It involves two nights of camping and some tricky to follow trails. I will include trail notes for this option at the end.
 
 </div>
 
@@ -5980,7 +5990,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 ## Leg 81: Manang to Thorong Phedi
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -6047,7 +6057,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 ## Leg 82: Thorong Phedi to Muktinath
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -6124,7 +6134,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 ## Leg 83: Muktinath to Kagbeni
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -6258,7 +6268,7 @@ Accommodation: homestay - 2/5 (below average)
 
 ## Leg 85: Santa to Ghalden Ghuldun
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -6733,7 +6743,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 90: Dho Tarap to Danigar
 
-The trail out of Dho Tarap was a very easy hike along along a well maintained trail. As we approached the pass the trail became less well defined but the terrain above the treeline was open and easy to traverse. Past the pass it got easier with a more well defined trail.
+The trail out of Dho Tarap was a very easy hike along a well maintained trail. As we approached the pass the trail became less well defined but the terrain above the treeline was open and easy to traverse. Past the pass it got easier with a more well defined trail.
 
 </div>
 
@@ -6810,7 +6820,7 @@ Accommodation: campsite - 4/5 (above average)
 
 ## Leg 91: Danigar to Ringmo
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -6887,7 +6897,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 ## Leg 92: Ringmo to Phoksundo Khola Camp
 
-Simple hike along along an easy to follow trail along the edge of the utterly spectacular Phoksundo Lake.
+Simple hike along an easy to follow trail along the edge of the utterly spectacular Phoksundo Lake.
 
 </div>
 
@@ -7031,7 +7041,7 @@ Accommodation: campsite - 2/5 (below average)
 
 ## Leg 94: Pass Camp to Shey Gompa
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -7108,7 +7118,7 @@ Accommodation: shelter - 4/5 (above average)
 
 ## Leg 95: Shey Gompa to Bhijer
 
-Simple hike along along an easy to follow trail.
+Simple hike along an easy to follow trail.
 
 </div>
 
@@ -7339,7 +7349,7 @@ Accommodation: campsite - 2/5 (below average)
 
 ## Leg 98: Pung Kharka to Chyandi Khola
 
-Simple hike along along an easy to follow trail, with a tricky point on the ascent to the pass (see waypoints).
+Simple hike along an easy to follow trail, with a tricky point on the ascent to the pass (see waypoints).
 
 </div>
 
@@ -7677,7 +7687,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 102: Shilenchaura Kharka to Mangri
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -7764,7 +7774,7 @@ Accommodation: homestay - 2/5 (below average)
 
 ## Leg 103: Mangri to Gamgadhi
 
-Easy hike along along dirt road.
+Easy hike along a dirt road.
 
 </div>
 
@@ -7898,7 +7908,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 ## Leg 105: Rara Lake to Dharke Khola
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -8042,7 +8052,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 ## Leg 107: Rimi to Melcham
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -8119,7 +8129,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 ## Leg 108: Melcham to Apsia Lek
 
-Easy hike along along well maintained trail.
+Easy hike along a well maintained trail.
 
 </div>
 
@@ -8253,7 +8263,7 @@ Accommodation: homestay - 1/5 (basic)
 
 ## Leg 110: Punkha Khola to River Camp
 
-Simple hike along along a reasonably easy to follow trail.
+Simple hike along a reasonably easy to follow trail.
 
 </div>
 
@@ -8320,7 +8330,7 @@ Accommodation: campsite - 1/5 (awful)
 
 ## Leg 111: River Camp to Simikot
 
-Easy hike along along a well maintained trail / dirt road.
+Easy hike along a well maintained trail / dirt road.
 
 </div>
 
@@ -8387,7 +8397,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 ## Leg 112: Simikot to Salli
 
-Easy hike along along a well maintained trail / dirt road.
+Easy hike along a well maintained trail / dirt road.
 
 </div>
 
@@ -8464,7 +8474,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 ## Leg 113: Salli to Thumkot
 
-Easy hike along along a well maintained trail / dirt road.
+Easy hike along a well maintained trail / dirt road.
 
 </div>
 
@@ -8541,7 +8551,7 @@ Accommodation: homestay - 2/5 (below average)
 
 ## Leg 114: Thumkot to Yari
 
-Easy hike along along a dirt road.
+Easy hike along a dirt road.
 
 </div>
 
@@ -8608,7 +8618,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 ## Leg 115: Yari to Hilsa
 
-Easy hike along along a well maintained trail / dirt road.
+Easy hike along a well maintained trail / dirt road.
 
 </div>
 
