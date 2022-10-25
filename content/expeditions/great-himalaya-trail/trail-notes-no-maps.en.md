@@ -86,7 +86,7 @@ There are versions of this page [with maps](/expeditions/great-himalaya-trail/tr
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L001">
 
 ## Leg 1: Taplejung to Phurumbu
 
@@ -153,7 +153,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L002">
 
 ## Leg 2: Phurumbu to Chiruwa
 
@@ -220,7 +220,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L003">
 
 ## Leg 3: Chiruwa to Sukethum
 
@@ -287,7 +287,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L004">
 
 ## Leg 4: Sukethum to Amjilosa
 
@@ -354,7 +354,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L005">
 
 ## Leg 5: Amjilosa to Gyabla
 
@@ -421,7 +421,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L006">
 
 ## Leg 6: Gyabla to Ghunsa
 
@@ -498,7 +498,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L007">
 
 ## Leg 7: Ghunsa to Khangpachen
 
@@ -565,7 +565,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L008">
 
 ## Leg 8: Khangpachen to Lhonak
 
@@ -632,7 +632,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L009">
 
 ## Leg 9: Lhonak to Pangpema
 
@@ -709,7 +709,7 @@ Accommodation: campsite - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L010">
 
 ## Leg 10: Pangpema to Lhonak
 
@@ -786,7 +786,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L011">
 
 ## Leg 11: Lhonak to Kangpachen
 
@@ -853,7 +853,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L012">
 
 ## Leg 12: Kangpachen to Ghunsa
 
@@ -920,7 +920,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L013">
 
 ## Leg 13: Ghunsa to Kharka
 
@@ -987,7 +987,7 @@ Accommodation: campsite - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L014">
 
 ## Leg 14: Kharka to Yangjong Kharka
 
@@ -1064,7 +1064,7 @@ Accommodation: shelter - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L015">
 
 ## Leg 15: Yangjong Kharka to Olangchun Gola
 
@@ -1161,7 +1161,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L016">
 
 ## Leg 16: Olangchun Gola to Pass Camp
 
@@ -1228,7 +1228,7 @@ Accommodation: campsite - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L017">
 
 ## Leg 17: Pass Camp to Thudam
 
@@ -1305,7 +1305,7 @@ Accommodation: homestay - 1/5 (basic)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L018">
 
 ## Leg 18: Thudam to Jijibuk
 
@@ -1372,7 +1372,7 @@ Accommodation: homestay - 1/5 (basic)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L019">
 
 ## Leg 19: Jijibuk to Lingham
 
@@ -1449,7 +1449,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L020">
 
 ## Leg 20: Lingham to Hongon
 
@@ -1516,7 +1516,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L021">
 
 ## Leg 21: Hongon to Molun Pokhari
 
@@ -1583,7 +1583,7 @@ Accommodation: campsite - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L022">
 
 ## Leg 22: Molun Pokhari to Clearing Camp
 
@@ -1720,7 +1720,7 @@ Accommodation: campsite - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L023">
 
 ## Leg 23: Clearing Camp to Kalo Pokhari
 
@@ -1787,7 +1787,7 @@ Accommodation: campsite - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L024">
 
 ## Leg 24: Kalo Pokhari to Yangla Kharka
 
@@ -1854,7 +1854,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L025">
 
 ## Leg 25: Yangla Kharka to Makalu Base Camp
 
@@ -1931,7 +1931,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L026">
 
 ## Leg 26: Makalu Base Camp to Swiss Base Camp
 
@@ -1998,7 +1998,7 @@ Accommodation: campsite - 1/5 (awful)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L027">
 
 ## Leg 27: Swiss Base Camp to Sherpani Col Base Camp
 
@@ -2065,7 +2065,7 @@ Accommodation: campsite - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L028">
 
 ## Leg 28: Sherpani Col Base Camp to Advanced Base Camp
 
@@ -2142,7 +2142,7 @@ Accommodation: campsite - 1/5 (awful)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L029">
 
 ## Leg 29: Advanced Base Camp to Barnutse Base Camp
 
@@ -2219,7 +2219,7 @@ Accommodation: campsite - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L030">
 
 ## Leg 30: Barnutse Base Camp to Amphu Labsta Base Camp
 
@@ -2296,7 +2296,7 @@ Accommodation: campsite - 1/5 (awful)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L031">
 
 ## Leg 31: Amphu Labsta Base Camp to Chhukung
 
@@ -2373,7 +2373,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L032">
 
 ## Leg 32: Chhukung to Dingboche
 
@@ -2440,7 +2440,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L033">
 
 ## Leg 33: Dingboche to Lobuche
 
@@ -2507,7 +2507,7 @@ Accommodation: guesthouse - (unknown)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L034">
 
 ## Leg 34: Lobuche to Gorak Shep
 
@@ -2584,7 +2584,7 @@ Accommodation: guesthouse - (unknown)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L035">
 
 ## Leg 35: Gorak Shep to Lobuche
 
@@ -2661,7 +2661,7 @@ Accommodation: guesthouse - (unknown)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L036">
 
 ## Leg 36: Lobuche to Dzongla
 
@@ -2728,7 +2728,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L037">
 
 ## Leg 37: Dzongla to Dragnag
 
@@ -2805,7 +2805,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L038">
 
 ## Leg 38: Dragnag to Gokyo
 
@@ -2882,7 +2882,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L039">
 
 ## Leg 39: Gokyo to Lumde
 
@@ -2959,7 +2959,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L040">
 
 ## Leg 40: Lumde to Thame
 
@@ -3026,7 +3026,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L041">
 
 ## Leg 41: Thame to Thyangbo
 
@@ -3093,7 +3093,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L042">
 
 ## Leg 42: Thyangbo to Tashi Labsta Camp
 
@@ -3170,7 +3170,7 @@ Accommodation: campsite - 1/5 (awful)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L043">
 
 ## Leg 43: Tashi Labsta Camp to Glacier Camp
 
@@ -3247,7 +3247,7 @@ Accommodation: campsite - 1/5 (awful)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L044">
 
 ## Leg 44: Glacier Camp to Na
 
@@ -3314,7 +3314,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L045">
 
 ## Leg 45: Na to Beding
 
@@ -3381,7 +3381,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L046">
 
 ## Leg 46: Beding to Dokhang
 
@@ -3448,7 +3448,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L047">
 
 ## Leg 47: Dokhang to Simigaon
 
@@ -3515,7 +3515,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L048">
 
 ## Leg 48: Simigaon to Orangdanda
 
@@ -3592,7 +3592,7 @@ Accommodation: homestay - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L049">
 
 ## Leg 49: Orangdanda to Laduk
 
@@ -3659,7 +3659,7 @@ Accommodation: homestay - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L050">
 
 ## Leg 50: Laduk to Loting
 
@@ -3726,7 +3726,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L051">
 
 ## Leg 51: Loting to Bigu Gompa
 
@@ -3793,7 +3793,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L052">
 
 ## Leg 52: Bigu Gompa to Tinsang Kewa
 
@@ -3880,7 +3880,7 @@ Accommodation: campsite - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L053">
 
 ## Leg 53: Tinsang Kewa to Sano Jyandan
 
@@ -3967,7 +3967,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L054">
 
 ## Leg 54: Sano Jyandan to Last Resort
 
@@ -4054,7 +4054,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L055">
 
 ## Leg 55: Last Resort to Chagam
 
@@ -4121,7 +4121,7 @@ Accommodation: homestay - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L056">
 
 ## Leg 56: Chagam to Kyansin
 
@@ -4188,7 +4188,7 @@ Accommodation: homestay - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L057">
 
 ## Leg 57: Kyansin to Tembathang
 
@@ -4255,7 +4255,7 @@ Accommodation: homestay - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L058">
 
 ## Leg 58: Tembathang to Panch Pokhari
 
@@ -4342,7 +4342,7 @@ Accommodation: shelter - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L059">
 
 ## Leg 59: Panch Pokhari to Tin Pokhari
 
@@ -4409,7 +4409,7 @@ Accommodation: campsite - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L060">
 
 ## Leg 60: Tin Pokhari to High South Camp
 
@@ -4476,7 +4476,7 @@ Accommodation: campsite - 1/5 (awful)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L061">
 
 ## Leg 61: High South Camp to High North Camp
 
@@ -4553,7 +4553,7 @@ Accommodation: campsite - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L062">
 
 ## Leg 62: High North Camp to Kyangjin Gompa
 
@@ -4670,7 +4670,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L063">
 
 ## Leg 63: Kyangjin Gompa to Changdam
 
@@ -4737,7 +4737,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L064">
 
 ## Leg 64: Changdam to Syabru Besi
 
@@ -4804,7 +4804,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L065">
 
 ## Leg 65: Syabru Besi to Gatlang
 
@@ -4871,7 +4871,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L066">
 
 ## Leg 66: Gatlang to Somdang
 
@@ -4938,7 +4938,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L067">
 
 ## Leg 67: Somdang to Tipling
 
@@ -5015,7 +5015,7 @@ Accommodation: homestay - 1/5 (basic)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L068">
 
 ## Leg 68: Tipling to Lapagaon
 
@@ -5092,7 +5092,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L069">
 
 ## Leg 69: Lapagaon to Dharot
 
@@ -5179,7 +5179,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L070">
 
 ## Leg 70: Dharot to Khorlabesi
 
@@ -5266,7 +5266,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L071">
 
 ## Leg 71: Khorlabesi to Jagat
 
@@ -5333,7 +5333,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L072">
 
 ## Leg 72: Jagat to Deng
 
@@ -5400,7 +5400,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L073">
 
 ## Leg 73: Deng to Namrung
 
@@ -5467,7 +5467,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L074">
 
 ## Leg 74: Namrung to Sama
 
@@ -5534,7 +5534,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L075">
 
 ## Leg 75: Sama to Dharmasala
 
@@ -5611,7 +5611,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L076">
 
 ## Leg 76: Dharmasala to Bimtang
 
@@ -5688,7 +5688,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L077">
 
 ## Leg 77: Bimtang to Dharapani
 
@@ -5765,7 +5765,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L078">
 
 ## Leg 78: Dharapani to Chame
 
@@ -5842,7 +5842,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L079">
 
 ## Leg 79: Chame to Upper Pisang
 
@@ -5919,7 +5919,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L080">
 
 ## Leg 80: Upper Pisang to Manang
 
@@ -5986,7 +5986,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L081">
 
 ## Leg 81: Manang to Thorong Phedi
 
@@ -6053,7 +6053,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L082">
 
 ## Leg 82: Thorong Phedi to Muktinath
 
@@ -6130,7 +6130,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L083">
 
 ## Leg 83: Muktinath to Kagbeni
 
@@ -6197,7 +6197,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L084">
 
 ## Leg 84: Kagbeni to Santa
 
@@ -6264,7 +6264,7 @@ Accommodation: homestay - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L085">
 
 ## Leg 85: Santa to Ghalden Ghuldun
 
@@ -6331,7 +6331,7 @@ Accommodation: shelter - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L086">
 
 ## Leg 86: Ghalden Ghuldun to Nulungsumda Kharka
 
@@ -6428,7 +6428,7 @@ Accommodation: campsite - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L087">
 
 ## Leg 87: Nulungsumda Kharka to Chharka Bhot
 
@@ -6595,7 +6595,7 @@ Accommodation: guesthouse - (unknown)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L088">
 
 ## Leg 88: Chharka Bhot to Chap Chu
 
@@ -6662,7 +6662,7 @@ Accommodation: campsite - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L089">
 
 ## Leg 89: Chap Chu to Dho Tarap
 
@@ -6739,7 +6739,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L090">
 
 ## Leg 90: Dho Tarap to Danigar
 
@@ -6816,7 +6816,7 @@ Accommodation: campsite - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L091">
 
 ## Leg 91: Danigar to Ringmo
 
@@ -6893,7 +6893,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L092">
 
 ## Leg 92: Ringmo to Phoksundo Khola Camp
 
@@ -6960,7 +6960,7 @@ Accommodation: campsite - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L093">
 
 ## Leg 93: Phoksundo Khola Camp to Pass Camp
 
@@ -7037,7 +7037,7 @@ Accommodation: campsite - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L094">
 
 ## Leg 94: Pass Camp to Shey Gompa
 
@@ -7114,7 +7114,7 @@ Accommodation: shelter - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L095">
 
 ## Leg 95: Shey Gompa to Bhijer
 
@@ -7181,7 +7181,7 @@ Accommodation: homestay - 1/5 (basic)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L096">
 
 ## Leg 96: Bhijer to Pho
 
@@ -7248,7 +7248,7 @@ Accommodation: homestay - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L097">
 
 ## Leg 97: Pho to Pung Kharka
 
@@ -7345,7 +7345,7 @@ Accommodation: campsite - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L098">
 
 ## Leg 98: Pung Kharka to Chyandi Khola
 
@@ -7432,7 +7432,7 @@ Accommodation: campsite - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L099">
 
 ## Leg 99: Chyandi Khola to Takla Khola
 
@@ -7539,7 +7539,7 @@ Accommodation: campsite - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L100">
 
 ## Leg 100: Takla Khola to Thajuchaur
 
@@ -7616,7 +7616,7 @@ Accommodation: campsite - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L101">
 
 ## Leg 101: Thajuchaur to Shilenchaura Kharka
 
@@ -7683,7 +7683,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L102">
 
 ## Leg 102: Shilenchaura Kharka to Mangri
 
@@ -7770,7 +7770,7 @@ Accommodation: homestay - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L103">
 
 ## Leg 103: Mangri to Gamgadhi
 
@@ -7837,7 +7837,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L104">
 
 ## Leg 104: Gamgadhi to Rara Lake
 
@@ -7904,7 +7904,7 @@ Accommodation: guesthouse - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L105">
 
 ## Leg 105: Rara Lake to Dharke Khola
 
@@ -7981,7 +7981,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L106">
 
 ## Leg 106: Dharke Khola to Rimi
 
@@ -8048,7 +8048,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L107">
 
 ## Leg 107: Rimi to Melcham
 
@@ -8125,7 +8125,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L108">
 
 ## Leg 108: Melcham to Apsia Lek
 
@@ -8192,7 +8192,7 @@ Accommodation: campsite - 4/5 (above average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L109">
 
 ## Leg 109: Apsia Lek to Punkha Khola
 
@@ -8259,7 +8259,7 @@ Accommodation: homestay - 1/5 (basic)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L110">
 
 ## Leg 110: Punkha Khola to River Camp
 
@@ -8326,7 +8326,7 @@ Accommodation: campsite - 1/5 (awful)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L111">
 
 ## Leg 111: River Camp to Simikot
 
@@ -8393,7 +8393,7 @@ Accommodation: guesthouse - 5/5 (excellent)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L112">
 
 ## Leg 112: Simikot to Salli
 
@@ -8470,7 +8470,7 @@ Accommodation: guesthouse - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L113">
 
 ## Leg 113: Salli to Thumkot
 
@@ -8547,7 +8547,7 @@ Accommodation: homestay - 2/5 (below average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L114">
 
 ## Leg 114: Thumkot to Yari
 
@@ -8614,7 +8614,7 @@ Accommodation: guesthouse - 3/5 (average)
 
 
 
-<div class="no-page-break">
+<div class="no-page-break" id="L115">
 
 ## Leg 115: Yari to Hilsa
 
