@@ -2,14 +2,18 @@
 type: report
 slug: part-4-verbier-champex
 translationKey: part-4-verbier-champex
-date: 2018-09-15 00:00:00 +0000
+date: '2018-09-15 00:00:00 +0000'
 title: 'Part 4: Verbier, Champex'
 description: Onwards down to La Chable and Champex.
-image: "/v1549728184/IMG_4576.jpg"
+image: /v1549728184/IMG_4576.jpg
 keywords: []
 author: dave
 social_posts: true
+_template: article
 ---
+
+
+
 Arguably the most beautiful town in the European Alps, Verbier overlooks the most picturesque valley. After the last few days of rocks, scrambling and mountains, this all seems rather civilised.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549728184/IMG_4576.jpg) 

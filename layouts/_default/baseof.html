@@ -5,9 +5,9 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	{{ if .Site.RSSLink }}
-	<link href="{{ .Site.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-	<link href="{{ .Site.RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+	{{ if .OutputFormats.Get "RSS" }}
+	<link href="{{ .OutputFormats.Get "RSS" }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+	<link href="{{ .OutputFormats.Get "RSS" }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 	{{ end }}
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -21,7 +21,7 @@
 	<title>
 		{{ if eq .Site.Title .Title }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}
 	</title>
-	
+
 	<meta property="og:url" content="{{ .Permalink }}" />
 	<meta property="og:type" content="article" />
 	<meta property="fb:app_id" content="408388909949374" />
@@ -46,19 +46,19 @@
 </head>
 
 <body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-loading">
-	
+
 	<!-- Wrapper -->
 	<div id="wrapper">
-	
+
 		{{ partial "header" . }}
 		{{ partial "nav" . }}
 		{{ partial "breadcrumbs.html" . }}
-		
-		<!-- 
+
+		<!--
 		{{/* if and (eq .Params.type "report") .CurrentSection (eq .CurrentSection.Params.type "expedition") }}
-			{{ .CurrentSection.Params.title }} - 
+			{{ .CurrentSection.Params.title }} -
 		{{ end */}}
-		
+
 		<div id="breadcrumbs">
 			<ul>
 				<li>
@@ -73,14 +73,14 @@
 			</ul>
 		</div>
 		-->
-		
+
 		<!-- Main -->
 		<div id="main">
 			{{ block "main" . }}{{ end }}
 		</div>
-	
+
 		{{ partial "footer" . }}
-		
+
 		<!-- Copyright -->
 		<div id="copyright">
 			<ul><li>&copy; {{ .Site.Title }}</li><li>{{ i18n "COPYRIGHT_MESSAGE_1" . | markdownify }}</li><li>{{ i18n "COPYRIGHT_MESSAGE_2" . | markdownify }}</li></ul>

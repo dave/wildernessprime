@@ -1,18 +1,22 @@
 ---
 type: report
-date: 2019-03-22 00:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-03-22 00:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: gear-camping
 translationKey: gear-camping
 title: Gear - Camping
-description: Our tent, pegs and accessories.
-image: "/v1553085986/WH.jpg"
-hashtags: "@hyperlitemgear #Camping"
+description: 'Our tent, pegs and accessories.'
+image: /v1553085986/WH.jpg
+hashtags: '@hyperlitemgear #Camping'
 keywords: []
 author: dave
 social_posts: true
-social_date: 2019-03-22 10:00:00 +0000
+social_date: '2019-03-22 10:00:00 +0000'
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

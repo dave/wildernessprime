@@ -2,7 +2,11 @@
 type: about
 layout: about
 title: About
-menu: 
+menu:
   main:
     weight: 30
+_template: page
 ---
+
+
+

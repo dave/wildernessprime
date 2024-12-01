@@ -1,18 +1,22 @@
 ---
 type: report
-date: 2019-03-23 10:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-03-23 10:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: gear-sleeping
 translationKey: gear-sleeping
 title: Gear - Sleeping
-description: Our sleeping bags, pads and accessories.
-image: "/v1553069153/snowbunting-cropped.jpg"
-hashtags: "@ffdown @Thermarest"
+description: 'Our sleeping bags, pads and accessories.'
+image: /v1553069153/snowbunting-cropped.jpg
+hashtags: '@ffdown @Thermarest'
 keywords: []
 author: dave
 social_posts: true
-social_date: 2019-03-23 10:00:00 +0000
+social_date: '2019-03-23 10:00:00 +0000'
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

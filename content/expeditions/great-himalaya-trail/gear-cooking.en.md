@@ -1,21 +1,24 @@
 ---
 type: report
-date: 2019-03-24T10:00:00.000+00:00
+date: 2019-03-24T10:00:00.000Z
 publishDate: '2019-03-20T00:00:00.000+00:00'
 slug: gear-cooking
 translationKey: gear-cooking
 title: Gear - Cooking
-description: Our stove, pot and water storage.
-image: "/v1553070182/KOV-KB-1109-00-846x846.jpg"
-hashtags: "@KoveaGear @VargoOutdoors #Cooking"
+description: 'Our stove, pot and water storage.'
+image: /v1553070182/KOV-KB-1109-00-846x846.jpg
+hashtags: '@KoveaGear @VargoOutdoors #Cooking'
 keywords: []
 author: dave
 social_posts: true
-social_date: 2019-03-24T10:00:00.000+00:00
+social_date: 2019-03-24T10:00:00.000Z
 featured: false
 title_has_context: false
-
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

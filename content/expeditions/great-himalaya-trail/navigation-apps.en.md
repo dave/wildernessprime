@@ -1,19 +1,22 @@
 ---
 type: report
-date: 2019-03-02 00:00:00 +0000
+date: '2019-03-02 00:00:00 +0000'
 slug: navigation-apps
 translationKey: navigation-apps
 title: Navigation - Apps
 description: The apps we'll be using to navigate on the trail.
-image: "/v1551703109/IMG_68F914049619-2.jpg"
+image: /v1551703109/IMG_68F914049619-2.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-hashtags: "@viewranger @footpathapp @maps_me"
+hashtags: '@viewranger @footpathapp @maps_me'
 title_has_context: false
-
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

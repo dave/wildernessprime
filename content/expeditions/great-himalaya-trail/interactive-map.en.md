@@ -1,18 +1,22 @@
 ---
 type: report
-date: 2019-03-09 00:00:00 +0000
+date: '2019-03-09 00:00:00 +0000'
 slug: interactive-map
 translationKey: interactive-map
 title: Interactive Map
 description: An interactive map of the route.
-image: "/v1552159152/Screenshot%202019-03-09%20at%2020.18.25.jpg"
+image: /v1552159152/Screenshot%202019-03-09%20at%2020.18.25.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-hashtags: "#Map"
+hashtags: '#Map'
 title_has_context: false
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

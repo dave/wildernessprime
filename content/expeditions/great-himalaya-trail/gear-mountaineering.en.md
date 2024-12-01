@@ -1,18 +1,22 @@
 ---
 type: report
-date: 2019-03-25 10:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-03-25 10:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: gear-mountaineering
 translationKey: gear-mountaineering
 title: Gear - Mountaineering
 description: Our mountaineering gear for the technical passes.
-image: "/v1553073044/leopard.jpg"
-hashtags: "@Petzl #IceRock #Mountaineering"
+image: /v1553073044/leopard.jpg
+hashtags: '@Petzl #IceRock #Mountaineering'
 keywords: []
 author: dave
 social_posts: true
-social_date: 2019-03-25 10:00:00 +0000
+social_date: '2019-03-25 10:00:00 +0000'
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

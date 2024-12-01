@@ -1,19 +1,22 @@
 ---
 type: report
-date: 2019-03-03 00:00:00 +0000
+date: '2019-03-03 00:00:00 +0000'
 slug: food
 translationKey: food
 title: Food
 description: The food we'll be eating on the trek.
-image: "/v1551465764/IMG_2870.jpg"
+image: /v1551465764/IMG_2870.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-hashtags: "#Food #DalBhat"
+hashtags: '#Food #DalBhat'
 title_has_context: false
-
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

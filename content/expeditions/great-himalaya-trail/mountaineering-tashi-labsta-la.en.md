@@ -1,20 +1,24 @@
 ---
 type: report
-date: 2019-04-05 10:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-04-05 10:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: tashi-labsta-la
 translationKey: tashi-labsta-la
 title: Tashi Labsta La
 description: Less technical than the preceding passes but still perilous.
-image: "/v1553445671/tashi1.jpg"
+image: /v1553445671/tashi1.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-social_date: 2019-04-05 10:00:00 +0000
-hashtags: "#TashiLabstaLa #Mountaineering"
+social_date: '2019-04-05 10:00:00 +0000'
+hashtags: '#TashiLabstaLa #Mountaineering'
 title_has_context: false
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

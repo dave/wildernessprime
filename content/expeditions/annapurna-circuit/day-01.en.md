@@ -2,14 +2,20 @@
 type: report
 slug: day-1-bhulbhule
 translationKey: day-1-bhulbhule
-date: 2018-05-12 00:00:00 +0000
+date: '2018-05-12 00:00:00 +0000'
 title: 'Day 1: Besi Sahar to Bhulbhule'
-image: "/v1551459890/IMG_2337.jpg"
+image: /v1551459890/IMG_2337.jpg
 keywords: []
 author: dave
-description: The first part of our trek... We made the right decision in taking the easier path.
+description: >-
+  The first part of our trek... We made the right decision in taking the easier
+  path.
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 The tourist buses from Kathmandu to Besi Sahar weren’t running when I went, so I took the local bus. It takes between 6 and 10 hours depending on your luck. Mine took about 7, so I recommend taking the earliest bus possible and having lunch in Besi Sahar. The local bus costs 360 rupees ($3.60), and it left from Gongabu New Bus Station Park. When the bus arrives in Besi Sahar you’ll want to take it to the very last stop.

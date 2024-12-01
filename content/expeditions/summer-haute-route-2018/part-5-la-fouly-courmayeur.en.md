@@ -2,15 +2,19 @@
 type: report
 slug: part-5-la-fouly-courmayeur
 translationKey: part-5-la-fouly-courmayeur
-date: 2018-09-18 00:00:00 +0000
+date: '2018-09-18 00:00:00 +0000'
 title: 'Part 5: La Fouly, Courmayeur'
 description: Over the pass to Italy and down the valley to Courmayeur.
-image: "/v1549729285/IMG_4681%20%281%29.jpg"
+image: /v1549729285/IMG_4681%20%281%29.jpg
 keywords: []
 author: dave
 social_posts: true
 hashtags: '#tourdumontblanc #tmb'
+_template: article
 ---
+
+
+
 Onwards and upwards into the foothills of Mont Blanc from Lac Champex towards Italy. La Fouly is a cute little town with an amazing view, and I'd highly recommend staying at the excellent Maya Joie hostel.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549729130/IMG_4609%20%281%29.jpg)

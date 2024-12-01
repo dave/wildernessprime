@@ -1,19 +1,22 @@
 ---
 type: report
-date: 2019-02-21 00:00:00 +0000
+date: '2019-02-21 00:00:00 +0000'
 slug: navigation-methods
 translationKey: navigation-methods
 title: Navigation - Methods
 description: The navigation methods and resources we'll be using on the trek.
-image: "/v1550908450/IMG_2743.jpg"
+image: /v1550908450/IMG_2743.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-hashtags: "#Navigation"
+hashtags: '#Navigation'
 title_has_context: false
-
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

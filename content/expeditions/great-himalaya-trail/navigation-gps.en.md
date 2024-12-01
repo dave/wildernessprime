@@ -1,19 +1,22 @@
 ---
 type: report
-date: 2019-02-22 00:00:00 +0000
+date: '2019-02-22 00:00:00 +0000'
 slug: navigation-gps
 translationKey: navigation-gps
 title: Navigation - GPS routes
 description: How I created GPS routes for the entire trail.
-image: "/v1550943527/Screenshot%202019-02-23%20at%2018.37.51.jpg"
+image: /v1550943527/Screenshot%202019-02-23%20at%2018.37.51.jpg
 keywords: []
 author: dave
 social_posts: true
 featured: false
-hashtags: "#Navigation #GPS #GPX #KML"
+hashtags: '#Navigation #GPS #GPX #KML'
 title_has_context: false
-
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

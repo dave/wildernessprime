@@ -27,8 +27,8 @@
                 {{ with .flickr}}
                 <li><a href="{{ . }}" class="icon alt fa-flickr"><span class="label">Flickr</span></a></li>
                 {{ end }}-->
-                {{ if $.Site.RSSLink }}
-                    <li><a href="{{ $.Site.RSSLink }}" class="icon alt fa-rss"><span class="label">RSS</span></a></li>
+                {{ if .OutputFormats.Get "RSS" }}
+                    <li><a href="{{ .OutputFormats.Get "RSS" }}" class="icon alt fa-rss"><span class="label">RSS</span></a></li>
                 {{ end }}
             </ul>
         </section>

@@ -1,19 +1,22 @@
 ---
 type: report
-date: 2019-02-20 00:00:00 +0000
+date: '2019-02-20 00:00:00 +0000'
 slug: itinerary-summary
 translationKey: itinerary-summary
 title: Itinerary - Summary
 description: The intended itinerary for the trek.
-image: "/v1550689648/IMG_2635.jpg"
+image: /v1550689648/IMG_2635.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
 hashtags: ''
 title_has_context: false
-
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

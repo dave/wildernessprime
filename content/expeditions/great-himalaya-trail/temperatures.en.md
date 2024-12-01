@@ -1,20 +1,24 @@
 ---
 type: report
-date: 2019-03-31 10:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-03-31 10:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: temperatures
 translationKey: temperatures
 title: Temperatures
 description: The temperatures we'll be experiencing on the trail.
-image: "/v1553349302/weather-thermometer-isolated-on-white-vector-7454030.jpg"
+image: /v1553349302/weather-thermometer-isolated-on-white-vector-7454030.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-social_date: 2019-03-31 10:00:00 +0000
-hashtags: "#Temperatures #Freezing"
+social_date: '2019-03-31 10:00:00 +0000'
+hashtags: '#Temperatures #Freezing'
 title_has_context: false
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

@@ -45,35 +45,6 @@
 	</div>
 {{ end }}
 
-{{ if and (eq .Params.type "review") (eq .Params.layout "reviews") }}
-	<div id="breadcrumbs">
-		<ul>
-			<li>
-				<a href="{{ (.GetPage "/").Permalink }}" class="icon fa-home"><span class="label">{{ .Site.Title }}</span></a>
-			</li>
-			<li>
-				{{ .Title }}
-			</li>
-		</ul>
-	</div>
-{{ end }}
-
-{{ if and (eq .Params.type "review") (ne .Params.layout "reviews") }}
-	<div id="breadcrumbs">
-		<ul>
-			<li>
-				<a href="{{ (.GetPage "/").Permalink }}" class="icon fa-home"><span class="label">{{ .Site.Title }}</span></a>
-			</li>
-			<li>
-				<a href="{{ (.GetPage "/reviews").Permalink }}">{{ (.GetPage "/reviews").Title }}</a>
-			</li>
-			<li>
-				{{ .Title }}
-			</li>
-		</ul>
-	</div>
-{{ end }}
-
 {{ if eq .Params.type "about" }}
 	<div id="breadcrumbs">
 		<ul>

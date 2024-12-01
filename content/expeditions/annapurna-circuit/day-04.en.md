@@ -2,14 +2,18 @@
 type: report
 slug: day-4-dharapani
 translationKey: day-4-dharapani
-date: 2018-05-15 00:00:00 +0000
+date: '2018-05-15 00:00:00 +0000'
 title: 'Day 4: Chamje to Dharapani'
-image: "/v1551461056/IMG_2423%20%282%29.jpg"
+image: /v1551461056/IMG_2423%20%282%29.jpg
 keywords: []
 author: dave
-description: Our first day hiking completely off the road, all the way to Dharapani.
+description: 'Our first day hiking completely off the road, all the way to Dharapani.'
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551461056/IMG_2423%20%282%29.jpg)

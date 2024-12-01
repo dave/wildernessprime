@@ -1,5 +1,5 @@
 ---
-label: Expedition Index (rename to _index.en or _index.fr)
+label: Expedition Index (rename to _index.en)
 hide_body: true
 fields:
 - type: text
@@ -46,6 +46,5 @@ fields:
   description: Image (for site preview / social sharing)
 pages:
 - content/expeditions/great-himalaya-trail/_index.en.md
-- content/expeditions/great-himalaya-trail/_index.fr.md
 - content/expeditions/annapurna-circuit/_index.en.md
 - content/expeditions/summer-haute-route-2018/_index.en.md

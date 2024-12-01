@@ -2,14 +2,18 @@
 type: report
 slug: day-6-pisang
 translationKey: day-6-pisang
-date: 2018-05-17 00:00:00 +0000
+date: '2018-05-17 00:00:00 +0000'
 title: 'Day 6: Chame to Upper Pisang'
-image: "/v1551463071/IMG_2457.jpg"
+image: /v1551463071/IMG_2457.jpg
 keywords: []
 author: dave
 description: Spectacular scenery on the trail from Chame to Pisang.
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 After leaving Chame, we followed the main road for about an hour and a half. Along the way we stumbled upon an apple farm with a small tea shop and an extravagant hotel. It was the most beautiful lodging I’d seen in all of Nepal. The Farmhouse looked like it was straight out of Upstate New York, and reminded me so much of home. The small shop out front had incredible fresh chocolate covered donuts and apple tea. If you want to break up the trek with a bit of luxury, the hotel costs $60 a night for a room.

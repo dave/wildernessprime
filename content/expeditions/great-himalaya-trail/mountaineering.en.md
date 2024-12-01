@@ -1,20 +1,25 @@
 ---
 type: report
-date: 2019-04-03 10:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-04-03 10:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: mountaineering
 translationKey: mountaineering
 title: Mountaineering
 description: What we know about the mountaineering sections we'll be tackling.
-image: "/v1553445671/Mountaineering-Equipment-Mountain-Ice-Climbing-Boots-Ireland-Books.jpg"
+image: >-
+  /v1553445671/Mountaineering-Equipment-Mountain-Ice-Climbing-Boots-Ireland-Books.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-social_date: 2019-04-03 10:00:00 +0000
-hashtags: "#Mountaineering"
+social_date: '2019-04-03 10:00:00 +0000'
+hashtags: '#Mountaineering'
 title_has_context: false
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

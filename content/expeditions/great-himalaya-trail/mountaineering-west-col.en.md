@@ -1,20 +1,24 @@
 ---
 type: report
-date: 2019-04-04 14:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-04-04 14:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: west-col
 translationKey: west-col
 title: West Col
 description: The second mountaineering section and the highest point of the trek.
-image: "/v1553445671/west1.jpg"
+image: /v1553445671/west1.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-social_date: 2019-04-04 14:00:00 +0000
-hashtags: "#WestCol #Mountaineering"
+social_date: '2019-04-04 14:00:00 +0000'
+hashtags: '#WestCol #Mountaineering'
 title_has_context: false
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

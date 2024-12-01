@@ -2,15 +2,20 @@
 type: report
 slug: day-13-marpha
 translationKey: day-13-marpha
-date: 2018-05-24 00:00:00 +0000
+date: '2018-05-24 00:00:00 +0000'
 title: 'Day 13: Kagbeni to Marpha'
-image: "/v1551465921/IMG_2902.jpg"
+image: /v1551465921/IMG_2902.jpg
 keywords: []
 author: dave
-description: I'm glad we skipped Jomsom and headed all the way to picturesque town
-  of Marpha.
+description: >-
+  I'm glad we skipped Jomsom and headed all the way to picturesque town of
+  Marpha.
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 We originally planned to walk to Jomsom, but upon arriving, opted to keep moving on to Marpha. The road from Kagbeni to Jomsom is a dusty construction zone mess that crosses an empty river bed. It wasn’t especially scenic, and it was insanely windy, which I hear is common in this section of the trek. The side route that we didn’t take went up in elevation quite a bit, and I was still sore from coming down from the pass, so I wanted an easy day.

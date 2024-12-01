@@ -2,14 +2,18 @@
 type: report
 slug: day-12-kagbeni
 translationKey: day-12-kagbeni
-date: 2018-05-23 00:00:00 +0000
+date: '2018-05-23 00:00:00 +0000'
 title: 'Day 12: Muktinath to Kagbeni'
-image: "/v1551465614/IMG_2865.jpg"
+image: /v1551465614/IMG_2865.jpg
 keywords: []
 author: dave
-description: Kagbeni is a beautiful town, lush green fields against a desert background.
+description: 'Kagbeni is a beautiful town, lush green fields against a desert background.'
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 A friend of mine told me Kagbeni was a beautiful “sleepy town” that I should definitely go see. Most of the trekking route has been catered to tourism, and I was curious to see a town that hadn’t been completely formed around the tourist trail. Since it was halfway to Jomsom, it seemed like an obvious choice to go visit. Plus, there were rumors of a YacDonald’s which was worth walking out of the way for.

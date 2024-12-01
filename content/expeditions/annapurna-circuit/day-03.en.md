@@ -2,14 +2,18 @@
 type: report
 slug: day-3-chamje
 translationKey: day-3-chamje
-date: 2018-05-14 00:00:00 +0000
+date: '2018-05-14 00:00:00 +0000'
 title: 'Day 3: Bahundana to Chamje'
-image: "/v1551460378/IMG_2408.jpg"
+image: /v1551460378/IMG_2408.jpg
 keywords: []
 author: dave
 description: Fabulous Dal Baht and confusing side treks as we continue towards Chamje.
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 The trek from Bahundana to Chamje starts off rather easy. There are some markers on the road to follow some side trails, but they lead out of the way and straight uphill. They don’t bypass anything and they don’t offer a view. These side routes end up adding almost an hour to our walk, and we end up hiking for 6 hours.

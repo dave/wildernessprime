@@ -1,20 +1,24 @@
 ---
 type: report
-date: 2019-04-02 10:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-04-02 10:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: trash
 translationKey: trash
 title: Trash
 description: A pledge on dealing with our plastic trash.
-image: "/v1551363647/trash.jpg"
+image: /v1551363647/trash.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-social_date: 2019-04-02 10:00:00 +0000
-hashtags: "#Plastic #Trash"
+social_date: '2019-04-02 10:00:00 +0000'
+hashtags: '#Plastic #Trash'
 title_has_context: false
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

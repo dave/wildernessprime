@@ -1,18 +1,22 @@
 ---
 type: report
-date: 2019-03-21 10:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-03-21 10:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: gear-pack
 translationKey: gear-pack
 title: Gear - Pack
 description: My pack and accessories.
-image: "/v1553066808/arc-azure-angle-l.jpg"
-hashtags: "@ZPacksLLC"
+image: /v1553066808/arc-azure-angle-l.jpg
+hashtags: '@ZPacksLLC'
 keywords: []
 author: dave
 social_posts: true
-social_date: 2019-03-21 10:00:00 +0000
+social_date: '2019-03-21 10:00:00 +0000'
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

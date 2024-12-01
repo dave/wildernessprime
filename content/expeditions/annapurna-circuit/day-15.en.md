@@ -2,14 +2,18 @@
 type: report
 slug: day-15-ghasa
 translationKey: day-15-ghasa
-date: 2018-05-26 00:00:00 +0000
+date: '2018-05-26 00:00:00 +0000'
 title: 'Day 15: Larjung to Ghasa'
-image: "/v1551466321/IMG_2966.jpg"
+image: /v1551466321/IMG_2966.jpg
 keywords: []
 author: dave
 description: Tricky navigation and real coffee on the road to Ghasa.
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 The day starts off on the road, but our GPS directs us across a footpath on the river. After getting halfway across the large expanse, we realize we are unable to pass and have to walk all the way back and around on the road. I would ask the locals if the foot path is there before trying the shortcut. It seemed the small bridges had been washed away. We stopped for tea at Kokhethanti at the only guesthouse in town. After tea, we continued over the bridge to the woods on the other side. It’s an insanely beautiful walk through cute little towns that offer amazing views of Annapurna I. It was the first time we’d seen that peak in the entire trip.

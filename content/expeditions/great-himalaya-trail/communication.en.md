@@ -1,20 +1,24 @@
 ---
 type: report
-date: 2019-04-01 10:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-04-01 10:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: communication
 translationKey: communication
 title: Communication
 description: How we'll be communicating with the outside world.
-image: "/v1553075075/garmin-inreach-mini.jpg"
+image: /v1553075075/garmin-inreach-mini.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-social_date: 2019-04-01 10:00:00 +0000
-hashtags: "@Garmin #InReach"
+social_date: '2019-04-01 10:00:00 +0000'
+hashtags: '@Garmin #InReach'
 title_has_context: false
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

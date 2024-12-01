@@ -2,14 +2,18 @@
 type: report
 slug: day-11-muktinath
 translationKey: day-11-muktinath
-date: 2018-05-22 00:00:00 +0000
+date: '2018-05-22 00:00:00 +0000'
 title: 'Day 11: Thorung Phedi to Muktinath'
-image: "/v1551465259/IMG_2794%20%281%29.jpg"
+image: /v1551465259/IMG_2794%20%281%29.jpg
 keywords: []
 author: dave
-description: The highest point of the trek at 5,400m and we're all feeling the altitude.
+description: 'The highest point of the trek at 5,400m and we''re all feeling the altitude.'
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 We pre ordered our breakfast the night before which included honey porridge at 4:00am and two hard boiled eggs to go. After packing and getting dressed, we ended up starting the hike at 5:00am. The route to High Camp is steep and takes about an hour. There is only one hotel at High Camp, so we stopped there to have a hot tea and change our clothes (I was hot). We spent about a half hour there before heading back out.

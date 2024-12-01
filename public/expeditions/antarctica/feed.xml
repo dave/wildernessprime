@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antarctica on Wilderness Prime</title>
+    <link>http://localhost:1313/expeditions/antarctica/</link>
+    <description>Recent content in Antarctica on Wilderness Prime</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Dec 2019 18:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/expeditions/antarctica/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kit</title>
+      <link>http://localhost:1313/expeditions/antarctica/kit/</link>
+      <pubDate>Thu, 26 Dec 2019 18:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/expeditions/antarctica/kit/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vRbs7GQiw32r1F_7srzng3AfL4QUC0_1KGzltptIBL1P1loGKjNGjOhefcp2c9W8RunKn_TUQsCeLB7/pubhtml?gid=946817410&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false&amp;1&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Tracking</title>
+      <link>http://localhost:1313/expeditions/antarctica/tracking/</link>
+      <pubDate>Wed, 25 Dec 2019 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/expeditions/antarctica/tracking/</guid>
+      <description>&lt;p&gt;We set sail December 30th 2019 and will be returning to Argentina on about January 31st 2020. My Garmin InReach satellite tracker will update this map every few minutes.&lt;/p&gt;&#xA;&lt;p&gt;You can send me a short message by clicking the &lt;em&gt;Message&lt;/em&gt; button. If you have a Garmin InReach, you can use the Garmin address &lt;em&gt;&lt;a href=&#34;mailto:dave8@inreach.garmin.com&#34;&gt;dave8@inreach.garmin.com&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://share.garmin.com/davebrophy&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; style=&#34;width: 100%; height:80vh;&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Updates</title>
+      <link>http://localhost:1313/expeditions/antarctica/updates/</link>
+      <pubDate>Wed, 25 Dec 2019 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/expeditions/antarctica/updates/</guid>
+      <description>&lt;p&gt;I won&amp;rsquo;t have internet for the entire expedition. However, my satellite communicator will allow me to tweet from the trail. If you&amp;rsquo;re a twitter user you can follow &lt;a href=&#34;https://twitter.com/wildernessprime&#34;&gt;@wildernessprime&lt;/a&gt;. If not, the feed is below.&lt;/p&gt;&#xA;&lt;a class=&#34;twitter-timeline&#34;&#xA;   data-chrome=&#34;noheader nofooter noborders&#34;&#xA;   href=&#34;https://twitter.com/wildernessprime?ref_src=twsrc%5Etfw&#34;&gt;Updates&lt;/a&gt;&#xA;&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    <item>
+      <title>Antarctica</title>
+      <link>http://localhost:1313/expeditions/antarctica/intro/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/expeditions/antarctica/intro/</guid>
+      <description>&lt;p&gt;On the 30th December 2019 I&amp;rsquo;ll be sailing from the southern tip of Argentina to the Antarctic peninsula for a&#xA;month long expedition. After three days crossing the infamous Drake Passage we&amp;rsquo;ll be heading inland on skis,&#xA;dragging sleds across the glaciers, to set up base-camp. We&amp;rsquo;ll spend a couple of weeks camped on the ice and&#xA;plan to summit some previously unclimbed peaks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/wildernessprime/image/upload/w_1600,dpr_auto/v1550183229/iceberg-in-antarctica_vcijct.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

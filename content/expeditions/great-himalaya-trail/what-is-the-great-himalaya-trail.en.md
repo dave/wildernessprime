@@ -2,18 +2,21 @@
 type: report
 slug: what-is-the-great-himalaya-trail
 translationKey: what-is-the-great-himalaya-trail
-date: 2019-02-01 00:00:00 +0000
+date: '2019-02-01 00:00:00 +0000'
 title: What is the Great Himalaya Trail?
-description: A brief overview of the 1,300km trail we'll be hiking this summer.
-image: "/v1550183014/IMG_2423.jpg"
+description: 'A brief overview of the 1,300km trail we''ll be hiking this summer.'
+image: /v1550183014/IMG_2423.jpg
 keywords: []
 author: dave
 social_posts: true
 title_has_context: true
 featured: false
 hashtags: ''
-
+_template: article
 ---
+
+
+
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_1600,dpr_auto/v1550183229/overview-map-5000.jpg)
 
 The Great Himalaya Trail is the combination of several trail networks stretching the length of the Himalaya range, with sections in India, Nepal, Bhutan and Tibet. Our trek will follow the High Route of the Nepal section from Kanchenjunga on the Indian border in the East to Hilsa on the Chinese border in the West.

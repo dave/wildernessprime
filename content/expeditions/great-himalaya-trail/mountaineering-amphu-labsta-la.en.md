@@ -1,20 +1,26 @@
 ---
 type: report
-date: 2019-04-04 18:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-04-04 18:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: amphu-labsta-la
 translationKey: amphu-labsta-la
 title: Amphu Labsta La
-description: One of the most dangerous passes in Nepal and the most technical part of the trek.
-image: "/v1553445671/amphu1.jpg"
+description: >-
+  One of the most dangerous passes in Nepal and the most technical part of the
+  trek.
+image: /v1553445671/amphu1.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-social_date: 2019-04-04 18:00:00 +0000
-hashtags: "#AmphuLabstaLa #Mountaineering"
+social_date: '2019-04-04 18:00:00 +0000'
+hashtags: '#AmphuLabstaLa #Mountaineering'
 title_has_context: false
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

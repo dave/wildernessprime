@@ -1,21 +1,24 @@
 ---
 type: report
 author: dave
-date: 2019-04-06 23:00:00 +0000
-publishDate: 2019-04-01 10:00:00 +0000
-expiryDate: 2019-10-01 00:00:00 +0000
+date: '2019-04-06 23:00:00 +0000'
+publishDate: '2019-04-01 10:00:00 +0000'
+expiryDate: '2019-10-01 00:00:00 +0000'
 slug: tracking
 translationKey: tracking
 title: Tracking
 description: Our satellite tracker will allow you to follow along and watch our progress.
-image: "/v1551474016/Screenshot%202019-03-01%20at%2021.59.43.jpg"
+image: /v1551474016/Screenshot%202019-03-01%20at%2021.59.43.jpg
 keywords: []
 social_posts: true
 featured: false
-hashtags: "#Tracking"
+hashtags: '#Tracking'
 title_has_context: false
-
+_template: article
 ---
+
+
+
 We're planning to start the hike around April 12th 2019. Our Garmin InReach satellite tracker will update this map every few minutes. Our intended route is marked in red and yellow - each coloured section being one day of hiking, and our actual track is blue. You can send us a short message by clicking the *Message* button in the left panel. We have a backup InReach device that we'll swap to if needed - you'll see both devices listed in the left column.
 
 > Note: this tracking page doesn't work for my on my iPhone - it shows a map but our position isn't marked. If this happens, try [the desktop version of the tracking page](https://share.garmin.com/wildernessprime/Map/RequestDesktopSite).

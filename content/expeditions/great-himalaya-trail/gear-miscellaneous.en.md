@@ -1,18 +1,22 @@
 ---
 type: report
-date: 2019-03-26 10:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-03-26 10:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: gear-miscellaneous
 translationKey: gear-miscellaneous
 title: Gear - Miscellaneous
 description: Our miscellaneous gear.
-image: "/v1553075264/panel-square.jpg"
-hashtags: "@garmin #InReach"
+image: /v1553075264/panel-square.jpg
+hashtags: '@garmin #InReach'
 keywords: []
 author: dave
 social_posts: true
-social_date: 2019-03-26 10:00:00 +0000
+social_date: '2019-03-26 10:00:00 +0000'
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

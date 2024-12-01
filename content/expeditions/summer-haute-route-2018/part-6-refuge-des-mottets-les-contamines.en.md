@@ -1,15 +1,19 @@
 ---
 type: report
 author: dave
-date: 2018-09-21 00:00:00 +0000
+date: '2018-09-21 00:00:00 +0000'
 slug: part-6-mottets-contamines
 translationKey: part-6-mottets-contamines
 title: 'Part 6: Refuge Des Mottets, Les Contamines'
 description: Over the Col de la Seigne and into France towards Les Contamines.
-image: "/v1551035074/IMG_4720.jpg"
+image: /v1551035074/IMG_4720.jpg
 keywords: []
 social_posts: true
+_template: article
 ---
+
+
+
 The valley to the west of Courmayeur gets plusher and wetter the further we go. Lush green marsh land and cattle grazing.
 
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1551035074/IMG_4720.jpg)

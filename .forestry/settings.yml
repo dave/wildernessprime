@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: English
@@ -16,14 +16,6 @@ sections:
   - expedition
   - article
 - type: directory
-  path: content/reviews
-  label: Reviews
-  create: all
-  match: "**/*.en.md"
-  new_doc_ext: en.md
-  templates:
-  - article
-- type: directory
   path: content/authors
   label: Authors
   create: all
@@ -33,38 +25,6 @@ sections:
   - author
 - type: document
   path: content/about/_index.en.md
-  label: About
-  templates:
-  - page
-- type: heading
-  label: Français
-- type: directory
-  path: content/expeditions
-  label: Expeditions
-  create: all
-  match: "**/*.fr.md"
-  new_doc_ext: fr.md
-  templates:
-  - expedition
-  - article
-- type: directory
-  path: content/reviews
-  label: Reviews
-  create: all
-  match: "**/*.fr.md"
-  new_doc_ext: fr.md
-  templates:
-  - article
-- type: directory
-  path: content/authors
-  label: Authors
-  create: all
-  match: "*.fr.md"
-  new_doc_ext: fr.md
-  templates:
-  - author
-- type: document
-  path: content/about/_index.fr.md
   label: About
   templates:
   - page

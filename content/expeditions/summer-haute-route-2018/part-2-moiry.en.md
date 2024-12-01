@@ -2,14 +2,18 @@
 type: report
 slug: part-2-moiry
 translationKey: part-2-moiry
-date: 2018-09-09 00:00:00 +0000
+date: '2018-09-09 00:00:00 +0000'
 title: 'Part 2: Moiry'
 description: Lac de Moiry and the Cabane du Moiry
-image: "/v1549630383/IMG_4301.jpg"
+image: /v1549630383/IMG_4301.jpg
 keywords: []
 author: dave
 social_posts: true
+_template: article
 ---
+
+
+
 ![](https://res.cloudinary.com/wildernessprime/image/upload/w_800,dpr_auto/v1549633470/IMG_4374.jpg)
 
 The hike over the mountains to Gruben was a long way, but well worth the effort. The next day came a long traverse past the Lac de Moiry and up to the snout of the Moiry Glacier

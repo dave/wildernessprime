@@ -1,19 +1,22 @@
 ---
 type: report
-date: 2019-03-01 00:00:00 +0000
+date: '2019-03-01 00:00:00 +0000'
 slug: navigation-emergencies
 translationKey: navigation-emergencies
 title: Navigation - Emergencies
 description: How I use my GPS watch for emergency navigation.
-image: "/v1551695384/IMG_1754.jpg"
+image: /v1551695384/IMG_1754.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-hashtags: "#Navigation #GPS"
+hashtags: '#Navigation #GPS'
 title_has_context: false
-
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

@@ -1,19 +1,22 @@
 ---
 type: report
-date: 2019-02-23 00:00:00 +0000
+date: '2019-02-23 00:00:00 +0000'
 slug: navigation-flashcards
 translationKey: navigation-flashcards
 title: Navigation - Flashcards
 description: I created a set of daily flashcards for the trek.
-image: "/v1550912501/IMG_1681.jpg"
+image: /v1550912501/IMG_1681.jpg
 keywords: []
 author: dave
 featured: false
 social_posts: true
-hashtags: "@colourgraphics #Navigation"
+hashtags: '@colourgraphics #Navigation'
 title_has_context: false
-
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

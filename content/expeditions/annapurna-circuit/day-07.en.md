@@ -2,15 +2,20 @@
 type: report
 slug: day-7-braka
 translationKey: day-7-braka
-date: 2018-05-18 00:00:00 +0000
+date: '2018-05-18 00:00:00 +0000'
 title: 'Day 7: Upper Pisang to Braka'
-image: "/v1551006985/IMG_2529%20%282%29.jpg"
+image: /v1551006985/IMG_2529%20%282%29.jpg
 keywords: []
 author: dave
-description: An amazing day hiking to Pisang as we start to get glimpses of the Annapurna
+description: >-
+  An amazing day hiking to Pisang as we start to get glimpses of the Annapurna
   range.
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 Our guesthouse owner directed us toward the path to Manang. It starts out nice and gentle with beautiful views of the mountains to the left. The path remains almost flat for an hour and then you hit a steep incline. Make sure to stay on the trekking trail (by crossing the suspension bridge) and not the road. The trail is steeper but the road is much longer. At the top of the hill is a small tea shop which is the perfect place to stop and catch your breath. The owner is a sweet little old lady who has all kinds of goodies. Just another ten minutes up the road you’ll be greeted by a woman selling fresh apple pie for 100 rupees ($1) and amazingly delicious yak cheese! We sat there for an hour by the pagoda just enjoying the views with a group of other trekkers.

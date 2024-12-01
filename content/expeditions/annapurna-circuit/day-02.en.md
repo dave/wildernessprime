@@ -2,14 +2,20 @@
 type: report
 slug: day-2-bahundanda
 translationKey: day-2-bahundanda
-date: 2018-05-13 00:00:00 +0000
+date: '2018-05-13 00:00:00 +0000'
 title: 'Day 2: Bhulbhule to Bahundanda'
-image: "/v1551460251/IMG_2383.jpg"
+image: /v1551460251/IMG_2383.jpg
 keywords: []
 author: dave
-description: After a late start to avoid the rain, we again take the easier path and don't regret it. 
+description: >-
+  After a late start to avoid the rain, we again take the easier path and don't
+  regret it.
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 The walk from Bhulbhule to Bahundanda takes about five hours. We got a late start due to rain in the morning, so we didn’t set out until 10:30am. Again, we stuck along the road. We both figured that we would have plenty of days of trekking up steep mountains, so we took it easy. There are a few small trails that cut through villages and bypass small chunks of roadway, so we took those. We passed through Ngadi which is a cute village, but we had such a late start that we decided to move on instead of stopping for food.

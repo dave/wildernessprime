@@ -1,18 +1,22 @@
 ---
 type: report
-date: 2019-03-27 10:00:00 +0000
-publishDate: 2019-03-20 00:00:00 +0000
+date: '2019-03-27 10:00:00 +0000'
+publishDate: '2019-03-20 00:00:00 +0000'
 slug: gear-clothes
 translationKey: gear-clothes
 title: Gear - Clothes
 description: The clothes I'll be taking on the trek.
-image: "/v1553077828/36515_BALB.jpg"
-hashtags: "#Clothing"
+image: /v1553077828/36515_BALB.jpg
+hashtags: '#Clothing'
 keywords: []
 author: dave
 social_posts: true
-social_date: 2019-03-27 10:00:00 +0000
+social_date: '2019-03-27 10:00:00 +0000'
+_template: article
 ---
+
+
+
 
 {{% card %}}
 

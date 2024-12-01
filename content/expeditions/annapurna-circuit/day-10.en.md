@@ -2,15 +2,20 @@
 type: report
 slug: day-10-thorung-phedi
 translationKey: day-10-thorung-phedi
-date: 2018-05-21 00:00:00 +0000
+date: '2018-05-21 00:00:00 +0000'
 title: 'Day 10: Yak Kharka to Thorung Phedi'
-image: "/v1551464760/IMG_2775.jpg"
+image: /v1551464760/IMG_2775.jpg
 keywords: []
 author: dave
-description: The trail starts getting really tough as the elevation increases towards
-  the pass.
+description: >-
+  The trail starts getting really tough as the elevation increases towards the
+  pass.
 social_posts: true
+_template: article
 ---
+
+
+
 {{< michelle >}}
 
 Yak Kharka literally means yak shed, so you’ll see a ton of yaks being herded to the fields beyond the town. On the way to Ledar we passed all the herders heading out in the morning in what felt like the most authentic part of the trek. The hike was easy and takes less than an hour with a gradual incline up 150m (492 feet). To the right is an incredible view of Chulu West.
