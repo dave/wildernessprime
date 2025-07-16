@@ -18,12 +18,12 @@ title_has_context: true
 
 GPS routes for the entire route are available here: 
 
-* **[GPX ROUTES](https://www.dropbox.com/s/1hop91c1n9m2sw0/routes-v7.gpx?dl=0)** (recommended for most apps)  
+* **[GPX ROUTES](https://www.dropbox.com/scl/fi/aszk7jy5c83d0egge99gt/routes-v8.gpx?rlkey=3xnpha7rw3885metjgwoxpqb6&dl=0)** (recommended for most apps)  
 
 I would recommend using the GPX file above if you can, but some apps need KML format:
 
-* [KML](https://www.dropbox.com/s/qui9xxadj4imj1u/routes-v7.kml?dl=0) (if gpx files don't work)  
-* [KML](https://www.dropbox.com/s/s46r0b8eko9yynw/routes-for-maps-me-v7.kml?dl=0) (for the maps.me app - route descriptions aren't visible in maps.me, so I've included a waypoint with the description at the start of each leg)  
+* [KML](https://www.dropbox.com/scl/fi/vxac9nexmrqhdvqav4isn/routes-v8.kml?rlkey=gvwu6toq7wxpydds0ub0zn7ug&dl=0) (if gpx files don't work)  
+* [KML](https://www.dropbox.com/scl/fi/zz9736c3jl7dv4lmmffmr/routes-for-maps-me-v8.kml?rlkey=m3429u6m4v078w8aas7x8coxa&dl=0) (for the maps.me app - route descriptions aren't visible in maps.me, so I've included a waypoint with the description at the start of each leg)  
 
 The routes and waypoints in the GPS files have the text from my trail notes embedded in them, which is useful for quick reference.
 
