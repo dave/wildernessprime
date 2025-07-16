@@ -1587,7 +1587,7 @@ Accommodation: campsite - 3/5 (average)
 
 ## Leg 22: Molun Pokhari to Clearing Camp
 
-The guidebook explains how to find a bridge over the Kholakharka Khola, but despite hours of searching I didn't manage to find it. I eventually stayed overnight in the shelter at the source of the river. The next day I tried to follow the Kholakharka Khola back downstream on the east bank, but found no trail and dense undergrowth. I gave up and called a helicopter. I later talked to one trekker who also attempted this section. He got further by scrambling over rocks in the river gully, only to find the pass impossible the next day - he too ended up calling a helicopter. I made contact with another trekker (Suvi) who successfully completed this section, and I've integrated their InReach track into the route. Suvi was tracking using an InReach which drops a GPS location only once every ten minutes, so the route from here until Yangla Kharka is rather rough. Suvi reported that the trail is extremely tricky to follow with sections of bushwhacking. If you successfully complete this section, please record an accurate GPS log and I'll improve the route (dave@brophy.uk).
+Robin's guidebook explains how to find a bridge over the Kholakharka Khola, but despite hours of searching I didn't manage to find it. I eventually stayed overnight in the shelter at the source of the river, where it's easy to cross. The next day I tried to follow the river downstream on the east bank, but found no trail and dense undergrowth. I gave up and called a helicopter. Craig (2019) got further by scrambling over rocks in the river gully, only to find the pass impossible the next day - he too ended up calling a helicopter. Suvi (2019) managed to find a way across the river, and I've added a waypoint with her approximate crossing point... However I'd only recommend crossing the river if there's a bridge. I have update this route from Mike (2025) with his accurate track. He didn't find a way across the river, and crossed at the source like I did. He managed to find a way down on the other side. It seems most people are doing this route, so I'd recommend following this option unless you can find an obvious way across the river lower down.
 
 </div>
 
@@ -1625,7 +1625,7 @@ The guidebook explains how to find a bridge over the Kholakharka Khola, but desp
 
 <div class="no-page-break">
 
-**L022 Kholakharka Khola (3,010 m / 9,870 ft)**: The guidebook explains how to find a bridge over the Kholakharka Khola that is located somewhere around this waypoint. However despite hours of searching, I could not find the bridge. However another party (Suvi) found the bridge and gave me their InReach track. Unfortunately their track is quite low resolution, so there were only three waypoints showing where the bridge is.
+**L022 Kholakharka Khola (3,010 m / 9,870 ft)**: The guidebook explains how to find a bridge over the Kholakharka Khola that is located somewhere around this waypoint. However despite hours of searching, I could not find the bridge. However Suvi (2019) found the bridge and I've estimated it's position with a waypoint.
 
 </div>
 
@@ -1645,7 +1645,7 @@ The guidebook explains how to find a bridge over the Kholakharka Khola, but desp
 
 <div class="no-page-break">
 
-**L022 Cross 1 (3,140 m / 10,300 ft)**: I've included three waypoints (from Suvi's InReach track) as the most accurate location of the crossing point of the Kholakharka Khola.
+**L022 Suvi Crossed (3,020 m / 9,900 ft)**: Suvi (2019) managed to cross the river here, but I wouldn't recommend this unless there is a bridge or it is safe.
 
 </div>
 
@@ -1655,27 +1655,7 @@ The guidebook explains how to find a bridge over the Kholakharka Khola, but desp
 
 <div class="no-page-break">
 
-**L022 Cross 2 (3,080 m / 10,100 ft)**: I've included three waypoints (from Suvi's InReach track) as the most accurate location of the crossing point of the Kholakharka Khola.
-
-</div>
-
-
-
-
-
-<div class="no-page-break">
-
-**L022 Cross 3 (3,020 m / 9,900 ft)**: I've included three waypoints (from Suvi's InReach track) as the most accurate location of the crossing point of the Kholakharka Khola.
-
-</div>
-
-
-
-
-
-<div class="no-page-break">
-
-**L022 Clearing Camp (3,000 m / 9,830 ft)**: I didn't make it to this section, but Suvi's party did and they camped at a small clearing here. "There was a little grassy clearing and some locals had stayed there earlier because there was a fire place and some wooden structures. It was quite dirty with Yak poop though."
+**L022 Clearing Camp (3,000 m / 9,830 ft)**: Suvi (2019): "There was a little grassy clearing and some locals had stayed there earlier because there was a fire place and some wooden structures. It was quite dirty with Yak poop though."
 
 </div>
 
@@ -1724,7 +1704,7 @@ Accommodation: campsite - 3/5 (average)
 
 ## Leg 23: Clearing Camp to Kalo Pokhari
 
-I skipped this section. The route for this leg is from Suvi's InReach track, so rather rough. Suvi reported that the trail is extremely tricky to follow with steep sections and sections of bushwhacking.
+I skipped this section. I've updated this route from Mike (2025) with his accurate track. Suvi (2019) reported that the trail is extremely tricky to follow with steep sections and sections of bushwhacking.
 
 </div>
 
@@ -1738,11 +1718,21 @@ I skipped this section. The route for this leg is from Suvi's InReach track, so 
 
 <div class="no-page-break">
 
-**L023 Kalo Pokhari (4,190 m / 13,700 ft)**: I didn't make it to this section, but Suvi's party did and they camped at a nice flat area near to the lake here.
+**L023 Cave Camp (3,190 m / 10,500 ft)**: Mike (2025): "Cliff Camp is under a big cliff on the left side of the trail. Room for half a dozen tents tents along the cliff face."
 
 </div>
 
 
+
+</div>
+
+
+
+
+
+<div class="no-page-break">
+
+**L023 Kalo Pokhari (4,190 m / 13,700 ft)**: Suvi (2019): "We camped at a nice flat area near to the lake here."
 
 </div>
 
@@ -1791,7 +1781,7 @@ Accommodation: campsite - 4/5 (above average)
 
 ## Leg 24: Kalo Pokhari to Yangla Kharka
 
-I skipped the first half of this section. The route for this leg is from Suvi's InReach track, so rather rough. Suvi reported that the trail is extremely tricky to follow with sections of bushwhacking. The second half of this leg (starting when you reach the Barun Nadi river) is reasonably easy to folow.
+I skipped the first half of this section. I've updated this route from Mike (2025) with his accurate track. Mike added that there are several sets of steep stone steps going down from passes after Kalo Pokhari and in April/May they may be very snowy/icy. Micro spikes required at a minimum. Suvi (2019) reported that the trail is extremely tricky to follow with sections of bushwhacking. The second half of this leg (starting when you reach the Barun Nadi river) is reasonably easy to folow.
 
 </div>
 
@@ -1805,11 +1795,21 @@ I skipped the first half of this section. The route for this leg is from Suvi's 
 
 <div class="no-page-break">
 
-**L024 Yangla Kharka (3,760 m / 12,300 ft)**: We stayed overnight in a basic guesthouse at Yangla Kharka. If you have time, continue to Langmale Kharka which is a nicer guesthouse.
+**L024 Shelter (4,090 m / 13,400 ft)**: Mike (2025): "The shelter was almost brand new with a fire pit inside."
 
 </div>
 
 
+
+</div>
+
+
+
+
+
+<div class="no-page-break">
+
+**L024 Yangla Kharka (3,760 m / 12,300 ft)**: We stayed overnight in a basic guesthouse at Yangla Kharka. If you have time, continue to Langmale Kharka which is a nicer guesthouse.
 
 </div>
 
