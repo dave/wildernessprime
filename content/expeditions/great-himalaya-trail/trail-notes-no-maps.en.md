@@ -74,9 +74,7 @@ title_has_context: false
 
 <div class="no-print">
 
-GPS routes for these trail notes are [available here](/expeditions/great-himalaya-trail/gps-routes/).
-
-You can find a printable PDF version [with maps](https://www.dropbox.com/s/elstjct83yw8hxf/trail-notes-v3.pdf?dl=1) or [with no maps](https://www.dropbox.com/s/sn5iwgh20641dgi/trail-notes-no-maps-v3.pdf?dl=1). 
+This is version 9 of the trail notes. GPS routes for these trail notes are [available here](/expeditions/great-himalaya-trail/gps-routes/).
 
 There are versions of this page [with maps](/expeditions/great-himalaya-trail/trail-notes/) or [with no maps](/expeditions/great-himalaya-trail/trail-notes-no-maps/), and you can find the data used to generate this page [as a Google sheet](https://docs.google.com/spreadsheets/d/14x_OJ4mJNoHuj1LnYnyGULdE3P9kG6CwOdY1t0sv_H8/edit).
 
@@ -1681,9 +1679,9 @@ Accommodation: campsite - 3/5 (average)
 
 |   |   |  |
 | - | - |- |
-| Length | 8.6 km | 5.4 miles |
-| Climb / descent | 380 / 1,290 m | 1,230 / 4,220 ft |
-<!--| Start / end |  3,960 / 3,000 m |  13,000 / 9,830 ft |
+| Length | 12.1 km | 7.5 miles |
+| Climb / descent | 600 / 1,570 m | 1,970 / 5,140 ft |
+<!--| Start / end |  3,960 / 3,000 m |  13,000 / 9,840 ft |
 | Top / bottom |  4,220 / 2,990 m  |  13,800 / 9,790 ft |-->
 
 </div>
@@ -1758,10 +1756,10 @@ Accommodation: campsite - 4/5 (above average)
 
 |   |   |  |
 | - | - |- |
-| Length | 4.0 km | 2.5 miles |
-| Climb / descent | 740 / 10 m | 2,410 / 40 ft |
-<!--| Start / end |  3,000 / 4,190 m |  9,840 / 13,700 ft |
-| Top / bottom |  4,240 / 2,890 m  |  13,900 / 9,490 ft |-->
+| Length | 6.5 km | 4.0 miles |
+| Climb / descent | 1,540 / 260 m | 5,060 / 860 ft |
+<!--| Start / end |  3,000 / 4,180 m |  9,840 / 13,700 ft |
+| Top / bottom |  4,250 / 2,890 m  |  13,900 / 9,490 ft |-->
 
 </div>
 
@@ -1835,8 +1833,8 @@ Accommodation: guesthouse - 3/5 (average)
 
 |   |   |  |
 | - | - |- |
-| Length | 13.4 km | 8.3 miles |
-| Climb / descent | 990 / 1,420 m | 3,260 / 4,660 ft |
+| Length | 13.7 km | 8.5 miles |
+| Climb / descent | 1,040 / 1,470 m | 3,420 / 4,810 ft |
 <!--| Start / end |  4,180 / 3,760 m |  13,700 / 12,300 ft |
 | Top / bottom |  4,420 / 3,450 m  |  14,500 / 11,300 ft |-->
 
@@ -5017,9 +5015,9 @@ Accommodation: homestay - 1/5 (basic)
 
 <div class="no-page-break" id="L068">
 
-## Leg 68: Tipling to Lapagaon
+## Leg 68: Tipling to Khading
 
-Heavy rain in the afternoon meant we split this leg over two days and stayed overnight at Borang. The trail was relatively well maintained and easy to follow.
+Heavy rain in the afternoon meant we split this leg over two days and stayed overnight at Borang. The trail was relatively well maintained and easy to follow. Jeff (2025) found a better route for the next leg, so I've updated the last part of this leg to follow his track to Khading.
 
 </div>
 
@@ -5047,7 +5045,17 @@ Heavy rain in the afternoon meant we split this leg over two days and stayed ove
 
 <div class="no-page-break">
 
-**L068 Lapagaon (1,850 m / 6,080 ft)**: Stayed overnight in a very basic guesthouse in Lapagaon.
+**L068 Lapagaon (1,850 m / 6,080 ft)**: Although not on the itinerary, we stayed overnight in a very basic guesthouse in Lapagaon.
+
+</div>
+
+
+
+
+
+<div class="no-page-break">
+
+**L068 Khading (2,050 m / 6,730 ft)**: Jeff's updated route (2025) stops here. He stayed at XXX
 
 </div>
 
@@ -5073,9 +5081,9 @@ Accommodation: guesthouse - 1/5 (basic)
 
 |   |   |  |
 | - | - |- |
-| Length | 13.7 km | 8.5 miles |
-| Climb / descent | 1,330 / 1,510 m | 4,370 / 4,950 ft |
-<!--| Start / end |  2,050 / 1,850 m |  6,720 / 6,080 ft |
+| Length | 16.7 km | 10.4 miles |
+| Climb / descent | 1,660 / 1,630 m | 5,440 / 5,360 ft |
+<!--| Start / end |  2,050 / 2,060 m |  6,720 / 6,750 ft |
 | Top / bottom |  2,060 / 1,200 m  |  6,750 / 3,920 ft |-->
 
 </div>
@@ -5094,9 +5102,9 @@ Accommodation: guesthouse - 1/5 (basic)
 
 <div class="no-page-break" id="L069">
 
-## Leg 69: Lapagaon to Dharot
+## Leg 69: Khading to Kashigaun
 
-We stopped early and stayed the night in a barn at Myangal Kharka because we were both ill. The next day our original route took a more direct path via Nauban Kharka, but despite extensive searching we could not find a trail on the ground. This difficulty was confirmed by other trekkers, so I've adjusted the route to follow the trail we took down to Dharot. The trail was occasionally tricky to follow with sections of bushwhacking on the descent to Dharot.
+We took a different route via Dharot, but this is not recommended. Jeff (2025) found a better route so I've updated this leg to follow his track.
 
 </div>
 
@@ -5110,31 +5118,11 @@ We stopped early and stayed the night in a barn at Myangal Kharka because we wer
 
 <div class="no-page-break">
 
-**L069 Myangal Kharka (2,940 m / 9,650 ft)**: We were both sick so we stopped early and stayed the night at a nice shelter in Myangal Kharka.
+**L069 Kashigaun (1,910 m / 6,260 ft)**: We stayed overnight in a basic guesthouse in Kashigaun.
 
 </div>
 
 
-
-</div>
-
-
-
-
-
-<div class="no-page-break">
-
-**L069 Nauban Kharka (2,000 m / 6,550 ft)**: Our original itinerary takes a more direct route via Nauban Kharka, but we could not find this trail on the ground, so never made it here. Note this is just the approximate location copied from the paper maps.
-
-</div>
-
-
-
-
-
-<div class="no-page-break">
-
-**L069 Dharot (1,550 m / 5,080 ft)**: We stayed overnight at a basic guesthouse in Dharot.
 
 </div>
 
@@ -5148,8 +5136,8 @@ We stopped early and stayed the night in a barn at Myangal Kharka because we wer
 
 #### Ratings <span class="print-only">(leg 69)</span>
 
-Trail: 2/5 (below average)  
-Route: 1/5 (major problems)  
+Trail: 3/5 (average)  
+Route: 3/5 (average)  
 Accommodation: guesthouse - 1/5 (basic)  
 
 </div>
@@ -5160,10 +5148,10 @@ Accommodation: guesthouse - 1/5 (basic)
 
 |   |   |  |
 | - | - |- |
-| Length | 14.6 km | 9.1 miles |
-| Climb / descent | 1,440 / 1,870 m | 4,740 / 6,120 ft |
-<!--| Start / end |  1,850 / 1,550 m |  6,080 / 5,080 ft |
-| Top / bottom |  2,990 / 1,530 m  |  9,800 / 5,010 ft |-->
+| Length | 21.6 km | 13.4 miles |
+| Climb / descent | 2,370 / 2,530 m | 7,790 / 8,290 ft |
+<!--| Start / end |  2,060 / 1,910 m |  6,760 / 6,260 ft |
+| Top / bottom |  3,020 / 1,620 m  |  9,910 / 5,330 ft |-->
 
 </div>
 
@@ -5181,7 +5169,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 <div class="no-page-break" id="L070">
 
-## Leg 70: Dharot to Khorlabesi
+## Leg 70: Kashigaun to Khorlabesi
 
 Easy hike along a well maintained trail.
 
@@ -5197,21 +5185,11 @@ Easy hike along a well maintained trail.
 
 <div class="no-page-break">
 
-**L070 Kashigaun (1,910 m / 6,260 ft)**: We were both sick so we stopped early and stayed overnight at a basic guesthouse in Kashigaun.
-
-</div>
-
-
-
-</div>
-
-
-
-
-
-<div class="no-page-break">
-
 **L070 Machhakhola (840 m / 2,760 ft)**: Our original itinerary descends directly to Machhakhola, but we were warned by the locals that the trail is dangerous. I've updated the route to end at Khorlabesi which takes a relatively good trail.
+
+</div>
+
+
 
 </div>
 
@@ -5247,9 +5225,9 @@ Accommodation: guesthouse - 3/5 (average)
 
 |   |   |  |
 | - | - |- |
-| Length | 19.6 km | 12.2 miles |
-| Climb / descent | 2,130 / 2,730 m | 6,980 / 8,950 ft |
-<!--| Start / end |  1,550 / 890 m |  5,080 / 2,910 ft |
+| Length | 12.7 km | 7.9 miles |
+| Climb / descent | 1,140 / 2,170 m | 3,750 / 7,100 ft |
+<!--| Start / end |  1,910 / 890 m |  6,270 / 2,910 ft |
 | Top / bottom |  2,030 / 860 m  |  6,650 / 2,810 ft |-->
 
 </div>
