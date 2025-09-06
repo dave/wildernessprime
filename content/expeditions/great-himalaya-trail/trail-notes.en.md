@@ -74,7 +74,7 @@ title_has_context: false
 
 <div class="no-print">
 
-This is version 9 of the trail notes. GPS routes for these trail notes are [available here](/expeditions/great-himalaya-trail/gps-routes/).
+This is version 10 of the trail notes. GPS routes for these trail notes are [available here](/expeditions/great-himalaya-trail/gps-routes/).
 
 There are versions of this page [with maps](/expeditions/great-himalaya-trail/trail-notes/) or [with no maps](/expeditions/great-himalaya-trail/trail-notes-no-maps/), and you can find the data used to generate this page [as a Google sheet](https://docs.google.com/spreadsheets/d/14x_OJ4mJNoHuj1LnYnyGULdE3P9kG6CwOdY1t0sv_H8/edit).
 
@@ -6013,7 +6013,7 @@ Heavy rain in the afternoon meant we split this leg over two days and stayed ove
 
 <div class="no-page-break">
 
-**L068 Khading (2,050 m / 6,730 ft)**: Jeff's updated route (2025) stops here. He stayed at XXX
+**L068 Khading (2,050 m / 6,730 ft)**: Jeff (2025) stayed at a basic homestay in Khading.
 
 </div>
 
@@ -6029,7 +6029,7 @@ Heavy rain in the afternoon meant we split this leg over two days and stayed ove
 
 Trail: 3/5 (average)  
 Route: 4/5 (above average)  
-Accommodation: guesthouse - 1/5 (basic)  
+Accommodation: homestay - 1/5 (basic)  
 
 </div>
 
@@ -6076,7 +6076,7 @@ Accommodation: guesthouse - 1/5 (basic)
 
 ## Leg 69: Khading to Kashigaun
 
-We took a different route via Dharot, but this is not recommended. Jeff (2025) found a better route so I've updated this leg to follow his track.
+We took a different route via Dharot, but this is not recommended. Jeff (2025) found a better route so I've updated this leg to follow his track. Jeff: "The first part of the climb is on a nice new trail, then it turns to an older shepherd's Trail before hitting the pass. From the pass the nice new trail continues north and connects to Khorlabeshi. I'd recommend people take this path as it looks nicer. Probably no water until the bottom though. My track continues down the pass off trail for a few hundred meters (waypoint "L069 Jeff") until it connects with a new road down to the hydro works. From there you can follow it to Kashigaun."
 
 </div>
 
@@ -6102,14 +6102,24 @@ We took a different route via Dharot, but this is not recommended. Jeff (2025) f
 
 
 
+<div class="no-page-break">
+
+**L069 Jeff (2,950 m / 9,690 ft)**: Jeff's track (2025) continues down the pass off trail for a few hundred meters here, but he recommends heading north instead.
+
+</div>
+
+
+
+
+
 
 
 <div class="no-page-break">
 
 #### Ratings <span class="print-only">(leg 69)</span>
 
-Trail: 3/5 (average)  
-Route: 3/5 (average)  
+Trail: 4/5 (above average)  
+Route: 4/5 (above average)  
 Accommodation: guesthouse - 1/5 (basic)  
 
 </div>
