@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: dave/wildernessprime
-  branch: main
+  branch: decap
 
 media_folder: "static/images"
 public_folder: "/images"
