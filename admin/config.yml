@@ -1,0 +1,52 @@
+backend:
+  name: github
+  repo: dave/wildernessprime
+  branch: decap
+
+media_folder: "static/images"
+public_folder: "/images"
+
+collections:
+  - name: "expeditions"
+    label: "Expeditions"
+    folder: "content/expeditions"
+    create: true
+    slug: "{{slug}}"
+    nested:
+      type_field: "_type"
+      depth: 1   # how many subfolder levels to show
+      summary: "{{title}}"  # optional display for folders
+      index_file: "_index.en.md"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "articles"
+    label: "Articles"
+    folder: ""
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "authors"
+    label: "Authors"
+    folder: "content/authors"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Bio", name: "body", widget: "markdown" }
+      - { label: "Photo", name: "image", widget: "image" }
+
+  - name: "about"
+    label: "About"
+    folder: "content/about"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Type", name: "type", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }

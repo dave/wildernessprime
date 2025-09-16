@@ -1110,7 +1110,19 @@
   </url>
   
   <url>
+    <loc>https://www.wildernessprime.com/expeditions/foo-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/foo/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.wildernessprime.com/socials/instagram/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/new/</loc>
   </url>
   
   <url>
@@ -1131,6 +1143,10 @@
   
   <url>
     <loc>https://www.wildernessprime.com/socials/twitter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wildernessprime.com/expeditions/zag/</loc>
   </url>
   
 </urlset>
