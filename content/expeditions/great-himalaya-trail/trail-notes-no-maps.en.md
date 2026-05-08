@@ -74,7 +74,7 @@ title_has_context: false
 
 <div class="no-print">
 
-This is version 10 of the trail notes. GPS routes for these trail notes are [available here](/expeditions/great-himalaya-trail/gps-routes/).
+This is version 11 of the trail notes. GPS routes for these trail notes are [available here](/expeditions/great-himalaya-trail/gps-routes/).
 
 There are versions of this page [with maps](/expeditions/great-himalaya-trail/trail-notes/) or [with no maps](/expeditions/great-himalaya-trail/trail-notes-no-maps/), and you can find the data used to generate this page [as a Google sheet](https://docs.google.com/spreadsheets/d/14x_OJ4mJNoHuj1LnYnyGULdE3P9kG6CwOdY1t0sv_H8/edit).
 
@@ -3249,7 +3249,7 @@ Accommodation: campsite - 1/5 (awful)
 
 ## Leg 44: Glacier Camp to Na
 
-The first half of this leg follows the glacier, a huge boulder field. An altogether unpleasant experience. There is a trail along the top of the lateral moraine on the left side, and I believe it starts earlier than we picked it up, so I would recommend trying to climb the moraine before our route does. The second half of the day was an easy to follow trail down the Na.
+The first half of this leg follows the glacier, a huge boulder field. An altogether unpleasant experience. There is a trail along the top of the lateral moraine on the left side, and I believe it starts earlier than we picked it up, so I would recommend trying to climb the moraine before our route does. The second half of the day was an easy to follow trail down the Na. I've updated this route from Shelly (2026) with her more accurate track.
 
 </div>
 
