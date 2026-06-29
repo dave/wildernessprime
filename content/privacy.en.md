@@ -3,35 +3,57 @@ title: Privacy Policy
 disableComments: true
 ---
 
-_Wilderness Prime Uploader · Effective 16 June 2026_
+_Wilderness Prime Uploader · Last updated 29 June 2026_
 
-This privacy policy describes the data practices of the **Wilderness Prime Uploader** ("the tool"), a private command-line application operated solely by its developer and owner, David Brophy ("the operator"), to manage the operator's own YouTube channel, [Wilderness Prime](https://www.youtube.com/wildernessprime).
+This privacy policy explains how the **Wilderness Prime Uploader** ("the tool") accesses, uses, stores, shares, retains and deletes Google user data. The tool is a private command-line application operated solely by its developer and owner, David Brophy ("the operator"), to manage the operator's own YouTube channel, [Wilderness Prime](https://www.youtube.com/wildernessprime).
 
-## 1. Single-user, private tool
+## Single-user, private tool
 
-The tool is not a product or service offered to the public or to any other person. It has a single user — the operator — and cannot be used by anyone else. It runs on the operator's own computer and a personal virtual machine, and is operated only from a command line.
+The tool is not a product or service offered to the public or to any other person. It has a single user — the operator — and runs only on the operator's own computer, from a command line. It accesses only the operator's own Google account data and never accesses, processes or stores data belonging to any other person.
 
-## 2. Data the tool accesses
+## Data accessed
 
-The tool accesses **only the operator's own data**, using the operator's own Google account through Google OAuth 2.0 authorisation. This includes the operator's own YouTube videos, playlists, thumbnails and caption transcripts, and the operator's own Google Sheet and cloud storage folders. It does not access any data belonging to any other person.
+The tool requests the following Google API scopes through Google OAuth 2.0, and uses them only against the operator's own account:
 
-## 3. YouTube API Services
+- **`https://www.googleapis.com/auth/youtube.upload`** — to upload video files to the operator's own YouTube channel.
+- **`https://www.googleapis.com/auth/youtube.force-ssl`** — to read and manage the operator's own YouTube videos, playlists, video thumbnails and caption tracks.
 
-The tool uses YouTube API Services. By using it, the operator is agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). Google's handling of data is described in the [Google Privacy Policy](https://policies.google.com/privacy).
+Through these scopes the tool reads and writes the operator's own: video files and metadata (titles, descriptions, tags, categories, scheduled publish dates, privacy status and video IDs), playlists and playlist membership, video thumbnails, and caption/subtitle tracks. The tool also uses the operator's own Google Drive and Google Sheets (through a separate Google service account) to read source video files and to store the channel's metadata spreadsheet.
 
-## 4. Data the tool stores
+The tool does not access Google user data belonging to anyone other than the operator.
 
-- Video metadata (titles, descriptions, tags, scheduled dates, video IDs) and downloaded transcripts are stored in the operator's own private Google Sheet, solely to manage the channel.
-- An OAuth refresh token is stored locally on the operator's own machine to avoid repeated sign-in.
+## How data is used
 
-## 5. Data sharing
+Google user data is used solely to manage the operator's own YouTube channel — uploading new videos, setting and updating video metadata, managing playlists, uploading thumbnails, and uploading or downloading caption tracks. All processing happens locally on the operator's own machine. The data is not used for advertising, profiling, analytics, training machine-learning models, or any commercial purpose.
 
-No data is sold, rented, shared with, or transferred to any third party. No data is displayed to any other person. The tool does not generate, store or expose any aggregated or derived analytics.
+## Data sharing
 
-## 6. Data retention and removal
+No Google user data is sold, rented, shared with, or transferred to any third party. The tool has no other users and displays no data to any other person. Data is exchanged only between the operator's own machine and Google's own APIs.
 
-Because the only data held is the operator's own, the operator can review or delete it at any time by editing or clearing the Google Sheet, deleting the locally stored token, or revoking the tool's access in the operator's Google Account security settings. API data is refreshed on each run rather than retained long-term.
+## Data storage and protection
 
-## 7. Contact
+- Video metadata and downloaded transcripts are stored in the operator's own private Google Sheet, accessible only to the operator.
+- An OAuth refresh token is cached in a file on the operator's own computer, within the operator's user account and protected by the operating system's file permissions, account password and disk encryption, so the operator does not have to sign in on every run.
+- No Google user data is stored on any public server or any third-party server controlled by the tool.
+
+## Data retention and deletion
+
+Because the only data involved is the operator's own, the operator can review or delete it at any time. The operator can:
+
+- edit or clear the data held in the Google Sheet;
+- delete the locally cached OAuth token file; and
+- revoke the tool's access entirely at any time via the operator's [Google Account permissions page](https://myaccount.google.com/permissions).
+
+Data fetched from the YouTube API is refreshed on each run rather than retained long-term.
+
+## Limited Use
+
+The Wilderness Prime Uploader's use and transfer of information received from Google APIs will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+
+## YouTube API Services
+
+The tool uses YouTube API Services. By using it, the operator agrees to the [YouTube Terms of Service](https://www.youtube.com/t/terms). Google's handling of data is described in the [Google Privacy Policy](https://policies.google.com/privacy).
+
+## Contact
 
 For any questions about this policy, contact: dave@brophy.uk
